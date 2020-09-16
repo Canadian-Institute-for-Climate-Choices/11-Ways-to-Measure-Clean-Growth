@@ -4,7 +4,7 @@ ERUID,ERNAME,NAICS,Concentration
 4760,"Northern, SK",212,0.113158746
 4610,"Southeast, MB",238,0.101621878
 5980,"Northeast, BC",237,0.090065236
-2450,"Lanaudi鑢e, QC",238,0.084166125
+2450,"Lanaudi猫re, QC",238,0.084166125
 5980,"Northeast, BC",213,0.084093343
 1350,"Edmundston-Woodstock, NB",484,0.082381496
 1240,"Southern, NS",311,0.080734949
@@ -19,7 +19,7 @@ ERUID,ERNAME,NAICS,Concentration
 5970,"Nechako, BC",113,0.073958981
 4860,"Edmonton, AB",238,0.073874801
 4850,"Red Deer, AB",238,0.070707543
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,311,0.070576541
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,311,0.070576541
 1240,Southern / Sud,114,0.069279531
 2455,Laurentides,238,0.068448921
 4720,Swift Current-Moose Jaw,111,0.067453955
@@ -29,20 +29,20 @@ ERUID,ERNAME,NAICS,Concentration
 4830,Calgary,238,0.059944122
 4640,North Central / Centre nord,238,0.05919276
 4870,Athabasca-Grande Prairie-Peace River,238,0.058261221
-2490,Nord-du-Qu閎ec,212,0.056577086
+2490,Nord-du-Qu茅bec,212,0.056577086
 1350,Edmundston-Woodstock,111,0.056253569
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,311,0.056250882
-2465,Abitibi-T閙iscamingue,212,0.056247571
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,311,0.056250882
+2465,Abitibi-T茅miscamingue,212,0.056247571
 5930,Thompson-Okanagan,238,0.056075683
 3520,Muskoka-Kawarthas,238,0.056050683
-2410,Gasp閟ie-蝜es-de-la-Madeleine,311,0.055918604
+2410,Gasp茅sie-脦les-de-la-Madeleine,311,0.055918604
 1230,Annapolis Valley,238,0.055364587
 4880,Wood Buffalo-Cold Lake,213,0.055170685
 3540,Kitchener-Waterloo-Barrie,238,0.054311788
 2475,Saguenay-Lac-Saint-Jean,238,0.054065807
-2435,Mont閞間ie,238,0.05390286
-2433,Centre-du-Qu閎ec,238,0.053565618
-2465,Abitibi-T閙iscamingue,238,0.053220429
+2435,Mont茅r茅gie,238,0.05390286
+2433,Centre-du-Qu茅bec,238,0.053565618
+2465,Abitibi-T茅miscamingue,238,0.053220429
 1230,Annapolis Valley,111,0.053170482
 2460,Outaouais,238,0.053085653
 2470,Mauricie,238,0.052765707
@@ -56,10 +56,10 @@ ERUID,ERNAME,NAICS,Concentration
 4740,Yorkton-Melville,238,0.051504212
 4620,South Central / Centre sud,333,0.051016218
 5950,Cariboo,238,0.050950011
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,311,0.050774665
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,237,0.050614113
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,311,0.050774665
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,237,0.050614113
 1330,Saint John-St. Stephen,238,0.050480252
-2425,Chaudi鑢e-Appalaches,238,0.050471636
+2425,Chaudi猫re-Appalaches,238,0.050471636
 3550,Hamilton-Niagara Peninsula,238,0.050452007
 1320,Moncton-Richibucto,238,0.050348221
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,238,0.050081011
@@ -68,7 +68,7 @@ ERUID,ERNAME,NAICS,Concentration
 3510,Ottawa,238,0.049759288
 4640,North Central / Centre nord,484,0.049412452
 4620,South Central / Centre sud,238,0.048963252
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,238,0.048953762
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,238,0.048953762
 6010,Yukon,481,0.048911684
 4870,Athabasca-Grande Prairie-Peace River,484,0.048475536
 3560,London,238,0.047550004
@@ -95,12 +95,12 @@ ERUID,ERNAME,NAICS,Concentration
 3590,Northeast / Nord-est,238,0.043644952
 4630,Southwest / Sud-ouest,238,0.043037975
 3570,Windsor-Sarnia,336,0.042870205
-5960,North Coast / C魌e-nord,238,0.041925024
+5960,North Coast / C么te-nord,238,0.041925024
 4740,Yorkton-Melville,111,0.041540313
 1350,Edmundston-Woodstock,311,0.041500095
 4670,Parklands,111,0.041284404
 4820,Camrose-Drumheller,213,0.040417164
-2465,Abitibi-T閙iscamingue,213,0.040416437
+2465,Abitibi-T茅miscamingue,213,0.040416437
 3570,Windsor-Sarnia,111,0.040380225
 2420,Capitale-Nationale,238,0.04012712
 3570,Windsor-Sarnia,333,0.04010995
@@ -109,17 +109,17 @@ ERUID,ERNAME,NAICS,Concentration
 4840,Banff-Jasper-Rocky Mountain House,237,0.039610039
 4630,Southwest / Sud-ouest,311,0.03958826
 3530,Toronto,238,0.039450275
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,112,0.039098741
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,112,0.039098741
 4850,Red Deer,237,0.03894445
 1320,Moncton-Richibucto,311,0.038895278
 4610,Southeast / Sud-est,236,0.038748643
-2410,Gasp閟ie-蝜es-de-la-Madeleine,114,0.038712879
+2410,Gasp茅sie-脦les-de-la-Madeleine,114,0.038712879
 4870,Athabasca-Grande Prairie-Peace River,237,0.03868985
 4880,Wood Buffalo-Cold Lake,484,0.03801103
 4750,Prince Albert,238,0.037920889
-2480,C魌e-Nord,331,0.037798609
-2480,C魌e-Nord,212,0.037685213
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,111,0.037003446
+2480,C么te-Nord,331,0.037798609
+2480,C么te-Nord,212,0.037685213
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,111,0.037003446
 4760,Northern / Nord,481,0.036695765
 3595,Northwest / Nord-ouest,238,0.036684764
 1010,Avalon Peninsula,311,0.03632074
@@ -127,78 +127,78 @@ ERUID,ERNAME,NAICS,Concentration
 4650,Winnipeg,238,0.035670405
 1010,Avalon Peninsula,236,0.035581567
 3540,Kitchener-Waterloo-Barrie,336,0.035016412
-2425,Chaudi鑢e-Appalaches,321,0.034979693
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,483,0.034956925
+2425,Chaudi猫re-Appalaches,321,0.034979693
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,483,0.034956925
 4720,Swift Current-Moose Jaw,238,0.034645916
 6010,Yukon,238,0.034463348
 6110,Northwest Territories / Territoires du Nord-Ouest,238,0.034312551
-2433,Centre-du-Qu閎ec,484,0.033975054
+2433,Centre-du-Qu茅bec,484,0.033975054
 1230,Annapolis Valley,311,0.03378922
 3520,Muskoka-Kawarthas,236,0.033544888
 1330,Saint John-St. Stephen,311,0.033492223
 1210,Cape Breton,238,0.033487146
 4860,Edmonton,236,0.033402361
-2490,Nord-du-Qu閎ec,321,0.03330976
+2490,Nord-du-Qu茅bec,321,0.03330976
 2415,Bas-Saint-Laurent,238,0.033285247
-2425,Chaudi鑢e-Appalaches,311,0.033260186
+2425,Chaudi猫re-Appalaches,311,0.033260186
 4620,South Central / Centre sud,336,0.03315541
-2433,Centre-du-Qu閎ec,333,0.033120933
+2433,Centre-du-Qu茅bec,333,0.033120933
 5970,Nechako,484,0.033077826
-2450,Lanaudi鑢e,236,0.033033219
+2450,Lanaudi猫re,236,0.033033219
 1350,Edmundston-Woodstock,321,0.032933562
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,238,0.032730717
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,238,0.032730717
 1340,Fredericton-Oromocto,238,0.032511387
-1220,North Shore / C魌e-nord,238,0.032413257
+1220,North Shore / C么te-nord,238,0.032413257
 5970,Nechako,237,0.032249154
 4750,Prince Albert,111,0.031811867
 5970,Nechako,238,0.031696706
 4680,North / Nord,481,0.031619726
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,238,0.031347837
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,238,0.031347837
 5950,Cariboo,115,0.031271206
 1210,Cape Breton,114,0.030883322
 1040,Notre Dame-Central Bonavista Bay,238,0.030847584
 5950,Cariboo,113,0.030724572
 3550,Hamilton-Niagara Peninsula,111,0.030715792
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,236,0.030585213
-2490,Nord-du-Qu閎ec,237,0.030551627
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,236,0.030585213
+2490,Nord-du-Qu茅bec,237,0.030551627
 4730,Saskatoon-Biggar,212,0.030196607
 4620,South Central / Centre sud,484,0.030024636
-2425,Chaudi鑢e-Appalaches,332,0.029968558
+2425,Chaudi猫re-Appalaches,332,0.029968558
 4830,Calgary,211,0.029870965
-2480,C魌e-Nord,238,0.029709707
+2480,C么te-Nord,238,0.029709707
 4860,Edmonton,237,0.029705339
 3530,Toronto,523,0.02954919
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,213,0.029100104
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,213,0.029100104
 4810,Lethbridge-Medicine Hat,111,0.029048173
-1220,North Shore / C魌e-nord,326,0.029035864
-2480,C魌e-Nord,482,0.028915936
+1220,North Shore / C么te-nord,326,0.029035864
+2480,C么te-Nord,482,0.028915936
 4810,Lethbridge-Medicine Hat,311,0.028859693
 4820,Camrose-Drumheller,237,0.028776599
-5960,North Coast / C魌e-nord,331,0.028443029
-5960,North Coast / C魌e-nord,482,0.028443029
+5960,North Coast / C么te-nord,331,0.028443029
+5960,North Coast / C么te-nord,482,0.028443029
 4820,Camrose-Drumheller,111,0.028407894
 2475,Saguenay-Lac-Saint-Jean,484,0.028159549
-2490,Nord-du-Qu閎ec,236,0.0281471
-2435,Mont閞間ie,311,0.027917547
+2490,Nord-du-Qu茅bec,236,0.0281471
+2435,Mont茅r茅gie,311,0.027917547
 5940,Kootenay,321,0.027914789
 2430,Estrie,326,0.027912041
 3595,Northwest / Nord-ouest,212,0.02786078
-2465,Abitibi-T閙iscamingue,321,0.027776073
+2465,Abitibi-T茅miscamingue,321,0.027776073
 1240,Southern / Sud,238,0.027769733
-2433,Centre-du-Qu閎ec,112,0.027752169
-5960,North Coast / C魌e-nord,311,0.027646624
+2433,Centre-du-Qu茅bec,112,0.027752169
+5960,North Coast / C么te-nord,311,0.027646624
 4820,Camrose-Drumheller,112,0.027336892
 5930,Thompson-Okanagan,321,0.027283708
 2460,Outaouais,236,0.027203413
 4630,Southwest / Sud-ouest,111,0.027180415
-2425,Chaudi鑢e-Appalaches,236,0.027176405
+2425,Chaudi猫re-Appalaches,236,0.027176405
 4740,Yorkton-Melville,522,0.02700361
-2425,Chaudi鑢e-Appalaches,484,0.026906197
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,212,0.02689251
+2425,Chaudi猫re-Appalaches,484,0.026906197
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,212,0.02689251
 5930,Thompson-Okanagan,111,0.026830001
 4670,Parklands,112,0.02675841
 1320,Moncton-Richibucto,484,0.026675612
-2410,Gasp閟ie-蝜es-de-la-Madeleine,236,0.026594425
+2410,Gasp茅sie-脦les-de-la-Madeleine,236,0.026594425
 1310,Campbellton-Miramichi,236,0.026577378
 5950,Cariboo,484,0.026445751
 4820,Camrose-Drumheller,484,0.026423906
@@ -207,19 +207,19 @@ ERUID,ERNAME,NAICS,Concentration
 4880,Wood Buffalo-Cold Lake,237,0.026252222
 2415,Bas-Saint-Laurent,484,0.026177826
 1310,Campbellton-Miramichi,114,0.026132678
-2465,Abitibi-T閙iscamingue,484,0.026098873
+2465,Abitibi-T茅miscamingue,484,0.026098873
 1240,Southern / Sud,336,0.025999936
 4870,Athabasca-Grande Prairie-Peace River,321,0.025944197
 2455,Laurentides,236,0.025934017
 3580,Stratford-Bruce Peninsula,112,0.025878842
-2425,Chaudi鑢e-Appalaches,337,0.025792611
-2425,Chaudi鑢e-Appalaches,326,0.025792611
+2425,Chaudi猫re-Appalaches,337,0.025792611
+2425,Chaudi猫re-Appalaches,326,0.025792611
 1230,Annapolis Valley,112,0.025744167
 2475,Saguenay-Lac-Saint-Jean,236,0.025708601
 2415,Bas-Saint-Laurent,321,0.025650048
 4810,Lethbridge-Medicine Hat,484,0.02563335
 4730,Saskatoon-Biggar,236,0.025555799
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,236,0.025528494
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,236,0.025528494
 6210,Nunavut,238,0.025349881
 6010,Yukon,236,0.025081311
 1040,Notre Dame-Central Bonavista Bay,236,0.025050723
@@ -227,17 +227,17 @@ ERUID,ERNAME,NAICS,Concentration
 2445,Laval,236,0.0249556
 4870,Athabasca-Grande Prairie-Peace River,113,0.024925192
 5950,Cariboo,322,0.024881249
-2433,Centre-du-Qu閎ec,311,0.024715293
+2433,Centre-du-Qu茅bec,311,0.024715293
 3540,Kitchener-Waterloo-Barrie,333,0.024714714
 6110,Northwest Territories / Territoires du Nord-Ouest,221,0.024680117
 4710,Regina-Moose Mountain,213,0.024445472
-2480,C魌e-Nord,236,0.024417901
+2480,C么te-Nord,236,0.024417901
 6110,Northwest Territories / Territoires du Nord-Ouest,236,0.024248814
 1210,Cape Breton,311,0.024192485
 1340,Fredericton-Oromocto,522,0.024187215
 4830,Calgary,236,0.024123226
-1220,North Shore / C魌e-nord,311,0.024079114
-2433,Centre-du-Qu閎ec,332,0.023996746
+1220,North Shore / C么te-nord,311,0.024079114
+2433,Centre-du-Qu茅bec,332,0.023996746
 2415,Bas-Saint-Laurent,311,0.023943563
 3540,Kitchener-Waterloo-Barrie,332,0.023706849
 4660,Interlake,237,0.023681083
@@ -245,7 +245,7 @@ ERUID,ERNAME,NAICS,Concentration
 5930,Thompson-Okanagan,236,0.023488513
 2420,Capitale-Nationale,524,0.023407128
 4720,Swift Current-Moose Jaw,484,0.023384038
-2425,Chaudi鑢e-Appalaches,112,0.023377113
+2425,Chaudi猫re-Appalaches,112,0.023377113
 5970,Nechako,213,0.023340929
 3580,Stratford-Bruce Peninsula,336,0.02325276
 4840,Banff-Jasper-Rocky Mountain House,213,0.023206129
@@ -260,35 +260,35 @@ ERUID,ERNAME,NAICS,Concentration
 1330,Saint John-St. Stephen,236,0.022614866
 3595,Northwest / Nord-ouest,113,0.02258603
 4810,Lethbridge-Medicine Hat,213,0.022451355
-2410,Gasp閟ie-蝜es-de-la-Madeleine,238,0.022375713
+2410,Gasp茅sie-脦les-de-la-Madeleine,238,0.022375713
 4670,Parklands,238,0.022362385
 2430,Estrie,236,0.022336811
-2450,Lanaudi鑢e,484,0.022328105
+2450,Lanaudi猫re,484,0.022328105
 4850,Red Deer,236,0.022322959
 4680,North / Nord,237,0.022144278
 6010,Yukon,213,0.022141606
-2435,Mont閞間ie,484,0.022129282
+2435,Mont茅r茅gie,484,0.022129282
 4830,Calgary,213,0.022073745
 1350,Edmundston-Woodstock,113,0.021939844
 4850,Red Deer,484,0.021886781
 4670,Parklands,522,0.021884557
 4810,Lethbridge-Medicine Hat,112,0.021841565
 4620,South Central / Centre sud,337,0.021761445
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,238,0.021703115
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,238,0.021703115
 1320,Moncton-Richibucto,524,0.021691905
-2440,Montr閍l,238,0.021301967
+2440,Montr茅al,238,0.021301967
 3560,London,111,0.021299848
-2435,Mont閞間ie,236,0.021277074
+2435,Mont茅r茅gie,236,0.021277074
 2475,Saguenay-Lac-Saint-Jean,321,0.021254727
 3560,London,484,0.021175414
 4640,North Central / Centre nord,236,0.021166338
-5960,North Coast / C魌e-nord,488,0.021161613
+5960,North Coast / C么te-nord,488,0.021161613
 4710,Regina-Moose Mountain,522,0.021121196
 3530,Toronto,522,0.021023073
-2450,Lanaudi鑢e,311,0.021018327
+2450,Lanaudi猫re,311,0.021018327
 4750,Prince Albert,484,0.020983164
 2470,Mauricie,321,0.020976652
-2433,Centre-du-Qu閎ec,322,0.020892082
+2433,Centre-du-Qu茅bec,322,0.020892082
 3580,Stratford-Bruce Peninsula,236,0.020889287
 2415,Bas-Saint-Laurent,112,0.020864853
 1230,Annapolis Valley,236,0.020843999
@@ -299,38 +299,38 @@ ERUID,ERNAME,NAICS,Concentration
 4610,Southeast / Sud-est,321,0.02059582
 4840,Banff-Jasper-Rocky Mountain House,484,0.020431217
 2420,Capitale-Nationale,236,0.020414043
-2465,Abitibi-T閙iscamingue,236,0.02033094
-2435,Mont閞間ie,111,0.020320801
-2425,Chaudi鑢e-Appalaches,524,0.020314752
+2465,Abitibi-T茅miscamingue,236,0.02033094
+2435,Mont茅r茅gie,111,0.020320801
+2425,Chaudi猫re-Appalaches,524,0.020314752
 2470,Mauricie,337,0.020240112
 1210,Cape Breton,221,0.020171391
 1350,Edmundston-Woodstock,237,0.020131354
-2425,Chaudi鑢e-Appalaches,336,0.020069108
+2425,Chaudi猫re-Appalaches,336,0.020069108
 3560,London,311,0.019866152
 3540,Kitchener-Waterloo-Barrie,484,0.019824092
 2430,Estrie,321,0.01980044
 4810,Lethbridge-Medicine Hat,237,0.019701757
 1310,Campbellton-Miramichi,321,0.019697604
-5960,North Coast / C魌e-nord,237,0.019682576
-2450,Lanaudi鑢e,332,0.019656983
+5960,North Coast / C么te-nord,237,0.019682576
+2450,Lanaudi猫re,332,0.019656983
 1250,Halifax,522,0.019638332
-1220,North Shore / C魌e-nord,111,0.019559724
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,522,0.01954937
+1220,North Shore / C么te-nord,111,0.019559724
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,522,0.01954937
 4650,Winnipeg,236,0.019539455
 4650,Winnipeg,523,0.019519639
 4660,Interlake,112,0.019475176
-2490,Nord-du-Qu閎ec,238,0.019448373
+2490,Nord-du-Qu茅bec,238,0.019448373
 3595,Northwest / Nord-ouest,236,0.019429598
 4870,Athabasca-Grande Prairie-Peace River,322,0.019409624
 3580,Stratford-Bruce Peninsula,332,0.019373321
-2433,Centre-du-Qu閎ec,236,0.019292299
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,236,0.019287744
-2435,Mont閞間ie,332,0.019277339
+2433,Centre-du-Qu茅bec,236,0.019292299
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,236,0.019287744
+2435,Mont茅r茅gie,332,0.019277339
 3590,Northeast / Nord-est,212,0.019175873
-5960,North Coast / C魌e-nord,236,0.019113715
+5960,North Coast / C么te-nord,236,0.019113715
 3560,London,236,0.019108728
-2433,Centre-du-Qu閎ec,321,0.01907538
-2433,Centre-du-Qu閎ec,336,0.01907538
+2433,Centre-du-Qu茅bec,321,0.01907538
+2433,Centre-du-Qu茅bec,336,0.01907538
 4860,Edmonton,213,0.019063167
 4810,Lethbridge-Medicine Hat,236,0.019014358
 3510,Ottawa,236,0.018979592
@@ -340,12 +340,12 @@ ERUID,ERNAME,NAICS,Concentration
 3515,Kingston-Pembroke,236,0.018740559
 3550,Hamilton-Niagara Peninsula,311,0.018700255
 1230,Annapolis Valley,326,0.018686462
-2450,Lanaudi鑢e,326,0.018584408
-2433,Centre-du-Qu閎ec,111,0.018573753
+2450,Lanaudi猫re,326,0.018584408
+2433,Centre-du-Qu茅bec,111,0.018573753
 2470,Mauricie,236,0.01853134
 3560,London,332,0.018502789
 4860,Edmonton,332,0.018489345
-2480,C魌e-Nord,311,0.018445721
+2480,C么te-Nord,311,0.018445721
 1320,Moncton-Richibucto,236,0.01840138
 4830,Calgary,523,0.018368135
 3580,Stratford-Bruce Peninsula,111,0.018358699
@@ -360,28 +360,28 @@ ERUID,ERNAME,NAICS,Concentration
 3595,Northwest / Nord-ouest,237,0.018082853
 4820,Camrose-Drumheller,332,0.017908561
 4620,South Central / Centre sud,323,0.017860809
-5960,North Coast / C魌e-nord,113,0.017805336
+5960,North Coast / C么te-nord,113,0.017805336
 3550,Hamilton-Niagara Peninsula,332,0.017791473
 3570,Windsor-Sarnia,332,0.017786391
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,114,0.017741029
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,114,0.017741029
 4750,Prince Albert,112,0.017673259
 1330,Saint John-St. Stephen,332,0.017651064
 6210,Nunavut,212,0.017604084
 4670,Parklands,237,0.017584098
-2440,Montr閍l,522,0.017515805
+2440,Montr茅al,522,0.017515805
 2455,Laurentides,111,0.017499167
 4660,Interlake,111,0.017463655
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,336,0.017395626
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,236,0.017395626
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,336,0.017395626
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,236,0.017395626
 3590,Northeast / Nord-est,484,0.017390136
 2455,Laurentides,311,0.017380679
 1240,Southern / Sud,326,0.017376195
 4760,Northern / Nord,236,0.017297123
 5980,Northeast / Nord-est,211,0.017266561
-2425,Chaudi鑢e-Appalaches,522,0.017244203
+2425,Chaudi猫re-Appalaches,522,0.017244203
 4860,Edmonton,484,0.01723583
 1250,Halifax,236,0.017219535
-2480,C魌e-Nord,522,0.017160568
+2480,C么te-Nord,522,0.017160568
 2430,Estrie,332,0.017132466
 4870,Athabasca-Grande Prairie-Peace River,111,0.017096644
 4740,Yorkton-Melville,236,0.017087846
@@ -396,15 +396,15 @@ ERUID,ERNAME,NAICS,Concentration
 1330,Saint John-St. Stephen,522,0.016808831
 3570,Windsor-Sarnia,484,0.016808801
 1240,Southern / Sud,112,0.01676481
-2450,Lanaudi鑢e,111,0.016738343
+2450,Lanaudi猫re,111,0.016738343
 6210,Nunavut,488,0.01672388
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,113,0.016718313
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,112,0.016707983
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,113,0.016718313
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,112,0.016707983
 4650,Winnipeg,524,0.016634299
 2415,Bas-Saint-Laurent,522,0.016607438
 4640,North Central / Centre nord,112,0.016568134
-2465,Abitibi-T閙iscamingue,322,0.016567466
-2440,Montr閍l,523,0.016559649
+2465,Abitibi-T茅miscamingue,322,0.016567466
+2440,Montr茅al,523,0.016559649
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,523,0.016497085
 4740,Yorkton-Melville,311,0.016462094
 1240,Southern / Sud,236,0.016443029
@@ -433,38 +433,38 @@ ERUID,ERNAME,NAICS,Concentration
 4880,Wood Buffalo-Cold Lake,236,0.015655622
 3530,Toronto,236,0.015606042
 1250,Halifax,524,0.015592605
-2433,Centre-du-Qu閎ec,337,0.015577549
+2433,Centre-du-Qu茅bec,337,0.015577549
 4750,Prince Albert,237,0.015548382
 4740,Yorkton-Melville,112,0.015499398
 4750,Prince Albert,236,0.015446224
 4720,Swift Current-Moose Jaw,112,0.015445978
-2410,Gasp閟ie-蝜es-de-la-Madeleine,321,0.015427248
+2410,Gasp茅sie-脦les-de-la-Madeleine,321,0.015427248
 1350,Edmundston-Woodstock,236,0.015372168
-2410,Gasp閟ie-蝜es-de-la-Madeleine,522,0.015344528
+2410,Gasp茅sie-脦les-de-la-Madeleine,522,0.015344528
 4880,Wood Buffalo-Cold Lake,485,0.015336584
 4650,Winnipeg,336,0.015306567
 4610,Southeast / Sud-est,237,0.01530266
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,221,0.015292607
-2490,Nord-du-Qu閎ec,115,0.015275813
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,221,0.015292607
+2490,Nord-du-Qu茅bec,115,0.015275813
 4650,Winnipeg,522,0.015270897
 1330,Saint John-St. Stephen,488,0.015267723
 4610,Southeast / Sud-est,111,0.015234799
-2480,C魌e-Nord,321,0.015232839
-2465,Abitibi-T閙iscamingue,113,0.015197071
+2480,C么te-Nord,321,0.015232839
+2465,Abitibi-T茅miscamingue,113,0.015197071
 3590,Northeast / Nord-est,321,0.015181966
 5940,Kootenay,113,0.015179862
 1330,Saint John-St. Stephen,221,0.015160204
-1220,North Shore / C魌e-nord,236,0.015137526
+1220,North Shore / C么te-nord,236,0.015137526
 1010,Avalon Peninsula,488,0.015077107
 3590,Northeast / Nord-est,237,0.015053956
 4760,Northern / Nord,238,0.015033948
-2425,Chaudi鑢e-Appalaches,333,0.015025219
+2425,Chaudi猫re-Appalaches,333,0.015025219
 4730,Saskatoon-Biggar,111,0.015019912
 1330,Saint John-St. Stephen,483,0.015016845
 4670,Parklands,484,0.015003823
 5980,Northeast / Nord-est,522,0.014994645
 4720,Swift Current-Moose Jaw,213,0.01493763
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,481,0.014931364
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,481,0.014931364
 4820,Camrose-Drumheller,236,0.014888686
 1250,Halifax,237,0.014887123
 2455,Laurentides,484,0.014870219
@@ -473,20 +473,20 @@ ERUID,ERNAME,NAICS,Concentration
 5930,Thompson-Okanagan,237,0.014800645
 3580,Stratford-Bruce Peninsula,484,0.014729931
 3560,London,333,0.014639926
-2480,C魌e-Nord,114,0.014590263
+2480,C么te-Nord,114,0.014590263
 4650,Winnipeg,484,0.014589196
-1220,North Shore / C魌e-nord,523,0.014554378
-2425,Chaudi鑢e-Appalaches,237,0.014501179
-5960,North Coast / C魌e-nord,484,0.014449059
-2410,Gasp閟ie-蝜es-de-la-Madeleine,484,0.01443461
+1220,North Shore / C么te-nord,523,0.014554378
+2425,Chaudi猫re-Appalaches,237,0.014501179
+5960,North Coast / C么te-nord,484,0.014449059
+2410,Gasp茅sie-脦les-de-la-Madeleine,484,0.01443461
 4670,Parklands,321,0.014430428
-2440,Montr閍l,311,0.014393184
+2440,Montr茅al,311,0.014393184
 2415,Bas-Saint-Laurent,113,0.014390767
 3570,Windsor-Sarnia,236,0.014359075
 2430,Estrie,484,0.014356815
 2475,Saguenay-Lac-Saint-Jean,237,0.014310374
 4630,Southwest / Sud-ouest,332,0.014299624
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,523,0.014273896
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,523,0.014273896
 2470,Mauricie,484,0.014259409
 1310,Campbellton-Miramichi,484,0.014230407
 3550,Hamilton-Niagara Peninsula,523,0.014188137
@@ -499,8 +499,8 @@ ERUID,ERNAME,NAICS,Concentration
 2415,Bas-Saint-Laurent,111,0.014038915
 4640,North Central / Centre nord,522,0.014013576
 3570,Windsor-Sarnia,325,0.014002542
-2435,Mont閞間ie,522,0.013975649
-1220,North Shore / C魌e-nord,484,0.013922636
+2435,Mont茅r茅gie,522,0.013975649
+1220,North Shore / C么te-nord,484,0.013922636
 1340,Fredericton-Oromocto,321,0.013888577
 2445,Laval,237,0.013873243
 1330,Saint John-St. Stephen,523,0.013852054
@@ -523,9 +523,9 @@ ERUID,ERNAME,NAICS,Concentration
 6210,Nunavut,221,0.013203063
 3530,Toronto,311,0.013195048
 3550,Hamilton-Niagara Peninsula,333,0.013173373
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,237,0.013120503
-2410,Gasp閟ie-蝜es-de-la-Madeleine,237,0.013069733
-5960,North Coast / C魌e-nord,213,0.013026907
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,237,0.013120503
+2410,Gasp茅sie-脦les-de-la-Madeleine,237,0.013069733
+5960,North Coast / C么te-nord,213,0.013026907
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,484,0.013023958
 6010,Yukon,522,0.013009757
 2430,Estrie,522,0.013004881
@@ -566,26 +566,26 @@ ERUID,ERNAME,NAICS,Concentration
 4610,Southeast / Sud-est,212,0.012384636
 4740,Yorkton-Melville,237,0.012370638
 4860,Edmonton,333,0.012357286
-2435,Mont閞間ie,326,0.012324672
+2435,Mont茅r茅gie,326,0.012324672
 1210,Cape Breton,237,0.012228082
-2480,C魌e-Nord,484,0.012208951
+2480,C么te-Nord,484,0.012208951
 2475,Saguenay-Lac-Saint-Jean,311,0.012175678
-2490,Nord-du-Qu閎ec,481,0.012164074
-2435,Mont閞間ie,336,0.012155918
+2490,Nord-du-Qu茅bec,481,0.012164074
+2435,Mont茅r茅gie,336,0.012155918
 3595,Northwest / Nord-ouest,484,0.012134731
 1330,Saint John-St. Stephen,112,0.012131747
 2430,Estrie,111,0.012131508
 4620,South Central / Centre sud,321,0.012112503
 5940,Kootenay,484,0.012097117
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,488,0.012081561
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,488,0.012081561
 6110,Northwest Territories / Territoires du Nord-Ouest,484,0.012076484
 1310,Campbellton-Miramichi,522,0.012033065
 5930,Thompson-Okanagan,522,0.012029356
 1330,Saint John-St. Stephen,237,0.012024228
 4710,Regina-Moose Mountain,237,0.012015571
-2433,Centre-du-Qu閎ec,326,0.012011931
-5960,North Coast / C魌e-nord,522,0.011946072
-2440,Montr閍l,524,0.011928607
+2433,Centre-du-Qu茅bec,326,0.012011931
+5960,North Coast / C么te-nord,522,0.011946072
+2440,Montr茅al,524,0.011928607
 2415,Bas-Saint-Laurent,327,0.011910207
 3530,Toronto,332,0.011907973
 1350,Edmundston-Woodstock,322,0.011897963
@@ -594,10 +594,10 @@ ERUID,ERNAME,NAICS,Concentration
 3520,Muskoka-Kawarthas,311,0.011860554
 4620,South Central / Centre sud,115,0.011855882
 3520,Muskoka-Kawarthas,485,0.011838048
-2490,Nord-du-Qu閎ec,113,0.011810467
+2490,Nord-du-Qu茅bec,113,0.011810467
 1310,Campbellton-Miramichi,212,0.011771476
 1250,Halifax,488,0.011755644
-2465,Abitibi-T閙iscamingue,522,0.011740402
+2465,Abitibi-T茅miscamingue,522,0.011740402
 1230,Annapolis Valley,237,0.011738463
 4630,Southwest / Sud-ouest,112,0.011712338
 4740,Yorkton-Melville,333,0.011696751
@@ -605,12 +605,12 @@ ERUID,ERNAME,NAICS,Concentration
 2470,Mauricie,237,0.01168152
 2445,Laval,336,0.01167098
 4760,Northern / Nord,114,0.011639185
-2433,Centre-du-Qu閎ec,325,0.011632321
+2433,Centre-du-Qu茅bec,325,0.011632321
 2445,Laval,485,0.01158979
 2460,Outaouais,485,0.011556277
-2450,Lanaudi鑢e,333,0.011550798
+2450,Lanaudi猫re,333,0.011550798
 1320,Moncton-Richibucto,321,0.011548783
-2490,Nord-du-Qu閎ec,522,0.011527581
+2490,Nord-du-Qu茅bec,522,0.011527581
 4680,North / Nord,482,0.011517119
 5940,Kootenay,115,0.011501828
 4620,South Central / Centre sud,522,0.011496613
@@ -629,50 +629,50 @@ ERUID,ERNAME,NAICS,Concentration
 2475,Saguenay-Lac-Saint-Jean,332,0.011187392
 5930,Thompson-Okanagan,488,0.011109681
 4650,Winnipeg,333,0.011105386
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,484,0.01108491
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,484,0.01108491
 2445,Laval,522,0.01105191
 4730,Saskatoon-Biggar,311,0.011037597
-2433,Centre-du-Qu閎ec,522,0.010995119
+2433,Centre-du-Qu茅bec,522,0.010995119
 4830,Calgary,522,0.01097162
-2433,Centre-du-Qu閎ec,331,0.010927332
+2433,Centre-du-Qu茅bec,331,0.010927332
 4610,Southeast / Sud-est,325,0.010925624
-2410,Gasp閟ie-蝜es-de-la-Madeleine,113,0.010919017
-2450,Lanaudi鑢e,337,0.010911379
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,522,0.010871343
+2410,Gasp茅sie-脦les-de-la-Madeleine,113,0.010919017
+2450,Lanaudi猫re,337,0.010911379
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,522,0.010871343
 2445,Laval,493,0.010859086
 3515,Kingston-Pembroke,524,0.010855187
-2440,Montr閍l,488,0.010850183
-1220,North Shore / C魌e-nord,332,0.010812518
+2440,Montr茅al,488,0.010850183
+1220,North Shore / C么te-nord,332,0.010812518
 4810,Lethbridge-Medicine Hat,332,0.010798825
-2480,C魌e-Nord,113,0.010697006
+2480,C么te-Nord,113,0.010697006
 2420,Capitale-Nationale,311,0.010690818
 3595,Northwest / Nord-ouest,481,0.010689786
-2435,Mont閞間ie,325,0.010676507
+2435,Mont茅r茅gie,325,0.010676507
 4830,Calgary,333,0.010672009
-2410,Gasp閟ie-蝜es-de-la-Madeleine,115,0.010670858
+2410,Gasp茅sie-脦les-de-la-Madeleine,115,0.010670858
 4760,Northern / Nord,213,0.010669253
 3570,Windsor-Sarnia,524,0.010661484
-2480,C魌e-Nord,237,0.010659208
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,311,0.010642325
+2480,C么te-Nord,237,0.010659208
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,311,0.010642325
 5940,Kootenay,331,0.010630156
 4850,Red Deer,332,0.010624046
 4650,Winnipeg,237,0.010621854
-2480,C魌e-Nord,115,0.010621409
+2480,C么te-Nord,115,0.010621409
 5930,Thompson-Okanagan,113,0.010619187
 2430,Estrie,337,0.010612079
 4670,Parklands,113,0.010607798
 1040,Notre Dame-Central Bonavista Bay,221,0.010599975
-2435,Mont閞間ie,331,0.010572442
+2435,Mont茅r茅gie,331,0.010572442
 5970,Nechako,112,0.010565569
 3510,Ottawa,334,0.010536368
 4710,Regina-Moose Mountain,523,0.010522056
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,522,0.010520588
-2425,Chaudi鑢e-Appalaches,111,0.01051356
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,522,0.010520588
+2425,Chaudi猫re-Appalaches,111,0.01051356
 2420,Capitale-Nationale,484,0.010510201
 3550,Hamilton-Niagara Peninsula,331,0.010492067
 5930,Thompson-Okanagan,312,0.010490432
 4750,Prince Albert,321,0.010481366
-2435,Mont閞間ie,237,0.010471189
+2435,Mont茅r茅gie,237,0.010471189
 4680,North / Nord,322,0.010470108
 4740,Yorkton-Melville,524,0.010445247
 2415,Bas-Saint-Laurent,332,0.010432427
@@ -690,7 +690,7 @@ ERUID,ERNAME,NAICS,Concentration
 1040,Notre Dame-Central Bonavista Bay,522,0.010268726
 4850,Red Deer,325,0.010265757
 3530,Toronto,237,0.010262254
-2465,Abitibi-T閙iscamingue,331,0.010247285
+2465,Abitibi-T茅miscamingue,331,0.010247285
 4720,Swift Current-Moose Jaw,488,0.01024518
 4660,Interlake,336,0.010240468
 3515,Kingston-Pembroke,326,0.010232209
@@ -701,42 +701,42 @@ ERUID,ERNAME,NAICS,Concentration
 3560,London,112,0.010192764
 4630,Southwest / Sud-ouest,237,0.010182223
 3570,Windsor-Sarnia,488,0.010132435
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,484,0.01010603
-1220,North Shore / C魌e-nord,321,0.010083584
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,484,0.01010603
+1220,North Shore / C么te-nord,321,0.010083584
 2430,Estrie,339,0.010073698
 1040,Notre Dame-Central Bonavista Bay,488,0.010061695
 5950,Cariboo,212,0.010046747
 4650,Winnipeg,332,0.010015457
-2450,Lanaudi鑢e,522,0.010014129
+2450,Lanaudi猫re,522,0.010014129
 3550,Hamilton-Niagara Peninsula,522,0.010009856
 1230,Annapolis Valley,485,0.009983179
 3550,Hamilton-Niagara Peninsula,485,0.009980712
 1330,Saint John-St. Stephen,213,0.009945524
 4860,Edmonton,524,0.009922248
 5930,Thompson-Okanagan,523,0.009889578
-2440,Montr閍l,484,0.009876167
+2440,Montr茅al,484,0.009876167
 3540,Kitchener-Waterloo-Barrie,522,0.009874871
 2455,Laurentides,522,0.009849298
-2433,Centre-du-Qu閎ec,237,0.009815618
+2433,Centre-du-Qu茅bec,237,0.009815618
 1340,Fredericton-Oromocto,237,0.009805021
 3540,Kitchener-Waterloo-Barrie,485,0.00980052
 2455,Laurentides,332,0.009790054
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,523,0.009754721
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,523,0.009754721
 4840,Banff-Jasper-Rocky Mountain House,236,0.00974903
 4650,Winnipeg,221,0.009741984
 2470,Mauricie,333,0.009722325
-2465,Abitibi-T閙iscamingue,237,0.00971549
+2465,Abitibi-T茅miscamingue,237,0.00971549
 4860,Edmonton,522,0.009710506
 1010,Avalon Peninsula,524,0.009700382
 1320,Moncton-Richibucto,237,0.009695866
 1010,Avalon Peninsula,481,0.009690256
 4680,North / Nord,236,0.00968485
 3595,Northwest / Nord-ouest,485,0.009665699
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,524,0.009653949
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,524,0.009653949
 2460,Outaouais,322,0.009646149
 4710,Regina-Moose Mountain,212,0.009606676
 2460,Outaouais,484,0.009598395
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,488,0.009593486
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,488,0.009593486
 6010,Yukon,484,0.009569677
 2415,Bas-Saint-Laurent,337,0.009552795
 1310,Campbellton-Miramichi,332,0.009547975
@@ -747,13 +747,13 @@ ERUID,ERNAME,NAICS,Concentration
 4860,Edmonton,523,0.009435241
 5950,Cariboo,482,0.009424715
 3580,Stratford-Bruce Peninsula,221,0.009418084
-2433,Centre-du-Qu閎ec,335,0.009408894
+2433,Centre-du-Qu茅bec,335,0.009408894
 4870,Athabasca-Grande Prairie-Peace River,115,0.009397493
 4660,Interlake,332,0.009371857
 4680,North / Nord,114,0.009318396
 3550,Hamilton-Niagara Peninsula,326,0.009302436
 3520,Muskoka-Kawarthas,484,0.009294893
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,114,0.009277667
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,114,0.009277667
 4820,Camrose-Drumheller,333,0.009270314
 3590,Northeast / Nord-est,331,0.00924871
 3520,Muskoka-Kawarthas,524,0.009238629
@@ -762,16 +762,16 @@ ERUID,ERNAME,NAICS,Concentration
 4650,Winnipeg,326,0.009210891
 4660,Interlake,221,0.009188991
 3510,Ottawa,523,0.009188906
-2440,Montr閍l,332,0.009183777
+2440,Montr茅al,332,0.009183777
 4850,Red Deer,111,0.009159735
 3530,Toronto,326,0.009145913
-2410,Gasp閟ie-蝜es-de-la-Madeleine,485,0.009140541
-2450,Lanaudi鑢e,237,0.009137506
+2410,Gasp茅sie-脦les-de-la-Madeleine,485,0.009140541
+2450,Lanaudi猫re,237,0.009137506
 1340,Fredericton-Oromocto,524,0.009064596
-2450,Lanaudi鑢e,485,0.009055
-2440,Montr閍l,236,0.009049146
+2450,Lanaudi猫re,485,0.009055
+2440,Montr茅al,236,0.009049146
 4830,Calgary,332,0.00902691
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,113,0.008990929
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,113,0.008990929
 2430,Estrie,311,0.008984973
 3570,Windsor-Sarnia,522,0.008965077
 2420,Capitale-Nationale,237,0.008962053
@@ -785,61 +785,61 @@ ERUID,ERNAME,NAICS,Concentration
 1040,Notre Dame-Central Bonavista Bay,484,0.008902323
 4760,Northern / Nord,311,0.008891044
 6210,Nunavut,213,0.008890062
-2480,C魌e-Nord,332,0.008844875
+2480,C么te-Nord,332,0.008844875
 1320,Moncton-Richibucto,488,0.008833301
 4850,Red Deer,522,0.008817023
 4810,Lethbridge-Medicine Hat,523,0.008814236
-2433,Centre-du-Qu閎ec,339,0.008798807
+2433,Centre-du-Qu茅bec,339,0.008798807
 1330,Saint John-St. Stephen,114,0.008780733
 5980,Northeast / Nord-est,488,0.008763104
-5960,North Coast / C魌e-nord,481,0.008760453
+5960,North Coast / C么te-nord,481,0.008760453
 1240,Southern / Sud,484,0.008752454
 4630,Southwest / Sud-ouest,488,0.008735568
 1240,Southern / Sud,522,0.008720275
 2470,Mauricie,488,0.008676438
 2430,Estrie,315,0.008649981
-2410,Gasp閟ie-蝜es-de-la-Madeleine,111,0.008644222
+2410,Gasp茅sie-脦les-de-la-Madeleine,111,0.008644222
 2415,Bas-Saint-Laurent,485,0.008637979
 4710,Regina-Moose Mountain,332,0.008633482
 3580,Stratford-Bruce Peninsula,323,0.008606386
-2450,Lanaudi鑢e,321,0.008580593
+2450,Lanaudi猫re,321,0.008580593
 3520,Muskoka-Kawarthas,333,0.008540949
 3580,Stratford-Bruce Peninsula,212,0.008534766
-2410,Gasp閟ie-蝜es-de-la-Madeleine,483,0.008520142
+2410,Gasp茅sie-脦les-de-la-Madeleine,483,0.008520142
 2430,Estrie,524,0.008518377
 1310,Campbellton-Miramichi,115,0.008501622
 5950,Cariboo,522,0.008463394
 3580,Stratford-Bruce Peninsula,337,0.008463145
 4710,Regina-Moose Mountain,111,0.008460041
 4840,Banff-Jasper-Rocky Mountain House,212,0.008447522
-1220,North Shore / C魌e-nord,113,0.008431334
+1220,North Shore / C么te-nord,113,0.008431334
 4730,Saskatoon-Biggar,333,0.008424529
 2420,Capitale-Nationale,523,0.008372897
 3590,Northeast / Nord-est,333,0.008371843
 3520,Muskoka-Kawarthas,335,0.008360903
 3590,Northeast / Nord-est,524,0.008346241
 4820,Camrose-Drumheller,522,0.008339771
-1220,North Shore / C魌e-nord,114,0.008334143
+1220,North Shore / C么te-nord,114,0.008334143
 3530,Toronto,333,0.008331136
 2475,Saguenay-Lac-Saint-Jean,112,0.008327953
 3530,Toronto,488,0.008314972
-2410,Gasp閟ie-蝜es-de-la-Madeleine,333,0.008313343
-2465,Abitibi-T閙iscamingue,333,0.008304187
+2410,Gasp茅sie-脦les-de-la-Madeleine,333,0.008313343
+2465,Abitibi-T茅miscamingue,333,0.008304187
 4810,Lethbridge-Medicine Hat,524,0.008293143
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,221,0.008283632
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,326,0.008283632
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,221,0.008283632
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,326,0.008283632
 3515,Kingston-Pembroke,522,0.008277934
 4840,Banff-Jasper-Rocky Mountain House,327,0.008275625
-2465,Abitibi-T閙iscamingue,485,0.00826328
+2465,Abitibi-T茅miscamingue,485,0.00826328
 3580,Stratford-Bruce Peninsula,522,0.008260221
 2430,Estrie,327,0.008255168
 4720,Swift Current-Moose Jaw,237,0.00825089
 1230,Annapolis Valley,322,0.008227894
 4830,Calgary,311,0.008221822
 2470,Mauricie,111,0.008205053
-2490,Nord-du-Qu閎ec,213,0.008203678
+2490,Nord-du-Qu茅bec,213,0.008203678
 3580,Stratford-Bruce Peninsula,524,0.008200537
-1220,North Shore / C魌e-nord,112,0.008164059
+1220,North Shore / C么te-nord,112,0.008164059
 1320,Moncton-Richibucto,492,0.008162418
 1320,Moncton-Richibucto,522,0.008130471
 3530,Toronto,337,0.008129083
@@ -852,16 +852,16 @@ ERUID,ERNAME,NAICS,Concentration
 1010,Avalon Peninsula,522,0.008060025
 2415,Bas-Saint-Laurent,237,0.008057422
 2475,Saguenay-Lac-Saint-Jean,485,0.008038056
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,482,0.008027615
-2450,Lanaudi鑢e,112,0.008023679
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,482,0.008027615
+2450,Lanaudi猫re,112,0.008023679
 4620,South Central / Centre sud,326,0.008006569
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,488,0.007996934
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,488,0.007996934
 5950,Cariboo,213,0.007992159
 2455,Laurentides,321,0.007983115
-2410,Gasp閟ie-蝜es-de-la-Madeleine,488,0.007982463
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,114,0.007960981
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,485,0.007954869
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,237,0.007950196
+2410,Gasp茅sie-脦les-de-la-Madeleine,488,0.007982463
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,114,0.007960981
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,485,0.007954869
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,237,0.007950196
 3560,London,522,0.007942133
 5970,Nechako,522,0.007941441
 4830,Calgary,524,0.007940593
@@ -871,67 +871,67 @@ ERUID,ERNAME,NAICS,Concentration
 1010,Avalon Peninsula,221,0.007918266
 4620,South Central / Centre sud,339,0.007903921
 1340,Fredericton-Oromocto,488,0.007897866
-1220,North Shore / C魌e-nord,522,0.007896783
+1220,North Shore / C么te-nord,522,0.007896783
 3510,Ottawa,491,0.007885924
 2470,Mauricie,485,0.007880975
-2440,Montr閍l,336,0.007870435
+2440,Montr茅al,336,0.007870435
 4720,Swift Current-Moose Jaw,115,0.007859852
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,321,0.007852045
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,321,0.007852045
 4820,Camrose-Drumheller,524,0.007830606
 4660,Interlake,523,0.0078175
 2455,Laurentides,485,0.007805384
-2425,Chaudi鑢e-Appalaches,485,0.007786912
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,522,0.007786787
+2425,Chaudi猫re-Appalaches,485,0.007786912
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,522,0.007786787
 3560,London,339,0.007779828
 3595,Northwest / Nord-ouest,522,0.007771839
 3515,Kingston-Pembroke,322,0.007765897
 4840,Banff-Jasper-Rocky Mountain House,221,0.007759933
 4710,Regina-Moose Mountain,486,0.007747008
 3570,Windsor-Sarnia,523,0.007745965
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,112,0.007744547
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,112,0.007744547
 4640,North Central / Centre nord,327,0.007736662
 4730,Saskatoon-Biggar,524,0.007713775
-2435,Mont閞間ie,112,0.00770081
+2435,Mont茅r茅gie,112,0.00770081
 1230,Annapolis Valley,336,0.007679368
-2435,Mont閞間ie,333,0.007675497
+2435,Mont茅r茅gie,333,0.007675497
 1330,Saint John-St. Stephen,321,0.007669701
 3540,Kitchener-Waterloo-Barrie,327,0.007663627
 4810,Lethbridge-Medicine Hat,321,0.007661179
 4860,Edmonton,485,0.007654487
-2490,Nord-du-Qu閎ec,484,0.007637907
+2490,Nord-du-Qu茅bec,484,0.007637907
 3530,Toronto,325,0.007625972
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,485,0.007620941
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,485,0.007620941
 1210,Cape Breton,522,0.007613711
 3515,Kingston-Pembroke,321,0.007612285
 3580,Stratford-Bruce Peninsula,485,0.0076037
 4660,Interlake,488,0.007588918
-1220,North Shore / C魌e-nord,115,0.007580912
+1220,North Shore / C么te-nord,115,0.007580912
 4630,Southwest / Sud-ouest,333,0.007567116
-5960,North Coast / C魌e-nord,115,0.007565846
-2480,C魌e-Nord,322,0.007559722
+5960,North Coast / C么te-nord,115,0.007565846
+2480,C么te-Nord,322,0.007559722
 4670,Parklands,524,0.007549694
-2435,Mont閞間ie,337,0.007546119
+2435,Mont茅r茅gie,337,0.007546119
 4830,Calgary,488,0.007545401
 4840,Banff-Jasper-Rocky Mountain House,485,0.007538922
 3510,Ottawa,237,0.007530089
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,321,0.00751242
 3570,Windsor-Sarnia,311,0.007510193
-2435,Mont閞間ie,524,0.007506743
+2435,Mont茅r茅gie,524,0.007506743
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,485,0.007483468
 2470,Mauricie,326,0.007483244
 2445,Laval,524,0.007469427
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,484,0.007454769
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,484,0.007454769
 3580,Stratford-Bruce Peninsula,321,0.007448523
-2465,Abitibi-T閙iscamingue,115,0.007445133
-1220,North Shore / C魌e-nord,488,0.007435125
-2435,Mont閞間ie,485,0.007433616
+2465,Abitibi-T茅miscamingue,115,0.007445133
+1220,North Shore / C么te-nord,488,0.007435125
+2435,Mont茅r茅gie,485,0.007433616
 1350,Edmundston-Woodstock,326,0.007424329
 1350,Edmundston-Woodstock,112,0.007424329
-1220,North Shore / C魌e-nord,237,0.007386529
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,484,0.007385406
+1220,North Shore / C么te-nord,237,0.007386529
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,484,0.007385406
 4750,Prince Albert,311,0.007375776
 1040,Notre Dame-Central Bonavista Bay,321,0.007370295
-2440,Montr閍l,325,0.007366255
+2440,Montr茅al,325,0.007366255
 2420,Capitale-Nationale,485,0.007362301
 4670,Parklands,333,0.007358563
 3540,Kitchener-Waterloo-Barrie,334,0.007357963
@@ -941,7 +941,7 @@ ERUID,ERNAME,NAICS,Concentration
 4680,North / Nord,522,0.007329075
 3530,Toronto,493,0.007322388
 3520,Muskoka-Kawarthas,522,0.007314383
-2440,Montr閍l,315,0.007312677
+2440,Montr茅al,315,0.007312677
 1320,Moncton-Richibucto,114,0.007299853
 4830,Calgary,221,0.007297258
 2455,Laurentides,488,0.007279594
@@ -958,12 +958,12 @@ ERUID,ERNAME,NAICS,Concentration
 4820,Camrose-Drumheller,311,0.007163424
 1040,Notre Dame-Central Bonavista Bay,485,0.007163264
 3540,Kitchener-Waterloo-Barrie,523,0.00715694
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,336,0.007154806
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,336,0.007154806
 3560,London,326,0.007146837
 5940,Kootenay,221,0.007143465
 5930,Thompson-Okanagan,115,0.007130551
 5930,Thompson-Okanagan,212,0.007106026
-2433,Centre-du-Qu閎ec,485,0.007104121
+2433,Centre-du-Qu茅bec,485,0.007104121
 4710,Regina-Moose Mountain,331,0.007091789
 1350,Edmundston-Woodstock,522,0.007091186
 4720,Swift Current-Moose Jaw,336,0.007077777
@@ -986,7 +986,7 @@ ERUID,ERNAME,NAICS,Concentration
 6110,Northwest Territories / Territoires du Nord-Ouest,483,0.006757081
 4860,Edmonton,221,0.0067567
 1250,Halifax,484,0.006745278
-2425,Chaudi鑢e-Appalaches,327,0.006730643
+2425,Chaudi猫re-Appalaches,327,0.006730643
 4720,Swift Current-Moose Jaw,212,0.006725844
 1010,Avalon Peninsula,484,0.006723438
 4660,Interlake,524,0.006720307
@@ -1003,12 +1003,12 @@ ERUID,ERNAME,NAICS,Concentration
 1210,Cape Breton,481,0.006591958
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,333,0.006579533
 1350,Edmundston-Woodstock,488,0.006567676
-1220,North Shore / C魌e-nord,212,0.006560404
+1220,North Shore / C么te-nord,212,0.006560404
 4850,Red Deer,327,0.006558245
 4820,Camrose-Drumheller,211,0.006548915
 5940,Kootenay,524,0.006548176
 2430,Estrie,237,0.006544315
-2480,C魌e-Nord,488,0.006539159
+2480,C么te-Nord,488,0.006539159
 3560,London,523,0.006530078
 3510,Ottawa,524,0.006514914
 4610,Southeast / Sud-est,327,0.006514658
@@ -1023,7 +1023,7 @@ ERUID,ERNAME,NAICS,Concentration
 4880,Wood Buffalo-Cold Lake,481,0.006449114
 3520,Muskoka-Kawarthas,488,0.00644791
 4660,Interlake,337,0.006446009
-2440,Montr閍l,339,0.006441695
+2440,Montr茅al,339,0.006441695
 1010,Avalon Peninsula,483,0.006439919
 2460,Outaouais,311,0.006430766
 1040,Notre Dame-Central Bonavista Bay,212,0.006417954
@@ -1031,26 +1031,26 @@ ERUID,ERNAME,NAICS,Concentration
 3595,Northwest / Nord-ouest,488,0.006397037
 3540,Kitchener-Waterloo-Barrie,335,0.006394158
 3520,Muskoka-Kawarthas,237,0.006380393
-2435,Mont閞間ie,523,0.006364841
+2435,Mont茅r茅gie,523,0.006364841
 4650,Winnipeg,323,0.006353296
 4820,Camrose-Drumheller,488,0.006338226
 2420,Capitale-Nationale,339,0.006334503
 1320,Moncton-Richibucto,332,0.006325474
 3520,Muskoka-Kawarthas,523,0.006324128
 4710,Regina-Moose Mountain,211,0.006320942
-5960,North Coast / C魌e-nord,485,0.006314352
-2435,Mont閞間ie,334,0.006308589
+5960,North Coast / C么te-nord,485,0.006314352
+2435,Mont茅r茅gie,334,0.006308589
 4870,Athabasca-Grande Prairie-Peace River,523,0.006308128
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,524,0.00629556
-1220,North Shore / C魌e-nord,221,0.006293129
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,524,0.00629556
+1220,North Shore / C么te-nord,221,0.006293129
 3590,Northeast / Nord-est,332,0.006291683
-2425,Chaudi鑢e-Appalaches,323,0.006288484
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,325,0.006288167
-2440,Montr閍l,334,0.006287831
+2425,Chaudi猫re-Appalaches,323,0.006288484
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,325,0.006288167
+2440,Montr茅al,334,0.006287831
 3560,London,237,0.00628121
 2415,Bas-Saint-Laurent,336,0.006280567
 5980,Northeast / Nord-est,485,0.006263997
-2435,Mont閞間ie,488,0.006260776
+2435,Mont茅r茅gie,488,0.006260776
 1230,Annapolis Valley,327,0.0062532
 2420,Capitale-Nationale,334,0.006244194
 4750,Prince Albert,524,0.00621118
@@ -1072,15 +1072,15 @@ ERUID,ERNAME,NAICS,Concentration
 3515,Kingston-Pembroke,332,0.005990835
 4710,Regina-Moose Mountain,221,0.005983697
 3515,Kingston-Pembroke,331,0.005982301
-5960,North Coast / C魌e-nord,493,0.005973036
-2435,Mont閞間ie,327,0.005957018
+5960,North Coast / C么te-nord,493,0.005973036
+2435,Mont茅r茅gie,327,0.005957018
 6010,Yukon,488,0.005941956
-2440,Montr閍l,326,0.005940262
-2480,C魌e-Nord,485,0.005934382
+2440,Montr茅al,326,0.005940262
+2480,C么te-Nord,485,0.005934382
 4810,Lethbridge-Medicine Hat,522,0.005931593
 3530,Toronto,334,0.005910545
 4620,South Central / Centre sud,237,0.005902279
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,524,0.005889034
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,524,0.005889034
 4870,Athabasca-Grande Prairie-Peace River,325,0.005871411
 4630,Southwest / Sud-ouest,221,0.005842259
 3590,Northeast / Nord-est,488,0.005824447
@@ -1091,10 +1091,10 @@ ERUID,ERNAME,NAICS,Concentration
 5940,Kootenay,327,0.005804065
 3570,Windsor-Sarnia,485,0.005773533
 5950,Cariboo,485,0.005749076
-2425,Chaudi鑢e-Appalaches,339,0.005739879
+2425,Chaudi猫re-Appalaches,339,0.005739879
 2415,Bas-Saint-Laurent,331,0.005735196
-1220,North Shore / C魌e-nord,322,0.005709982
-2435,Mont閞間ie,335,0.0057067
+1220,North Shore / C么te-nord,322,0.005709982
+2435,Mont茅r茅gie,335,0.0057067
 1210,Cape Breton,524,0.005702044
 3560,London,327,0.00566986
 4610,Southeast / Sud-est,488,0.005666395
@@ -1108,21 +1108,21 @@ ERUID,ERNAME,NAICS,Concentration
 2445,Laval,326,0.00560207
 4830,Calgary,486,0.005597015
 2430,Estrie,325,0.005587194
-2490,Nord-du-Qu閎ec,488,0.005586987
+2490,Nord-du-Qu茅bec,488,0.005586987
 2470,Mauricie,524,0.00556824
 2445,Laval,337,0.005520881
 3570,Windsor-Sarnia,323,0.005520509
-2433,Centre-du-Qu閎ec,323,0.005517896
+2433,Centre-du-Qu茅bec,323,0.005517896
 4650,Winnipeg,485,0.005509096
 1250,Halifax,311,0.005499885
 4680,North / Nord,221,0.005496807
-2440,Montr閍l,333,0.005495155
+2440,Montr茅al,333,0.005495155
 5980,Northeast / Nord-est,115,0.005485054
 2430,Estrie,523,0.005479518
 1210,Cape Breton,523,0.005471325
 3550,Hamilton-Niagara Peninsula,493,0.005471242
 3520,Muskoka-Kawarthas,322,0.005468908
-2450,Lanaudi鑢e,327,0.005466002
+2450,Lanaudi猫re,327,0.005466002
 2470,Mauricie,336,0.005465125
 5940,Kootenay,488,0.0054639
 3540,Kitchener-Waterloo-Barrie,339,0.005446875
@@ -1144,11 +1144,11 @@ ERUID,ERNAME,NAICS,Concentration
 5950,Cariboo,524,0.005277841
 1310,Campbellton-Miramichi,322,0.005257926
 5970,Nechako,524,0.005248256
-2450,Lanaudi鑢e,339,0.005239112
+2450,Lanaudi猫re,339,0.005239112
 1310,Campbellton-Miramichi,331,0.005231767
 3590,Northeast / Nord-est,221,0.005216401
 4660,Interlake,481,0.005211667
-2465,Abitibi-T閙iscamingue,524,0.00519523
+2465,Abitibi-T茅miscamingue,524,0.00519523
 1230,Annapolis Valley,115,0.005192716
 3540,Kitchener-Waterloo-Barrie,337,0.005185271
 1340,Fredericton-Oromocto,339,0.005182975
@@ -1157,8 +1157,8 @@ ERUID,ERNAME,NAICS,Concentration
 2445,Laval,333,0.005175826
 4760,Northern / Nord,485,0.005172971
 2470,Mauricie,339,0.005170509
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,488,0.005135852
-2465,Abitibi-T閙iscamingue,112,0.005133869
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,488,0.005135852
+2465,Abitibi-T茅miscamingue,112,0.005133869
 3515,Kingston-Pembroke,325,0.005128905
 5980,Northeast / Nord-est,523,0.005128039
 4650,Winnipeg,337,0.005120685
@@ -1168,11 +1168,11 @@ ERUID,ERNAME,NAICS,Concentration
 4640,North Central / Centre nord,524,0.005109116
 4640,North Central / Centre nord,332,0.005109116
 1330,Saint John-St. Stephen,212,0.005107161
-2435,Mont閞間ie,321,0.005101998
+2435,Mont茅r茅gie,321,0.005101998
 1010,Avalon Peninsula,324,0.005072955
 2475,Saguenay-Lac-Saint-Jean,524,0.005060022
 2420,Capitale-Nationale,333,0.005052981
-2435,Mont閞間ie,323,0.005048559
+2435,Mont茅r茅gie,323,0.005048559
 4750,Prince Albert,115,0.005046584
 1230,Annapolis Valley,332,0.005046442
 3510,Ottawa,488,0.005039246
@@ -1190,50 +1190,50 @@ ERUID,ERNAME,NAICS,Concentration
 4650,Winnipeg,481,0.00499782
 1210,Cape Breton,212,0.004976928
 2420,Capitale-Nationale,323,0.004971273
-2425,Chaudi鑢e-Appalaches,324,0.004970195
+2425,Chaudi猫re-Appalaches,324,0.004970195
 4820,Camrose-Drumheller,115,0.004968748
 3590,Northeast / Nord-est,115,0.004966781
 4610,Southeast / Sud-est,115,0.004953855
 1250,Halifax,332,0.004952776
 1250,Halifax,334,0.004945577
-2440,Montr閍l,323,0.004942892
+2440,Montr茅al,323,0.004942892
 3580,Stratford-Bruce Peninsula,115,0.004941808
 1230,Annapolis Valley,114,0.004936737
 1240,Southern / Sud,333,0.004923255
-2433,Centre-du-Qu閎ec,524,0.004921367
+2433,Centre-du-Qu茅bec,524,0.004921367
 1250,Halifax,485,0.004916782
-2480,C魌e-Nord,221,0.004913819
-2440,Montr閍l,221,0.004912668
+2480,C么te-Nord,221,0.004913819
+2440,Montr茅al,221,0.004912668
 4840,Banff-Jasper-Rocky Mountain House,322,0.00491135
 4750,Prince Albert,336,0.004903563
 3560,London,488,0.004896206
-2450,Lanaudi鑢e,524,0.00484721
+2450,Lanaudi猫re,524,0.00484721
 4650,Winnipeg,325,0.004839285
 3550,Hamilton-Niagara Peninsula,339,0.004838009
-5960,North Coast / C魌e-nord,114,0.004835315
-2440,Montr閍l,237,0.004830241
+5960,North Coast / C么te-nord,114,0.004835315
+2440,Montr茅al,237,0.004830241
 5940,Kootenay,336,0.004826091
 2460,Outaouais,237,0.004823074
-2425,Chaudi鑢e-Appalaches,331,0.004814621
-2465,Abitibi-T閙iscamingue,311,0.004806611
+2425,Chaudi猫re-Appalaches,331,0.004814621
+2465,Abitibi-T茅miscamingue,311,0.004806611
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,339,0.004800614
 4730,Saskatoon-Biggar,485,0.004797592
 2475,Saguenay-Lac-Saint-Jean,337,0.004796479
-2450,Lanaudi鑢e,325,0.00478533
+2450,Lanaudi猫re,325,0.00478533
 3570,Windsor-Sarnia,221,0.004784441
 1010,Avalon Peninsula,211,0.004779311
-5960,North Coast / C魌e-nord,332,0.004778429
+5960,North Coast / C么te-nord,332,0.004778429
 4670,Parklands,114,0.004778287
 3540,Kitchener-Waterloo-Barrie,325,0.004772212
 3510,Ottawa,112,0.004769754
-1220,North Shore / C魌e-nord,323,0.004762368
+1220,North Shore / C么te-nord,323,0.004762368
 3550,Hamilton-Niagara Peninsula,488,0.004761173
 2470,Mauricie,523,0.004758047
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,332,0.004756434
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,332,0.004756434
 1330,Saint John-St. Stephen,485,0.004748764
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,111,0.004743944
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,111,0.004743944
 2460,Outaouais,524,0.004743486
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,481,0.004720575
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,481,0.004720575
 1040,Notre Dame-Central Bonavista Bay,114,0.004720301
 4730,Saskatoon-Biggar,112,0.004693069
 3530,Toronto,339,0.004692673
@@ -1241,14 +1241,14 @@ ERUID,ERNAME,NAICS,Concentration
 1210,Cape Breton,488,0.00468029
 1040,Notre Dame-Central Bonavista Bay,112,0.004678895
 5930,Thompson-Okanagan,485,0.004678083
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,322,0.004673836
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,322,0.004673836
 5930,Thompson-Okanagan,311,0.004671952
 4710,Regina-Moose Mountain,493,0.004663622
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,112,0.004656017
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,112,0.004656017
 4870,Athabasca-Grande Prairie-Peace River,332,0.004642135
 4820,Camrose-Drumheller,221,0.0046176
 4660,Interlake,326,0.004617354
-2435,Mont閞間ie,339,0.004598548
+2435,Mont茅r茅gie,339,0.004598548
 4850,Red Deer,337,0.004579867
 1230,Annapolis Valley,524,0.004571052
 3520,Muskoka-Kawarthas,331,0.004568676
@@ -1258,16 +1258,16 @@ ERUID,ERNAME,NAICS,Concentration
 3510,Ottawa,325,0.004555207
 2475,Saguenay-Lac-Saint-Jean,212,0.004519759
 1040,Notre Dame-Central Bonavista Bay,481,0.004513271
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,221,0.004494427
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,221,0.004494427
 1340,Fredericton-Oromocto,322,0.004487424
 2415,Bas-Saint-Laurent,488,0.004486119
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,115,0.004463514
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,115,0.004463514
 1320,Moncton-Richibucto,111,0.004456584
 4860,Edmonton,326,0.004452942
 2415,Bas-Saint-Laurent,115,0.004450934
 3580,Stratford-Bruce Peninsula,331,0.004440466
-5960,North Coast / C魌e-nord,221,0.004437112
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,333,0.004433964
+5960,North Coast / C么te-nord,221,0.004437112
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,333,0.004433964
 4730,Saskatoon-Biggar,334,0.004410858
 1330,Saint John-St. Stephen,327,0.004390366
 1240,Southern / Sud,332,0.004376227
@@ -1275,7 +1275,7 @@ ERUID,ERNAME,NAICS,Concentration
 1010,Avalon Peninsula,485,0.004374285
 5930,Thompson-Okanagan,112,0.004371524
 2430,Estrie,313,0.004366864
-2433,Centre-du-Qu閎ec,488,0.00436551
+2433,Centre-du-Qu茅bec,488,0.00436551
 2420,Capitale-Nationale,115,0.004360615
 4810,Lethbridge-Medicine Hat,326,0.004335052
 4860,Edmonton,488,0.004328014
@@ -1283,63 +1283,63 @@ ERUID,ERNAME,NAICS,Concentration
 3515,Kingston-Pembroke,488,0.00431818
 4810,Lethbridge-Medicine Hat,333,0.004312878
 4630,Southwest / Sud-ouest,211,0.004312144
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,213,0.004307488
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,213,0.004307488
 1010,Avalon Peninsula,212,0.004303405
 1010,Avalon Peninsula,493,0.00429328
 3540,Kitchener-Waterloo-Barrie,112,0.004290309
 3520,Muskoka-Kawarthas,339,0.004287354
 1350,Edmundston-Woodstock,332,0.004283267
 1040,Notre Dame-Central Bonavista Bay,524,0.004264834
-2410,Gasp閟ie-蝜es-de-la-Madeleine,312,0.004260071
-2433,Centre-du-Qu閎ec,315,0.00425705
+2410,Gasp茅sie-脦les-de-la-Madeleine,312,0.004260071
+2433,Centre-du-Qu茅bec,315,0.00425705
 5940,Kootenay,322,0.004252062
 4830,Calgary,321,0.004220278
 5940,Kootenay,523,0.004209542
-2440,Montr閍l,337,0.004205167
-2440,Montr閍l,493,0.004205167
+2440,Montr茅al,337,0.004205167
+2440,Montr茅al,493,0.004205167
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,337,0.00420228
-2410,Gasp閟ie-蝜es-de-la-Madeleine,212,0.004177351
+2410,Gasp茅sie-脦les-de-la-Madeleine,212,0.004177351
 4840,Banff-Jasper-Rocky Mountain House,523,0.004174648
 1320,Moncton-Richibucto,337,0.004169063
 3550,Hamilton-Niagara Peninsula,312,0.004159734
-2425,Chaudi鑢e-Appalaches,113,0.00415957
+2425,Chaudi猫re-Appalaches,113,0.00415957
 4860,Edmonton,321,0.00415862
-5960,North Coast / C魌e-nord,483,0.004152682
+5960,North Coast / C么te-nord,483,0.004152682
 2415,Bas-Saint-Laurent,333,0.00415186
 3580,Stratford-Bruce Peninsula,523,0.00413011
 4880,Wood Buffalo-Cold Lake,332,0.004124698
 2470,Mauricie,115,0.004124623
 3580,Stratford-Bruce Peninsula,488,0.004118174
 1250,Halifax,493,0.004117715
-2425,Chaudi鑢e-Appalaches,313,0.004110442
+2425,Chaudi猫re-Appalaches,313,0.004110442
 2470,Mauricie,334,0.004109892
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,326,0.004106847
 4710,Regina-Moose Mountain,485,0.004104758
 2415,Bas-Saint-Laurent,524,0.004099082
 3540,Kitchener-Waterloo-Barrie,321,0.004094794
-2465,Abitibi-T閙iscamingue,482,0.004090732
-2433,Centre-du-Qu閎ec,327,0.004080803
+2465,Abitibi-T茅miscamingue,482,0.004090732
+2433,Centre-du-Qu茅bec,327,0.004080803
 2455,Laurentides,327,0.004080424
 3520,Muskoka-Kawarthas,334,0.004073549
 2475,Saguenay-Lac-Saint-Jean,339,0.004071736
 3540,Kitchener-Waterloo-Barrie,488,0.00406175
 3550,Hamilton-Niagara Peninsula,337,0.004061702
 4820,Camrose-Drumheller,523,0.004055762
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,524,0.004053946
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,483,0.004053946
-2480,C魌e-Nord,327,0.004044451
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,524,0.004053946
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,483,0.004053946
+2480,C么te-Nord,327,0.004044451
 4830,Calgary,337,0.00403463
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,481,0.004030877
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,481,0.004030877
 1010,Avalon Peninsula,523,0.004030012
-2465,Abitibi-T閙iscamingue,332,0.004029371
+2465,Abitibi-T茅miscamingue,332,0.004029371
 4840,Banff-Jasper-Rocky Mountain House,522,0.004027307
 5980,Northeast / Nord-est,492,0.004024537
 4660,Interlake,492,0.004023041
 3560,London,221,0.004008938
-2440,Montr閍l,485,0.003996351
+2440,Montr茅al,485,0.003996351
 1250,Halifax,221,0.003988136
 5940,Kootenay,311,0.003975678
-2410,Gasp閟ie-蝜es-de-la-Madeleine,339,0.003970552
+2410,Gasp茅sie-脦les-de-la-Madeleine,339,0.003970552
 3595,Northwest / Nord-ouest,332,0.003956062
 2475,Saguenay-Lac-Saint-Jean,322,0.003953142
 3515,Kingston-Pembroke,221,0.00395122
@@ -1362,24 +1362,24 @@ ERUID,ERNAME,NAICS,Concentration
 4810,Lethbridge-Medicine Hat,115,0.003836133
 2470,Mauricie,327,0.003830007
 3520,Muskoka-Kawarthas,327,0.003825985
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,332,0.003823198
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,332,0.003823198
 3560,London,325,0.003819582
 3570,Windsor-Sarnia,324,0.003812602
 3510,Ottawa,332,0.003796442
 3520,Muskoka-Kawarthas,492,0.003792226
 6110,Northwest Territories / Territoires du Nord-Ouest,485,0.003785882
 2415,Bas-Saint-Laurent,212,0.003782414
-2440,Montr閍l,335,0.003780666
+2440,Montr茅al,335,0.003780666
 3595,Northwest / Nord-ouest,213,0.003773691
 2420,Capitale-Nationale,493,0.003771459
-1220,North Shore / C魌e-nord,325,0.003766158
+1220,North Shore / C么te-nord,325,0.003766158
 1330,Saint John-St. Stephen,339,0.003763171
 4620,South Central / Centre sud,493,0.003746664
 2420,Capitale-Nationale,321,0.003741356
 2455,Laurentides,322,0.003739771
-2435,Mont閞間ie,493,0.003729465
+2435,Mont茅r茅gie,493,0.003729465
 5970,Nechako,311,0.003729024
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,483,0.003725048
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,483,0.003725048
 2455,Laurentides,113,0.00372496
 4730,Saskatoon-Biggar,488,0.003721008
 4870,Athabasca-Grande Prairie-Peace River,524,0.003704003
@@ -1394,10 +1394,10 @@ ERUID,ERNAME,NAICS,Concentration
 4740,Yorkton-Melville,325,0.003658243
 1340,Fredericton-Oromocto,326,0.003657251
 4640,North Central / Centre nord,488,0.003649369
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,115,0.003647943
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,115,0.003647943
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,325,0.003647909
 2420,Capitale-Nationale,327,0.003646747
-1220,North Shore / C魌e-nord,315,0.003644669
+1220,North Shore / C么te-nord,315,0.003644669
 4860,Edmonton,327,0.003644086
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,334,0.00364362
 3570,Windsor-Sarnia,331,0.003640086
@@ -1406,8 +1406,8 @@ ERUID,ERNAME,NAICS,Concentration
 4740,Yorkton-Melville,115,0.003610108
 3515,Kingston-Pembroke,492,0.003601328
 4610,Southeast / Sud-est,334,0.003596634
-1220,North Shore / C魌e-nord,336,0.003596073
-2433,Centre-du-Qu閎ec,115,0.003565618
+1220,North Shore / C么te-nord,336,0.003596073
+2433,Centre-du-Qu茅bec,115,0.003565618
 4820,Camrose-Drumheller,331,0.003564155
 4680,North / Nord,213,0.003559837
 4680,North / Nord,524,0.003559837
@@ -1423,7 +1423,7 @@ ERUID,ERNAME,NAICS,Concentration
 5940,Kootenay,332,0.003507951
 2420,Capitale-Nationale,331,0.003504834
 6010,Yukon,221,0.003502627
-1220,North Shore / C魌e-nord,327,0.003498882
+1220,North Shore / C么te-nord,327,0.003498882
 6110,Northwest Territories / Territoires du Nord-Ouest,524,0.003498347
 2420,Capitale-Nationale,337,0.003496233
 4710,Regina-Moose Mountain,488,0.003488081
@@ -1461,31 +1461,31 @@ ERUID,ERNAME,NAICS,Concentration
 4680,North / Nord,113,0.003350435
 5950,Cariboo,112,0.003336349
 3570,Windsor-Sarnia,339,0.003329557
-1220,North Shore / C魌e-nord,524,0.003328798
+1220,North Shore / C么te-nord,524,0.003328798
 6010,Yukon,485,0.003314986
 5970,Nechako,111,0.003314688
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,314,0.003313453
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,314,0.003313453
 2415,Bas-Saint-Laurent,523,0.003307414
-2440,Montr閍l,322,0.003306709
+2440,Montr茅al,322,0.003306709
 4680,North / Nord,484,0.003298084
-2433,Centre-du-Qu閎ec,221,0.003294469
-2425,Chaudi鑢e-Appalaches,322,0.003291628
+2433,Centre-du-Qu茅bec,221,0.003294469
+2425,Chaudi猫re-Appalaches,322,0.003291628
 1230,Annapolis Valley,493,0.003291158
 1320,Moncton-Richibucto,334,0.003290525
-2480,C魌e-Nord,337,0.003288479
+2480,C么te-Nord,337,0.003288479
 1240,Southern / Sud,115,0.00328217
 3515,Kingston-Pembroke,339,0.003277038
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,112,0.00325867
 2445,Laval,331,0.003257726
-2433,Centre-du-Qu閎ec,523,0.003253796
+2433,Centre-du-Qu茅bec,523,0.003253796
 1240,Southern / Sud,316,0.003249992
 4660,Interlake,311,0.003245863
 5980,Northeast / Nord-est,322,0.003245594
 3560,London,337,0.003240693
 4810,Lethbridge-Medicine Hat,221,0.00323743
 3515,Kingston-Pembroke,327,0.003234368
-2465,Abitibi-T閙iscamingue,327,0.003231679
-2450,Lanaudi鑢e,336,0.003228035
+2465,Abitibi-T茅miscamingue,327,0.003231679
+2450,Lanaudi猫re,336,0.003228035
 3510,Ottawa,333,0.003212977
 4640,North Central / Centre nord,523,0.003211444
 4830,Calgary,324,0.003205647
@@ -1503,34 +1503,34 @@ ERUID,ERNAME,NAICS,Concentration
 4850,Red Deer,485,0.003146712
 3510,Ottawa,327,0.003139717
 3580,Stratford-Bruce Peninsula,335,0.003139361
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,111,0.00313077
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,111,0.00313077
 4740,Yorkton-Melville,327,0.003128761
 5940,Kootenay,112,0.003125266
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,322,0.003123929
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,322,0.003123929
 2470,Mauricie,335,0.003122928
-2425,Chaudi鑢e-Appalaches,523,0.00311149
+2425,Chaudi猫re-Appalaches,523,0.00311149
 1230,Annapolis Valley,325,0.003108316
 1040,Notre Dame-Central Bonavista Bay,492,0.003105461
 4880,Wood Buffalo-Cold Lake,492,0.003099221
 4880,Wood Buffalo-Cold Lake,112,0.003099221
 1340,Fredericton-Oromocto,115,0.003096323
 4710,Regina-Moose Mountain,324,0.003093022
-2465,Abitibi-T閙iscamingue,488,0.003088503
+2465,Abitibi-T茅miscamingue,488,0.003088503
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,327,0.003086033
 2445,Laval,335,0.003085198
 5980,Northeast / Nord-est,325,0.003083314
 4880,Wood Buffalo-Cold Lake,327,0.003076432
 3550,Hamilton-Niagara Peninsula,334,0.003076083
-2440,Montr閍l,312,0.003073165
+2440,Montr茅al,312,0.003073165
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,481,0.003073165
 2475,Saguenay-Lac-Saint-Jean,523,0.003070274
 3550,Hamilton-Niagara Peninsula,323,0.003060186
 5930,Thompson-Okanagan,333,0.003059454
 4670,Parklands,485,0.003058104
 4610,Southeast / Sud-est,523,0.003053746
-2450,Lanaudi鑢e,523,0.003052711
+2450,Lanaudi猫re,523,0.003052711
 3540,Kitchener-Waterloo-Barrie,313,0.003051131
-1220,North Shore / C魌e-nord,312,0.003037224
+1220,North Shore / C么te-nord,312,0.003037224
 1320,Moncton-Richibucto,212,0.00303495
 3530,Toronto,327,0.003034831
 3570,Windsor-Sarnia,486,0.003024779
@@ -1540,11 +1540,11 @@ ERUID,ERNAME,NAICS,Concentration
 5950,Cariboo,111,0.003015909
 2460,Outaouais,323,0.003008452
 6010,Yukon,524,0.003002252
-2433,Centre-du-Qu閎ec,313,0.002996204
+2433,Centre-du-Qu茅bec,313,0.002996204
 3590,Northeast / Nord-est,492,0.00299543
 2470,Mauricie,315,0.002990351
 4680,North / Nord,485,0.002983981
-2440,Montr閍l,481,0.002975626
+2440,Montr茅al,481,0.002975626
 3560,London,323,0.002975595
 4850,Red Deer,115,0.002975356
 4720,Swift Current-Moose Jaw,327,0.002971884
@@ -1557,59 +1557,59 @@ ERUID,ERNAME,NAICS,Concentration
 3595,Northwest / Nord-ouest,111,0.002931975
 3540,Kitchener-Waterloo-Barrie,221,0.002921706
 2455,Laurentides,112,0.002917762
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,339,0.002916474
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,339,0.002916474
 3570,Windsor-Sarnia,492,0.002909768
 4880,Wood Buffalo-Cold Lake,524,0.002894125
 5930,Thompson-Okanagan,327,0.002893912
 3510,Ottawa,481,0.002891156
 3515,Kingston-Pembroke,115,0.002884476
-2465,Abitibi-T閙iscamingue,481,0.002883966
+2465,Abitibi-T茅miscamingue,481,0.002883966
 2460,Outaouais,115,0.00288111
 3530,Toronto,335,0.002865612
 3530,Toronto,221,0.002850458
 4840,Banff-Jasper-Rocky Mountain House,524,0.002848583
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,336,0.002846366
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,334,0.002846366
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,336,0.002846366
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,334,0.002846366
 3550,Hamilton-Niagara Peninsula,112,0.002845576
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,321,0.002841768
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,321,0.002841768
 5930,Thompson-Okanagan,337,0.002838732
 4630,Southwest / Sud-ouest,321,0.002837669
 4620,South Central / Centre sud,327,0.002822829
-2435,Mont閞間ie,322,0.002812568
+2435,Mont茅r茅gie,322,0.002812568
 3540,Kitchener-Waterloo-Barrie,322,0.002800542
 4750,Prince Albert,492,0.002799117
-2425,Chaudi鑢e-Appalaches,488,0.002792152
-2410,Gasp閟ie-蝜es-de-la-Madeleine,336,0.002771114
-2440,Montr閍l,327,0.002768184
+2425,Chaudi猫re-Appalaches,488,0.002792152
+2410,Gasp茅sie-脦les-de-la-Madeleine,336,0.002771114
+2440,Montr茅al,327,0.002768184
 1240,Southern / Sud,488,0.00276732
 4870,Athabasca-Grande Prairie-Peace River,212,0.002765871
 2420,Capitale-Nationale,112,0.002765163
 3595,Northwest / Nord-ouest,492,0.002763632
-2440,Montr閍l,492,0.002762689
+2440,Montr茅al,492,0.002762689
 3580,Stratford-Bruce Peninsula,313,0.002757386
 4630,Southwest / Sud-ouest,485,0.002754208
 1320,Moncton-Richibucto,523,0.002747428
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,212,0.002734194
-2410,Gasp閟ie-蝜es-de-la-Madeleine,112,0.002729754
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,212,0.002734194
+2410,Gasp茅sie-脦les-de-la-Madeleine,112,0.002729754
 4710,Regina-Moose Mountain,526,0.00272687
 5940,Kootenay,485,0.00272132
 1320,Moncton-Richibucto,339,0.002715481
 4610,Southeast / Sud-est,524,0.002714441
-2450,Lanaudi鑢e,488,0.002712375
+2450,Lanaudi猫re,488,0.002712375
 4860,Edmonton,339,0.002710303
 3540,Kitchener-Waterloo-Barrie,493,0.002706915
 4830,Calgary,327,0.002705683
 2430,Estrie,113,0.002703867
-2465,Abitibi-T閙iscamingue,111,0.002699883
+2465,Abitibi-T茅miscamingue,111,0.002699883
 4860,Edmonton,492,0.002699715
-1220,North Shore / C魌e-nord,492,0.002697055
+1220,North Shore / C么te-nord,492,0.002697055
 4740,Yorkton-Melville,221,0.002695548
 3560,London,314,0.002688856
 4830,Calgary,334,0.002685464
-2465,Abitibi-T閙iscamingue,335,0.00267943
+2465,Abitibi-T茅miscamingue,335,0.00267943
 2455,Laurentides,323,0.002673381
 1230,Annapolis Valley,339,0.002669495
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,327,0.002664087
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,327,0.002664087
 2460,Outaouais,337,0.002642344
 1210,Cape Breton,326,0.002636783
 3560,London,322,0.002629344
@@ -1629,22 +1629,22 @@ ERUID,ERNAME,NAICS,Concentration
 1250,Halifax,326,0.00258437
 4670,Parklands,327,0.002580275
 4840,Banff-Jasper-Rocky Mountain House,486,0.002578459
-2465,Abitibi-T閙iscamingue,312,0.002577161
+2465,Abitibi-T茅miscamingue,312,0.002577161
 3550,Hamilton-Niagara Peninsula,483,0.002575326
 1250,Halifax,483,0.002569972
 3550,Hamilton-Niagara Peninsula,221,0.002564728
 1310,Campbellton-Miramichi,112,0.002563566
 4810,Lethbridge-Medicine Hat,325,0.002561118
 3590,Northeast / Nord-est,482,0.002560197
-5960,North Coast / C魌e-nord,321,0.002559873
+5960,North Coast / C么te-nord,321,0.002559873
 5970,Nechako,481,0.002555072
 4840,Banff-Jasper-Rocky Mountain House,332,0.002553902
 5930,Thompson-Okanagan,339,0.002550567
 1010,Avalon Peninsula,492,0.002541541
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,333,0.002537893
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,333,0.002537893
 3590,Northeast / Nord-est,111,0.002534595
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,523,0.002528699
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,485,0.002528699
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,523,0.002528699
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,485,0.002528699
 3550,Hamilton-Niagara Peninsula,492,0.002527634
 3590,Northeast / Nord-est,311,0.002521794
 4830,Calgary,326,0.002520035
@@ -1657,7 +1657,7 @@ ERUID,ERNAME,NAICS,Concentration
 3520,Muskoka-Kawarthas,312,0.00248689
 4810,Lethbridge-Medicine Hat,211,0.002483508
 4830,Calgary,482,0.002481435
-2490,Nord-du-Qu閎ec,485,0.002475248
+2490,Nord-du-Qu茅bec,485,0.002475248
 4830,Calgary,339,0.002464892
 4620,South Central / Centre sud,523,0.00246356
 2415,Bas-Saint-Laurent,334,0.002462968
@@ -1665,7 +1665,7 @@ ERUID,ERNAME,NAICS,Concentration
 3540,Kitchener-Waterloo-Barrie,492,0.002456326
 4830,Calgary,325,0.002453864
 4650,Winnipeg,335,0.002453331
-2435,Mont閞間ie,212,0.002452559
+2435,Mont茅r茅gie,212,0.002452559
 1230,Annapolis Valley,337,0.002450084
 2415,Bas-Saint-Laurent,339,0.002445375
 4610,Southeast / Sud-est,339,0.002442997
@@ -1673,18 +1673,18 @@ ERUID,ERNAME,NAICS,Concentration
 2430,Estrie,331,0.002440658
 3590,Northeast / Nord-est,336,0.002438587
 3590,Northeast / Nord-est,481,0.002438587
-2425,Chaudi鑢e-Appalaches,115,0.002431875
+2425,Chaudi猫re-Appalaches,115,0.002431875
 4660,Interlake,493,0.002422968
 4830,Calgary,323,0.002420778
-2435,Mont閞間ie,115,0.002418808
+2435,Mont茅r茅gie,115,0.002418808
 4710,Regina-Moose Mountain,311,0.002418531
 2475,Saguenay-Lac-Saint-Jean,326,0.002411417
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,327,0.002408284
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,327,0.002408284
 3560,London,334,0.002402116
 1330,Saint John-St. Stephen,111,0.002401262
 4710,Regina-Moose Mountain,325,0.00239926
 6110,Northwest Territories / Territoires du Nord-Ouest,211,0.002396128
-2465,Abitibi-T閙iscamingue,326,0.002393078
+2465,Abitibi-T茅miscamingue,326,0.002393078
 3580,Stratford-Bruce Peninsula,483,0.002387347
 4840,Banff-Jasper-Rocky Mountain House,325,0.002382005
 4660,Interlake,485,0.002377252
@@ -1692,7 +1692,7 @@ ERUID,ERNAME,NAICS,Concentration
 2470,Mauricie,325,0.002371658
 4730,Saskatoon-Biggar,336,0.002362213
 1250,Halifax,323,0.002361207
-2425,Chaudi鑢e-Appalaches,334,0.002358182
+2425,Chaudi猫re-Appalaches,334,0.002358182
 4840,Banff-Jasper-Rocky Mountain House,111,0.002357448
 2420,Capitale-Nationale,492,0.002352324
 4730,Saskatoon-Biggar,321,0.002351761
@@ -1702,7 +1702,7 @@ ERUID,ERNAME,NAICS,Concentration
 4710,Regina-Moose Mountain,115,0.002331811
 2415,Bas-Saint-Laurent,483,0.002322227
 3515,Kingston-Pembroke,113,0.002321235
-2450,Lanaudi鑢e,115,0.002320473
+2450,Lanaudi猫re,115,0.002320473
 1010,Avalon Peninsula,336,0.002318776
 5930,Thompson-Okanagan,221,0.002317582
 3580,Stratford-Bruce Peninsula,312,0.002315727
@@ -1718,7 +1718,7 @@ ERUID,ERNAME,NAICS,Concentration
 4860,Edmonton,331,0.002288935
 1340,Fredericton-Oromocto,332,0.002288586
 1010,Avalon Peninsula,112,0.002288399
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,321,0.00228787
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,321,0.00228787
 1350,Edmundston-Woodstock,327,0.002284409
 4810,Lethbridge-Medicine Hat,339,0.00228394
 3580,Stratford-Bruce Peninsula,492,0.00226798
@@ -1727,16 +1727,16 @@ ERUID,ERNAME,NAICS,Concentration
 4750,Prince Albert,488,0.002247466
 3530,Toronto,481,0.002241269
 2420,Capitale-Nationale,335,0.002240513
-1220,North Shore / C魌e-nord,493,0.002235397
-1220,North Shore / C魌e-nord,333,0.002235397
-2410,Gasp閟ie-蝜es-de-la-Madeleine,327,0.002233435
-2410,Gasp閟ie-蝜es-de-la-Madeleine,492,0.002233435
+1220,North Shore / C么te-nord,493,0.002235397
+1220,North Shore / C么te-nord,333,0.002235397
+2410,Gasp茅sie-脦les-de-la-Madeleine,327,0.002233435
+2410,Gasp茅sie-脦les-de-la-Madeleine,492,0.002233435
 3540,Kitchener-Waterloo-Barrie,312,0.00223052
-2465,Abitibi-T閙iscamingue,337,0.002229449
+2465,Abitibi-T茅miscamingue,337,0.002229449
 4850,Red Deer,321,0.002227623
 1340,Fredericton-Oromocto,112,0.002221275
 3510,Ottawa,336,0.002218734
-5960,North Coast / C魌e-nord,523,0.002218556
+5960,North Coast / C么te-nord,523,0.002218556
 1250,Halifax,325,0.002210032
 5970,Nechako,212,0.002209792
 1210,Cape Breton,485,0.002208306
@@ -1747,15 +1747,15 @@ ERUID,ERNAME,NAICS,Concentration
 4640,North Central / Centre nord,325,0.002189621
 4640,North Central / Centre nord,492,0.002189621
 4650,Winnipeg,331,0.002179858
-2440,Montr閍l,482,0.00217196
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,312,0.00216866
+2440,Montr茅al,482,0.00217196
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,312,0.00216866
 1250,Halifax,482,0.002159641
-2440,Montr閍l,331,0.002158222
+2440,Montr茅al,331,0.002158222
 3550,Hamilton-Niagara Peninsula,321,0.002156703
 6110,Northwest Territories / Territoires du Nord-Ouest,115,0.002156515
 1250,Halifax,492,0.002152442
 4870,Athabasca-Grande Prairie-Peace River,481,0.002151233
-2410,Gasp閟ie-蝜es-de-la-Madeleine,524,0.002150716
+2410,Gasp茅sie-脦les-de-la-Madeleine,524,0.002150716
 4750,Prince Albert,485,0.002145309
 1250,Halifax,333,0.002145243
 4730,Saskatoon-Biggar,325,0.002142715
@@ -1763,7 +1763,7 @@ ERUID,ERNAME,NAICS,Concentration
 5970,Nechako,327,0.002140736
 5970,Nechako,483,0.002140736
 2430,Estrie,314,0.002129594
-2433,Centre-du-Qu閎ec,212,0.002128525
+2433,Centre-du-Qu茅bec,212,0.002128525
 3560,London,115,0.002126198
 1320,Moncton-Richibucto,312,0.002124465
 1230,Annapolis Valley,113,0.002120968
@@ -1773,23 +1773,23 @@ ERUID,ERNAME,NAICS,Concentration
 4720,Swift Current-Moose Jaw,485,0.002111602
 1340,Fredericton-Oromocto,523,0.002109089
 4620,South Central / Centre sud,315,0.002104291
-2450,Lanaudi鑢e,323,0.002093582
+2450,Lanaudi猫re,323,0.002093582
 1240,Southern / Sud,523,0.002091579
 4730,Saskatoon-Biggar,493,0.002090454
-2450,Lanaudi鑢e,212,0.002083269
+2450,Lanaudi猫re,212,0.002083269
 3510,Ottawa,493,0.002080063
 5970,Nechako,336,0.00207168
 1040,Notre Dame-Central Bonavista Bay,315,0.002070308
 1040,Notre Dame-Central Bonavista Bay,493,0.002070308
 2460,Outaouais,327,0.002069306
-2425,Chaudi鑢e-Appalaches,314,0.002063409
+2425,Chaudi猫re-Appalaches,314,0.002063409
 2415,Bas-Saint-Laurent,325,0.002058337
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,213,0.00205664
 4820,Camrose-Drumheller,327,0.002054217
 3595,Northwest / Nord-ouest,523,0.002048174
 1320,Moncton-Richibucto,327,0.002044598
 3580,Stratford-Bruce Peninsula,339,0.002041182
-2480,C魌e-Nord,111,0.002041125
+2480,C么te-Nord,111,0.002041125
 3580,Stratford-Bruce Peninsula,322,0.002029245
 3510,Ottawa,313,0.002019885
 4860,Edmonton,111,0.002017905
@@ -1797,32 +1797,32 @@ ERUID,ERNAME,NAICS,Concentration
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,492,0.002008387
 3530,Toronto,321,0.001997796
 1250,Halifax,213,0.001994068
-5960,North Coast / C魌e-nord,524,0.001991012
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,111,0.001988072
+5960,North Coast / C么te-nord,524,0.001991012
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,111,0.001988072
 5980,Northeast / Nord-est,221,0.001979812
 2445,Laval,492,0.001978992
 3515,Kingston-Pembroke,212,0.001971343
 2415,Bas-Saint-Laurent,213,0.001970374
-2433,Centre-du-Qu閎ec,324,0.001965835
+2433,Centre-du-Qu茅bec,324,0.001965835
 4660,Interlake,339,0.001965804
 3590,Northeast / Nord-est,326,0.001964951
-2465,Abitibi-T閙iscamingue,523,0.001963552
+2465,Abitibi-T茅miscamingue,523,0.001963552
 4880,Wood Buffalo-Cold Lake,488,0.001959801
 4810,Lethbridge-Medicine Hat,337,0.001951328
 4820,Camrose-Drumheller,324,0.001948873
-2425,Chaudi鑢e-Appalaches,325,0.001948775
+2425,Chaudi猫re-Appalaches,325,0.001948775
 3520,Muskoka-Kawarthas,323,0.001935498
 4650,Winnipeg,321,0.001930165
-2480,C魌e-Nord,483,0.001927729
-2480,C魌e-Nord,313,0.001927729
-2480,C魌e-Nord,493,0.001927729
-2465,Abitibi-T閙iscamingue,493,0.001922644
-2465,Abitibi-T閙iscamingue,492,0.001922644
+2480,C么te-Nord,483,0.001927729
+2480,C么te-Nord,313,0.001927729
+2480,C么te-Nord,493,0.001927729
+2465,Abitibi-T茅miscamingue,493,0.001922644
+2465,Abitibi-T茅miscamingue,492,0.001922644
 6110,Northwest Territories / Territoires du Nord-Ouest,486,0.001916902
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,485,0.001914666
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,485,0.001914666
 4870,Athabasca-Grande Prairie-Peace River,311,0.001908613
 1340,Fredericton-Oromocto,333,0.001907155
-2435,Mont閞間ie,492,0.001904108
+2435,Mont茅r茅gie,492,0.001904108
 5950,Cariboo,324,0.001903793
 1350,Edmundston-Woodstock,315,0.001903674
 1010,Avalon Peninsula,337,0.001893498
@@ -1842,29 +1842,29 @@ ERUID,ERNAME,NAICS,Concentration
 4650,Winnipeg,327,0.001854861
 2430,Estrie,323,0.001854422
 1320,Moncton-Richibucto,485,0.001852917
-2480,C魌e-Nord,492,0.001852132
-2435,Mont閞間ie,312,0.00185067
+2480,C么te-Nord,492,0.001852132
+2435,Mont茅r茅gie,312,0.00185067
 6210,Nunavut,523,0.001848429
-2450,Lanaudi鑢e,492,0.001846065
+2450,Lanaudi猫re,492,0.001846065
 3570,Windsor-Sarnia,337,0.00184592
 2430,Estrie,334,0.001842458
-2465,Abitibi-T閙iscamingue,315,0.00184083
+2465,Abitibi-T茅miscamingue,315,0.00184083
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,212,0.001840039
 3530,Toronto,315,0.001839689
 3515,Kingston-Pembroke,526,0.0018348
 1310,Campbellton-Miramichi,326,0.001831119
-2435,Mont閞間ie,315,0.001828169
+2435,Mont茅r茅gie,315,0.001828169
 4870,Athabasca-Grande Prairie-Peace River,327,0.00182774
 4870,Athabasca-Grande Prairie-Peace River,339,0.00182774
-2425,Chaudi鑢e-Appalaches,335,0.001825953
+2425,Chaudi猫re-Appalaches,335,0.001825953
 3570,Windsor-Sarnia,321,0.001822918
-5960,North Coast / C魌e-nord,112,0.001820354
+5960,North Coast / C么te-nord,112,0.001820354
 3515,Kingston-Pembroke,312,0.001817732
 1340,Fredericton-Oromocto,337,0.001817407
 4840,Banff-Jasper-Rocky Mountain House,311,0.0018172
-2433,Centre-du-Qu閎ec,113,0.001816703
+2433,Centre-du-Qu茅bec,113,0.001816703
 4670,Parklands,492,0.001815749
-2450,Lanaudi鑢e,312,0.001815125
+2450,Lanaudi猫re,312,0.001815125
 3510,Ottawa,331,0.001813187
 4710,Regina-Moose Mountain,112,0.001811489
 5950,Cariboo,327,0.001809545
@@ -1874,7 +1874,7 @@ ERUID,ERNAME,NAICS,Concentration
 1330,Saint John-St. Stephen,312,0.001791986
 3550,Hamilton-Niagara Peninsula,322,0.00179107
 3540,Kitchener-Waterloo-Barrie,314,0.001789924
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,114,0.001780732
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,114,0.001780732
 3590,Northeast / Nord-est,112,0.001772936
 2475,Saguenay-Lac-Saint-Jean,481,0.001765737
 1250,Halifax,481,0.001763707
@@ -1882,7 +1882,7 @@ ERUID,ERNAME,NAICS,Concentration
 6210,Nunavut,524,0.001760408
 5950,Cariboo,311,0.001752997
 4630,Southwest / Sud-ouest,339,0.001752678
-2425,Chaudi鑢e-Appalaches,315,0.00175226
+2425,Chaudi猫re-Appalaches,315,0.00175226
 2420,Capitale-Nationale,312,0.001750267
 2430,Estrie,115,0.001746746
 2420,Capitale-Nationale,336,0.001745966
@@ -1891,15 +1891,15 @@ ERUID,ERNAME,NAICS,Concentration
 5950,Cariboo,492,0.001734148
 4880,Wood Buffalo-Cold Lake,321,0.001731917
 4850,Red Deer,331,0.001729134
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,115,0.001725937
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,115,0.001725937
 4830,Calgary,331,0.0017223
 4820,Camrose-Drumheller,336,0.001720626
 5930,Thompson-Okanagan,323,0.001716728
 3560,London,492,0.001715025
 1210,Cape Breton,213,0.001713909
 1010,Avalon Peninsula,321,0.001711236
-5960,North Coast / C魌e-nord,492,0.001706582
-2450,Lanaudi鑢e,493,0.00170168
+5960,North Coast / C么te-nord,492,0.001706582
+2450,Lanaudi猫re,493,0.00170168
 1040,Notre Dame-Central Bonavista Bay,523,0.001697652
 4610,Southeast / Sud-est,482,0.001696526
 4610,Southeast / Sud-est,322,0.001696526
@@ -1914,10 +1914,10 @@ ERUID,ERNAME,NAICS,Concentration
 2470,Mauricie,492,0.00166458
 2420,Capitale-Nationale,322,0.001664258
 5970,Nechako,523,0.001657344
-2465,Abitibi-T閙iscamingue,336,0.001656747
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,333,0.001656726
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,327,0.001656726
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,337,0.001656726
+2465,Abitibi-T茅miscamingue,336,0.001656747
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,333,0.001656726
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,327,0.001656726
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,337,0.001656726
 1010,Avalon Peninsula,111,0.001650482
 2470,Mauricie,312,0.001649849
 4870,Athabasca-Grande Prairie-Peace River,333,0.001649818
@@ -1926,7 +1926,7 @@ ERUID,ERNAME,NAICS,Concentration
 4830,Calgary,312,0.001637747
 2415,Bas-Saint-Laurent,492,0.001636114
 2470,Mauricie,331,0.001635118
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,327,0.001632505
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,327,0.001632505
 1330,Saint John-St. Stephen,115,0.001630707
 1250,Halifax,321,0.001626929
 6010,Yukon,311,0.00162622
@@ -1935,7 +1935,7 @@ ERUID,ERNAME,NAICS,Concentration
 5980,Northeast / Nord-est,311,0.001622797
 1250,Halifax,324,0.00161973
 4760,Northern / Nord,524,0.001616554
-2433,Centre-du-Qu閎ec,493,0.001613341
+2433,Centre-du-Qu茅bec,493,0.001613341
 4850,Red Deer,339,0.001604511
 4720,Swift Current-Moose Jaw,482,0.001603253
 3510,Ottawa,492,0.001601256
@@ -1943,27 +1943,27 @@ ERUID,ERNAME,NAICS,Concentration
 3540,Kitchener-Waterloo-Barrie,115,0.001597163
 1330,Saint John-St. Stephen,493,0.001594868
 4650,Winnipeg,211,0.001593278
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,323,0.001592196
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,487,0.001589104
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,323,0.001592196
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,487,0.001589104
 4850,Red Deer,323,0.001588934
 1210,Cape Breton,336,0.00158207
 1320,Moncton-Richibucto,113,0.001581369
-1220,North Shore / C魌e-nord,314,0.001579357
+1220,North Shore / C么te-nord,314,0.001579357
 1250,Halifax,312,0.001576538
 2460,Outaouais,332,0.001575856
-2410,Gasp閟ie-蝜es-de-la-Madeleine,487,0.001571677
+2410,Gasp茅sie-脦les-de-la-Madeleine,487,0.001571677
 1340,Fredericton-Oromocto,485,0.001570598
 1310,Campbellton-Miramichi,526,0.00156953
 3540,Kitchener-Waterloo-Barrie,212,0.001566872
 4720,Swift Current-Moose Jaw,211,0.00156415
-2490,Nord-du-Qu閎ec,111,0.00155587
+2490,Nord-du-Qu茅bec,111,0.00155587
 4660,Interlake,114,0.001554357
 3530,Toronto,312,0.001537116
 1230,Annapolis Valley,333,0.001535874
 3510,Ottawa,326,0.001535845
 4640,North Central / Centre nord,336,0.001532735
 2445,Laval,334,0.00153245
-2440,Montr閍l,313,0.001530401
+2440,Montr茅al,313,0.001530401
 2460,Outaouais,112,0.001528103
 4650,Winnipeg,334,0.001517974
 2415,Bas-Saint-Laurent,326,0.001512966
@@ -1973,39 +1973,39 @@ ERUID,ERNAME,NAICS,Concentration
 2455,Laurentides,313,0.001495908
 4730,Saskatoon-Biggar,339,0.001494675
 4740,Yorkton-Melville,113,0.001492178
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,523,0.001491054
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,523,0.001491054
 1310,Campbellton-Miramichi,337,0.001491054
 1040,Notre Dame-Central Bonavista Bay,213,0.001490622
 5950,Cariboo,312,0.001489105
-2490,Nord-du-Qu閎ec,332,0.001485149
+2490,Nord-du-Qu茅bec,332,0.001485149
 5930,Thompson-Okanagan,335,0.001483743
 4880,Wood Buffalo-Cold Lake,113,0.001481245
 1240,Southern / Sud,314,0.001480194
-2435,Mont閞間ie,314,0.001479411
-5960,North Coast / C魌e-nord,327,0.001479037
+2435,Mont茅r茅gie,314,0.001479411
+5960,North Coast / C么te-nord,327,0.001479037
 4840,Banff-Jasper-Rocky Mountain House,115,0.001473405
 4840,Banff-Jasper-Rocky Mountain House,492,0.001473405
 2470,Mauricie,316,0.001473079
 3595,Northwest / Nord-ouest,526,0.001473002
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,337,0.001467585
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,337,0.001467585
 3560,London,312,0.001466157
 4660,Interlake,213,0.001462924
 5980,Northeast / Nord-est,333,0.001460517
 3515,Kingston-Pembroke,334,0.001459306
 3595,Northwest / Nord-ouest,339,0.001458973
-1220,North Shore / C魌e-nord,334,0.001457868
+1220,North Shore / C么te-nord,334,0.001457868
 4860,Edmonton,334,0.001456788
-2450,Lanaudi鑢e,322,0.001454163
+2450,Lanaudi猫re,322,0.001454163
 3550,Hamilton-Niagara Peninsula,115,0.001451933
 4750,Prince Albert,339,0.001450637
 4850,Red Deer,212,0.001448734
 1010,Avalon Peninsula,327,0.001447969
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,493,0.001444971
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,493,0.001444971
 3530,Toronto,213,0.001442656
 4830,Calgary,335,0.001441071
 3590,Northeast / Nord-est,313,0.001440111
 6110,Northwest Territories / Territoires du Nord-Ouest,325,0.001437677
-2480,C魌e-Nord,481,0.001436347
+2480,C么te-Nord,481,0.001436347
 3510,Ottawa,526,0.001428571
 5940,Kootenay,325,0.001424441
 3530,Toronto,212,0.001423461
@@ -2025,7 +2025,7 @@ ERUID,ERNAME,NAICS,Concentration
 3510,Ottawa,221,0.001381476
 6010,Yukon,492,0.001376032
 1250,Halifax,526,0.001374971
-2450,Lanaudi鑢e,113,0.001371657
+2450,Lanaudi猫re,113,0.001371657
 4660,Interlake,312,0.001371491
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,315,0.001371451
 4820,Camrose-Drumheller,493,0.001369478
@@ -2035,7 +2035,7 @@ ERUID,ERNAME,NAICS,Concentration
 2430,Estrie,316,0.001351933
 2430,Estrie,312,0.001351933
 1210,Cape Breton,312,0.001351351
-2425,Chaudi鑢e-Appalaches,212,0.001342853
+2425,Chaudi猫re-Appalaches,212,0.001342853
 6110,Northwest Territories / Territoires du Nord-Ouest,492,0.001341832
 5940,Kootenay,492,0.0013394
 4670,Parklands,488,0.00133792
@@ -2044,40 +2044,40 @@ ERUID,ERNAME,NAICS,Concentration
 3580,Stratford-Bruce Peninsula,316,0.001336914
 3590,Northeast / Nord-est,339,0.001331302
 5980,Northeast / Nord-est,339,0.001330694
-2465,Abitibi-T閙iscamingue,325,0.001329488
+2465,Abitibi-T茅miscamingue,325,0.001329488
 3520,Muskoka-Kawarthas,337,0.001327842
-2435,Mont閞間ie,313,0.001327532
+2435,Mont茅r茅gie,313,0.001327532
 1340,Fredericton-Oromocto,311,0.00132379
-2410,Gasp閟ie-蝜es-de-la-Madeleine,337,0.001323517
+2410,Gasp茅sie-脦les-de-la-Madeleine,337,0.001323517
 4610,Southeast / Sud-est,113,0.00132329
-2440,Montr閍l,324,0.001321585
+2440,Montr茅al,324,0.001321585
 1210,Cape Breton,482,0.001318392
 2455,Laurentides,212,0.001318177
 4820,Camrose-Drumheller,321,0.001316806
 2430,Estrie,492,0.001316041
 4640,North Central / Centre nord,493,0.001313773
 6010,Yukon,312,0.001313485
-1220,North Shore / C魌e-nord,485,0.001312081
+1220,North Shore / C么te-nord,485,0.001312081
 4680,North / Nord,523,0.001308763
 3510,Ottawa,521,0.001308216
 1340,Fredericton-Oromocto,212,0.001301353
 1340,Fredericton-Oromocto,312,0.001301353
 3510,Ottawa,337,0.001287284
 3570,Windsor-Sarnia,481,0.001276618
-2490,Nord-du-Qu閎ec,523,0.001272984
+2490,Nord-du-Qu茅bec,523,0.001272984
 4860,Edmonton,112,0.001272572
 3510,Ottawa,115,0.001268969
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,113,0.001266367
 2475,Saguenay-Lac-Saint-Jean,221,0.001265005
 3570,Windsor-Sarnia,213,0.001259366
-2480,C魌e-Nord,524,0.001247354
+2480,C么te-Nord,524,0.001247354
 1230,Annapolis Valley,492,0.001243326
 5970,Nechako,492,0.001243008
 5970,Nechako,332,0.001243008
-2410,Gasp閟ie-蝜es-de-la-Madeleine,482,0.001240797
+2410,Gasp茅sie-脦les-de-la-Madeleine,482,0.001240797
 4640,North Central / Centre nord,485,0.001240785
-1220,North Shore / C魌e-nord,483,0.001239187
-2440,Montr閍l,526,0.001239157
+1220,North Shore / C么te-nord,483,0.001239187
+2440,Montr茅al,526,0.001239157
 2475,Saguenay-Lac-Saint-Jean,323,0.001238651
 3515,Kingston-Pembroke,323,0.001237423
 1330,Saint John-St. Stephen,492,0.001236471
@@ -2087,14 +2087,14 @@ ERUID,ERNAME,NAICS,Concentration
 3560,London,481,0.001228109
 4710,Regina-Moose Mountain,336,0.001223719
 4850,Red Deer,493,0.001215067
-1220,North Shore / C魌e-nord,316,0.00121489
-1220,North Shore / C魌e-nord,335,0.00121489
+1220,North Shore / C么te-nord,316,0.00121489
+1220,North Shore / C么te-nord,335,0.00121489
 4710,Regina-Moose Mountain,323,0.001214083
 4650,Winnipeg,312,0.001212794
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,334,0.001209263
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,334,0.001209263
 4880,Wood Buffalo-Cold Lake,486,0.001207785
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,323,0.00120585
-2435,Mont閞間ie,221,0.001203779
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,323,0.00120585
+2435,Mont茅r茅gie,221,0.001203779
 4740,Yorkton-Melville,488,0.001203369
 4820,Camrose-Drumheller,326,0.001193904
 3570,Windsor-Sarnia,334,0.00119036
@@ -2107,13 +2107,13 @@ ERUID,ERNAME,NAICS,Concentration
 4830,Calgary,115,0.001174546
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,114,0.001174151
 4730,Saskatoon-Biggar,211,0.001170654
-2435,Mont閞間ie,481,0.001167216
+2435,Mont茅r茅gie,481,0.001167216
 2420,Capitale-Nationale,212,0.001165411
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,483,0.0011645
 4860,Edmonton,486,0.001162466
 4880,Wood Buffalo-Cold Lake,325,0.001162208
 4650,Winnipeg,111,0.00116127
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,237,0.001159708
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,237,0.001159708
 2475,Saguenay-Lac-Saint-Jean,312,0.001159588
 4860,Edmonton,336,0.001156113
 4740,Yorkton-Melville,485,0.001155235
@@ -2126,7 +2126,7 @@ ERUID,ERNAME,NAICS,Concentration
 4750,Prince Albert,326,0.001144165
 4880,Wood Buffalo-Cold Lake,315,0.001139419
 4880,Wood Buffalo-Cold Lake,339,0.001139419
-5960,North Coast / C魌e-nord,312,0.001137721
+5960,North Coast / C么te-nord,312,0.001137721
 1010,Avalon Peninsula,339,0.001134074
 1010,Avalon Peninsula,323,0.001134074
 2475,Saguenay-Lac-Saint-Jean,487,0.001133234
@@ -2144,7 +2144,7 @@ ERUID,ERNAME,NAICS,Concentration
 1250,Halifax,337,0.001115814
 3520,Muskoka-Kawarthas,493,0.001114037
 4810,Lethbridge-Medicine Hat,212,0.001108709
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,483,0.001108491
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,483,0.001108491
 5970,Nechako,323,0.001104896
 1320,Moncton-Richibucto,115,0.001102166
 4680,North / Nord,332,0.001099361
@@ -2159,19 +2159,19 @@ ERUID,ERNAME,NAICS,Concentration
 1210,Cape Breton,321,0.001087673
 4810,Lethbridge-Medicine Hat,323,0.001086535
 2445,Laval,315,0.001085909
-2433,Centre-du-Qu閎ec,312,0.001084599
+2433,Centre-du-Qu茅bec,312,0.001084599
 1340,Fredericton-Oromocto,492,0.001076982
 4730,Saskatoon-Biggar,312,0.001076584
 2420,Capitale-Nationale,113,0.001075102
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,492,0.001074982
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,492,0.001074982
 2455,Laurentides,315,0.001073796
-2433,Centre-du-Qu閎ec,314,0.001071041
+2433,Centre-du-Qu茅bec,314,0.001071041
 4860,Edmonton,482,0.001069299
 2475,Saguenay-Lac-Saint-Jean,314,0.001067348
 6010,Yukon,115,0.001063297
 6010,Yukon,323,0.001063297
 5940,Kootenay,483,0.001063016
-2490,Nord-du-Qu閎ec,524,0.00106082
+2490,Nord-du-Qu茅bec,524,0.00106082
 3550,Hamilton-Niagara Peninsula,324,0.001054506
 6110,Northwest Territories / Territoires du Nord-Ouest,114,0.001054296
 4670,Parklands,212,0.001051223
@@ -2179,7 +2179,7 @@ ERUID,ERNAME,NAICS,Concentration
 1350,Edmundston-Woodstock,212,0.001047021
 1350,Edmundston-Woodstock,221,0.001047021
 1350,Edmundston-Woodstock,314,0.001047021
-1220,North Shore / C魌e-nord,213,0.001044805
+1220,North Shore / C么te-nord,213,0.001044805
 3580,Stratford-Bruce Peninsula,325,0.001038496
 2415,Bas-Saint-Laurent,493,0.001037965
 2445,Laval,327,0.001035165
@@ -2188,18 +2188,18 @@ ERUID,ERNAME,NAICS,Concentration
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,482,0.001024031
 1010,Avalon Peninsula,331,0.001022692
 1210,Cape Breton,323,0.001021753
-2480,C魌e-Nord,523,0.001020562
+2480,C么te-Nord,523,0.001020562
 5950,Cariboo,337,0.001017869
-2433,Centre-du-Qu閎ec,492,0.001016811
+2433,Centre-du-Qu茅bec,492,0.001016811
 4720,Swift Current-Moose Jaw,337,0.001016697
 4830,Calgary,111,0.001014631
-2440,Montr閍l,314,0.001011108
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,325,0.001003452
-2440,Montr閍l,115,0.001001492
+2440,Montr茅al,314,0.001011108
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,325,0.001003452
+2440,Montr茅al,115,0.001001492
 6010,Yukon,332,0.001000751
 3590,Northeast / Nord-est,325,0.000998477
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,492,0.000994036
-2410,Gasp閟ie-蝜es-de-la-Madeleine,493,0.000992638
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,492,0.000994036
+2410,Gasp茅sie-脦les-de-la-Madeleine,493,0.000992638
 3515,Kingston-Pembroke,315,0.000989938
 1210,Cape Breton,314,0.000988794
 1330,Saint John-St. Stephen,482,0.000985592
@@ -2212,8 +2212,8 @@ ERUID,ERNAME,NAICS,Concentration
 2430,Estrie,324,0.000969085
 6210,Nunavut,485,0.000968225
 2415,Bas-Saint-Laurent,221,0.000967594
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,492,0.00096741
-5960,North Coast / C魌e-nord,111,0.000967063
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,492,0.00096741
+5960,North Coast / C么te-nord,111,0.000967063
 5970,Nechako,221,0.000966784
 3590,Northeast / Nord-est,337,0.000966474
 1240,Southern / Sud,483,0.000965344
@@ -2228,17 +2228,17 @@ ERUID,ERNAME,NAICS,Concentration
 3550,Hamilton-Niagara Peninsula,315,0.000948525
 4630,Southwest / Sud-ouest,493,0.00094589
 3520,Muskoka-Kawarthas,115,0.000945243
-2440,Montr閍l,321,0.000943793
+2440,Montr茅al,321,0.000943793
 1340,Fredericton-Oromocto,336,0.000942359
 6010,Yukon,491,0.000938204
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,493,0.000934767
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,493,0.000934767
 4850,Red Deer,324,0.000934667
 4710,Regina-Moose Mountain,312,0.000925016
 4620,South Central / Centre sud,485,0.000923835
 2475,Saguenay-Lac-Saint-Jean,335,0.0009224
 3530,Toronto,482,0.000921865
 4610,Southeast / Sud-est,485,0.000916124
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,221,0.000916072
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,221,0.000916072
 1310,Campbellton-Miramichi,336,0.000915559
 4740,Yorkton-Melville,493,0.000914561
 4660,Interlake,334,0.000914328
@@ -2246,10 +2246,10 @@ ERUID,ERNAME,NAICS,Concentration
 1330,Saint John-St. Stephen,334,0.000913913
 4820,Camrose-Drumheller,323,0.000912985
 3595,Northwest / Nord-ouest,112,0.000911858
-2410,Gasp閟ie-蝜es-de-la-Madeleine,323,0.000909918
-2410,Gasp閟ie-蝜es-de-la-Madeleine,332,0.000909918
+2410,Gasp茅sie-脦les-de-la-Madeleine,323,0.000909918
+2410,Gasp茅sie-脦les-de-la-Madeleine,332,0.000909918
 2460,Outaouais,212,0.000907311
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,212,0.000906947
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,212,0.000906947
 4720,Swift Current-Moose Jaw,323,0.000899386
 1340,Fredericton-Oromocto,324,0.000897485
 3515,Kingston-Pembroke,314,0.000896065
@@ -2275,13 +2275,13 @@ ERUID,ERNAME,NAICS,Concentration
 2475,Saguenay-Lac-Saint-Jean,325,0.000843337
 4680,North / Nord,115,0.000837609
 3550,Hamilton-Niagara Peninsula,314,0.000837246
-2440,Montr閍l,483,0.000836637
+2440,Montr茅al,483,0.000836637
 1240,Southern / Sud,487,0.000836632
 4630,Southwest / Sud-ouest,323,0.000834608
 2445,Laval,313,0.000832192
 1340,Fredericton-Oromocto,493,0.000830173
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,332,0.000828363
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,323,0.000828363
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,332,0.000828363
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,323,0.000828363
 1040,Notre Dame-Central Bonavista Bay,483,0.000828123
 1040,Notre Dame-Central Bonavista Bay,335,0.000828123
 2460,Outaouais,336,0.000827722
@@ -2317,26 +2317,26 @@ ERUID,ERNAME,NAICS,Concentration
 4830,Calgary,526,0.000781193
 2470,Mauricie,212,0.000780732
 2455,Laurentides,213,0.000777576
-1220,North Shore / C魌e-nord,339,0.000777529
+1220,North Shore / C么te-nord,339,0.000777529
 3520,Muskoka-Kawarthas,113,0.00077645
 4740,Yorkton-Melville,326,0.000770156
 4620,South Central / Centre sud,221,0.000769862
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,332,0.000762623
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,325,0.000761835
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,332,0.000762623
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,325,0.000761835
 1350,Edmundston-Woodstock,485,0.00076147
 4650,Winnipeg,316,0.000760969
 1210,Cape Breton,327,0.000758075
-2465,Abitibi-T閙iscamingue,339,0.000756786
-2465,Abitibi-T閙iscamingue,323,0.000756786
-2480,C魌e-Nord,312,0.000755972
+2465,Abitibi-T茅miscamingue,339,0.000756786
+2465,Abitibi-T茅miscamingue,323,0.000756786
+2480,C么te-Nord,312,0.000755972
 3570,Windsor-Sarnia,114,0.000753319
 3540,Kitchener-Waterloo-Barrie,316,0.000751768
 1320,Moncton-Richibucto,213,0.000750751
 6010,Yukon,337,0.000750563
 4860,Edmonton,115,0.000745333
-2425,Chaudi鑢e-Appalaches,492,0.00074512
+2425,Chaudi猫re-Appalaches,492,0.00074512
 4720,Swift Current-Moose Jaw,339,0.000742971
-2450,Lanaudi鑢e,331,0.000742551
+2450,Lanaudi猫re,331,0.000742551
 4730,Saskatoon-Biggar,335,0.000742111
 2415,Bas-Saint-Laurent,316,0.00073889
 4840,Banff-Jasper-Rocky Mountain House,481,0.000736703
@@ -2347,10 +2347,10 @@ ERUID,ERNAME,NAICS,Concentration
 3520,Muskoka-Kawarthas,324,0.000731438
 2445,Laval,314,0.000730705
 4640,North Central / Centre nord,326,0.000729874
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,113,0.000725558
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,113,0.000725558
 1210,Cape Breton,493,0.000725115
 6110,Northwest Territories / Territoires du Nord-Ouest,327,0.000718838
-2480,C魌e-Nord,339,0.000718174
+2480,C么te-Nord,339,0.000718174
 2420,Capitale-Nationale,324,0.000718168
 2460,Outaouais,326,0.000716298
 3595,Northwest / Nord-ouest,323,0.000715458
@@ -2359,27 +2359,27 @@ ERUID,ERNAME,NAICS,Concentration
 4870,Athabasca-Grande Prairie-Peace River,337,0.000711686
 2445,Laval,212,0.000710407
 1240,Southern / Sud,221,0.000707919
-2490,Nord-du-Qu閎ec,526,0.000707214
-2490,Nord-du-Qu閎ec,327,0.000707214
-2490,Nord-du-Qu閎ec,337,0.000707214
-2490,Nord-du-Qu閎ec,325,0.000707214
+2490,Nord-du-Qu茅bec,526,0.000707214
+2490,Nord-du-Qu茅bec,327,0.000707214
+2490,Nord-du-Qu茅bec,337,0.000707214
+2490,Nord-du-Qu茅bec,325,0.000707214
 3550,Hamilton-Niagara Peninsula,313,0.00070477
 1040,Notre Dame-Central Bonavista Bay,337,0.000703905
 3595,Northwest / Nord-ouest,486,0.00070143
 1250,Halifax,335,0.000691085
-2450,Lanaudi鑢e,315,0.000690985
+2450,Lanaudi猫re,315,0.000690985
 3570,Windsor-Sarnia,322,0.000690064
 3540,Kitchener-Waterloo-Barrie,481,0.000688432
 4840,Banff-Jasper-Rocky Mountain House,339,0.000687589
 4820,Camrose-Drumheller,334,0.000684739
-5960,North Coast / C魌e-nord,323,0.000682633
+5960,North Coast / C么te-nord,323,0.000682633
 1330,Saint John-St. Stephen,325,0.000680955
 1310,Campbellton-Miramichi,485,0.00068013
 1250,Halifax,112,0.000676687
 1240,Southern / Sud,485,0.000675741
 1240,Southern / Sud,334,0.000675741
 1240,Southern / Sud,213,0.000675741
-2440,Montr閍l,316,0.00067453
+2440,Montr茅al,316,0.00067453
 5930,Thompson-Okanagan,325,0.000674429
 1340,Fredericton-Oromocto,313,0.000673114
 3510,Ottawa,312,0.000669806
@@ -2389,19 +2389,19 @@ ERUID,ERNAME,NAICS,Concentration
 4860,Edmonton,312,0.000662754
 1040,Notre Dame-Central Bonavista Bay,487,0.000662498
 3510,Ottawa,212,0.000661957
-2410,Gasp閟ie-蝜es-de-la-Madeleine,523,0.000661759
+2410,Gasp茅sie-脦les-de-la-Madeleine,523,0.000661759
 5950,Cariboo,326,0.00065973
 3595,Northwest / Nord-ouest,326,0.000659344
 1210,Cape Breton,324,0.000659196
 2475,Saguenay-Lac-Saint-Jean,482,0.000658857
 5930,Thompson-Okanagan,331,0.000649904
-2450,Lanaudi鑢e,324,0.000649732
+2450,Lanaudi猫re,324,0.000649732
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,526,0.000648732
 4870,Athabasca-Grande Prairie-Peace River,482,0.000646987
 2455,Laurentides,221,0.000644277
 1240,Southern / Sud,313,0.000643563
 3590,Northeast / Nord-est,486,0.000640049
-2450,Lanaudi鑢e,221,0.000639419
+2450,Lanaudi猫re,221,0.000639419
 2470,Mauricie,314,0.000633424
 4820,Camrose-Drumheller,337,0.000632067
 2455,Laurentides,314,0.000629466
@@ -2412,41 +2412,41 @@ ERUID,ERNAME,NAICS,Concentration
 5950,Cariboo,221,0.000622031
 1040,Notre Dame-Central Bonavista Bay,339,0.000621092
 2460,Outaouais,333,0.000620792
-2410,Gasp閟ie-蝜es-de-la-Madeleine,315,0.000620399
-2450,Lanaudi鑢e,334,0.000618793
+2410,Gasp茅sie-脦les-de-la-Madeleine,315,0.000620399
+2450,Lanaudi猫re,334,0.000618793
 2415,Bas-Saint-Laurent,324,0.000615742
-2465,Abitibi-T閙iscamingue,221,0.00061361
+2465,Abitibi-T茅miscamingue,221,0.00061361
 4750,Prince Albert,337,0.000612945
 4830,Calgary,322,0.000612087
 1330,Saint John-St. Stephen,487,0.000609275
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,487,0.000606913
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,335,0.000604631
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,336,0.000602071
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,335,0.000604631
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,336,0.000602071
 3580,Stratford-Bruce Peninsula,482,0.000596837
 5940,Kootenay,323,0.000595289
-2425,Chaudi鑢e-Appalaches,221,0.000589545
+2425,Chaudi猫re-Appalaches,221,0.000589545
 1230,Annapolis Valley,212,0.000585095
 2420,Capitale-Nationale,213,0.000584856
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,312,0.000584477
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,312,0.000584477
 5950,Cariboo,336,0.000584332
 1340,Fredericton-Oromocto,334,0.000583365
-1220,North Shore / C魌e-nord,481,0.000583147
+1220,North Shore / C么te-nord,481,0.000583147
 1310,Campbellton-Miramichi,493,0.000575494
 1320,Moncton-Richibucto,221,0.000575043
-2425,Chaudi鑢e-Appalaches,312,0.000573169
+2425,Chaudi猫re-Appalaches,312,0.000573169
 3530,Toronto,115,0.000572314
 5930,Thompson-Okanagan,324,0.000570199
-2480,C魌e-Nord,314,0.000566979
+2480,C么te-Nord,314,0.000566979
 4870,Athabasca-Grande Prairie-Peace River,323,0.000566114
 4620,South Central / Centre sud,325,0.000564566
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,493,0.000564323
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,493,0.000564323
 4650,Winnipeg,314,0.0005628
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,339,0.000561933
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,339,0.000561933
 3580,Stratford-Bruce Peninsula,113,0.000561027
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,314,0.000559732
 4630,Southwest / Sud-ouest,113,0.000556406
 4810,Lethbridge-Medicine Hat,335,0.000554354
-2465,Abitibi-T閙iscamingue,324,0.000552249
+2465,Abitibi-T茅miscamingue,324,0.000552249
 4660,Interlake,325,0.000548597
 4820,Camrose-Drumheller,482,0.00054428
 5930,Thompson-Okanagan,487,0.000539543
@@ -2454,7 +2454,7 @@ ERUID,ERNAME,NAICS,Concentration
 4750,Prince Albert,221,0.000531219
 3510,Ottawa,487,0.000531136
 4740,Yorkton-Melville,323,0.000529483
-2480,C魌e-Nord,112,0.000529181
+2480,C么te-Nord,112,0.000529181
 2415,Bas-Saint-Laurent,314,0.000527779
 6110,Northwest Territories / Territoires du Nord-Ouest,112,0.000527148
 1010,Avalon Peninsula,326,0.000526534
@@ -2465,23 +2465,23 @@ ERUID,ERNAME,NAICS,Concentration
 3570,Windsor-Sarnia,335,0.000523298
 4850,Red Deer,326,0.000514067
 4620,South Central / Centre sud,324,0.000513242
-1220,North Shore / C魌e-nord,337,0.000510254
+1220,North Shore / C么te-nord,337,0.000510254
 4610,Southeast / Sud-est,314,0.000508958
 4610,Southeast / Sud-est,323,0.000508958
 1010,Avalon Peninsula,491,0.000506283
-2433,Centre-du-Qu閎ec,334,0.000501627
+2433,Centre-du-Qu茅bec,334,0.000501627
 6010,Yukon,339,0.000500375
 6010,Yukon,111,0.000500375
 3510,Ottawa,322,0.000499738
-2425,Chaudi鑢e-Appalaches,481,0.000499476
+2425,Chaudi猫re-Appalaches,481,0.000499476
 1040,Notre Dame-Central Bonavista Bay,323,0.000496874
-2410,Gasp閟ie-蝜es-de-la-Madeleine,221,0.000496319
+2410,Gasp茅sie-脦les-de-la-Madeleine,221,0.000496319
 2460,Outaouais,324,0.00049345
-2480,C魌e-Nord,323,0.000491382
-1220,North Shore / C魌e-nord,211,0.000485956
-1220,North Shore / C魌e-nord,482,0.000485956
+2480,C么te-Nord,323,0.000491382
+1220,North Shore / C么te-nord,211,0.000485956
+1220,North Shore / C么te-nord,482,0.000485956
 4760,Northern / Nord,113,0.000484966
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,339,0.000483705
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,339,0.000483705
 1240,Southern / Sud,323,0.000482672
 4710,Regina-Moose Mountain,322,0.000481779
 4740,Yorkton-Melville,492,0.000481348
@@ -2492,25 +2492,25 @@ ERUID,ERNAME,NAICS,Concentration
 4670,Parklands,493,0.000477829
 2460,Outaouais,483,0.000477532
 2460,Outaouais,493,0.000477532
-2440,Montr閍l,212,0.000475331
+2440,Montr茅al,212,0.000475331
 2475,Saguenay-Lac-Saint-Jean,324,0.000474377
 2420,Capitale-Nationale,314,0.000473045
 4680,North / Nord,112,0.000471155
 3530,Toronto,324,0.000467752
 4840,Banff-Jasper-Rocky Mountain House,323,0.000466578
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,315,0.000463551
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,337,0.000463551
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,315,0.000463551
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,337,0.000463551
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,324,0.000463227
 4880,Wood Buffalo-Cold Lake,335,0.000455768
 3510,Ottawa,314,0.000455259
-2410,Gasp閟ie-蝜es-de-la-Madeleine,325,0.000454959
+2410,Gasp茅sie-脦les-de-la-Madeleine,325,0.000454959
 3590,Northeast / Nord-est,491,0.000454435
 4750,Prince Albert,493,0.000449493
 4750,Prince Albert,325,0.000449493
-2440,Montr閍l,487,0.000447855
-2435,Mont閞間ie,324,0.000447198
+2440,Montr茅al,487,0.000447855
+2435,Mont茅r茅gie,324,0.000447198
 4630,Southwest / Sud-ouest,481,0.000445124
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,333,0.000441519
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,333,0.000441519
 6210,Nunavut,493,0.000440102
 4820,Camrose-Drumheller,487,0.000438935
 4640,North Central / Centre nord,113,0.000437924
@@ -2522,17 +2522,17 @@ ERUID,ERNAME,NAICS,Concentration
 5940,Kootenay,326,0.000425206
 3595,Northwest / Nord-ouest,324,0.000420858
 4870,Athabasca-Grande Prairie-Peace River,326,0.000420542
-2480,C魌e-Nord,324,0.000415785
+2480,C么te-Nord,324,0.000415785
 4860,Edmonton,526,0.000415015
 5970,Nechako,114,0.000414336
-2410,Gasp閟ie-蝜es-de-la-Madeleine,324,0.000413599
+2410,Gasp茅sie-脦les-de-la-Madeleine,324,0.000413599
 4860,Edmonton,314,0.00041078
 3590,Northeast / Nord-est,487,0.000409631
 4730,Saskatoon-Biggar,526,0.000407639
 3595,Northwest / Nord-ouest,325,0.000406829
 3590,Northeast / Nord-est,312,0.000403231
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,313,0.000403088
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,331,0.000401381
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,313,0.000403088
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,331,0.000401381
 3550,Hamilton-Niagara Peninsula,526,0.000400076
 3530,Toronto,483,0.000399559
 3540,Kitchener-Waterloo-Barrie,324,0.000396537
@@ -2540,7 +2540,7 @@ ERUID,ERNAME,NAICS,Concentration
 3590,Northeast / Nord-est,335,0.00039043
 5980,Northeast / Nord-est,312,0.000389471
 3590,Northeast / Nord-est,324,0.000384029
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,213,0.000383255
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,213,0.000383255
 2460,Outaouais,334,0.000382026
 3580,Stratford-Bruce Peninsula,334,0.000381976
 1340,Fredericton-Oromocto,314,0.000381431
@@ -2551,7 +2551,7 @@ ERUID,ERNAME,NAICS,Concentration
 6010,Yukon,325,0.000375281
 6010,Yukon,113,0.000375281
 6010,Yukon,493,0.000375281
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,326,0.000373907
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,326,0.000373907
 3590,Northeast / Nord-est,114,0.000371229
 2415,Bas-Saint-Laurent,335,0.000369445
 1250,Halifax,113,0.000367139
@@ -2565,7 +2565,7 @@ ERUID,ERNAME,NAICS,Concentration
 4880,Wood Buffalo-Cold Lake,323,0.000364614
 4880,Wood Buffalo-Cold Lake,493,0.000364614
 5940,Kootenay,114,0.000361425
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,487,0.000361243
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,487,0.000361243
 3550,Hamilton-Niagara Peninsula,212,0.000360334
 4620,South Central / Centre sud,213,0.000359269
 1330,Saint John-St. Stephen,491,0.000358397
@@ -2575,23 +2575,23 @@ ERUID,ERNAME,NAICS,Concentration
 1240,Southern / Sud,212,0.00035396
 2415,Bas-Saint-Laurent,313,0.000351853
 3570,Windsor-Sarnia,315,0.000350782
-2450,Lanaudi鑢e,314,0.000350649
+2450,Lanaudi猫re,314,0.000350649
 3550,Hamilton-Niagara Peninsula,316,0.000349736
 5970,Nechako,316,0.00034528
 5970,Nechako,314,0.00034528
-2425,Chaudi鑢e-Appalaches,493,0.000343901
+2425,Chaudi猫re-Appalaches,493,0.000343901
 3515,Kingston-Pembroke,313,0.000341358
-5960,North Coast / C魌e-nord,336,0.000341316
-5960,North Coast / C魌e-nord,212,0.000341316
-2450,Lanaudi鑢e,313,0.000340336
+5960,North Coast / C么te-nord,336,0.000341316
+5960,North Coast / C么te-nord,212,0.000341316
+2450,Lanaudi猫re,313,0.000340336
 3510,Ottawa,324,0.000340136
 4610,Southeast / Sud-est,331,0.000339305
 5950,Cariboo,334,0.00033929
 5950,Cariboo,323,0.00033929
-2440,Montr閍l,113,0.000337952
+2440,Montr茅al,113,0.000337952
 1340,Fredericton-Oromocto,325,0.000336557
 4730,Saskatoon-Biggar,315,0.000334473
-2410,Gasp閟ie-蝜es-de-la-Madeleine,335,0.000330879
+2410,Gasp茅sie-脦les-de-la-Madeleine,335,0.000330879
 1210,Cape Breton,487,0.000329598
 2475,Saguenay-Lac-Saint-Jean,213,0.000329429
 4760,Northern / Nord,112,0.000323311
@@ -2599,7 +2599,7 @@ ERUID,ERNAME,NAICS,Concentration
 3595,Northwest / Nord-ouest,312,0.000322658
 2420,Capitale-Nationale,221,0.000322531
 3590,Northeast / Nord-est,314,0.000320025
-2450,Lanaudi鑢e,487,0.00031971
+2450,Lanaudi猫re,487,0.00031971
 1320,Moncton-Richibucto,331,0.000319468
 1320,Moncton-Richibucto,335,0.000319468
 5940,Kootenay,334,0.000318905
@@ -2608,18 +2608,18 @@ ERUID,ERNAME,NAICS,Concentration
 1250,Halifax,115,0.000316747
 4680,North / Nord,333,0.000314103
 4680,North / Nord,492,0.000314103
-2435,Mont閞間ie,113,0.000312195
+2435,Mont茅r茅gie,113,0.000312195
 2455,Laurentides,331,0.00031103
 2470,Mauricie,313,0.000309347
 4750,Prince Albert,486,0.000306473
-2435,Mont閞間ie,213,0.000303757
+2435,Mont茅r茅gie,213,0.000303757
 4730,Saskatoon-Biggar,314,0.000303116
 5930,Thompson-Okanagan,526,0.000300427
-2450,Lanaudi鑢e,335,0.000299083
+2450,Lanaudi猫re,335,0.000299083
 5940,Kootenay,315,0.000297644
 3560,London,482,0.000297559
 5980,Northeast / Nord-est,493,0.000292103
-1220,North Shore / C魌e-nord,331,0.000291574
+1220,North Shore / C么te-nord,331,0.000291574
 2455,Laurentides,481,0.000288814
 4740,Yorkton-Melville,314,0.000288809
 4740,Yorkton-Melville,337,0.000288809
@@ -2628,13 +2628,13 @@ ERUID,ERNAME,NAICS,Concentration
 1330,Saint John-St. Stephen,337,0.000286718
 1330,Saint John-St. Stephen,323,0.000286718
 1350,Edmundston-Woodstock,526,0.000285551
-5960,North Coast / C魌e-nord,337,0.00028443
-5960,North Coast / C魌e-nord,325,0.00028443
-5960,North Coast / C魌e-nord,487,0.00028443
-5960,North Coast / C魌e-nord,335,0.00028443
+5960,North Coast / C么te-nord,337,0.00028443
+5960,North Coast / C么te-nord,325,0.00028443
+5960,North Coast / C么te-nord,487,0.00028443
+5960,North Coast / C么te-nord,335,0.00028443
 3570,Windsor-Sarnia,314,0.000281776
 3590,Northeast / Nord-est,334,0.000281622
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,492,0.000280967
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,492,0.000280967
 4820,Camrose-Drumheller,314,0.000280919
 3595,Northwest / Nord-ouest,313,0.000280572
 4630,Southwest / Sud-ouest,487,0.000278203
@@ -2670,9 +2670,9 @@ ERUID,ERNAME,NAICS,Concentration
 4860,Edmonton,322,0.000243504
 1010,Avalon Peninsula,315,0.000243016
 4870,Athabasca-Grande Prairie-Peace River,314,0.00024262
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,314,0.000241853
-2440,Montr閍l,213,0.000241787
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,323,0.000240828
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,314,0.000241853
+2440,Montr茅al,213,0.000241787
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,323,0.000240828
 4740,Yorkton-Melville,313,0.000240674
 6110,Northwest Territories / Territoires du Nord-Ouest,337,0.000239613
 6110,Northwest Territories / Territoires du Nord-Ouest,326,0.000239613
@@ -2695,7 +2695,7 @@ ERUID,ERNAME,NAICS,Concentration
 4660,Interlake,486,0.000228582
 4820,Camrose-Drumheller,113,0.000228246
 4880,Wood Buffalo-Cold Lake,337,0.000227884
-5960,North Coast / C魌e-nord,339,0.000227544
+5960,North Coast / C么te-nord,339,0.000227544
 3560,London,212,0.000227227
 5980,Northeast / Nord-est,323,0.000227192
 4650,Winnipeg,112,0.000225913
@@ -2704,26 +2704,26 @@ ERUID,ERNAME,NAICS,Concentration
 2470,Mauricie,481,0.000220962
 3530,Toronto,316,0.000218217
 3550,Hamilton-Niagara Peninsula,213,0.00021726
-2433,Centre-du-Qu閎ec,316,0.00021692
+2433,Centre-du-Qu茅bec,316,0.00021692
 5930,Thompson-Okanagan,211,0.000214591
 3570,Windsor-Sarnia,211,0.00021277
 5940,Kootenay,487,0.000212603
 5940,Kootenay,486,0.000212603
 2415,Bas-Saint-Laurent,315,0.000211112
 2420,Capitale-Nationale,313,0.00021072
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,335,0.000210323
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,526,0.000210323
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,335,0.000210323
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,526,0.000210323
 4650,Winnipeg,213,0.000210059
 1320,Moncton-Richibucto,526,0.000207654
 5950,Cariboo,491,0.000207344
-2410,Gasp閟ie-蝜es-de-la-Madeleine,326,0.0002068
-2435,Mont閞間ie,483,0.000205317
+2410,Gasp茅sie-脦les-de-la-Madeleine,326,0.0002068
+2435,Mont茅r茅gie,483,0.000205317
 1010,Avalon Peninsula,316,0.000202513
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,324,0.000201544
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,331,0.000201544
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,331,0.000200975
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,315,0.00020069
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,314,0.00020069
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,324,0.000201544
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,331,0.000201544
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,331,0.000200975
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,315,0.00020069
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,314,0.00020069
 4650,Winnipeg,114,0.000198169
 3595,Northwest / Nord-ouest,334,0.0001964
 4720,Swift Current-Moose Jaw,486,0.000195519
@@ -2732,13 +2732,13 @@ ERUID,ERNAME,NAICS,Concentration
 4710,Regina-Moose Mountain,521,0.000192712
 4740,Yorkton-Melville,211,0.000192539
 1320,Moncton-Richibucto,315,0.000191681
-2480,C魌e-Nord,325,0.000188993
-2480,C魌e-Nord,336,0.000188993
+2480,C么te-Nord,325,0.000188993
+2480,C么te-Nord,336,0.000188993
 5950,Cariboo,487,0.000188494
 2455,Laurentides,114,0.000185137
 1230,Annapolis Valley,324,0.000182842
 2445,Laval,115,0.000182676
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,315,0.00018228
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,315,0.00018228
 3540,Kitchener-Waterloo-Barrie,213,0.000181746
 3530,Toronto,487,0.000179322
 4870,Athabasca-Grande Prairie-Peace River,486,0.000177922
@@ -2752,9 +2752,9 @@ ERUID,ERNAME,NAICS,Concentration
 4610,Southeast / Sud-est,312,0.000169653
 3560,London,324,0.000167715
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,491,0.000167276
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,321,0.000165673
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,115,0.000165673
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,315,0.000165673
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,321,0.000165673
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,115,0.000165673
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,315,0.000165673
 4710,Regina-Moose Mountain,314,0.000163805
 4710,Regina-Moose Mountain,482,0.000163805
 2455,Laurentides,487,0.000162921
@@ -2785,24 +2785,24 @@ ERUID,ERNAME,NAICS,Concentration
 3515,Kingston-Pembroke,483,0.000145077
 1250,Halifax,486,0.000143976
 1250,Halifax,521,0.000143976
-2435,Mont閞間ie,482,0.000143441
+2435,Mont茅r茅gie,482,0.000143441
 3580,Stratford-Bruce Peninsula,314,0.000143241
 4750,Prince Albert,526,0.000143021
 3595,Northwest / Nord-ouest,487,0.000140286
 3595,Northwest / Nord-ouest,315,0.000140286
-2425,Chaudi鑢e-Appalaches,316,0.000139198
+2425,Chaudi猫re-Appalaches,316,0.000139198
 4630,Southwest / Sud-ouest,312,0.000139101
 4630,Southwest / Sud-ouest,314,0.000139101
 4630,Southwest / Sud-ouest,491,0.000139101
 5970,Nechako,493,0.000138112
 5970,Nechako,333,0.000138112
 5970,Nechako,339,0.000138112
-2440,Montr閍l,521,0.000137379
+2440,Montr茅al,521,0.000137379
 3590,Northeast / Nord-est,483,0.00013441
 2475,Saguenay-Lac-Saint-Jean,316,0.000131771
 2475,Saguenay-Lac-Saint-Jean,334,0.000131771
 2475,Saguenay-Lac-Saint-Jean,483,0.000131771
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,314,0.000130867
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,314,0.000130867
 1310,Campbellton-Miramichi,313,0.000130794
 1310,Campbellton-Miramichi,334,0.000130794
 1310,Campbellton-Miramichi,491,0.000130794
@@ -2813,19 +2813,19 @@ ERUID,ERNAME,NAICS,Concentration
 3520,Muskoka-Kawarthas,313,0.000123782
 2445,Laval,221,0.000121784
 1010,Avalon Peninsula,325,0.000121508
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,487,0.000120926
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,487,0.000120926
 2420,Capitale-Nationale,526,0.000120411
 2430,Estrie,487,0.00011964
 3580,Stratford-Bruce Peninsula,114,0.000119367
 4650,Winnipeg,487,0.000118901
 3530,Toronto,491,0.000117696
-2440,Montr閍l,111,0.000115398
+2440,Montr茅al,111,0.000115398
 1250,Halifax,313,0.000115181
 4830,Calgary,313,0.000113962
 4880,Wood Buffalo-Cold Lake,526,0.000113942
-2450,Lanaudi鑢e,526,0.000113445
-2450,Lanaudi鑢e,481,0.000113445
-2480,C魌e-Nord,487,0.000113396
+2450,Lanaudi猫re,526,0.000113445
+2450,Lanaudi猫re,481,0.000113445
+2480,C么te-Nord,487,0.000113396
 5950,Cariboo,315,0.000113097
 3510,Ottawa,213,0.000112507
 1340,Fredericton-Oromocto,316,0.000112186
@@ -2839,23 +2839,23 @@ ERUID,ERNAME,NAICS,Concentration
 4710,Regina-Moose Mountain,313,0.000105991
 2415,Bas-Saint-Laurent,491,0.000105556
 4820,Camrose-Drumheller,481,0.000105344
-2440,Montr閍l,486,0.000104408
+2440,Montr茅al,486,0.000104408
 5930,Thompson-Okanagan,491,0.00010423
-2450,Lanaudi鑢e,211,0.000103132
+2450,Lanaudi猫re,211,0.000103132
 2470,Mauricie,526,0.000103116
 3560,London,526,0.000102793
 3560,London,313,0.000102793
 4620,South Central / Centre sud,492,0.000102648
-2465,Abitibi-T閙iscamingue,487,0.000102268
+2465,Abitibi-T茅miscamingue,487,0.000102268
 4750,Prince Albert,491,0.000102158
 4750,Prince Albert,316,0.000102158
 4610,Southeast / Sud-est,335,0.000101792
 1210,Cape Breton,211,9.88794E-05
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,313,9.86501E-05
-2425,Chaudi鑢e-Appalaches,526,9.82576E-05
-2425,Chaudi鑢e-Appalaches,213,9.82576E-05
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,324,9.81506E-05
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,316,9.81506E-05
+2425,Chaudi猫re-Appalaches,526,9.82576E-05
+2425,Chaudi猫re-Appalaches,213,9.82576E-05
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,324,9.81506E-05
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,316,9.81506E-05
 3570,Windsor-Sarnia,526,9.7759E-05
 4860,Edmonton,313,9.74015E-05
 3560,London,113,9.73831E-05
@@ -2892,7 +2892,7 @@ ERUID,ERNAME,NAICS,Concentration
 3540,Kitchener-Waterloo-Barrie,113,8.53656E-05
 3550,Hamilton-Niagara Peninsula,486,8.47844E-05
 3595,Northwest / Nord-ouest,335,8.41715E-05
-2440,Montr閍l,112,8.38011E-05
+2440,Montr茅al,112,8.38011E-05
 3580,Stratford-Bruce Peninsula,487,8.35571E-05
 4650,Winnipeg,313,8.32309E-05
 1040,Notre Dame-Central Bonavista Bay,491,8.28123E-05
@@ -2908,15 +2908,15 @@ ERUID,ERNAME,NAICS,Concentration
 3520,Muskoka-Kawarthas,213,7.87703E-05
 4720,Swift Current-Moose Jaw,331,7.82075E-05
 4850,Red Deer,313,7.78889E-05
-2480,C魌e-Nord,333,7.55972E-05
+2480,C么te-Nord,333,7.55972E-05
 2455,Laurentides,483,7.40549E-05
 2470,Mauricie,483,7.3654E-05
 4640,North Central / Centre nord,323,7.29874E-05
 4640,North Central / Centre nord,312,7.29874E-05
-2490,Nord-du-Qu閎ec,326,7.07214E-05
-2490,Nord-du-Qu閎ec,323,7.07214E-05
-2490,Nord-du-Qu閎ec,492,7.07214E-05
-2490,Nord-du-Qu閎ec,114,7.07214E-05
+2490,Nord-du-Qu茅bec,326,7.07214E-05
+2490,Nord-du-Qu茅bec,323,7.07214E-05
+2490,Nord-du-Qu茅bec,492,7.07214E-05
+2490,Nord-du-Qu茅bec,114,7.07214E-05
 3590,Northeast / Nord-est,526,7.04054E-05
 4820,Camrose-Drumheller,526,7.02297E-05
 3595,Northwest / Nord-ouest,114,7.0143E-05
@@ -2932,8 +2932,8 @@ ERUID,ERNAME,NAICS,Concentration
 1210,Cape Breton,313,6.59196E-05
 5980,Northeast / Nord-est,336,6.49119E-05
 4870,Athabasca-Grande Prairie-Peace River,526,6.46987E-05
-2435,Mont閞間ie,487,6.46891E-05
-2435,Mont閞間ie,316,6.46891E-05
+2435,Mont茅r茅gie,487,6.46891E-05
+2435,Mont茅r茅gie,316,6.46891E-05
 1240,Southern / Sud,335,6.43563E-05
 5940,Kootenay,335,6.37809E-05
 2460,Outaouais,315,6.36709E-05
@@ -2943,13 +2943,13 @@ ERUID,ERNAME,NAICS,Concentration
 6010,Yukon,314,6.25469E-05
 5930,Thompson-Okanagan,483,6.13117E-05
 4750,Prince Albert,481,6.12945E-05
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,213,6.04631E-05
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,213,6.04631E-05
 3515,Kingston-Pembroke,481,5.97377E-05
-2440,Montr閍l,491,5.76991E-05
-2425,Chaudi鑢e-Appalaches,114,5.73169E-05
-5960,North Coast / C魌e-nord,315,5.68861E-05
+2440,Montr茅al,491,5.76991E-05
+2425,Chaudi猫re-Appalaches,114,5.73169E-05
+5960,North Coast / C么te-nord,315,5.68861E-05
 5950,Cariboo,211,5.65483E-05
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,491,5.6086E-05
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,491,5.6086E-05
 5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,211,5.57588E-05
 4630,Southwest / Sud-ouest,212,5.56406E-05
 4810,Lethbridge-Medicine Hat,313,5.54354E-05
@@ -2963,15 +2963,15 @@ ERUID,ERNAME,NAICS,Concentration
 4730,Saskatoon-Biggar,113,5.22613E-05
 4730,Saskatoon-Biggar,491,5.22613E-05
 2420,Capitale-Nationale,114,5.16049E-05
-2450,Lanaudi鑢e,213,5.15661E-05
+2450,Lanaudi猫re,213,5.15661E-05
 4620,South Central / Centre sud,322,5.13242E-05
 4620,South Central / Centre sud,482,5.13242E-05
 3515,Kingston-Pembroke,316,5.12037E-05
 3540,Kitchener-Waterloo-Barrie,114,4.95671E-05
-2425,Chaudi鑢e-Appalaches,487,4.91288E-05
+2425,Chaudi猫re-Appalaches,487,4.91288E-05
 4840,Banff-Jasper-Rocky Mountain House,334,4.91135E-05
 4840,Banff-Jasper-Rocky Mountain House,314,4.91135E-05
-1220,North Shore / C魌e-nord,526,4.85956E-05
+1220,North Shore / C么te-nord,526,4.85956E-05
 4870,Athabasca-Grande Prairie-Peace River,114,4.85241E-05
 4740,Yorkton-Melville,481,4.81348E-05
 6110,Northwest Territories / Territoires du Nord-Ouest,333,4.79226E-05
@@ -2985,39 +2985,39 @@ ERUID,ERNAME,NAICS,Concentration
 4660,Interlake,211,4.57164E-05
 4880,Wood Buffalo-Cold Lake,312,4.55768E-05
 3520,Muskoka-Kawarthas,526,4.50116E-05
-2435,Mont閞間ie,491,4.50011E-05
+2435,Mont茅r茅gie,491,4.50011E-05
 1340,Fredericton-Oromocto,486,4.48742E-05
 3590,Northeast / Nord-est,315,4.48034E-05
 4810,Lethbridge-Medicine Hat,113,4.43484E-05
 1250,Halifax,316,4.31928E-05
 5940,Kootenay,211,4.25206E-05
 3595,Northwest / Nord-ouest,483,4.20858E-05
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,211,4.20645E-05
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,211,4.20645E-05
 1040,Notre Dame-Central Bonavista Bay,526,4.14062E-05
 1040,Notre Dame-Central Bonavista Bay,314,4.14062E-05
-2410,Gasp閟ie-蝜es-de-la-Madeleine,313,4.13599E-05
-2410,Gasp閟ie-蝜es-de-la-Madeleine,213,4.13599E-05
-2410,Gasp閟ie-蝜es-de-la-Madeleine,316,4.13599E-05
-2410,Gasp閟ie-蝜es-de-la-Madeleine,486,4.13599E-05
-2410,Gasp閟ie-蝜es-de-la-Madeleine,491,4.13599E-05
-2465,Abitibi-T閙iscamingue,491,4.09073E-05
+2410,Gasp茅sie-脦les-de-la-Madeleine,313,4.13599E-05
+2410,Gasp茅sie-脦les-de-la-Madeleine,213,4.13599E-05
+2410,Gasp茅sie-脦les-de-la-Madeleine,316,4.13599E-05
+2410,Gasp茅sie-脦les-de-la-Madeleine,486,4.13599E-05
+2410,Gasp茅sie-脦les-de-la-Madeleine,491,4.13599E-05
+2465,Abitibi-T茅miscamingue,491,4.09073E-05
 4750,Prince Albert,334,4.0863E-05
 4750,Prince Albert,114,4.0863E-05
-2433,Centre-du-Qu閎ec,481,4.06725E-05
+2433,Centre-du-Qu茅bec,481,4.06725E-05
 2445,Laval,112,4.05947E-05
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,312,4.01381E-05
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,526,4.01381E-05
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,337,4.01381E-05
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,312,4.01381E-05
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,526,4.01381E-05
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,337,4.01381E-05
 4650,Winnipeg,491,3.96338E-05
-2435,Mont閞間ie,526,3.93759E-05
+2435,Mont茅r茅gie,526,3.93759E-05
 3510,Ottawa,483,3.92465E-05
 4720,Swift Current-Moose Jaw,526,3.91037E-05
 4720,Swift Current-Moose Jaw,324,3.91037E-05
 4720,Swift Current-Moose Jaw,325,3.91037E-05
 3540,Kitchener-Waterloo-Barrie,491,3.85522E-05
 3560,London,491,3.78712E-05
-2480,C魌e-Nord,213,3.77986E-05
-2480,C魌e-Nord,326,3.77986E-05
+2480,C么te-Nord,213,3.77986E-05
+2480,C么te-Nord,326,3.77986E-05
 2455,Laurentides,491,3.70274E-05
 2455,Laurentides,316,3.70274E-05
 4830,Calgary,316,3.6762E-05
@@ -3037,8 +3037,8 @@ ERUID,ERNAME,NAICS,Concentration
 1210,Cape Breton,316,3.29598E-05
 1210,Cape Breton,325,3.29598E-05
 1210,Cape Breton,491,3.29598E-05
-2425,Chaudi鑢e-Appalaches,491,3.27525E-05
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,313,3.27169E-05
+2425,Chaudi猫re-Appalaches,491,3.27525E-05
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,313,3.27169E-05
 5980,Northeast / Nord-est,316,3.24559E-05
 5980,Northeast / Nord-est,313,3.24559E-05
 5980,Northeast / Nord-est,487,3.24559E-05
@@ -3051,10 +3051,10 @@ ERUID,ERNAME,NAICS,Concentration
 2460,Outaouais,487,3.18355E-05
 3530,Toronto,486,3.18233E-05
 2445,Laval,213,3.0446E-05
-2435,Mont閞間ie,114,2.81257E-05
+2435,Mont茅r茅gie,114,2.81257E-05
 4630,Southwest / Sud-ouest,526,2.78203E-05
 4630,Southwest / Sud-ouest,337,2.78203E-05
-2433,Centre-du-Qu閎ec,114,2.7115E-05
+2433,Centre-du-Qu茅bec,114,2.7115E-05
 2475,Saguenay-Lac-Saint-Jean,491,2.63543E-05
 1310,Campbellton-Miramichi,314,2.61588E-05
 1310,Campbellton-Miramichi,315,2.61588E-05
@@ -3080,11 +3080,11 @@ ERUID,ERNAME,NAICS,Concentration
 4860,Edmonton,114,2.11742E-05
 4730,Saskatoon-Biggar,316,2.09045E-05
 4730,Saskatoon-Biggar,486,2.09045E-05
-2450,Lanaudi鑢e,316,2.06264E-05
-2450,Lanaudi鑢e,114,2.06264E-05
-2465,Abitibi-T閙iscamingue,334,2.04537E-05
-2465,Abitibi-T閙iscamingue,526,2.04537E-05
-2465,Abitibi-T閙iscamingue,314,2.04537E-05
+2450,Lanaudi猫re,316,2.06264E-05
+2450,Lanaudi猫re,114,2.06264E-05
+2465,Abitibi-T茅miscamingue,334,2.04537E-05
+2465,Abitibi-T茅miscamingue,526,2.04537E-05
+2465,Abitibi-T茅miscamingue,314,2.04537E-05
 4750,Prince Albert,335,2.04315E-05
 4750,Prince Albert,315,2.04315E-05
 4750,Prince Albert,324,2.04315E-05
@@ -3093,9 +3093,9 @@ ERUID,ERNAME,NAICS,Concentration
 2445,Laval,113,2.02974E-05
 2445,Laval,526,2.02974E-05
 1010,Avalon Peninsula,313,2.02513E-05
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,526,2.01544E-05
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,211,2.01544E-05
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,491,2.01544E-05
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,526,2.01544E-05
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,211,2.01544E-05
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,491,2.01544E-05
 4650,Winnipeg,113,1.98169E-05
 4710,Regina-Moose Mountain,315,1.92712E-05
 5950,Cariboo,114,1.88494E-05
@@ -3107,7 +3107,7 @@ ERUID,ERNAME,NAICS,Concentration
 2415,Bas-Saint-Laurent,487,1.75926E-05
 4820,Camrose-Drumheller,316,1.75574E-05
 4820,Camrose-Drumheller,315,1.75574E-05
-2440,Montr閍l,114,1.64855E-05
+2440,Montr茅al,114,1.64855E-05
 4870,Athabasca-Grande Prairie-Peace River,491,1.61747E-05
 1320,Moncton-Richibucto,487,1.59734E-05
 1320,Moncton-Richibucto,486,1.59734E-05
@@ -3120,9 +3120,9 @@ ERUID,ERNAME,NAICS,Concentration
 2470,Mauricie,482,1.47308E-05
 3530,Toronto,211,1.46488E-05
 3595,Northwest / Nord-ouest,331,1.40286E-05
-2433,Centre-du-Qu閎ec,211,1.35575E-05
-2433,Centre-du-Qu閎ec,491,1.35575E-05
-2433,Centre-du-Qu閎ec,526,1.35575E-05
+2433,Centre-du-Qu茅bec,211,1.35575E-05
+2433,Centre-du-Qu茅bec,491,1.35575E-05
+2433,Centre-du-Qu茅bec,526,1.35575E-05
 2475,Saguenay-Lac-Saint-Jean,526,1.31771E-05
 2430,Estrie,114,1.1964E-05
 2430,Estrie,213,1.1964E-05
@@ -3134,7 +3134,7 @@ ERUID,ERNAME,NAICS,Concentration
 3520,Muskoka-Kawarthas,481,1.12529E-05
 4810,Lethbridge-Medicine Hat,114,1.10871E-05
 3560,London,316,1.08203E-05
-2450,Lanaudi鑢e,491,1.03132E-05
+2450,Lanaudi猫re,491,1.03132E-05
 2445,Laval,316,1.01487E-05
 2445,Laval,481,1.01487E-05
 2445,Laval,482,1.01487E-05
@@ -3146,16 +3146,16 @@ ERUID,ERNAME,NAICS,Concentration
 4710,Regina-Moose Mountain,491,9.63558E-06
 3530,Toronto,114,9.5975E-06
 3515,Kingston-Pembroke,211,8.53395E-06
-2425,Chaudi鑢e-Appalaches,486,8.18813E-06
-2425,Chaudi鑢e-Appalaches,482,8.18813E-06
+2425,Chaudi猫re-Appalaches,486,8.18813E-06
+2425,Chaudi猫re-Appalaches,482,8.18813E-06
 2455,Laurentides,526,7.40549E-06
 2455,Laurentides,486,7.40549E-06
 4860,Edmonton,316,6.35227E-06
 3560,London,486,5.41017E-06
 3510,Ottawa,211,5.23286E-06
 4860,Edmonton,491,4.23485E-06
-2440,Montr閍l,211,4.12137E-06
-2435,Mont閞間ie,486,2.81257E-06
+2440,Montr茅al,211,4.12137E-06
+2435,Mont茅r茅gie,486,2.81257E-06
 3540,Kitchener-Waterloo-Barrie,483,2.75373E-06
 3540,Kitchener-Waterloo-Barrie,211,2.75373E-06
 3510,Ottawa,114,2.61643E-06
@@ -3180,7 +3180,7 @@ ERUID,ERNAME,NAICS,Concentration
 5970,Nechako,491,0
 4740,Yorkton-Melville,324,0
 4640,North Central / Centre nord,482,0
-1220,North Shore / C魌e-nord,324,0
+1220,North Shore / C么te-nord,324,0
 4630,Southwest / Sud-ouest,331,0
 5970,Nechako,485,0
 5970,Nechako,487,0
@@ -3189,17 +3189,17 @@ ERUID,ERNAME,NAICS,Concentration
 5970,Nechako,526,0
 4640,North Central / Centre nord,483,0
 4740,Yorkton-Melville,322,0
-1220,North Shore / C魌e-nord,313,0
+1220,North Shore / C么te-nord,313,0
 5970,Nechako,521,0
 1210,Cape Breton,521,0
 1210,Cape Breton,526,0
 5980,Northeast / Nord-est,315,0
 5980,Northeast / Nord-est,337,0
 4660,Interlake,483,0
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,326,0
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,326,0
 4660,Interlake,487,0
 4670,Parklands,312,0
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,482,0
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,482,0
 5980,Northeast / Nord-est,335,0
 5980,Northeast / Nord-est,334,0
 4660,Interlake,526,0
@@ -3208,7 +3208,7 @@ ERUID,ERNAME,NAICS,Concentration
 4730,Saskatoon-Biggar,322,0
 5980,Northeast / Nord-est,483,0
 5980,Northeast / Nord-est,482,0
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,316,0
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,316,0
 4660,Interlake,491,0
 1040,Notre Dame-Central Bonavista Bay,521,0
 4730,Saskatoon-Biggar,487,0
@@ -3216,11 +3216,11 @@ ERUID,ERNAME,NAICS,Concentration
 4730,Saskatoon-Biggar,483,0
 4730,Saskatoon-Biggar,521,0
 5980,Northeast / Nord-est,526,0
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,521,0
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,521,0
 4660,Interlake,113,0
 5980,Northeast / Nord-est,331,0
 5980,Northeast / Nord-est,521,0
-1110,Prince Edward Island / 蝜e-du-Prince-蒬ouard,486,0
+1110,Prince Edward Island / 脦le-du-Prince-脡douard,486,0
 4730,Saskatoon-Biggar,313,0
 4660,Interlake,482,0
 4660,Interlake,324,0
@@ -3229,7 +3229,7 @@ ERUID,ERNAME,NAICS,Concentration
 1240,Southern / Sud,324,0
 1240,Southern / Sud,325,0
 4640,North Central / Centre nord,313,0
-5960,North Coast / C魌e-nord,486,0
+5960,North Coast / C么te-nord,486,0
 4740,Yorkton-Melville,521,0
 4640,North Central / Centre nord,114,0
 4630,Southwest / Sud-ouest,521,0
@@ -3237,32 +3237,32 @@ ERUID,ERNAME,NAICS,Concentration
 4640,North Central / Centre nord,211,0
 4740,Yorkton-Melville,487,0
 1240,Southern / Sud,211,0
-5960,North Coast / C魌e-nord,526,0
+5960,North Coast / C么te-nord,526,0
 1230,Annapolis Valley,521,0
-5960,North Coast / C魌e-nord,521,0
-5960,North Coast / C魌e-nord,491,0
+5960,North Coast / C么te-nord,521,0
+5960,North Coast / C么te-nord,491,0
 1240,Southern / Sud,322,0
 4640,North Central / Centre nord,314,0
 4740,Yorkton-Melville,491,0
 4630,Southwest / Sud-ouest,486,0
 1240,Southern / Sud,526,0
-5960,North Coast / C魌e-nord,316,0
+5960,North Coast / C么te-nord,316,0
 1240,Southern / Sud,521,0
-5960,North Coast / C魌e-nord,322,0
+5960,North Coast / C么te-nord,322,0
 4630,Southwest / Sud-ouest,334,0
 4750,Prince Albert,312,0
 4750,Prince Albert,313,0
-5960,North Coast / C魌e-nord,314,0
-5960,North Coast / C魌e-nord,313,0
-5960,North Coast / C魌e-nord,333,0
+5960,North Coast / C么te-nord,314,0
+5960,North Coast / C么te-nord,313,0
+5960,North Coast / C么te-nord,333,0
 1240,Southern / Sud,482,0
 4630,Southwest / Sud-ouest,483,0
-5960,North Coast / C魌e-nord,334,0
+5960,North Coast / C么te-nord,334,0
 1240,Southern / Sud,486,0
 4630,Southwest / Sud-ouest,335,0
-5960,North Coast / C魌e-nord,324,0
+5960,North Coast / C么te-nord,324,0
 4630,Southwest / Sud-ouest,482,0
-5960,North Coast / C魌e-nord,326,0
+5960,North Coast / C么te-nord,326,0
 5970,Nechako,331,0
 1230,Annapolis Valley,211,0
 4640,North Central / Centre nord,334,0
@@ -3273,14 +3273,14 @@ ERUID,ERNAME,NAICS,Concentration
 5970,Nechako,325,0
 5970,Nechako,324,0
 5970,Nechako,482,0
-1220,North Shore / C魌e-nord,491,0
-1220,North Shore / C魌e-nord,486,0
-1220,North Shore / C魌e-nord,487,0
+1220,North Shore / C么te-nord,491,0
+1220,North Shore / C么te-nord,486,0
+1220,North Shore / C么te-nord,487,0
 4640,North Central / Centre nord,481,0
 5970,Nechako,335,0
 5970,Nechako,334,0
 4640,North Central / Centre nord,335,0
-1220,North Shore / C魌e-nord,521,0
+1220,North Shore / C么te-nord,521,0
 1230,Annapolis Valley,314,0
 1230,Annapolis Valley,481,0
 4640,North Central / Centre nord,316,0
@@ -3300,18 +3300,18 @@ ERUID,ERNAME,NAICS,Concentration
 4640,North Central / Centre nord,322,0
 1230,Annapolis Valley,315,0
 1230,Annapolis Valley,316,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,312,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,313,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,312,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,313,0
 6210,Nunavut,111,0
 6110,Northwest Territories / Territoires du Nord-Ouest,526,0
 4720,Swift Current-Moose Jaw,316,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,316,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,316,0
 4680,North / Nord,326,0
 6110,Northwest Territories / Territoires du Nord-Ouest,521,0
 6210,Nunavut,112,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,211,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,212,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,113,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,211,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,212,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,113,0
 4680,North / Nord,334,0
 4720,Swift Current-Moose Jaw,313,0
 6210,Nunavut,113,0
@@ -3319,22 +3319,22 @@ ERUID,ERNAME,NAICS,Concentration
 6210,Nunavut,115,0
 4680,North / Nord,324,0
 6110,Northwest Territories / Territoires du Nord-Ouest,335,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,339,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,339,0
 4720,Swift Current-Moose Jaw,326,0
 6110,Northwest Territories / Territoires du Nord-Ouest,336,0
 6110,Northwest Territories / Territoires du Nord-Ouest,331,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,481,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,481,0
 4680,North / Nord,316,0
 6110,Northwest Territories / Territoires du Nord-Ouest,332,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,335,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,322,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,324,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,335,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,322,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,324,0
 4720,Swift Current-Moose Jaw,322,0
 6110,Northwest Territories / Territoires du Nord-Ouest,487,0
 4680,North / Nord,323,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,334,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,325,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,331,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,334,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,325,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,331,0
 1010,Avalon Peninsula,482,0
 6210,Nunavut,339,0
 4720,Swift Current-Moose Jaw,114,0
@@ -3372,7 +3372,7 @@ ERUID,ERNAME,NAICS,Concentration
 6210,Nunavut,324,0
 4720,Swift Current-Moose Jaw,521,0
 6010,Yukon,331,0
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,521,0
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,521,0
 6010,Yukon,333,0
 4670,Parklands,482,0
 6010,Yukon,324,0
@@ -3382,11 +3382,11 @@ ERUID,ERNAME,NAICS,Concentration
 6010,Yukon,483,0
 6010,Yukon,482,0
 4720,Swift Current-Moose Jaw,491,0
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,486,0
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,486,0
 4670,Parklands,483,0
 6010,Yukon,336,0
 4670,Parklands,486,0
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,491,0
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,491,0
 4670,Parklands,481,0
 4730,Saskatoon-Biggar,114,0
 1040,Notre Dame-Central Bonavista Bay,334,0
@@ -3406,75 +3406,75 @@ ERUID,ERNAME,NAICS,Concentration
 4670,Parklands,335,0
 6010,Yukon,313,0
 4720,Swift Current-Moose Jaw,335,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,491,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,491,0
 6110,Northwest Territories / Territoires du Nord-Ouest,313,0
 6110,Northwest Territories / Territoires du Nord-Ouest,312,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,526,0
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,211,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,493,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,521,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,487,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,526,0
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,211,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,493,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,521,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,487,0
 6110,Northwest Territories / Territoires du Nord-Ouest,324,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,486,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,486,0
 4680,North / Nord,315,0
-1020,South Coast-Burin Peninsula / C魌e-sud-Burin Peninsula,482,0
+1020,South Coast-Burin Peninsula / C么te-sud-Burin Peninsula,482,0
 6110,Northwest Territories / Territoires du Nord-Ouest,316,0
 4720,Swift Current-Moose Jaw,334,0
 6110,Northwest Territories / Territoires du Nord-Ouest,322,0
 4680,North / Nord,314,0
 4680,North / Nord,313,0
 4720,Swift Current-Moose Jaw,487,0
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,326,0
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,324,0
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,326,0
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,324,0
 6010,Yukon,521,0
 4670,Parklands,487,0
 6010,Yukon,486,0
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,334,0
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,335,0
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,334,0
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,335,0
 4670,Parklands,521,0
 4720,Swift Current-Moose Jaw,481,0
 4670,Parklands,526,0
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,313,0
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,313,0
 4680,North / Nord,211,0
 6010,Yukon,526,0
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,322,0
-1030,West Coast-Northern Peninsula-Labrador / C魌e-ouest-Northern Peninsula-Labrador,316,0
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,322,0
+1030,West Coast-Northern Peninsula-Labrador / C么te-ouest-Northern Peninsula-Labrador,316,0
 4720,Swift Current-Moose Jaw,483,0
-2433,Centre-du-Qu閎ec,483,0
-2433,Centre-du-Qu閎ec,486,0
-2490,Nord-du-Qu閎ec,491,0
-2433,Centre-du-Qu閎ec,482,0
-2490,Nord-du-Qu閎ec,486,0
-2433,Centre-du-Qu閎ec,521,0
-2433,Centre-du-Qu閎ec,487,0
-2490,Nord-du-Qu閎ec,487,0
-2490,Nord-du-Qu閎ec,493,0
+2433,Centre-du-Qu茅bec,483,0
+2433,Centre-du-Qu茅bec,486,0
+2490,Nord-du-Qu茅bec,491,0
+2433,Centre-du-Qu茅bec,482,0
+2490,Nord-du-Qu茅bec,486,0
+2433,Centre-du-Qu茅bec,521,0
+2433,Centre-du-Qu茅bec,487,0
+2490,Nord-du-Qu茅bec,487,0
+2490,Nord-du-Qu茅bec,493,0
 2430,Estrie,491,0
 2430,Estrie,521,0
 2430,Estrie,486,0
 3510,Ottawa,482,0
-2490,Nord-du-Qu閎ec,521,0
-2433,Centre-du-Qu閎ec,213,0
+2490,Nord-du-Qu茅bec,521,0
+2433,Centre-du-Qu茅bec,213,0
 4840,Banff-Jasper-Rocky Mountain House,526,0
 4850,Red Deer,114,0
 4850,Red Deer,316,0
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,486,0
-2490,Nord-du-Qu閎ec,324,0
-2490,Nord-du-Qu閎ec,333,0
-2490,Nord-du-Qu閎ec,331,0
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,482,0
-2490,Nord-du-Qu閎ec,316,0
-2435,Mont閞間ie,521,0
-2490,Nord-du-Qu閎ec,322,0
-2490,Nord-du-Qu閎ec,334,0
-2490,Nord-du-Qu閎ec,482,0
-2435,Mont閞間ie,211,0
-2490,Nord-du-Qu閎ec,483,0
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,486,0
+2490,Nord-du-Qu茅bec,324,0
+2490,Nord-du-Qu茅bec,333,0
+2490,Nord-du-Qu茅bec,331,0
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,482,0
+2490,Nord-du-Qu茅bec,316,0
+2435,Mont茅r茅gie,521,0
+2490,Nord-du-Qu茅bec,322,0
+2490,Nord-du-Qu茅bec,334,0
+2490,Nord-du-Qu茅bec,482,0
+2435,Mont茅r茅gie,211,0
+2490,Nord-du-Qu茅bec,483,0
 4850,Red Deer,322,0
-5910,Vancouver Island and Coast / 蝜e de Vancouver et la c魌e,521,0
-2490,Nord-du-Qu閎ec,335,0
-2490,Nord-du-Qu閎ec,339,0
-2490,Nord-du-Qu閎ec,336,0
+5910,Vancouver Island and Coast / 脦le de Vancouver et la c么te,521,0
+2490,Nord-du-Qu茅bec,335,0
+2490,Nord-du-Qu茅bec,339,0
+2490,Nord-du-Qu茅bec,336,0
 4840,Banff-Jasper-Rocky Mountain House,313,0
 4840,Banff-Jasper-Rocky Mountain House,316,0
 3520,Muskoka-Kawarthas,486,0
@@ -3496,41 +3496,41 @@ ERUID,ERNAME,NAICS,Concentration
 3515,Kingston-Pembroke,114,0
 2430,Estrie,211,0
 4840,Banff-Jasper-Rocky Mountain House,483,0
-2425,Chaudi鑢e-Appalaches,521,0
+2425,Chaudi猫re-Appalaches,521,0
 2430,Estrie,482,0
 4840,Banff-Jasper-Rocky Mountain House,521,0
 4840,Banff-Jasper-Rocky Mountain House,491,0
 2430,Estrie,481,0
 4840,Banff-Jasper-Rocky Mountain House,482,0
 3515,Kingston-Pembroke,486,0
-2425,Chaudi鑢e-Appalaches,211,0
+2425,Chaudi猫re-Appalaches,211,0
 3515,Kingston-Pembroke,521,0
 4840,Banff-Jasper-Rocky Mountain House,331,0
-2425,Chaudi鑢e-Appalaches,483,0
+2425,Chaudi猫re-Appalaches,483,0
 3515,Kingston-Pembroke,482,0
 4840,Banff-Jasper-Rocky Mountain House,335,0
 4840,Banff-Jasper-Rocky Mountain House,336,0
-2490,Nord-du-Qu閎ec,315,0
+2490,Nord-du-Qu茅bec,315,0
 4870,Athabasca-Grande Prairie-Peace River,315,0
 4870,Athabasca-Grande Prairie-Peace River,316,0
-2465,Abitibi-T閙iscamingue,211,0
-2465,Abitibi-T閙iscamingue,114,0
-2450,Lanaudi鑢e,482,0
+2465,Abitibi-T茅miscamingue,211,0
+2465,Abitibi-T茅miscamingue,114,0
+2450,Lanaudi猫re,482,0
 4880,Wood Buffalo-Cold Lake,331,0
 4880,Wood Buffalo-Cold Lake,334,0
 2460,Outaouais,521,0
-2465,Abitibi-T閙iscamingue,313,0
+2465,Abitibi-T茅miscamingue,313,0
 4880,Wood Buffalo-Cold Lake,487,0
-2465,Abitibi-T閙iscamingue,486,0
+2465,Abitibi-T茅miscamingue,486,0
 4880,Wood Buffalo-Cold Lake,491,0
-2465,Abitibi-T閙iscamingue,521,0
+2465,Abitibi-T茅miscamingue,521,0
 4880,Wood Buffalo-Cold Lake,483,0
 4880,Wood Buffalo-Cold Lake,482,0
-2465,Abitibi-T閙iscamingue,483,0
-2465,Abitibi-T閙iscamingue,316,0
-2450,Lanaudi鑢e,483,0
+2465,Abitibi-T茅miscamingue,483,0
+2465,Abitibi-T茅miscamingue,316,0
+2450,Lanaudi猫re,483,0
 2460,Outaouais,211,0
-2450,Lanaudi鑢e,521,0
+2450,Lanaudi猫re,521,0
 4880,Wood Buffalo-Cold Lake,313,0
 4870,Athabasca-Grande Prairie-Peace River,487,0
 2455,Laurentides,521,0
@@ -3541,29 +3541,29 @@ ERUID,ERNAME,NAICS,Concentration
 2460,Outaouais,481,0
 2460,Outaouais,335,0
 2460,Outaouais,486,0
-2450,Lanaudi鑢e,486,0
+2450,Lanaudi猫re,486,0
 4880,Wood Buffalo-Cold Lake,316,0
 4870,Athabasca-Grande Prairie-Peace River,335,0
 4880,Wood Buffalo-Cold Lake,322,0
 4870,Athabasca-Grande Prairie-Peace River,334,0
-2490,Nord-du-Qu閎ec,112,0
+2490,Nord-du-Qu茅bec,112,0
 2445,Laval,114,0
 4850,Red Deer,521,0
-2490,Nord-du-Qu閎ec,211,0
-2480,C魌e-Nord,491,0
-2480,C魌e-Nord,486,0
-2480,C魌e-Nord,526,0
-2480,C魌e-Nord,521,0
-2490,Nord-du-Qu閎ec,221,0
-2490,Nord-du-Qu閎ec,314,0
-2490,Nord-du-Qu閎ec,313,0
+2490,Nord-du-Qu茅bec,211,0
+2480,C么te-Nord,491,0
+2480,C么te-Nord,486,0
+2480,C么te-Nord,526,0
+2480,C么te-Nord,521,0
+2490,Nord-du-Qu茅bec,221,0
+2490,Nord-du-Qu茅bec,314,0
+2490,Nord-du-Qu茅bec,313,0
 4850,Red Deer,482,0
 4850,Red Deer,483,0
 4850,Red Deer,491,0
-2490,Nord-du-Qu閎ec,311,0
+2490,Nord-du-Qu茅bec,311,0
 4850,Red Deer,487,0
-2490,Nord-du-Qu閎ec,312,0
-2480,C魌e-Nord,335,0
+2490,Nord-du-Qu茅bec,312,0
+2480,C么te-Nord,335,0
 2445,Laval,487,0
 2470,Mauricie,487,0
 2470,Mauricie,521,0
@@ -3573,13 +3573,13 @@ ERUID,ERNAME,NAICS,Concentration
 2445,Laval,521,0
 4880,Wood Buffalo-Cold Lake,521,0
 2475,Saguenay-Lac-Saint-Jean,211,0
-2480,C魌e-Nord,316,0
-2480,C魌e-Nord,315,0
+2480,C么te-Nord,316,0
+2480,C么te-Nord,315,0
 2445,Laval,211,0
-2480,C魌e-Nord,334,0
+2480,C么te-Nord,334,0
 2475,Saguenay-Lac-Saint-Jean,486,0
 2475,Saguenay-Lac-Saint-Jean,313,0
-2480,C魌e-Nord,211,0
+2480,C么te-Nord,211,0
 2475,Saguenay-Lac-Saint-Jean,521,0
 3550,Hamilton-Niagara Peninsula,521,0
 4760,Northern / Nord,322,0
@@ -3633,7 +3633,7 @@ ERUID,ERNAME,NAICS,Concentration
 4630,Southwest / Sud-ouest,316,0
 4630,Southwest / Sud-ouest,315,0
 4630,Southwest / Sud-ouest,322,0
-5960,North Coast / C魌e-nord,211,0
+5960,North Coast / C么te-nord,211,0
 1310,Campbellton-Miramichi,316,0
 1310,Campbellton-Miramichi,486,0
 5950,Cariboo,335,0
@@ -3657,7 +3657,7 @@ ERUID,ERNAME,NAICS,Concentration
 1350,Edmundston-Woodstock,521,0
 1350,Edmundston-Woodstock,487,0
 4820,Camrose-Drumheller,114,0
-2410,Gasp閟ie-蝜es-de-la-Madeleine,211,0
+2410,Gasp茅sie-脦les-de-la-Madeleine,211,0
 4820,Camrose-Drumheller,313,0
 3580,Stratford-Bruce Peninsula,521,0
 3580,Stratford-Bruce Peninsula,324,0
@@ -3672,21 +3672,21 @@ ERUID,ERNAME,NAICS,Concentration
 1350,Edmundston-Woodstock,482,0
 5930,Thompson-Okanagan,482,0
 4820,Camrose-Drumheller,491,0
-2410,Gasp閟ie-蝜es-de-la-Madeleine,521,0
-2410,Gasp閟ie-蝜es-de-la-Madeleine,481,0
+2410,Gasp茅sie-脦les-de-la-Madeleine,521,0
+2410,Gasp茅sie-脦les-de-la-Madeleine,481,0
 3560,London,521,0
 3560,London,483,0
 4820,Camrose-Drumheller,521,0
-2410,Gasp閟ie-蝜es-de-la-Madeleine,526,0
+2410,Gasp茅sie-脦les-de-la-Madeleine,526,0
 2415,Bas-Saint-Laurent,211,0
 4820,Camrose-Drumheller,483,0
-2410,Gasp閟ie-蝜es-de-la-Madeleine,314,0
+2410,Gasp茅sie-脦les-de-la-Madeleine,314,0
 3570,Windsor-Sarnia,521,0
 4820,Camrose-Drumheller,322,0
 3580,Stratford-Bruce Peninsula,211,0
-2410,Gasp閟ie-蝜es-de-la-Madeleine,331,0
-2410,Gasp閟ie-蝜es-de-la-Madeleine,334,0
-2410,Gasp閟ie-蝜es-de-la-Madeleine,322,0
+2410,Gasp茅sie-脦les-de-la-Madeleine,331,0
+2410,Gasp茅sie-脦les-de-la-Madeleine,334,0
+2410,Gasp茅sie-脦les-de-la-Madeleine,322,0
 3570,Windsor-Sarnia,316,0
 4610,Southeast / Sud-est,114,0
 3595,Northwest / Nord-ouest,521,0

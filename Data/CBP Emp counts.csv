@@ -1,0 +1,3725 @@
+ERUID,ERNAME,NAICS,Concentration
+5970,"Nechako, BC",321,13.0%
+4880,"Wood Buffalo-Cold Lake, AB",211,12.2%
+4760,"Northern, SK",212,11.3%
+4610,"Southeast, MB",238,10.2%
+5980,"Northeast, BC",237,9.0%
+2450,"Lanaudière, QC",238,8.4%
+5980,"Northeast, BC",213,8.4%
+1350,"Edmundston-Woodstock, NB",484,8.2%
+1240,"Southern, NS",311,8.1%
+1040,"Notre Dame-Central Bonavista Bay, NL",311,7.9%
+4660,"Interlake, MB",238,7.9%
+4740,"Yorkton-Melville, SK",212,7.9%
+5950,"Cariboo, BC",321,7.8%
+4880,"Wood Buffalo-Cold Lake, AB",238,7.7%
+4640,"North Central, MB",111,7.6%
+4850,"Red Deer, AB",213,7.5%
+2445,"Laval, QC",238,7.5%
+5970,"Nechako, BC",113,7.4%
+4860,"Edmonton, AB",238,7.4%
+4850,"Red Deer, AB",238,7.1%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,311,7.1%
+1240,Southern / Sud,114,6.9%
+2455,Laurentides,238,6.8%
+4720,Swift Current-Moose Jaw,111,6.7%
+1310,Campbellton-Miramichi,311,6.6%
+4870,Athabasca-Grande Prairie-Peace River,213,6.1%
+4610,Southeast / Sud-est,484,6.0%
+4830,Calgary,238,6.0%
+4640,North Central / Centre nord,238,5.9%
+4870,Athabasca-Grande Prairie-Peace River,238,5.8%
+2490,Nord-du-Québec,212,5.7%
+1350,Edmundston-Woodstock,111,5.6%
+1110,Prince Edward Island / Île-du-Prince-Édouard,311,5.6%
+2465,Abitibi-Témiscamingue,212,5.6%
+5930,Thompson-Okanagan,238,5.6%
+3520,Muskoka-Kawarthas,238,5.6%
+2410,Gaspésie-Îles-de-la-Madeleine,311,5.6%
+1230,Annapolis Valley,238,5.5%
+4880,Wood Buffalo-Cold Lake,213,5.5%
+3540,Kitchener-Waterloo-Barrie,238,5.4%
+2475,Saguenay-Lac-Saint-Jean,238,5.4%
+2435,Montérégie,238,5.4%
+2433,Centre-du-Québec,238,5.4%
+2465,Abitibi-Témiscamingue,238,5.3%
+1230,Annapolis Valley,111,5.3%
+2460,Outaouais,238,5.3%
+2470,Mauricie,238,5.3%
+4610,Southeast / Sud-est,112,5.3%
+4620,South Central / Centre sud,111,5.3%
+4680,North / Nord,331,5.2%
+1250,Halifax,238,5.2%
+1010,Avalon Peninsula,238,5.2%
+4810,Lethbridge-Medicine Hat,238,5.2%
+3580,Stratford-Bruce Peninsula,238,5.2%
+4740,Yorkton-Melville,238,5.2%
+4620,South Central / Centre sud,333,5.1%
+5950,Cariboo,238,5.1%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,311,5.1%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,237,5.1%
+1330,Saint John-St. Stephen,238,5.0%
+2425,Chaudière-Appalaches,238,5.0%
+3550,Hamilton-Niagara Peninsula,238,5.0%
+1320,Moncton-Richibucto,238,5.0%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,238,5.0%
+5980,Northeast / Nord-est,238,5.0%
+6210,Nunavut,236,5.0%
+3510,Ottawa,238,5.0%
+4640,North Central / Centre nord,484,4.9%
+4620,South Central / Centre sud,238,4.9%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,238,4.9%
+6010,Yukon,481,4.9%
+4870,Athabasca-Grande Prairie-Peace River,484,4.8%
+3560,London,238,4.8%
+6210,Nunavut,481,4.7%
+4660,Interlake,484,4.7%
+4680,North / Nord,212,4.7%
+3515,Kingston-Pembroke,238,4.7%
+4730,Saskatoon-Biggar,238,4.7%
+1310,Campbellton-Miramichi,238,4.7%
+2430,Estrie,238,4.7%
+6110,Northwest Territories / Territoires du Nord-Ouest,213,4.6%
+5940,Kootenay,212,4.6%
+4610,Southeast / Sud-est,337,4.6%
+3560,London,336,4.5%
+4640,North Central / Centre nord,311,4.5%
+4820,Camrose-Drumheller,238,4.5%
+5980,Northeast / Nord-est,484,4.5%
+4840,Banff-Jasper-Rocky Mountain House,238,4.5%
+3570,Windsor-Sarnia,238,4.5%
+4710,Regina-Moose Mountain,238,4.4%
+6110,Northwest Territories / Territoires du Nord-Ouest,212,4.4%
+6110,Northwest Territories / Territoires du Nord-Ouest,237,4.4%
+6110,Northwest Territories / Territoires du Nord-Ouest,481,4.4%
+3590,Northeast / Nord-est,238,4.4%
+4630,Southwest / Sud-ouest,238,4.3%
+3570,Windsor-Sarnia,336,4.3%
+5960,North Coast / Côte-nord,238,4.2%
+4740,Yorkton-Melville,111,4.2%
+1350,Edmundston-Woodstock,311,4.2%
+4670,Parklands,111,4.1%
+4820,Camrose-Drumheller,213,4.0%
+2465,Abitibi-Témiscamingue,213,4.0%
+3570,Windsor-Sarnia,111,4.0%
+2420,Capitale-Nationale,238,4.0%
+3570,Windsor-Sarnia,333,4.0%
+5970,Nechako,115,4.0%
+1350,Edmundston-Woodstock,238,4.0%
+4840,Banff-Jasper-Rocky Mountain House,237,4.0%
+4630,Southwest / Sud-ouest,311,4.0%
+3530,Toronto,238,3.9%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,112,3.9%
+4850,Red Deer,237,3.9%
+1320,Moncton-Richibucto,311,3.9%
+4610,Southeast / Sud-est,236,3.9%
+2410,Gaspésie-Îles-de-la-Madeleine,114,3.9%
+4870,Athabasca-Grande Prairie-Peace River,237,3.9%
+4880,Wood Buffalo-Cold Lake,484,3.8%
+4750,Prince Albert,238,3.8%
+2480,Côte-Nord,331,3.8%
+2480,Côte-Nord,212,3.8%
+1110,Prince Edward Island / Île-du-Prince-Édouard,111,3.7%
+4760,Northern / Nord,481,3.7%
+3595,Northwest / Nord-ouest,238,3.7%
+1010,Avalon Peninsula,311,3.6%
+5940,Kootenay,238,3.6%
+4650,Winnipeg,238,3.6%
+1010,Avalon Peninsula,236,3.6%
+3540,Kitchener-Waterloo-Barrie,336,3.5%
+2425,Chaudière-Appalaches,321,3.5%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,483,3.5%
+4720,Swift Current-Moose Jaw,238,3.5%
+6010,Yukon,238,3.4%
+6110,Northwest Territories / Territoires du Nord-Ouest,238,3.4%
+2433,Centre-du-Québec,484,3.4%
+1230,Annapolis Valley,311,3.4%
+3520,Muskoka-Kawarthas,236,3.4%
+1330,Saint John-St. Stephen,311,3.3%
+1210,Cape Breton,238,3.3%
+4860,Edmonton,236,3.3%
+2490,Nord-du-Québec,321,3.3%
+2415,Bas-Saint-Laurent,238,3.3%
+2425,Chaudière-Appalaches,311,3.3%
+4620,South Central / Centre sud,336,3.3%
+2433,Centre-du-Québec,333,3.3%
+5970,Nechako,484,3.3%
+2450,Lanaudière,236,3.3%
+1350,Edmundston-Woodstock,321,3.3%
+1110,Prince Edward Island / Île-du-Prince-Édouard,238,3.3%
+1340,Fredericton-Oromocto,238,3.3%
+1220,North Shore / Côte-nord,238,3.2%
+5970,Nechako,237,3.2%
+4750,Prince Albert,111,3.2%
+5970,Nechako,238,3.2%
+4680,North / Nord,481,3.2%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,238,3.1%
+5950,Cariboo,115,3.1%
+1210,Cape Breton,114,3.1%
+1040,Notre Dame-Central Bonavista Bay,238,3.1%
+5950,Cariboo,113,3.1%
+3550,Hamilton-Niagara Peninsula,111,3.1%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,236,3.1%
+2490,Nord-du-Québec,237,3.1%
+4730,Saskatoon-Biggar,212,3.0%
+4620,South Central / Centre sud,484,3.0%
+2425,Chaudière-Appalaches,332,3.0%
+4830,Calgary,211,3.0%
+2480,Côte-Nord,238,3.0%
+4860,Edmonton,237,3.0%
+3530,Toronto,523,3.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,213,2.9%
+4810,Lethbridge-Medicine Hat,111,2.9%
+1220,North Shore / Côte-nord,326,2.9%
+2480,Côte-Nord,482,2.9%
+4810,Lethbridge-Medicine Hat,311,2.9%
+4820,Camrose-Drumheller,237,2.9%
+5960,North Coast / Côte-nord,331,2.8%
+5960,North Coast / Côte-nord,482,2.8%
+4820,Camrose-Drumheller,111,2.8%
+2475,Saguenay-Lac-Saint-Jean,484,2.8%
+2490,Nord-du-Québec,236,2.8%
+2435,Montérégie,311,2.8%
+5940,Kootenay,321,2.8%
+2430,Estrie,326,2.8%
+3595,Northwest / Nord-ouest,212,2.8%
+2465,Abitibi-Témiscamingue,321,2.8%
+1240,Southern / Sud,238,2.8%
+2433,Centre-du-Québec,112,2.8%
+5960,North Coast / Côte-nord,311,2.8%
+4820,Camrose-Drumheller,112,2.7%
+5930,Thompson-Okanagan,321,2.7%
+2460,Outaouais,236,2.7%
+4630,Southwest / Sud-ouest,111,2.7%
+2425,Chaudière-Appalaches,236,2.7%
+4740,Yorkton-Melville,522,2.7%
+2425,Chaudière-Appalaches,484,2.7%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,212,2.7%
+5930,Thompson-Okanagan,111,2.7%
+4670,Parklands,112,2.7%
+1320,Moncton-Richibucto,484,2.7%
+2410,Gaspésie-Îles-de-la-Madeleine,236,2.7%
+1310,Campbellton-Miramichi,236,2.7%
+5950,Cariboo,484,2.6%
+4820,Camrose-Drumheller,484,2.6%
+1210,Cape Breton,236,2.6%
+5950,Cariboo,236,2.6%
+4880,Wood Buffalo-Cold Lake,237,2.6%
+2415,Bas-Saint-Laurent,484,2.6%
+1310,Campbellton-Miramichi,114,2.6%
+2465,Abitibi-Témiscamingue,484,2.6%
+1240,Southern / Sud,336,2.6%
+4870,Athabasca-Grande Prairie-Peace River,321,2.6%
+2455,Laurentides,236,2.6%
+3580,Stratford-Bruce Peninsula,112,2.6%
+2425,Chaudière-Appalaches,337,2.6%
+2425,Chaudière-Appalaches,326,2.6%
+1230,Annapolis Valley,112,2.6%
+2475,Saguenay-Lac-Saint-Jean,236,2.6%
+2415,Bas-Saint-Laurent,321,2.6%
+4810,Lethbridge-Medicine Hat,484,2.6%
+4730,Saskatoon-Biggar,236,2.6%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,236,2.6%
+6210,Nunavut,238,2.5%
+6010,Yukon,236,2.5%
+1040,Notre Dame-Central Bonavista Bay,236,2.5%
+3580,Stratford-Bruce Peninsula,311,2.5%
+2445,Laval,236,2.5%
+4870,Athabasca-Grande Prairie-Peace River,113,2.5%
+5950,Cariboo,322,2.5%
+2433,Centre-du-Québec,311,2.5%
+3540,Kitchener-Waterloo-Barrie,333,2.5%
+6110,Northwest Territories / Territoires du Nord-Ouest,221,2.5%
+4710,Regina-Moose Mountain,213,2.4%
+2480,Côte-Nord,236,2.4%
+6110,Northwest Territories / Territoires du Nord-Ouest,236,2.4%
+1210,Cape Breton,311,2.4%
+1340,Fredericton-Oromocto,522,2.4%
+4830,Calgary,236,2.4%
+1220,North Shore / Côte-nord,311,2.4%
+2433,Centre-du-Québec,332,2.4%
+2415,Bas-Saint-Laurent,311,2.4%
+3540,Kitchener-Waterloo-Barrie,332,2.4%
+4660,Interlake,237,2.4%
+5940,Kootenay,236,2.4%
+5930,Thompson-Okanagan,236,2.3%
+2420,Capitale-Nationale,524,2.3%
+4720,Swift Current-Moose Jaw,484,2.3%
+2425,Chaudière-Appalaches,112,2.3%
+5970,Nechako,213,2.3%
+3580,Stratford-Bruce Peninsula,336,2.3%
+4840,Banff-Jasper-Rocky Mountain House,213,2.3%
+3590,Northeast / Nord-est,236,2.3%
+2455,Laurentides,336,2.3%
+3590,Northeast / Nord-est,213,2.3%
+4620,South Central / Centre sud,236,2.3%
+2430,Estrie,333,2.3%
+2475,Saguenay-Lac-Saint-Jean,113,2.3%
+4830,Calgary,237,2.3%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,236,2.3%
+1330,Saint John-St. Stephen,236,2.3%
+3595,Northwest / Nord-ouest,113,2.3%
+4810,Lethbridge-Medicine Hat,213,2.2%
+2410,Gaspésie-Îles-de-la-Madeleine,238,2.2%
+4670,Parklands,238,2.2%
+2430,Estrie,236,2.2%
+2450,Lanaudière,484,2.2%
+4850,Red Deer,236,2.2%
+4680,North / Nord,237,2.2%
+6010,Yukon,213,2.2%
+2435,Montérégie,484,2.2%
+4830,Calgary,213,2.2%
+1350,Edmundston-Woodstock,113,2.2%
+4850,Red Deer,484,2.2%
+4670,Parklands,522,2.2%
+4810,Lethbridge-Medicine Hat,112,2.2%
+4620,South Central / Centre sud,337,2.2%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,238,2.2%
+1320,Moncton-Richibucto,524,2.2%
+2440,Montréal,238,2.1%
+3560,London,111,2.1%
+2435,Montérégie,236,2.1%
+2475,Saguenay-Lac-Saint-Jean,321,2.1%
+3560,London,484,2.1%
+4640,North Central / Centre nord,236,2.1%
+5960,North Coast / Côte-nord,488,2.1%
+4710,Regina-Moose Mountain,522,2.1%
+3530,Toronto,522,2.1%
+2450,Lanaudière,311,2.1%
+4750,Prince Albert,484,2.1%
+2470,Mauricie,321,2.1%
+2433,Centre-du-Québec,322,2.1%
+3580,Stratford-Bruce Peninsula,236,2.1%
+2415,Bas-Saint-Laurent,112,2.1%
+1230,Annapolis Valley,236,2.1%
+4710,Regina-Moose Mountain,484,2.1%
+4870,Athabasca-Grande Prairie-Peace River,211,2.1%
+4750,Prince Albert,522,2.1%
+5980,Northeast / Nord-est,321,2.1%
+4610,Southeast / Sud-est,321,2.1%
+4840,Banff-Jasper-Rocky Mountain House,484,2.0%
+2420,Capitale-Nationale,236,2.0%
+2465,Abitibi-Témiscamingue,236,2.0%
+2435,Montérégie,111,2.0%
+2425,Chaudière-Appalaches,524,2.0%
+2470,Mauricie,337,2.0%
+1210,Cape Breton,221,2.0%
+1350,Edmundston-Woodstock,237,2.0%
+2425,Chaudière-Appalaches,336,2.0%
+3560,London,311,2.0%
+3540,Kitchener-Waterloo-Barrie,484,2.0%
+2430,Estrie,321,2.0%
+4810,Lethbridge-Medicine Hat,237,2.0%
+1310,Campbellton-Miramichi,321,2.0%
+5960,North Coast / Côte-nord,237,2.0%
+2450,Lanaudière,332,2.0%
+1250,Halifax,522,2.0%
+1220,North Shore / Côte-nord,111,2.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,522,2.0%
+4650,Winnipeg,236,2.0%
+4650,Winnipeg,523,2.0%
+4660,Interlake,112,1.9%
+2490,Nord-du-Québec,238,1.9%
+3595,Northwest / Nord-ouest,236,1.9%
+4870,Athabasca-Grande Prairie-Peace River,322,1.9%
+3580,Stratford-Bruce Peninsula,332,1.9%
+2433,Centre-du-Québec,236,1.9%
+1110,Prince Edward Island / Île-du-Prince-Édouard,236,1.9%
+2435,Montérégie,332,1.9%
+3590,Northeast / Nord-est,212,1.9%
+5960,North Coast / Côte-nord,236,1.9%
+3560,London,236,1.9%
+2433,Centre-du-Québec,321,1.9%
+2433,Centre-du-Québec,336,1.9%
+4860,Edmonton,213,1.9%
+4810,Lethbridge-Medicine Hat,236,1.9%
+3510,Ottawa,236,1.9%
+4620,South Central / Centre sud,332,1.9%
+4660,Interlake,236,1.9%
+3540,Kitchener-Waterloo-Barrie,236,1.9%
+3515,Kingston-Pembroke,236,1.9%
+3550,Hamilton-Niagara Peninsula,311,1.9%
+1230,Annapolis Valley,326,1.9%
+2450,Lanaudière,326,1.9%
+2433,Centre-du-Québec,111,1.9%
+2470,Mauricie,236,1.9%
+3560,London,332,1.9%
+4860,Edmonton,332,1.8%
+2480,Côte-Nord,311,1.8%
+1320,Moncton-Richibucto,236,1.8%
+4830,Calgary,523,1.8%
+3580,Stratford-Bruce Peninsula,111,1.8%
+4720,Swift Current-Moose Jaw,522,1.8%
+3550,Hamilton-Niagara Peninsula,236,1.8%
+4660,Interlake,522,1.8%
+4630,Southwest / Sud-ouest,236,1.8%
+2415,Bas-Saint-Laurent,236,1.8%
+3570,Windsor-Sarnia,326,1.8%
+5970,Nechako,236,1.8%
+4610,Southeast / Sud-est,311,1.8%
+3595,Northwest / Nord-ouest,237,1.8%
+4820,Camrose-Drumheller,332,1.8%
+4620,South Central / Centre sud,323,1.8%
+5960,North Coast / Côte-nord,113,1.8%
+3550,Hamilton-Niagara Peninsula,332,1.8%
+3570,Windsor-Sarnia,332,1.8%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,114,1.8%
+4750,Prince Albert,112,1.8%
+1330,Saint John-St. Stephen,332,1.8%
+6210,Nunavut,212,1.8%
+4670,Parklands,237,1.8%
+2440,Montréal,522,1.8%
+2455,Laurentides,111,1.7%
+4660,Interlake,111,1.7%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,336,1.7%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,236,1.7%
+3590,Northeast / Nord-est,484,1.7%
+2455,Laurentides,311,1.7%
+1240,Southern / Sud,326,1.7%
+4760,Northern / Nord,236,1.7%
+5980,Northeast / Nord-est,211,1.7%
+2425,Chaudière-Appalaches,522,1.7%
+4860,Edmonton,484,1.7%
+1250,Halifax,236,1.7%
+2480,Côte-Nord,522,1.7%
+2430,Estrie,332,1.7%
+4870,Athabasca-Grande Prairie-Peace River,111,1.7%
+4740,Yorkton-Melville,236,1.7%
+1340,Fredericton-Oromocto,221,1.7%
+1340,Fredericton-Oromocto,236,1.7%
+2470,Mauricie,332,1.7%
+4750,Prince Albert,213,1.7%
+6010,Yukon,237,1.7%
+4840,Banff-Jasper-Rocky Mountain House,321,1.7%
+4730,Saskatoon-Biggar,522,1.7%
+6010,Yukon,212,1.7%
+1330,Saint John-St. Stephen,522,1.7%
+3570,Windsor-Sarnia,484,1.7%
+1240,Southern / Sud,112,1.7%
+2450,Lanaudière,111,1.7%
+6210,Nunavut,488,1.7%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,113,1.7%
+1110,Prince Edward Island / Île-du-Prince-Édouard,112,1.7%
+4650,Winnipeg,524,1.7%
+2415,Bas-Saint-Laurent,522,1.7%
+4640,North Central / Centre nord,112,1.7%
+2465,Abitibi-Témiscamingue,322,1.7%
+2440,Montréal,523,1.7%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,523,1.6%
+4740,Yorkton-Melville,311,1.6%
+1240,Southern / Sud,236,1.6%
+3580,Stratford-Bruce Peninsula,326,1.6%
+4710,Regina-Moose Mountain,236,1.6%
+3540,Kitchener-Waterloo-Barrie,311,1.6%
+4710,Regina-Moose Mountain,524,1.6%
+1330,Saint John-St. Stephen,322,1.6%
+4720,Swift Current-Moose Jaw,236,1.6%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,311,1.6%
+2470,Mauricie,522,1.6%
+5980,Northeast / Nord-est,236,1.6%
+1250,Halifax,523,1.6%
+1330,Saint John-St. Stephen,484,1.6%
+2475,Saguenay-Lac-Saint-Jean,115,1.6%
+2475,Saguenay-Lac-Saint-Jean,333,1.6%
+4640,North Central / Centre nord,237,1.6%
+1010,Avalon Peninsula,213,1.6%
+4750,Prince Albert,333,1.6%
+1010,Avalon Peninsula,237,1.6%
+4630,Southwest / Sud-ouest,522,1.6%
+4870,Athabasca-Grande Prairie-Peace River,236,1.6%
+3595,Northwest / Nord-ouest,322,1.6%
+4720,Swift Current-Moose Jaw,333,1.6%
+3515,Kingston-Pembroke,484,1.6%
+4880,Wood Buffalo-Cold Lake,236,1.6%
+3530,Toronto,236,1.6%
+1250,Halifax,524,1.6%
+2433,Centre-du-Québec,337,1.6%
+4750,Prince Albert,237,1.6%
+4740,Yorkton-Melville,112,1.5%
+4750,Prince Albert,236,1.5%
+4720,Swift Current-Moose Jaw,112,1.5%
+2410,Gaspésie-Îles-de-la-Madeleine,321,1.5%
+1350,Edmundston-Woodstock,236,1.5%
+2410,Gaspésie-Îles-de-la-Madeleine,522,1.5%
+4880,Wood Buffalo-Cold Lake,485,1.5%
+4650,Winnipeg,336,1.5%
+4610,Southeast / Sud-est,237,1.5%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,221,1.5%
+2490,Nord-du-Québec,115,1.5%
+4650,Winnipeg,522,1.5%
+1330,Saint John-St. Stephen,488,1.5%
+4610,Southeast / Sud-est,111,1.5%
+2480,Côte-Nord,321,1.5%
+2465,Abitibi-Témiscamingue,113,1.5%
+3590,Northeast / Nord-est,321,1.5%
+5940,Kootenay,113,1.5%
+1330,Saint John-St. Stephen,221,1.5%
+1220,North Shore / Côte-nord,236,1.5%
+1010,Avalon Peninsula,488,1.5%
+3590,Northeast / Nord-est,237,1.5%
+4760,Northern / Nord,238,1.5%
+2425,Chaudière-Appalaches,333,1.5%
+4730,Saskatoon-Biggar,111,1.5%
+1330,Saint John-St. Stephen,483,1.5%
+4670,Parklands,484,1.5%
+5980,Northeast / Nord-est,522,1.5%
+4720,Swift Current-Moose Jaw,213,1.5%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,481,1.5%
+4820,Camrose-Drumheller,236,1.5%
+1250,Halifax,237,1.5%
+2455,Laurentides,484,1.5%
+1310,Campbellton-Miramichi,237,1.5%
+3515,Kingston-Pembroke,336,1.5%
+5930,Thompson-Okanagan,237,1.5%
+3580,Stratford-Bruce Peninsula,484,1.5%
+3560,London,333,1.5%
+2480,Côte-Nord,114,1.5%
+4650,Winnipeg,484,1.5%
+1220,North Shore / Côte-nord,523,1.5%
+2425,Chaudière-Appalaches,237,1.5%
+5960,North Coast / Côte-nord,484,1.4%
+2410,Gaspésie-Îles-de-la-Madeleine,484,1.4%
+4670,Parklands,321,1.4%
+2440,Montréal,311,1.4%
+2415,Bas-Saint-Laurent,113,1.4%
+3570,Windsor-Sarnia,236,1.4%
+2430,Estrie,484,1.4%
+2475,Saguenay-Lac-Saint-Jean,237,1.4%
+4630,Southwest / Sud-ouest,332,1.4%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,523,1.4%
+2470,Mauricie,484,1.4%
+1310,Campbellton-Miramichi,484,1.4%
+3550,Hamilton-Niagara Peninsula,523,1.4%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,488,1.4%
+1240,Southern / Sud,321,1.4%
+4840,Banff-Jasper-Rocky Mountain House,113,1.4%
+2470,Mauricie,311,1.4%
+1040,Notre Dame-Central Bonavista Bay,237,1.4%
+4830,Calgary,484,1.4%
+2415,Bas-Saint-Laurent,111,1.4%
+4640,North Central / Centre nord,522,1.4%
+3570,Windsor-Sarnia,325,1.4%
+2435,Montérégie,522,1.4%
+1220,North Shore / Côte-nord,484,1.4%
+1340,Fredericton-Oromocto,321,1.4%
+2445,Laval,237,1.4%
+1330,Saint John-St. Stephen,523,1.4%
+4740,Yorkton-Melville,484,1.4%
+3570,Windsor-Sarnia,237,1.4%
+1310,Campbellton-Miramichi,113,1.4%
+4660,Interlake,331,1.4%
+3530,Toronto,524,1.4%
+1230,Annapolis Valley,484,1.4%
+4630,Southwest / Sud-ouest,484,1.4%
+1350,Edmundston-Woodstock,115,1.4%
+3520,Muskoka-Kawarthas,326,1.4%
+4620,South Central / Centre sud,112,1.3%
+1340,Fredericton-Oromocto,526,1.3%
+5930,Thompson-Okanagan,484,1.3%
+2460,Outaouais,522,1.3%
+2430,Estrie,322,1.3%
+3515,Kingston-Pembroke,237,1.3%
+4650,Winnipeg,311,1.3%
+6210,Nunavut,221,1.3%
+3530,Toronto,311,1.3%
+3550,Hamilton-Niagara Peninsula,333,1.3%
+1110,Prince Edward Island / Île-du-Prince-Édouard,237,1.3%
+2410,Gaspésie-Îles-de-la-Madeleine,237,1.3%
+5960,North Coast / Côte-nord,213,1.3%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,484,1.3%
+6010,Yukon,522,1.3%
+2430,Estrie,522,1.3%
+1330,Saint John-St. Stephen,524,1.3%
+3540,Kitchener-Waterloo-Barrie,326,1.3%
+3530,Toronto,484,1.3%
+4850,Red Deer,311,1.3%
+4730,Saskatoon-Biggar,484,1.3%
+4640,North Central / Centre nord,333,1.3%
+2475,Saguenay-Lac-Saint-Jean,331,1.3%
+1350,Edmundston-Woodstock,339,1.3%
+2420,Capitale-Nationale,488,1.3%
+1310,Campbellton-Miramichi,488,1.3%
+3590,Northeast / Nord-est,485,1.3%
+3510,Ottawa,522,1.3%
+3550,Hamilton-Niagara Peninsula,484,1.3%
+2460,Outaouais,321,1.3%
+4610,Southeast / Sud-est,522,1.3%
+3515,Kingston-Pembroke,485,1.3%
+2445,Laval,332,1.3%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,237,1.3%
+4680,North / Nord,238,1.3%
+5940,Kootenay,237,1.3%
+3580,Stratford-Bruce Peninsula,333,1.3%
+3540,Kitchener-Waterloo-Barrie,524,1.3%
+4850,Red Deer,333,1.3%
+2445,Laval,311,1.3%
+3580,Stratford-Bruce Peninsula,237,1.3%
+6110,Northwest Territories / Territoires du Nord-Ouest,488,1.3%
+2420,Capitale-Nationale,522,1.2%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,522,1.2%
+3560,London,524,1.2%
+4610,Southeast / Sud-est,332,1.2%
+4850,Red Deer,523,1.2%
+4630,Southwest / Sud-ouest,325,1.2%
+2445,Laval,325,1.2%
+3550,Hamilton-Niagara Peninsula,336,1.2%
+4610,Southeast / Sud-est,212,1.2%
+4740,Yorkton-Melville,237,1.2%
+4860,Edmonton,333,1.2%
+2435,Montérégie,326,1.2%
+1210,Cape Breton,237,1.2%
+2480,Côte-Nord,484,1.2%
+2475,Saguenay-Lac-Saint-Jean,311,1.2%
+2490,Nord-du-Québec,481,1.2%
+2435,Montérégie,336,1.2%
+3595,Northwest / Nord-ouest,484,1.2%
+1330,Saint John-St. Stephen,112,1.2%
+2430,Estrie,111,1.2%
+4620,South Central / Centre sud,321,1.2%
+5940,Kootenay,484,1.2%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,488,1.2%
+6110,Northwest Territories / Territoires du Nord-Ouest,484,1.2%
+1310,Campbellton-Miramichi,522,1.2%
+5930,Thompson-Okanagan,522,1.2%
+1330,Saint John-St. Stephen,237,1.2%
+4710,Regina-Moose Mountain,237,1.2%
+2433,Centre-du-Québec,326,1.2%
+5960,North Coast / Côte-nord,522,1.2%
+2440,Montréal,524,1.2%
+2415,Bas-Saint-Laurent,327,1.2%
+3530,Toronto,332,1.2%
+1350,Edmundston-Woodstock,322,1.2%
+4730,Saskatoon-Biggar,237,1.2%
+3540,Kitchener-Waterloo-Barrie,237,1.2%
+3520,Muskoka-Kawarthas,311,1.2%
+4620,South Central / Centre sud,115,1.2%
+3520,Muskoka-Kawarthas,485,1.2%
+2490,Nord-du-Québec,113,1.2%
+1310,Campbellton-Miramichi,212,1.2%
+1250,Halifax,488,1.2%
+2465,Abitibi-Témiscamingue,522,1.2%
+1230,Annapolis Valley,237,1.2%
+4630,Southwest / Sud-ouest,112,1.2%
+4740,Yorkton-Melville,333,1.2%
+5980,Northeast / Nord-est,113,1.2%
+2470,Mauricie,237,1.2%
+2445,Laval,336,1.2%
+4760,Northern / Nord,114,1.2%
+2433,Centre-du-Québec,325,1.2%
+2445,Laval,485,1.2%
+2460,Outaouais,485,1.2%
+2450,Lanaudière,333,1.2%
+1320,Moncton-Richibucto,321,1.2%
+2490,Nord-du-Québec,522,1.2%
+4680,North / Nord,482,1.2%
+5940,Kootenay,115,1.2%
+4620,South Central / Centre sud,522,1.1%
+2455,Laurentides,325,1.1%
+4670,Parklands,236,1.1%
+5940,Kootenay,111,1.1%
+3515,Kingston-Pembroke,311,1.1%
+2470,Mauricie,322,1.1%
+1230,Annapolis Valley,321,1.1%
+4870,Athabasca-Grande Prairie-Peace River,112,1.1%
+2475,Saguenay-Lac-Saint-Jean,522,1.1%
+3530,Toronto,336,1.1%
+2430,Estrie,112,1.1%
+5940,Kootenay,522,1.1%
+4730,Saskatoon-Biggar,523,1.1%
+2475,Saguenay-Lac-Saint-Jean,332,1.1%
+5930,Thompson-Okanagan,488,1.1%
+4650,Winnipeg,333,1.1%
+1110,Prince Edward Island / Île-du-Prince-Édouard,484,1.1%
+2445,Laval,522,1.1%
+4730,Saskatoon-Biggar,311,1.1%
+2433,Centre-du-Québec,522,1.1%
+4830,Calgary,522,1.1%
+2433,Centre-du-Québec,331,1.1%
+4610,Southeast / Sud-est,325,1.1%
+2410,Gaspésie-Îles-de-la-Madeleine,113,1.1%
+2450,Lanaudière,337,1.1%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,522,1.1%
+2445,Laval,493,1.1%
+3515,Kingston-Pembroke,524,1.1%
+2440,Montréal,488,1.1%
+1220,North Shore / Côte-nord,332,1.1%
+4810,Lethbridge-Medicine Hat,332,1.1%
+2480,Côte-Nord,113,1.1%
+2420,Capitale-Nationale,311,1.1%
+3595,Northwest / Nord-ouest,481,1.1%
+2435,Montérégie,325,1.1%
+4830,Calgary,333,1.1%
+2410,Gaspésie-Îles-de-la-Madeleine,115,1.1%
+4760,Northern / Nord,213,1.1%
+3570,Windsor-Sarnia,524,1.1%
+2480,Côte-Nord,237,1.1%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,311,1.1%
+5940,Kootenay,331,1.1%
+4850,Red Deer,332,1.1%
+4650,Winnipeg,237,1.1%
+2480,Côte-Nord,115,1.1%
+5930,Thompson-Okanagan,113,1.1%
+2430,Estrie,337,1.1%
+4670,Parklands,113,1.1%
+1040,Notre Dame-Central Bonavista Bay,221,1.1%
+2435,Montérégie,331,1.1%
+5970,Nechako,112,1.1%
+3510,Ottawa,334,1.1%
+4710,Regina-Moose Mountain,523,1.1%
+1110,Prince Edward Island / Île-du-Prince-Édouard,522,1.1%
+2425,Chaudière-Appalaches,111,1.1%
+2420,Capitale-Nationale,484,1.1%
+3550,Hamilton-Niagara Peninsula,331,1.0%
+5930,Thompson-Okanagan,312,1.0%
+4750,Prince Albert,321,1.0%
+2435,Montérégie,237,1.0%
+4680,North / Nord,322,1.0%
+4740,Yorkton-Melville,524,1.0%
+2415,Bas-Saint-Laurent,332,1.0%
+4720,Swift Current-Moose Jaw,311,1.0%
+6010,Yukon,523,1.0%
+2430,Estrie,336,1.0%
+4640,North Central / Centre nord,321,1.0%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,524,1.0%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,111,1.0%
+1310,Campbellton-Miramichi,111,1.0%
+1350,Edmundston-Woodstock,524,1.0%
+5950,Cariboo,237,1.0%
+3590,Northeast / Nord-est,522,1.0%
+4730,Saskatoon-Biggar,213,1.0%
+1040,Notre Dame-Central Bonavista Bay,522,1.0%
+4850,Red Deer,325,1.0%
+3530,Toronto,237,1.0%
+2465,Abitibi-Témiscamingue,331,1.0%
+4720,Swift Current-Moose Jaw,488,1.0%
+4660,Interlake,336,1.0%
+3515,Kingston-Pembroke,326,1.0%
+2445,Laval,484,1.0%
+2420,Capitale-Nationale,332,1.0%
+1210,Cape Breton,484,1.0%
+2475,Saguenay-Lac-Saint-Jean,111,1.0%
+3560,London,112,1.0%
+4630,Southwest / Sud-ouest,237,1.0%
+3570,Windsor-Sarnia,488,1.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,484,1.0%
+1220,North Shore / Côte-nord,321,1.0%
+2430,Estrie,339,1.0%
+1040,Notre Dame-Central Bonavista Bay,488,1.0%
+5950,Cariboo,212,1.0%
+4650,Winnipeg,332,1.0%
+2450,Lanaudière,522,1.0%
+3550,Hamilton-Niagara Peninsula,522,1.0%
+1230,Annapolis Valley,485,1.0%
+3550,Hamilton-Niagara Peninsula,485,1.0%
+1330,Saint John-St. Stephen,213,1.0%
+4860,Edmonton,524,1.0%
+5930,Thompson-Okanagan,523,1.0%
+2440,Montréal,484,1.0%
+3540,Kitchener-Waterloo-Barrie,522,1.0%
+2455,Laurentides,522,1.0%
+2433,Centre-du-Québec,237,1.0%
+1340,Fredericton-Oromocto,237,1.0%
+3540,Kitchener-Waterloo-Barrie,485,1.0%
+2455,Laurentides,332,1.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,523,1.0%
+4840,Banff-Jasper-Rocky Mountain House,236,1.0%
+4650,Winnipeg,221,1.0%
+2470,Mauricie,333,1.0%
+2465,Abitibi-Témiscamingue,237,1.0%
+4860,Edmonton,522,1.0%
+1010,Avalon Peninsula,524,1.0%
+1320,Moncton-Richibucto,237,1.0%
+1010,Avalon Peninsula,481,1.0%
+4680,North / Nord,236,1.0%
+3595,Northwest / Nord-ouest,485,1.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,524,1.0%
+2460,Outaouais,322,1.0%
+4710,Regina-Moose Mountain,212,1.0%
+2460,Outaouais,484,1.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,488,1.0%
+6010,Yukon,484,1.0%
+2415,Bas-Saint-Laurent,337,1.0%
+1310,Campbellton-Miramichi,332,1.0%
+5950,Cariboo,488,1.0%
+4730,Saskatoon-Biggar,332,1.0%
+2475,Saguenay-Lac-Saint-Jean,327,0.9%
+3595,Northwest / Nord-ouest,321,0.9%
+4860,Edmonton,523,0.9%
+5950,Cariboo,482,0.9%
+3580,Stratford-Bruce Peninsula,221,0.9%
+2433,Centre-du-Québec,335,0.9%
+4870,Athabasca-Grande Prairie-Peace River,115,0.9%
+4660,Interlake,332,0.9%
+4680,North / Nord,114,0.9%
+3550,Hamilton-Niagara Peninsula,326,0.9%
+3520,Muskoka-Kawarthas,484,0.9%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,114,0.9%
+4820,Camrose-Drumheller,333,0.9%
+3590,Northeast / Nord-est,331,0.9%
+3520,Muskoka-Kawarthas,524,0.9%
+4620,South Central / Centre sud,311,0.9%
+1250,Halifax,336,0.9%
+4650,Winnipeg,326,0.9%
+4660,Interlake,221,0.9%
+3510,Ottawa,523,0.9%
+2440,Montréal,332,0.9%
+4850,Red Deer,111,0.9%
+3530,Toronto,326,0.9%
+2410,Gaspésie-Îles-de-la-Madeleine,485,0.9%
+2450,Lanaudière,237,0.9%
+1340,Fredericton-Oromocto,524,0.9%
+2450,Lanaudière,485,0.9%
+2440,Montréal,236,0.9%
+4830,Calgary,332,0.9%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,113,0.9%
+2430,Estrie,311,0.9%
+3570,Windsor-Sarnia,522,0.9%
+2420,Capitale-Nationale,237,0.9%
+2455,Laurentides,237,0.9%
+1330,Saint John-St. Stephen,486,0.9%
+4880,Wood Buffalo-Cold Lake,221,0.9%
+4850,Red Deer,112,0.9%
+3510,Ottawa,484,0.9%
+4720,Swift Current-Moose Jaw,221,0.9%
+4720,Swift Current-Moose Jaw,524,0.9%
+1040,Notre Dame-Central Bonavista Bay,484,0.9%
+4760,Northern / Nord,311,0.9%
+6210,Nunavut,213,0.9%
+2480,Côte-Nord,332,0.9%
+1320,Moncton-Richibucto,488,0.9%
+4850,Red Deer,522,0.9%
+4810,Lethbridge-Medicine Hat,523,0.9%
+2433,Centre-du-Québec,339,0.9%
+1330,Saint John-St. Stephen,114,0.9%
+5980,Northeast / Nord-est,488,0.9%
+5960,North Coast / Côte-nord,481,0.9%
+1240,Southern / Sud,484,0.9%
+4630,Southwest / Sud-ouest,488,0.9%
+1240,Southern / Sud,522,0.9%
+2470,Mauricie,488,0.9%
+2430,Estrie,315,0.9%
+2410,Gaspésie-Îles-de-la-Madeleine,111,0.9%
+2415,Bas-Saint-Laurent,485,0.9%
+4710,Regina-Moose Mountain,332,0.9%
+3580,Stratford-Bruce Peninsula,323,0.9%
+2450,Lanaudière,321,0.9%
+3520,Muskoka-Kawarthas,333,0.9%
+3580,Stratford-Bruce Peninsula,212,0.9%
+2410,Gaspésie-Îles-de-la-Madeleine,483,0.9%
+2430,Estrie,524,0.9%
+1310,Campbellton-Miramichi,115,0.9%
+5950,Cariboo,522,0.8%
+3580,Stratford-Bruce Peninsula,337,0.8%
+4710,Regina-Moose Mountain,111,0.8%
+4840,Banff-Jasper-Rocky Mountain House,212,0.8%
+1220,North Shore / Côte-nord,113,0.8%
+4730,Saskatoon-Biggar,333,0.8%
+2420,Capitale-Nationale,523,0.8%
+3590,Northeast / Nord-est,333,0.8%
+3520,Muskoka-Kawarthas,335,0.8%
+3590,Northeast / Nord-est,524,0.8%
+4820,Camrose-Drumheller,522,0.8%
+1220,North Shore / Côte-nord,114,0.8%
+3530,Toronto,333,0.8%
+2475,Saguenay-Lac-Saint-Jean,112,0.8%
+3530,Toronto,488,0.8%
+2410,Gaspésie-Îles-de-la-Madeleine,333,0.8%
+2465,Abitibi-Témiscamingue,333,0.8%
+4810,Lethbridge-Medicine Hat,524,0.8%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,221,0.8%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,326,0.8%
+3515,Kingston-Pembroke,522,0.8%
+4840,Banff-Jasper-Rocky Mountain House,327,0.8%
+2465,Abitibi-Témiscamingue,485,0.8%
+3580,Stratford-Bruce Peninsula,522,0.8%
+2430,Estrie,327,0.8%
+4720,Swift Current-Moose Jaw,237,0.8%
+1230,Annapolis Valley,322,0.8%
+4830,Calgary,311,0.8%
+2470,Mauricie,111,0.8%
+2490,Nord-du-Québec,213,0.8%
+3580,Stratford-Bruce Peninsula,524,0.8%
+1220,North Shore / Côte-nord,112,0.8%
+1320,Moncton-Richibucto,492,0.8%
+1320,Moncton-Richibucto,522,0.8%
+3530,Toronto,337,0.8%
+4670,Parklands,311,0.8%
+4640,North Central / Centre nord,115,0.8%
+2430,Estrie,485,0.8%
+4630,Southwest / Sud-ouest,523,0.8%
+5980,Northeast / Nord-est,212,0.8%
+5970,Nechako,488,0.8%
+1010,Avalon Peninsula,522,0.8%
+2415,Bas-Saint-Laurent,237,0.8%
+2475,Saguenay-Lac-Saint-Jean,485,0.8%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,482,0.8%
+2450,Lanaudière,112,0.8%
+4620,South Central / Centre sud,326,0.8%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,488,0.8%
+5950,Cariboo,213,0.8%
+2455,Laurentides,321,0.8%
+2410,Gaspésie-Îles-de-la-Madeleine,488,0.8%
+1110,Prince Edward Island / Île-du-Prince-Édouard,114,0.8%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,485,0.8%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,237,0.8%
+3560,London,522,0.8%
+5970,Nechako,522,0.8%
+4830,Calgary,524,0.8%
+3550,Hamilton-Niagara Peninsula,524,0.8%
+3595,Northwest / Nord-ouest,524,0.8%
+1320,Moncton-Richibucto,322,0.8%
+1010,Avalon Peninsula,221,0.8%
+4620,South Central / Centre sud,339,0.8%
+1340,Fredericton-Oromocto,488,0.8%
+1220,North Shore / Côte-nord,522,0.8%
+3510,Ottawa,491,0.8%
+2470,Mauricie,485,0.8%
+2440,Montréal,336,0.8%
+4720,Swift Current-Moose Jaw,115,0.8%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,321,0.8%
+4820,Camrose-Drumheller,524,0.8%
+4660,Interlake,523,0.8%
+2455,Laurentides,485,0.8%
+2425,Chaudière-Appalaches,485,0.8%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,522,0.8%
+3560,London,339,0.8%
+3595,Northwest / Nord-ouest,522,0.8%
+3515,Kingston-Pembroke,322,0.8%
+4840,Banff-Jasper-Rocky Mountain House,221,0.8%
+4710,Regina-Moose Mountain,486,0.8%
+3570,Windsor-Sarnia,523,0.8%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,112,0.8%
+4640,North Central / Centre nord,327,0.8%
+4730,Saskatoon-Biggar,524,0.8%
+2435,Montérégie,112,0.8%
+1230,Annapolis Valley,336,0.8%
+2435,Montérégie,333,0.8%
+1330,Saint John-St. Stephen,321,0.8%
+3540,Kitchener-Waterloo-Barrie,327,0.8%
+4810,Lethbridge-Medicine Hat,321,0.8%
+4860,Edmonton,485,0.8%
+2490,Nord-du-Québec,484,0.8%
+3530,Toronto,325,0.8%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,485,0.8%
+1210,Cape Breton,522,0.8%
+3515,Kingston-Pembroke,321,0.8%
+3580,Stratford-Bruce Peninsula,485,0.8%
+4660,Interlake,488,0.8%
+1220,North Shore / Côte-nord,115,0.8%
+4630,Southwest / Sud-ouest,333,0.8%
+5960,North Coast / Côte-nord,115,0.8%
+2480,Côte-Nord,322,0.8%
+4670,Parklands,524,0.8%
+2435,Montérégie,337,0.8%
+4830,Calgary,488,0.8%
+4840,Banff-Jasper-Rocky Mountain House,485,0.8%
+3510,Ottawa,237,0.8%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,321,0.8%
+3570,Windsor-Sarnia,311,0.8%
+2435,Montérégie,524,0.8%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,485,0.7%
+2470,Mauricie,326,0.7%
+2445,Laval,524,0.7%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,484,0.7%
+3580,Stratford-Bruce Peninsula,321,0.7%
+2465,Abitibi-Témiscamingue,115,0.7%
+1220,North Shore / Côte-nord,488,0.7%
+2435,Montérégie,485,0.7%
+1350,Edmundston-Woodstock,326,0.7%
+1350,Edmundston-Woodstock,112,0.7%
+1220,North Shore / Côte-nord,237,0.7%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,484,0.7%
+4750,Prince Albert,311,0.7%
+1040,Notre Dame-Central Bonavista Bay,321,0.7%
+2440,Montréal,325,0.7%
+2420,Capitale-Nationale,485,0.7%
+4670,Parklands,333,0.7%
+3540,Kitchener-Waterloo-Barrie,334,0.7%
+1230,Annapolis Valley,313,0.7%
+4650,Winnipeg,488,0.7%
+1340,Fredericton-Oromocto,484,0.7%
+4680,North / Nord,522,0.7%
+3530,Toronto,493,0.7%
+3520,Muskoka-Kawarthas,522,0.7%
+2440,Montréal,315,0.7%
+1320,Moncton-Richibucto,114,0.7%
+4830,Calgary,221,0.7%
+2455,Laurentides,488,0.7%
+4850,Red Deer,524,0.7%
+2455,Laurentides,333,0.7%
+4650,Winnipeg,493,0.7%
+3590,Northeast / Nord-est,113,0.7%
+1230,Annapolis Valley,522,0.7%
+3520,Muskoka-Kawarthas,325,0.7%
+2455,Laurentides,326,0.7%
+3550,Hamilton-Niagara Peninsula,237,0.7%
+5930,Thompson-Okanagan,524,0.7%
+3595,Northwest / Nord-ouest,336,0.7%
+4820,Camrose-Drumheller,311,0.7%
+1040,Notre Dame-Central Bonavista Bay,485,0.7%
+3540,Kitchener-Waterloo-Barrie,523,0.7%
+1110,Prince Edward Island / Île-du-Prince-Édouard,336,0.7%
+3560,London,326,0.7%
+5940,Kootenay,221,0.7%
+5930,Thompson-Okanagan,115,0.7%
+5930,Thompson-Okanagan,212,0.7%
+2433,Centre-du-Québec,485,0.7%
+4710,Regina-Moose Mountain,331,0.7%
+1350,Edmundston-Woodstock,522,0.7%
+4720,Swift Current-Moose Jaw,336,0.7%
+2415,Bas-Saint-Laurent,322,0.7%
+1320,Moncton-Richibucto,326,0.7%
+2455,Laurentides,337,0.7%
+2470,Mauricie,113,0.7%
+6110,Northwest Territories / Territoires du Nord-Ouest,523,0.7%
+3595,Northwest / Nord-ouest,115,0.7%
+1350,Edmundston-Woodstock,336,0.7%
+4840,Banff-Jasper-Rocky Mountain House,211,0.7%
+4750,Prince Albert,523,0.7%
+3520,Muskoka-Kawarthas,321,0.7%
+3580,Stratford-Bruce Peninsula,327,0.7%
+1320,Moncton-Richibucto,493,0.7%
+1350,Edmundston-Woodstock,333,0.7%
+2470,Mauricie,112,0.7%
+4750,Prince Albert,113,0.7%
+4630,Southwest / Sud-ouest,213,0.7%
+6110,Northwest Territories / Territoires du Nord-Ouest,483,0.7%
+4860,Edmonton,221,0.7%
+1250,Halifax,484,0.7%
+2425,Chaudière-Appalaches,327,0.7%
+4720,Swift Current-Moose Jaw,212,0.7%
+1010,Avalon Peninsula,484,0.7%
+4660,Interlake,524,0.7%
+4750,Prince Albert,211,0.7%
+4860,Edmonton,311,0.7%
+4840,Banff-Jasper-Rocky Mountain House,487,0.7%
+3595,Northwest / Nord-ouest,221,0.7%
+4630,Southwest / Sud-ouest,524,0.7%
+3520,Muskoka-Kawarthas,332,0.7%
+2445,Laval,323,0.7%
+6210,Nunavut,237,0.7%
+6210,Nunavut,311,0.7%
+1210,Cape Breton,322,0.7%
+1210,Cape Breton,481,0.7%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,333,0.7%
+1350,Edmundston-Woodstock,488,0.7%
+1220,North Shore / Côte-nord,212,0.7%
+4850,Red Deer,327,0.7%
+4820,Camrose-Drumheller,211,0.7%
+5940,Kootenay,524,0.7%
+2430,Estrie,237,0.7%
+2480,Côte-Nord,488,0.7%
+3560,London,523,0.7%
+3510,Ottawa,524,0.7%
+4610,Southeast / Sud-est,327,0.7%
+4820,Camrose-Drumheller,212,0.7%
+1330,Saint John-St. Stephen,113,0.7%
+3570,Windsor-Sarnia,115,0.7%
+3510,Ottawa,311,0.6%
+4660,Interlake,333,0.6%
+3530,Toronto,323,0.6%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,332,0.6%
+3550,Hamilton-Niagara Peninsula,325,0.6%
+4880,Wood Buffalo-Cold Lake,481,0.6%
+3520,Muskoka-Kawarthas,488,0.6%
+4660,Interlake,337,0.6%
+2440,Montréal,339,0.6%
+1010,Avalon Peninsula,483,0.6%
+2460,Outaouais,311,0.6%
+1040,Notre Dame-Central Bonavista Bay,212,0.6%
+3515,Kingston-Pembroke,111,0.6%
+3595,Northwest / Nord-ouest,488,0.6%
+3540,Kitchener-Waterloo-Barrie,335,0.6%
+3520,Muskoka-Kawarthas,237,0.6%
+2435,Montérégie,523,0.6%
+4650,Winnipeg,323,0.6%
+4820,Camrose-Drumheller,488,0.6%
+2420,Capitale-Nationale,339,0.6%
+1320,Moncton-Richibucto,332,0.6%
+3520,Muskoka-Kawarthas,523,0.6%
+4710,Regina-Moose Mountain,211,0.6%
+5960,North Coast / Côte-nord,485,0.6%
+2435,Montérégie,334,0.6%
+4870,Athabasca-Grande Prairie-Peace River,523,0.6%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,524,0.6%
+1220,North Shore / Côte-nord,221,0.6%
+3590,Northeast / Nord-est,332,0.6%
+2425,Chaudière-Appalaches,323,0.6%
+1110,Prince Edward Island / Île-du-Prince-Édouard,325,0.6%
+2440,Montréal,334,0.6%
+3560,London,237,0.6%
+2415,Bas-Saint-Laurent,336,0.6%
+5980,Northeast / Nord-est,485,0.6%
+2435,Montérégie,488,0.6%
+1230,Annapolis Valley,327,0.6%
+2420,Capitale-Nationale,334,0.6%
+4750,Prince Albert,524,0.6%
+3520,Muskoka-Kawarthas,111,0.6%
+5950,Cariboo,481,0.6%
+2455,Laurentides,523,0.6%
+3510,Ottawa,485,0.6%
+5980,Northeast / Nord-est,111,0.6%
+3560,London,331,0.6%
+3560,London,485,0.6%
+5980,Northeast / Nord-est,112,0.6%
+4740,Yorkton-Melville,332,0.6%
+5930,Thompson-Okanagan,336,0.6%
+6110,Northwest Territories / Territoires du Nord-Ouest,522,0.6%
+3560,London,321,0.6%
+2445,Laval,111,0.6%
+1040,Notre Dame-Central Bonavista Bay,113,0.6%
+4710,Regina-Moose Mountain,333,0.6%
+3515,Kingston-Pembroke,332,0.6%
+4710,Regina-Moose Mountain,221,0.6%
+3515,Kingston-Pembroke,331,0.6%
+5960,North Coast / Côte-nord,493,0.6%
+2435,Montérégie,327,0.6%
+6010,Yukon,488,0.6%
+2440,Montréal,326,0.6%
+2480,Côte-Nord,485,0.6%
+4810,Lethbridge-Medicine Hat,522,0.6%
+3530,Toronto,334,0.6%
+4620,South Central / Centre sud,237,0.6%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,524,0.6%
+4870,Athabasca-Grande Prairie-Peace River,325,0.6%
+4630,Southwest / Sud-ouest,221,0.6%
+3590,Northeast / Nord-est,488,0.6%
+2470,Mauricie,323,0.6%
+4820,Camrose-Drumheller,325,0.6%
+6210,Nunavut,483,0.6%
+6210,Nunavut,484,0.6%
+5940,Kootenay,327,0.6%
+3570,Windsor-Sarnia,485,0.6%
+5950,Cariboo,485,0.6%
+2425,Chaudière-Appalaches,339,0.6%
+2415,Bas-Saint-Laurent,331,0.6%
+1220,North Shore / Côte-nord,322,0.6%
+2435,Montérégie,335,0.6%
+1210,Cape Breton,524,0.6%
+3560,London,327,0.6%
+4610,Southeast / Sud-est,488,0.6%
+5930,Thompson-Okanagan,481,0.6%
+4630,Southwest / Sud-ouest,115,0.6%
+4620,South Central / Centre sud,331,0.6%
+1040,Notre Dame-Central Bonavista Bay,336,0.6%
+4650,Winnipeg,482,0.6%
+2445,Laval,523,0.6%
+2445,Laval,488,0.6%
+2445,Laval,326,0.6%
+4830,Calgary,486,0.6%
+2430,Estrie,325,0.6%
+2490,Nord-du-Québec,488,0.6%
+2470,Mauricie,524,0.6%
+2445,Laval,337,0.6%
+3570,Windsor-Sarnia,323,0.6%
+2433,Centre-du-Québec,323,0.6%
+4650,Winnipeg,485,0.6%
+1250,Halifax,311,0.5%
+4680,North / Nord,221,0.5%
+2440,Montréal,333,0.5%
+5980,Northeast / Nord-est,115,0.5%
+2430,Estrie,523,0.5%
+1210,Cape Breton,523,0.5%
+3550,Hamilton-Niagara Peninsula,493,0.5%
+3520,Muskoka-Kawarthas,322,0.5%
+2450,Lanaudière,327,0.5%
+2470,Mauricie,336,0.5%
+5940,Kootenay,488,0.5%
+3540,Kitchener-Waterloo-Barrie,339,0.5%
+1240,Southern / Sud,111,0.5%
+3520,Muskoka-Kawarthas,336,0.5%
+1340,Fredericton-Oromocto,111,0.5%
+6210,Nunavut,522,0.5%
+4730,Saskatoon-Biggar,221,0.5%
+3590,Northeast / Nord-est,523,0.5%
+4760,Northern / Nord,484,0.5%
+4750,Prince Albert,332,0.5%
+4830,Calgary,485,0.5%
+5950,Cariboo,332,0.5%
+2420,Capitale-Nationale,111,0.5%
+1310,Campbellton-Miramichi,524,0.5%
+5930,Thompson-Okanagan,332,0.5%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,493,0.5%
+4730,Saskatoon-Biggar,482,0.5%
+5950,Cariboo,524,0.5%
+1310,Campbellton-Miramichi,322,0.5%
+5970,Nechako,524,0.5%
+2450,Lanaudière,339,0.5%
+1310,Campbellton-Miramichi,331,0.5%
+3590,Northeast / Nord-est,221,0.5%
+4660,Interlake,481,0.5%
+2465,Abitibi-Témiscamingue,524,0.5%
+1230,Annapolis Valley,115,0.5%
+3540,Kitchener-Waterloo-Barrie,337,0.5%
+1340,Fredericton-Oromocto,339,0.5%
+3515,Kingston-Pembroke,333,0.5%
+4860,Edmonton,325,0.5%
+2445,Laval,333,0.5%
+4760,Northern / Nord,485,0.5%
+2470,Mauricie,339,0.5%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,488,0.5%
+2465,Abitibi-Témiscamingue,112,0.5%
+3515,Kingston-Pembroke,325,0.5%
+5980,Northeast / Nord-est,523,0.5%
+4650,Winnipeg,337,0.5%
+3510,Ottawa,323,0.5%
+2445,Laval,339,0.5%
+3510,Ottawa,339,0.5%
+4640,North Central / Centre nord,524,0.5%
+4640,North Central / Centre nord,332,0.5%
+1330,Saint John-St. Stephen,212,0.5%
+2435,Montérégie,321,0.5%
+1010,Avalon Peninsula,324,0.5%
+2475,Saguenay-Lac-Saint-Jean,524,0.5%
+2420,Capitale-Nationale,333,0.5%
+2435,Montérégie,323,0.5%
+4750,Prince Albert,115,0.5%
+1230,Annapolis Valley,332,0.5%
+3510,Ottawa,488,0.5%
+4880,Wood Buffalo-Cold Lake,212,0.5%
+3540,Kitchener-Waterloo-Barrie,111,0.5%
+4620,South Central / Centre sud,524,0.5%
+2420,Capitale-Nationale,325,0.5%
+1240,Southern / Sud,524,0.5%
+3515,Kingston-Pembroke,523,0.5%
+4830,Calgary,493,0.5%
+4760,Northern / Nord,522,0.5%
+1230,Annapolis Valley,523,0.5%
+3515,Kingston-Pembroke,493,0.5%
+4740,Yorkton-Melville,523,0.5%
+4650,Winnipeg,481,0.5%
+1210,Cape Breton,212,0.5%
+2420,Capitale-Nationale,323,0.5%
+2425,Chaudière-Appalaches,324,0.5%
+4820,Camrose-Drumheller,115,0.5%
+3590,Northeast / Nord-est,115,0.5%
+4610,Southeast / Sud-est,115,0.5%
+1250,Halifax,332,0.5%
+1250,Halifax,334,0.5%
+2440,Montréal,323,0.5%
+3580,Stratford-Bruce Peninsula,115,0.5%
+1230,Annapolis Valley,114,0.5%
+1240,Southern / Sud,333,0.5%
+2433,Centre-du-Québec,524,0.5%
+1250,Halifax,485,0.5%
+2480,Côte-Nord,221,0.5%
+2440,Montréal,221,0.5%
+4840,Banff-Jasper-Rocky Mountain House,322,0.5%
+4750,Prince Albert,336,0.5%
+3560,London,488,0.5%
+2450,Lanaudière,524,0.5%
+4650,Winnipeg,325,0.5%
+3550,Hamilton-Niagara Peninsula,339,0.5%
+5960,North Coast / Côte-nord,114,0.5%
+2440,Montréal,237,0.5%
+5940,Kootenay,336,0.5%
+2460,Outaouais,237,0.5%
+2425,Chaudière-Appalaches,331,0.5%
+2465,Abitibi-Témiscamingue,311,0.5%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,339,0.5%
+4730,Saskatoon-Biggar,485,0.5%
+2475,Saguenay-Lac-Saint-Jean,337,0.5%
+2450,Lanaudière,325,0.5%
+3570,Windsor-Sarnia,221,0.5%
+1010,Avalon Peninsula,211,0.5%
+5960,North Coast / Côte-nord,332,0.5%
+4670,Parklands,114,0.5%
+3540,Kitchener-Waterloo-Barrie,325,0.5%
+3510,Ottawa,112,0.5%
+1220,North Shore / Côte-nord,323,0.5%
+3550,Hamilton-Niagara Peninsula,488,0.5%
+2470,Mauricie,523,0.5%
+1110,Prince Edward Island / Île-du-Prince-Édouard,332,0.5%
+1330,Saint John-St. Stephen,485,0.5%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,111,0.5%
+2460,Outaouais,524,0.5%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,481,0.5%
+1040,Notre Dame-Central Bonavista Bay,114,0.5%
+4730,Saskatoon-Biggar,112,0.5%
+3530,Toronto,339,0.5%
+4870,Athabasca-Grande Prairie-Peace River,488,0.5%
+1210,Cape Breton,488,0.5%
+1040,Notre Dame-Central Bonavista Bay,112,0.5%
+5930,Thompson-Okanagan,485,0.5%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,322,0.5%
+5930,Thompson-Okanagan,311,0.5%
+4710,Regina-Moose Mountain,493,0.5%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,112,0.5%
+4870,Athabasca-Grande Prairie-Peace River,332,0.5%
+4820,Camrose-Drumheller,221,0.5%
+4660,Interlake,326,0.5%
+2435,Montérégie,339,0.5%
+4850,Red Deer,337,0.5%
+1230,Annapolis Valley,524,0.5%
+3520,Muskoka-Kawarthas,331,0.5%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,115,0.5%
+2455,Laurentides,334,0.5%
+3550,Hamilton-Niagara Peninsula,327,0.5%
+3510,Ottawa,325,0.5%
+2475,Saguenay-Lac-Saint-Jean,212,0.5%
+1040,Notre Dame-Central Bonavista Bay,481,0.5%
+1110,Prince Edward Island / Île-du-Prince-Édouard,221,0.4%
+1340,Fredericton-Oromocto,322,0.4%
+2415,Bas-Saint-Laurent,488,0.4%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,115,0.4%
+1320,Moncton-Richibucto,111,0.4%
+4860,Edmonton,326,0.4%
+2415,Bas-Saint-Laurent,115,0.4%
+3580,Stratford-Bruce Peninsula,331,0.4%
+5960,North Coast / Côte-nord,221,0.4%
+1110,Prince Edward Island / Île-du-Prince-Édouard,333,0.4%
+4730,Saskatoon-Biggar,334,0.4%
+1330,Saint John-St. Stephen,327,0.4%
+1240,Southern / Sud,332,0.4%
+1340,Fredericton-Oromocto,113,0.4%
+1010,Avalon Peninsula,485,0.4%
+5930,Thompson-Okanagan,112,0.4%
+2430,Estrie,313,0.4%
+2433,Centre-du-Québec,488,0.4%
+2420,Capitale-Nationale,115,0.4%
+4810,Lethbridge-Medicine Hat,326,0.4%
+4860,Edmonton,488,0.4%
+3530,Toronto,485,0.4%
+3515,Kingston-Pembroke,488,0.4%
+4810,Lethbridge-Medicine Hat,333,0.4%
+4630,Southwest / Sud-ouest,211,0.4%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,213,0.4%
+1010,Avalon Peninsula,212,0.4%
+1010,Avalon Peninsula,493,0.4%
+3540,Kitchener-Waterloo-Barrie,112,0.4%
+3520,Muskoka-Kawarthas,339,0.4%
+1350,Edmundston-Woodstock,332,0.4%
+1040,Notre Dame-Central Bonavista Bay,524,0.4%
+2410,Gaspésie-Îles-de-la-Madeleine,312,0.4%
+2433,Centre-du-Québec,315,0.4%
+5940,Kootenay,322,0.4%
+4830,Calgary,321,0.4%
+5940,Kootenay,523,0.4%
+2440,Montréal,337,0.4%
+2440,Montréal,493,0.4%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,337,0.4%
+2410,Gaspésie-Îles-de-la-Madeleine,212,0.4%
+4840,Banff-Jasper-Rocky Mountain House,523,0.4%
+1320,Moncton-Richibucto,337,0.4%
+3550,Hamilton-Niagara Peninsula,312,0.4%
+2425,Chaudière-Appalaches,113,0.4%
+4860,Edmonton,321,0.4%
+5960,North Coast / Côte-nord,483,0.4%
+2415,Bas-Saint-Laurent,333,0.4%
+3580,Stratford-Bruce Peninsula,523,0.4%
+4880,Wood Buffalo-Cold Lake,332,0.4%
+2470,Mauricie,115,0.4%
+3580,Stratford-Bruce Peninsula,488,0.4%
+1250,Halifax,493,0.4%
+2425,Chaudière-Appalaches,313,0.4%
+2470,Mauricie,334,0.4%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,326,0.4%
+4710,Regina-Moose Mountain,485,0.4%
+2415,Bas-Saint-Laurent,524,0.4%
+3540,Kitchener-Waterloo-Barrie,321,0.4%
+2465,Abitibi-Témiscamingue,482,0.4%
+2433,Centre-du-Québec,327,0.4%
+2455,Laurentides,327,0.4%
+3520,Muskoka-Kawarthas,334,0.4%
+2475,Saguenay-Lac-Saint-Jean,339,0.4%
+3540,Kitchener-Waterloo-Barrie,488,0.4%
+3550,Hamilton-Niagara Peninsula,337,0.4%
+4820,Camrose-Drumheller,523,0.4%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,524,0.4%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,483,0.4%
+2480,Côte-Nord,327,0.4%
+4830,Calgary,337,0.4%
+1110,Prince Edward Island / Île-du-Prince-Édouard,481,0.4%
+1010,Avalon Peninsula,523,0.4%
+2465,Abitibi-Témiscamingue,332,0.4%
+4840,Banff-Jasper-Rocky Mountain House,522,0.4%
+5980,Northeast / Nord-est,492,0.4%
+4660,Interlake,492,0.4%
+3560,London,221,0.4%
+2440,Montréal,485,0.4%
+1250,Halifax,221,0.4%
+5940,Kootenay,311,0.4%
+2410,Gaspésie-Îles-de-la-Madeleine,339,0.4%
+3595,Northwest / Nord-ouest,332,0.4%
+2475,Saguenay-Lac-Saint-Jean,322,0.4%
+3515,Kingston-Pembroke,221,0.4%
+1230,Annapolis Valley,213,0.4%
+2470,Mauricie,493,0.4%
+1330,Saint John-St. Stephen,324,0.4%
+4850,Red Deer,211,0.4%
+2460,Outaouais,523,0.4%
+3510,Ottawa,111,0.4%
+5980,Northeast / Nord-est,524,0.4%
+5930,Thompson-Okanagan,326,0.4%
+1240,Southern / Sud,113,0.4%
+1040,Notre Dame-Central Bonavista Bay,111,0.4%
+1320,Moncton-Richibucto,333,0.4%
+3590,Northeast / Nord-est,327,0.4%
+4680,North / Nord,488,0.4%
+4870,Athabasca-Grande Prairie-Peace River,522,0.4%
+2420,Capitale-Nationale,483,0.4%
+4620,South Central / Centre sud,314,0.4%
+4810,Lethbridge-Medicine Hat,115,0.4%
+2470,Mauricie,327,0.4%
+3520,Muskoka-Kawarthas,327,0.4%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,332,0.4%
+3560,London,325,0.4%
+3570,Windsor-Sarnia,324,0.4%
+3510,Ottawa,332,0.4%
+3520,Muskoka-Kawarthas,492,0.4%
+6110,Northwest Territories / Territoires du Nord-Ouest,485,0.4%
+2415,Bas-Saint-Laurent,212,0.4%
+2440,Montréal,335,0.4%
+3595,Northwest / Nord-ouest,213,0.4%
+2420,Capitale-Nationale,493,0.4%
+1220,North Shore / Côte-nord,325,0.4%
+1330,Saint John-St. Stephen,339,0.4%
+4620,South Central / Centre sud,493,0.4%
+2420,Capitale-Nationale,321,0.4%
+2455,Laurentides,322,0.4%
+2435,Montérégie,493,0.4%
+5970,Nechako,311,0.4%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,483,0.4%
+2455,Laurentides,113,0.4%
+4730,Saskatoon-Biggar,488,0.4%
+4870,Athabasca-Grande Prairie-Peace River,524,0.4%
+3520,Muskoka-Kawarthas,112,0.4%
+5940,Kootenay,312,0.4%
+1230,Annapolis Valley,312,0.4%
+3530,Toronto,492,0.4%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,323,0.4%
+3515,Kingston-Pembroke,335,0.4%
+4830,Calgary,481,0.4%
+2415,Bas-Saint-Laurent,323,0.4%
+4740,Yorkton-Melville,325,0.4%
+1340,Fredericton-Oromocto,326,0.4%
+4640,North Central / Centre nord,488,0.4%
+1110,Prince Edward Island / Île-du-Prince-Édouard,115,0.4%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,325,0.4%
+2420,Capitale-Nationale,327,0.4%
+1220,North Shore / Côte-nord,315,0.4%
+4860,Edmonton,327,0.4%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,334,0.4%
+3570,Windsor-Sarnia,331,0.4%
+1240,Southern / Sud,237,0.4%
+3520,Muskoka-Kawarthas,212,0.4%
+4740,Yorkton-Melville,115,0.4%
+3515,Kingston-Pembroke,492,0.4%
+4610,Southeast / Sud-est,334,0.4%
+1220,North Shore / Côte-nord,336,0.4%
+2433,Centre-du-Québec,115,0.4%
+4820,Camrose-Drumheller,331,0.4%
+4680,North / Nord,213,0.4%
+4680,North / Nord,524,0.4%
+1310,Campbellton-Miramichi,339,0.4%
+3580,Stratford-Bruce Peninsula,493,0.4%
+4760,Northern / Nord,488,0.4%
+4810,Lethbridge-Medicine Hat,327,0.4%
+2475,Saguenay-Lac-Saint-Jean,488,0.4%
+2475,Saguenay-Lac-Saint-Jean,492,0.4%
+4650,Winnipeg,492,0.4%
+4810,Lethbridge-Medicine Hat,336,0.4%
+4860,Edmonton,493,0.4%
+5940,Kootenay,332,0.4%
+2420,Capitale-Nationale,331,0.4%
+6010,Yukon,221,0.4%
+1220,North Shore / Côte-nord,327,0.3%
+6110,Northwest Territories / Territoires du Nord-Ouest,524,0.3%
+2420,Capitale-Nationale,337,0.3%
+4710,Regina-Moose Mountain,488,0.3%
+2455,Laurentides,339,0.3%
+5950,Cariboo,333,0.3%
+4880,Wood Buffalo-Cold Lake,522,0.3%
+1310,Campbellton-Miramichi,523,0.3%
+4710,Regina-Moose Mountain,321,0.3%
+4660,Interlake,327,0.3%
+5980,Northeast / Nord-est,332,0.3%
+4880,Wood Buffalo-Cold Lake,111,0.3%
+1210,Cape Breton,332,0.3%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,336,0.3%
+1010,Avalon Peninsula,333,0.3%
+5950,Cariboo,523,0.3%
+3560,London,493,0.3%
+4660,Interlake,115,0.3%
+4610,Southeast / Sud-est,333,0.3%
+2455,Laurentides,524,0.3%
+4810,Lethbridge-Medicine Hat,485,0.3%
+4730,Saskatoon-Biggar,481,0.3%
+4820,Camrose-Drumheller,485,0.3%
+3515,Kingston-Pembroke,112,0.3%
+3570,Windsor-Sarnia,312,0.3%
+3595,Northwest / Nord-ouest,311,0.3%
+2460,Outaouais,111,0.3%
+1310,Campbellton-Miramichi,327,0.3%
+1320,Moncton-Richibucto,481,0.3%
+4850,Red Deer,221,0.3%
+3530,Toronto,322,0.3%
+1230,Annapolis Valley,488,0.3%
+2420,Capitale-Nationale,326,0.3%
+2430,Estrie,488,0.3%
+3515,Kingston-Pembroke,337,0.3%
+4680,North / Nord,113,0.3%
+5950,Cariboo,112,0.3%
+3570,Windsor-Sarnia,339,0.3%
+1220,North Shore / Côte-nord,524,0.3%
+6010,Yukon,485,0.3%
+5970,Nechako,111,0.3%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,314,0.3%
+2415,Bas-Saint-Laurent,523,0.3%
+2440,Montréal,322,0.3%
+4680,North / Nord,484,0.3%
+2433,Centre-du-Québec,221,0.3%
+2425,Chaudière-Appalaches,322,0.3%
+1230,Annapolis Valley,493,0.3%
+1320,Moncton-Richibucto,334,0.3%
+2480,Côte-Nord,337,0.3%
+1240,Southern / Sud,115,0.3%
+3515,Kingston-Pembroke,339,0.3%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,112,0.3%
+2445,Laval,331,0.3%
+2433,Centre-du-Québec,523,0.3%
+1240,Southern / Sud,316,0.3%
+4660,Interlake,311,0.3%
+5980,Northeast / Nord-est,322,0.3%
+3560,London,337,0.3%
+4810,Lethbridge-Medicine Hat,221,0.3%
+3515,Kingston-Pembroke,327,0.3%
+2465,Abitibi-Témiscamingue,327,0.3%
+2450,Lanaudière,336,0.3%
+3510,Ottawa,333,0.3%
+4640,North Central / Centre nord,523,0.3%
+4830,Calgary,324,0.3%
+1210,Cape Breton,113,0.3%
+6010,Yukon,326,0.3%
+4710,Regina-Moose Mountain,335,0.3%
+5940,Kootenay,213,0.3%
+2460,Outaouais,488,0.3%
+2460,Outaouais,313,0.3%
+3570,Windsor-Sarnia,112,0.3%
+4880,Wood Buffalo-Cold Lake,115,0.3%
+4650,Winnipeg,339,0.3%
+1330,Saint John-St. Stephen,326,0.3%
+1320,Moncton-Richibucto,112,0.3%
+4850,Red Deer,485,0.3%
+3510,Ottawa,327,0.3%
+3580,Stratford-Bruce Peninsula,335,0.3%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,111,0.3%
+4740,Yorkton-Melville,327,0.3%
+5940,Kootenay,112,0.3%
+1110,Prince Edward Island / Île-du-Prince-Édouard,322,0.3%
+2470,Mauricie,335,0.3%
+2425,Chaudière-Appalaches,523,0.3%
+1230,Annapolis Valley,325,0.3%
+1040,Notre Dame-Central Bonavista Bay,492,0.3%
+4880,Wood Buffalo-Cold Lake,492,0.3%
+4880,Wood Buffalo-Cold Lake,112,0.3%
+1340,Fredericton-Oromocto,115,0.3%
+4710,Regina-Moose Mountain,324,0.3%
+2465,Abitibi-Témiscamingue,488,0.3%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,327,0.3%
+2445,Laval,335,0.3%
+5980,Northeast / Nord-est,325,0.3%
+4880,Wood Buffalo-Cold Lake,327,0.3%
+3550,Hamilton-Niagara Peninsula,334,0.3%
+2440,Montréal,312,0.3%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,481,0.3%
+2475,Saguenay-Lac-Saint-Jean,523,0.3%
+3550,Hamilton-Niagara Peninsula,323,0.3%
+5930,Thompson-Okanagan,333,0.3%
+4670,Parklands,485,0.3%
+4610,Southeast / Sud-est,523,0.3%
+2450,Lanaudière,523,0.3%
+3540,Kitchener-Waterloo-Barrie,313,0.3%
+1220,North Shore / Côte-nord,312,0.3%
+1320,Moncton-Richibucto,212,0.3%
+3530,Toronto,327,0.3%
+3570,Windsor-Sarnia,486,0.3%
+2460,Outaouais,113,0.3%
+3540,Kitchener-Waterloo-Barrie,331,0.3%
+1010,Avalon Peninsula,312,0.3%
+5950,Cariboo,111,0.3%
+2460,Outaouais,323,0.3%
+6010,Yukon,524,0.3%
+2433,Centre-du-Québec,313,0.3%
+3590,Northeast / Nord-est,492,0.3%
+2470,Mauricie,315,0.3%
+4680,North / Nord,485,0.3%
+2440,Montréal,481,0.3%
+3560,London,323,0.3%
+4850,Red Deer,115,0.3%
+4720,Swift Current-Moose Jaw,327,0.3%
+3550,Hamilton-Niagara Peninsula,335,0.3%
+2455,Laurentides,335,0.3%
+4670,Parklands,115,0.3%
+4870,Athabasca-Grande Prairie-Peace River,221,0.3%
+4840,Banff-Jasper-Rocky Mountain House,112,0.3%
+1040,Notre Dame-Central Bonavista Bay,327,0.3%
+3595,Northwest / Nord-ouest,111,0.3%
+3540,Kitchener-Waterloo-Barrie,221,0.3%
+2455,Laurentides,112,0.3%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,339,0.3%
+3570,Windsor-Sarnia,492,0.3%
+4880,Wood Buffalo-Cold Lake,524,0.3%
+5930,Thompson-Okanagan,327,0.3%
+3510,Ottawa,481,0.3%
+3515,Kingston-Pembroke,115,0.3%
+2465,Abitibi-Témiscamingue,481,0.3%
+2460,Outaouais,115,0.3%
+3530,Toronto,335,0.3%
+3530,Toronto,221,0.3%
+4840,Banff-Jasper-Rocky Mountain House,524,0.3%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,336,0.3%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,334,0.3%
+3550,Hamilton-Niagara Peninsula,112,0.3%
+1110,Prince Edward Island / Île-du-Prince-Édouard,321,0.3%
+5930,Thompson-Okanagan,337,0.3%
+4630,Southwest / Sud-ouest,321,0.3%
+4620,South Central / Centre sud,327,0.3%
+2435,Montérégie,322,0.3%
+3540,Kitchener-Waterloo-Barrie,322,0.3%
+4750,Prince Albert,492,0.3%
+2425,Chaudière-Appalaches,488,0.3%
+2410,Gaspésie-Îles-de-la-Madeleine,336,0.3%
+2440,Montréal,327,0.3%
+1240,Southern / Sud,488,0.3%
+4870,Athabasca-Grande Prairie-Peace River,212,0.3%
+2420,Capitale-Nationale,112,0.3%
+3595,Northwest / Nord-ouest,492,0.3%
+2440,Montréal,492,0.3%
+3580,Stratford-Bruce Peninsula,313,0.3%
+4630,Southwest / Sud-ouest,485,0.3%
+1320,Moncton-Richibucto,523,0.3%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,212,0.3%
+2410,Gaspésie-Îles-de-la-Madeleine,112,0.3%
+4710,Regina-Moose Mountain,526,0.3%
+5940,Kootenay,485,0.3%
+1320,Moncton-Richibucto,339,0.3%
+4610,Southeast / Sud-est,524,0.3%
+2450,Lanaudière,488,0.3%
+4860,Edmonton,339,0.3%
+3540,Kitchener-Waterloo-Barrie,493,0.3%
+4830,Calgary,327,0.3%
+2430,Estrie,113,0.3%
+2465,Abitibi-Témiscamingue,111,0.3%
+4860,Edmonton,492,0.3%
+1220,North Shore / Côte-nord,492,0.3%
+4740,Yorkton-Melville,221,0.3%
+3560,London,314,0.3%
+4830,Calgary,334,0.3%
+2465,Abitibi-Témiscamingue,335,0.3%
+2455,Laurentides,323,0.3%
+1230,Annapolis Valley,339,0.3%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,327,0.3%
+2460,Outaouais,337,0.3%
+1210,Cape Breton,326,0.3%
+3560,London,322,0.3%
+2455,Laurentides,312,0.3%
+5980,Northeast / Nord-est,481,0.3%
+2460,Outaouais,339,0.3%
+4730,Saskatoon-Biggar,327,0.3%
+1350,Edmundston-Woodstock,523,0.3%
+4680,North / Nord,311,0.3%
+1310,Campbellton-Miramichi,221,0.3%
+4860,Edmonton,323,0.3%
+3570,Windsor-Sarnia,327,0.3%
+4740,Yorkton-Melville,213,0.3%
+3590,Northeast / Nord-est,322,0.3%
+3570,Windsor-Sarnia,493,0.3%
+4730,Saskatoon-Biggar,337,0.3%
+1250,Halifax,326,0.3%
+4670,Parklands,327,0.3%
+4840,Banff-Jasper-Rocky Mountain House,486,0.3%
+2465,Abitibi-Témiscamingue,312,0.3%
+3550,Hamilton-Niagara Peninsula,483,0.3%
+1250,Halifax,483,0.3%
+3550,Hamilton-Niagara Peninsula,221,0.3%
+1310,Campbellton-Miramichi,112,0.3%
+4810,Lethbridge-Medicine Hat,325,0.3%
+3590,Northeast / Nord-est,482,0.3%
+5960,North Coast / Côte-nord,321,0.3%
+5970,Nechako,481,0.3%
+4840,Banff-Jasper-Rocky Mountain House,332,0.3%
+5930,Thompson-Okanagan,339,0.3%
+1010,Avalon Peninsula,492,0.3%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,333,0.3%
+3590,Northeast / Nord-est,111,0.3%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,523,0.3%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,485,0.3%
+3550,Hamilton-Niagara Peninsula,492,0.3%
+3590,Northeast / Nord-est,311,0.3%
+4830,Calgary,326,0.3%
+4660,Interlake,313,0.3%
+5940,Kootenay,339,0.3%
+5930,Thompson-Okanagan,493,0.3%
+5930,Thompson-Okanagan,492,0.3%
+4840,Banff-Jasper-Rocky Mountain House,488,0.3%
+4750,Prince Albert,327,0.2%
+3520,Muskoka-Kawarthas,312,0.2%
+4810,Lethbridge-Medicine Hat,211,0.2%
+4830,Calgary,482,0.2%
+2490,Nord-du-Québec,485,0.2%
+4830,Calgary,339,0.2%
+4620,South Central / Centre sud,523,0.2%
+2415,Bas-Saint-Laurent,334,0.2%
+4850,Red Deer,488,0.2%
+3540,Kitchener-Waterloo-Barrie,492,0.2%
+4830,Calgary,325,0.2%
+4650,Winnipeg,335,0.2%
+2435,Montérégie,212,0.2%
+1230,Annapolis Valley,337,0.2%
+2415,Bas-Saint-Laurent,339,0.2%
+4610,Southeast / Sud-est,339,0.2%
+4650,Winnipeg,315,0.2%
+2430,Estrie,331,0.2%
+3590,Northeast / Nord-est,336,0.2%
+3590,Northeast / Nord-est,481,0.2%
+2425,Chaudière-Appalaches,115,0.2%
+4660,Interlake,493,0.2%
+4830,Calgary,323,0.2%
+2435,Montérégie,115,0.2%
+4710,Regina-Moose Mountain,311,0.2%
+2475,Saguenay-Lac-Saint-Jean,326,0.2%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,327,0.2%
+3560,London,334,0.2%
+1330,Saint John-St. Stephen,111,0.2%
+4710,Regina-Moose Mountain,325,0.2%
+6110,Northwest Territories / Territoires du Nord-Ouest,211,0.2%
+2465,Abitibi-Témiscamingue,326,0.2%
+3580,Stratford-Bruce Peninsula,483,0.2%
+4840,Banff-Jasper-Rocky Mountain House,325,0.2%
+4660,Interlake,485,0.2%
+1250,Halifax,339,0.2%
+2470,Mauricie,325,0.2%
+4730,Saskatoon-Biggar,336,0.2%
+1250,Halifax,323,0.2%
+2425,Chaudière-Appalaches,334,0.2%
+4840,Banff-Jasper-Rocky Mountain House,111,0.2%
+2420,Capitale-Nationale,492,0.2%
+4730,Saskatoon-Biggar,321,0.2%
+1240,Southern / Sud,337,0.2%
+4720,Swift Current-Moose Jaw,332,0.2%
+3540,Kitchener-Waterloo-Barrie,323,0.2%
+4710,Regina-Moose Mountain,115,0.2%
+2415,Bas-Saint-Laurent,483,0.2%
+3515,Kingston-Pembroke,113,0.2%
+2450,Lanaudière,115,0.2%
+1010,Avalon Peninsula,336,0.2%
+5930,Thompson-Okanagan,221,0.2%
+3580,Stratford-Bruce Peninsula,312,0.2%
+4860,Edmonton,212,0.2%
+4710,Regina-Moose Mountain,327,0.2%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,322,0.2%
+1210,Cape Breton,483,0.2%
+4720,Swift Current-Moose Jaw,523,0.2%
+1320,Moncton-Richibucto,336,0.2%
+1010,Avalon Peninsula,332,0.2%
+3520,Muskoka-Kawarthas,221,0.2%
+4810,Lethbridge-Medicine Hat,488,0.2%
+4860,Edmonton,331,0.2%
+1340,Fredericton-Oromocto,332,0.2%
+1010,Avalon Peninsula,112,0.2%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,321,0.2%
+1350,Edmundston-Woodstock,327,0.2%
+4810,Lethbridge-Medicine Hat,339,0.2%
+3580,Stratford-Bruce Peninsula,492,0.2%
+1010,Avalon Peninsula,114,0.2%
+4630,Southwest / Sud-ouest,327,0.2%
+4750,Prince Albert,488,0.2%
+3530,Toronto,481,0.2%
+2420,Capitale-Nationale,335,0.2%
+1220,North Shore / Côte-nord,493,0.2%
+1220,North Shore / Côte-nord,333,0.2%
+2410,Gaspésie-Îles-de-la-Madeleine,327,0.2%
+2410,Gaspésie-Îles-de-la-Madeleine,492,0.2%
+3540,Kitchener-Waterloo-Barrie,312,0.2%
+2465,Abitibi-Témiscamingue,337,0.2%
+4850,Red Deer,321,0.2%
+1340,Fredericton-Oromocto,112,0.2%
+3510,Ottawa,336,0.2%
+5960,North Coast / Côte-nord,523,0.2%
+1250,Halifax,325,0.2%
+5970,Nechako,212,0.2%
+1210,Cape Breton,485,0.2%
+4870,Athabasca-Grande Prairie-Peace River,492,0.2%
+4650,Winnipeg,322,0.2%
+4680,North / Nord,321,0.2%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,335,0.2%
+4640,North Central / Centre nord,325,0.2%
+4640,North Central / Centre nord,492,0.2%
+4650,Winnipeg,331,0.2%
+2440,Montréal,482,0.2%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,312,0.2%
+1250,Halifax,482,0.2%
+2440,Montréal,331,0.2%
+3550,Hamilton-Niagara Peninsula,321,0.2%
+6110,Northwest Territories / Territoires du Nord-Ouest,115,0.2%
+1250,Halifax,492,0.2%
+4870,Athabasca-Grande Prairie-Peace River,481,0.2%
+2410,Gaspésie-Îles-de-la-Madeleine,524,0.2%
+4750,Prince Albert,485,0.2%
+1250,Halifax,333,0.2%
+4730,Saskatoon-Biggar,325,0.2%
+1210,Cape Breton,112,0.2%
+5970,Nechako,327,0.2%
+5970,Nechako,483,0.2%
+2430,Estrie,314,0.2%
+2433,Centre-du-Québec,212,0.2%
+3560,London,115,0.2%
+1320,Moncton-Richibucto,312,0.2%
+1230,Annapolis Valley,113,0.2%
+4640,North Central / Centre nord,339,0.2%
+3570,Windsor-Sarnia,212,0.2%
+1040,Notre Dame-Central Bonavista Bay,115,0.2%
+4720,Swift Current-Moose Jaw,485,0.2%
+1340,Fredericton-Oromocto,523,0.2%
+4620,South Central / Centre sud,315,0.2%
+2450,Lanaudière,323,0.2%
+1240,Southern / Sud,523,0.2%
+4730,Saskatoon-Biggar,493,0.2%
+2450,Lanaudière,212,0.2%
+3510,Ottawa,493,0.2%
+5970,Nechako,336,0.2%
+1040,Notre Dame-Central Bonavista Bay,315,0.2%
+1040,Notre Dame-Central Bonavista Bay,493,0.2%
+2460,Outaouais,327,0.2%
+2425,Chaudière-Appalaches,314,0.2%
+2415,Bas-Saint-Laurent,325,0.2%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,213,0.2%
+4820,Camrose-Drumheller,327,0.2%
+3595,Northwest / Nord-ouest,523,0.2%
+1320,Moncton-Richibucto,327,0.2%
+3580,Stratford-Bruce Peninsula,339,0.2%
+2480,Côte-Nord,111,0.2%
+3580,Stratford-Bruce Peninsula,322,0.2%
+3510,Ottawa,313,0.2%
+4860,Edmonton,111,0.2%
+3530,Toronto,111,0.2%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,492,0.2%
+3530,Toronto,321,0.2%
+1250,Halifax,213,0.2%
+5960,North Coast / Côte-nord,524,0.2%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,111,0.2%
+5980,Northeast / Nord-est,221,0.2%
+2445,Laval,492,0.2%
+3515,Kingston-Pembroke,212,0.2%
+2415,Bas-Saint-Laurent,213,0.2%
+2433,Centre-du-Québec,324,0.2%
+4660,Interlake,339,0.2%
+3590,Northeast / Nord-est,326,0.2%
+2465,Abitibi-Témiscamingue,523,0.2%
+4880,Wood Buffalo-Cold Lake,488,0.2%
+4810,Lethbridge-Medicine Hat,337,0.2%
+4820,Camrose-Drumheller,324,0.2%
+2425,Chaudière-Appalaches,325,0.2%
+3520,Muskoka-Kawarthas,323,0.2%
+4650,Winnipeg,321,0.2%
+2480,Côte-Nord,483,0.2%
+2480,Côte-Nord,313,0.2%
+2480,Côte-Nord,493,0.2%
+2465,Abitibi-Témiscamingue,493,0.2%
+2465,Abitibi-Témiscamingue,492,0.2%
+6110,Northwest Territories / Territoires du Nord-Ouest,486,0.2%
+1110,Prince Edward Island / Île-du-Prince-Édouard,485,0.2%
+4870,Athabasca-Grande Prairie-Peace River,311,0.2%
+1340,Fredericton-Oromocto,333,0.2%
+2435,Montérégie,492,0.2%
+5950,Cariboo,324,0.2%
+1350,Edmundston-Woodstock,315,0.2%
+1010,Avalon Peninsula,337,0.2%
+4870,Athabasca-Grande Prairie-Peace River,485,0.2%
+1310,Campbellton-Miramichi,333,0.2%
+2455,Laurentides,115,0.2%
+1250,Halifax,114,0.2%
+1210,Cape Breton,111,0.2%
+4860,Edmonton,324,0.2%
+4810,Lethbridge-Medicine Hat,493,0.2%
+3510,Ottawa,335,0.2%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,312,0.2%
+4830,Calgary,212,0.2%
+1240,Southern / Sud,327,0.2%
+4730,Saskatoon-Biggar,115,0.2%
+2445,Laval,321,0.2%
+4650,Winnipeg,327,0.2%
+2430,Estrie,323,0.2%
+1320,Moncton-Richibucto,485,0.2%
+2480,Côte-Nord,492,0.2%
+2435,Montérégie,312,0.2%
+6210,Nunavut,523,0.2%
+2450,Lanaudière,492,0.2%
+3570,Windsor-Sarnia,337,0.2%
+2430,Estrie,334,0.2%
+2465,Abitibi-Témiscamingue,315,0.2%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,212,0.2%
+3530,Toronto,315,0.2%
+3515,Kingston-Pembroke,526,0.2%
+1310,Campbellton-Miramichi,326,0.2%
+2435,Montérégie,315,0.2%
+4870,Athabasca-Grande Prairie-Peace River,327,0.2%
+4870,Athabasca-Grande Prairie-Peace River,339,0.2%
+2425,Chaudière-Appalaches,335,0.2%
+3570,Windsor-Sarnia,321,0.2%
+5960,North Coast / Côte-nord,112,0.2%
+3515,Kingston-Pembroke,312,0.2%
+1340,Fredericton-Oromocto,337,0.2%
+4840,Banff-Jasper-Rocky Mountain House,311,0.2%
+2433,Centre-du-Québec,113,0.2%
+4670,Parklands,492,0.2%
+2450,Lanaudière,312,0.2%
+3510,Ottawa,331,0.2%
+4710,Regina-Moose Mountain,112,0.2%
+5950,Cariboo,327,0.2%
+4830,Calgary,492,0.2%
+4820,Camrose-Drumheller,339,0.2%
+3595,Northwest / Nord-ouest,327,0.2%
+1330,Saint John-St. Stephen,312,0.2%
+3550,Hamilton-Niagara Peninsula,322,0.2%
+3540,Kitchener-Waterloo-Barrie,314,0.2%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,114,0.2%
+3590,Northeast / Nord-est,112,0.2%
+2475,Saguenay-Lac-Saint-Jean,481,0.2%
+1250,Halifax,481,0.2%
+1350,Edmundston-Woodstock,337,0.2%
+6210,Nunavut,524,0.2%
+5950,Cariboo,311,0.2%
+4630,Southwest / Sud-ouest,339,0.2%
+2425,Chaudière-Appalaches,315,0.2%
+2420,Capitale-Nationale,312,0.2%
+2430,Estrie,115,0.2%
+2420,Capitale-Nationale,336,0.2%
+1240,Southern / Sud,312,0.2%
+5950,Cariboo,325,0.2%
+5950,Cariboo,492,0.2%
+4880,Wood Buffalo-Cold Lake,321,0.2%
+4850,Red Deer,331,0.2%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,115,0.2%
+4830,Calgary,331,0.2%
+4820,Camrose-Drumheller,336,0.2%
+5930,Thompson-Okanagan,323,0.2%
+3560,London,492,0.2%
+1210,Cape Breton,213,0.2%
+1010,Avalon Peninsula,321,0.2%
+5960,North Coast / Côte-nord,492,0.2%
+2450,Lanaudière,493,0.2%
+1040,Notre Dame-Central Bonavista Bay,523,0.2%
+4610,Southeast / Sud-est,482,0.2%
+4610,Southeast / Sud-est,322,0.2%
+4610,Southeast / Sud-est,493,0.2%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,221,0.2%
+3530,Toronto,331,0.2%
+2460,Outaouais,221,0.2%
+2475,Saguenay-Lac-Saint-Jean,315,0.2%
+6110,Northwest Territories / Territoires du Nord-Ouest,323,0.2%
+3510,Ottawa,321,0.2%
+1350,Edmundston-Woodstock,325,0.2%
+2470,Mauricie,492,0.2%
+2420,Capitale-Nationale,322,0.2%
+5970,Nechako,523,0.2%
+2465,Abitibi-Témiscamingue,336,0.2%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,333,0.2%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,327,0.2%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,337,0.2%
+1010,Avalon Peninsula,111,0.2%
+2470,Mauricie,312,0.2%
+4870,Athabasca-Grande Prairie-Peace River,333,0.2%
+2430,Estrie,212,0.2%
+1340,Fredericton-Oromocto,327,0.2%
+4830,Calgary,312,0.2%
+2415,Bas-Saint-Laurent,492,0.2%
+2470,Mauricie,331,0.2%
+1110,Prince Edward Island / Île-du-Prince-Édouard,327,0.2%
+1330,Saint John-St. Stephen,115,0.2%
+1250,Halifax,321,0.2%
+6010,Yukon,311,0.2%
+5930,Thompson-Okanagan,213,0.2%
+4680,North / Nord,327,0.2%
+5980,Northeast / Nord-est,311,0.2%
+1250,Halifax,324,0.2%
+4760,Northern / Nord,524,0.2%
+2433,Centre-du-Québec,493,0.2%
+4850,Red Deer,339,0.2%
+4720,Swift Current-Moose Jaw,482,0.2%
+3510,Ottawa,492,0.2%
+1320,Moncton-Richibucto,483,0.2%
+3540,Kitchener-Waterloo-Barrie,115,0.2%
+1330,Saint John-St. Stephen,493,0.2%
+4650,Winnipeg,211,0.2%
+1110,Prince Edward Island / Île-du-Prince-Édouard,323,0.2%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,487,0.2%
+4850,Red Deer,323,0.2%
+1210,Cape Breton,336,0.2%
+1320,Moncton-Richibucto,113,0.2%
+1220,North Shore / Côte-nord,314,0.2%
+1250,Halifax,312,0.2%
+2460,Outaouais,332,0.2%
+2410,Gaspésie-Îles-de-la-Madeleine,487,0.2%
+1340,Fredericton-Oromocto,485,0.2%
+1310,Campbellton-Miramichi,526,0.2%
+3540,Kitchener-Waterloo-Barrie,212,0.2%
+4720,Swift Current-Moose Jaw,211,0.2%
+2490,Nord-du-Québec,111,0.2%
+4660,Interlake,114,0.2%
+3530,Toronto,312,0.2%
+1230,Annapolis Valley,333,0.2%
+3510,Ottawa,326,0.2%
+4640,North Central / Centre nord,336,0.2%
+2445,Laval,334,0.2%
+2440,Montréal,313,0.2%
+2460,Outaouais,112,0.2%
+4650,Winnipeg,334,0.2%
+2415,Bas-Saint-Laurent,326,0.2%
+4850,Red Deer,336,0.2%
+3560,London,335,0.2%
+4660,Interlake,321,0.2%
+2455,Laurentides,313,0.1%
+4730,Saskatoon-Biggar,339,0.1%
+4740,Yorkton-Melville,113,0.1%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,523,0.1%
+1310,Campbellton-Miramichi,337,0.1%
+1040,Notre Dame-Central Bonavista Bay,213,0.1%
+5950,Cariboo,312,0.1%
+2490,Nord-du-Québec,332,0.1%
+5930,Thompson-Okanagan,335,0.1%
+4880,Wood Buffalo-Cold Lake,113,0.1%
+1240,Southern / Sud,314,0.1%
+2435,Montérégie,314,0.1%
+5960,North Coast / Côte-nord,327,0.1%
+4840,Banff-Jasper-Rocky Mountain House,115,0.1%
+4840,Banff-Jasper-Rocky Mountain House,492,0.1%
+2470,Mauricie,316,0.1%
+3595,Northwest / Nord-ouest,526,0.1%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,337,0.1%
+3560,London,312,0.1%
+4660,Interlake,213,0.1%
+5980,Northeast / Nord-est,333,0.1%
+3515,Kingston-Pembroke,334,0.1%
+3595,Northwest / Nord-ouest,339,0.1%
+1220,North Shore / Côte-nord,334,0.1%
+4860,Edmonton,334,0.1%
+2450,Lanaudière,322,0.1%
+3550,Hamilton-Niagara Peninsula,115,0.1%
+4750,Prince Albert,339,0.1%
+4850,Red Deer,212,0.1%
+1010,Avalon Peninsula,327,0.1%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,493,0.1%
+3530,Toronto,213,0.1%
+4830,Calgary,335,0.1%
+3590,Northeast / Nord-est,313,0.1%
+6110,Northwest Territories / Territoires du Nord-Ouest,325,0.1%
+2480,Côte-Nord,481,0.1%
+3510,Ottawa,526,0.1%
+5940,Kootenay,325,0.1%
+3530,Toronto,212,0.1%
+4810,Lethbridge-Medicine Hat,492,0.1%
+4660,Interlake,212,0.1%
+3530,Toronto,526,0.1%
+4810,Lethbridge-Medicine Hat,312,0.1%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,331,0.1%
+4720,Swift Current-Moose Jaw,492,0.1%
+4720,Swift Current-Moose Jaw,493,0.1%
+2430,Estrie,221,0.1%
+2420,Capitale-Nationale,481,0.1%
+4610,Southeast / Sud-est,213,0.1%
+3540,Kitchener-Waterloo-Barrie,526,0.1%
+4860,Edmonton,337,0.1%
+1210,Cape Breton,337,0.1%
+3510,Ottawa,221,0.1%
+6010,Yukon,492,0.1%
+1250,Halifax,526,0.1%
+2450,Lanaudière,113,0.1%
+4660,Interlake,312,0.1%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,315,0.1%
+4820,Camrose-Drumheller,493,0.1%
+1340,Fredericton-Oromocto,323,0.1%
+4720,Swift Current-Moose Jaw,312,0.1%
+1330,Saint John-St. Stephen,333,0.1%
+2430,Estrie,316,0.1%
+2430,Estrie,312,0.1%
+1210,Cape Breton,312,0.1%
+2425,Chaudière-Appalaches,212,0.1%
+6110,Northwest Territories / Territoires du Nord-Ouest,492,0.1%
+5940,Kootenay,492,0.1%
+4670,Parklands,488,0.1%
+4670,Parklands,213,0.1%
+2415,Bas-Saint-Laurent,114,0.1%
+3580,Stratford-Bruce Peninsula,316,0.1%
+3590,Northeast / Nord-est,339,0.1%
+5980,Northeast / Nord-est,339,0.1%
+2465,Abitibi-Témiscamingue,325,0.1%
+3520,Muskoka-Kawarthas,337,0.1%
+2435,Montérégie,313,0.1%
+1340,Fredericton-Oromocto,311,0.1%
+2410,Gaspésie-Îles-de-la-Madeleine,337,0.1%
+4610,Southeast / Sud-est,113,0.1%
+2440,Montréal,324,0.1%
+1210,Cape Breton,482,0.1%
+2455,Laurentides,212,0.1%
+4820,Camrose-Drumheller,321,0.1%
+2430,Estrie,492,0.1%
+4640,North Central / Centre nord,493,0.1%
+6010,Yukon,312,0.1%
+1220,North Shore / Côte-nord,485,0.1%
+4680,North / Nord,523,0.1%
+3510,Ottawa,521,0.1%
+1340,Fredericton-Oromocto,212,0.1%
+1340,Fredericton-Oromocto,312,0.1%
+3510,Ottawa,337,0.1%
+3570,Windsor-Sarnia,481,0.1%
+2490,Nord-du-Québec,523,0.1%
+4860,Edmonton,112,0.1%
+3510,Ottawa,115,0.1%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,113,0.1%
+2475,Saguenay-Lac-Saint-Jean,221,0.1%
+3570,Windsor-Sarnia,213,0.1%
+2480,Côte-Nord,524,0.1%
+1230,Annapolis Valley,492,0.1%
+5970,Nechako,492,0.1%
+5970,Nechako,332,0.1%
+2410,Gaspésie-Îles-de-la-Madeleine,482,0.1%
+4640,North Central / Centre nord,485,0.1%
+1220,North Shore / Côte-nord,483,0.1%
+2440,Montréal,526,0.1%
+2475,Saguenay-Lac-Saint-Jean,323,0.1%
+3515,Kingston-Pembroke,323,0.1%
+1330,Saint John-St. Stephen,492,0.1%
+5930,Thompson-Okanagan,322,0.1%
+2430,Estrie,335,0.1%
+1250,Halifax,212,0.1%
+3560,London,481,0.1%
+4710,Regina-Moose Mountain,336,0.1%
+4850,Red Deer,493,0.1%
+1220,North Shore / Côte-nord,316,0.1%
+1220,North Shore / Côte-nord,335,0.1%
+4710,Regina-Moose Mountain,323,0.1%
+4650,Winnipeg,312,0.1%
+1110,Prince Edward Island / Île-du-Prince-Édouard,334,0.1%
+4880,Wood Buffalo-Cold Lake,486,0.1%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,323,0.1%
+2435,Montérégie,221,0.1%
+4740,Yorkton-Melville,488,0.1%
+4820,Camrose-Drumheller,326,0.1%
+3570,Windsor-Sarnia,334,0.1%
+4750,Prince Albert,323,0.1%
+3570,Windsor-Sarnia,313,0.1%
+4860,Edmonton,481,0.1%
+4730,Saskatoon-Biggar,326,0.1%
+2445,Laval,322,0.1%
+1310,Campbellton-Miramichi,492,0.1%
+4830,Calgary,115,0.1%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,114,0.1%
+4730,Saskatoon-Biggar,211,0.1%
+2435,Montérégie,481,0.1%
+2420,Capitale-Nationale,212,0.1%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,483,0.1%
+4860,Edmonton,486,0.1%
+4880,Wood Buffalo-Cold Lake,325,0.1%
+4650,Winnipeg,111,0.1%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,237,0.1%
+2475,Saguenay-Lac-Saint-Jean,312,0.1%
+4860,Edmonton,336,0.1%
+4740,Yorkton-Melville,485,0.1%
+1210,Cape Breton,492,0.1%
+4850,Red Deer,481,0.1%
+4670,Parklands,339,0.1%
+4670,Parklands,332,0.1%
+4710,Regina-Moose Mountain,339,0.1%
+4750,Prince Albert,212,0.1%
+4750,Prince Albert,326,0.1%
+4880,Wood Buffalo-Cold Lake,315,0.1%
+4880,Wood Buffalo-Cold Lake,339,0.1%
+5960,North Coast / Côte-nord,312,0.1%
+1010,Avalon Peninsula,339,0.1%
+1010,Avalon Peninsula,323,0.1%
+2475,Saguenay-Lac-Saint-Jean,487,0.1%
+4840,Banff-Jasper-Rocky Mountain House,333,0.1%
+3590,Northeast / Nord-est,493,0.1%
+1240,Southern / Sud,493,0.1%
+2430,Estrie,493,0.1%
+2475,Saguenay-Lac-Saint-Jean,336,0.1%
+4810,Lethbridge-Medicine Hat,331,0.1%
+4610,Southeast / Sud-est,481,0.1%
+4610,Southeast / Sud-est,326,0.1%
+4610,Southeast / Sud-est,336,0.1%
+1040,Notre Dame-Central Bonavista Bay,312,0.1%
+3515,Kingston-Pembroke,487,0.1%
+1250,Halifax,337,0.1%
+3520,Muskoka-Kawarthas,493,0.1%
+4810,Lethbridge-Medicine Hat,212,0.1%
+1110,Prince Edward Island / Île-du-Prince-Édouard,483,0.1%
+5970,Nechako,323,0.1%
+1320,Moncton-Richibucto,115,0.1%
+4680,North / Nord,332,0.1%
+1310,Campbellton-Miramichi,323,0.1%
+4640,North Central / Centre nord,337,0.1%
+1240,Southern / Sud,339,0.1%
+1240,Southern / Sud,492,0.1%
+4860,Edmonton,211,0.1%
+4850,Red Deer,334,0.1%
+2420,Capitale-Nationale,487,0.1%
+1210,Cape Breton,115,0.1%
+1210,Cape Breton,321,0.1%
+4810,Lethbridge-Medicine Hat,323,0.1%
+2445,Laval,315,0.1%
+2433,Centre-du-Québec,312,0.1%
+1340,Fredericton-Oromocto,492,0.1%
+4730,Saskatoon-Biggar,312,0.1%
+2420,Capitale-Nationale,113,0.1%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,492,0.1%
+2455,Laurentides,315,0.1%
+2433,Centre-du-Québec,314,0.1%
+4860,Edmonton,482,0.1%
+2475,Saguenay-Lac-Saint-Jean,314,0.1%
+6010,Yukon,115,0.1%
+6010,Yukon,323,0.1%
+5940,Kootenay,483,0.1%
+2490,Nord-du-Québec,524,0.1%
+3550,Hamilton-Niagara Peninsula,324,0.1%
+6110,Northwest Territories / Territoires du Nord-Ouest,114,0.1%
+4670,Parklands,212,0.1%
+4670,Parklands,337,0.1%
+1350,Edmundston-Woodstock,212,0.1%
+1350,Edmundston-Woodstock,221,0.1%
+1350,Edmundston-Woodstock,314,0.1%
+1220,North Shore / Côte-nord,213,0.1%
+3580,Stratford-Bruce Peninsula,325,0.1%
+2415,Bas-Saint-Laurent,493,0.1%
+2445,Laval,327,0.1%
+3515,Kingston-Pembroke,324,0.1%
+4630,Southwest / Sud-ouest,492,0.1%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,482,0.1%
+1010,Avalon Peninsula,331,0.1%
+1210,Cape Breton,323,0.1%
+2480,Côte-Nord,523,0.1%
+5950,Cariboo,337,0.1%
+2433,Centre-du-Québec,492,0.1%
+4720,Swift Current-Moose Jaw,337,0.1%
+4830,Calgary,111,0.1%
+2440,Montréal,314,0.1%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,325,0.1%
+2440,Montréal,115,0.1%
+6010,Yukon,332,0.1%
+3590,Northeast / Nord-est,325,0.1%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,492,0.1%
+2410,Gaspésie-Îles-de-la-Madeleine,493,0.1%
+3515,Kingston-Pembroke,315,0.1%
+1210,Cape Breton,314,0.1%
+1330,Saint John-St. Stephen,482,0.1%
+2455,Laurentides,324,0.1%
+4730,Saskatoon-Biggar,492,0.1%
+4730,Saskatoon-Biggar,323,0.1%
+4850,Red Deer,492,0.1%
+4760,Northern / Nord,491,0.1%
+4760,Northern / Nord,333,0.1%
+2430,Estrie,324,0.1%
+6210,Nunavut,485,0.1%
+2415,Bas-Saint-Laurent,221,0.1%
+1110,Prince Edward Island / Île-du-Prince-Édouard,492,0.1%
+5960,North Coast / Côte-nord,111,0.1%
+5970,Nechako,221,0.1%
+3590,Northeast / Nord-est,337,0.1%
+1240,Southern / Sud,483,0.1%
+4650,Winnipeg,526,0.1%
+4740,Yorkton-Melville,321,0.1%
+4740,Yorkton-Melville,336,0.1%
+1210,Cape Breton,339,0.1%
+2460,Outaouais,325,0.1%
+4710,Regina-Moose Mountain,337,0.1%
+1040,Notre Dame-Central Bonavista Bay,332,0.1%
+1350,Edmundston-Woodstock,493,0.1%
+3550,Hamilton-Niagara Peninsula,315,0.1%
+4630,Southwest / Sud-ouest,493,0.1%
+3520,Muskoka-Kawarthas,115,0.1%
+2440,Montréal,321,0.1%
+1340,Fredericton-Oromocto,336,0.1%
+6010,Yukon,491,0.1%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,493,0.1%
+4850,Red Deer,324,0.1%
+4710,Regina-Moose Mountain,312,0.1%
+4620,South Central / Centre sud,485,0.1%
+2475,Saguenay-Lac-Saint-Jean,335,0.1%
+3530,Toronto,482,0.1%
+4610,Southeast / Sud-est,485,0.1%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,221,0.1%
+1310,Campbellton-Miramichi,336,0.1%
+4740,Yorkton-Melville,493,0.1%
+4660,Interlake,334,0.1%
+4660,Interlake,322,0.1%
+1330,Saint John-St. Stephen,334,0.1%
+4820,Camrose-Drumheller,323,0.1%
+3595,Northwest / Nord-ouest,112,0.1%
+2410,Gaspésie-Îles-de-la-Madeleine,323,0.1%
+2410,Gaspésie-Îles-de-la-Madeleine,332,0.1%
+2460,Outaouais,212,0.1%
+1110,Prince Edward Island / Île-du-Prince-Édouard,212,0.1%
+4720,Swift Current-Moose Jaw,323,0.1%
+1340,Fredericton-Oromocto,324,0.1%
+3515,Kingston-Pembroke,314,0.1%
+1320,Moncton-Richibucto,314,0.1%
+1250,Halifax,327,0.1%
+4680,North / Nord,111,0.1%
+1010,Avalon Peninsula,334,0.1%
+6210,Nunavut,325,0.1%
+1320,Moncton-Richibucto,325,0.1%
+1230,Annapolis Valley,323,0.1%
+2460,Outaouais,492,0.1%
+4830,Calgary,336,0.1%
+3540,Kitchener-Waterloo-Barrie,315,0.1%
+4830,Calgary,112,0.1%
+3595,Northwest / Nord-ouest,333,0.1%
+1040,Notre Dame-Central Bonavista Bay,326,0.1%
+1250,Halifax,315,0.1%
+4630,Southwest / Sud-ouest,336,0.1%
+4720,Swift Current-Moose Jaw,321,0.1%
+2455,Laurentides,492,0.1%
+5950,Cariboo,339,0.1%
+4730,Saskatoon-Biggar,324,0.1%
+2475,Saguenay-Lac-Saint-Jean,325,0.1%
+4680,North / Nord,115,0.1%
+3550,Hamilton-Niagara Peninsula,314,0.1%
+2440,Montréal,483,0.1%
+1240,Southern / Sud,487,0.1%
+4630,Southwest / Sud-ouest,323,0.1%
+2445,Laval,313,0.1%
+1340,Fredericton-Oromocto,493,0.1%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,332,0.1%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,323,0.1%
+1040,Notre Dame-Central Bonavista Bay,483,0.1%
+1040,Notre Dame-Central Bonavista Bay,335,0.1%
+2460,Outaouais,336,0.1%
+3550,Hamilton-Niagara Peninsula,487,0.1%
+3550,Hamilton-Niagara Peninsula,481,0.1%
+4620,South Central / Centre sud,212,0.1%
+4620,South Central / Centre sud,488,0.1%
+4710,Regina-Moose Mountain,492,0.1%
+2420,Capitale-Nationale,315,0.1%
+1320,Moncton-Richibucto,482,0.1%
+3590,Northeast / Nord-est,323,0.1%
+5980,Northeast / Nord-est,327,0.1%
+1310,Campbellton-Miramichi,213,0.1%
+2415,Bas-Saint-Laurent,312,0.1%
+4870,Athabasca-Grande Prairie-Peace River,331,0.1%
+4760,Northern / Nord,327,0.1%
+4760,Northern / Nord,492,0.1%
+4760,Northern / Nord,312,0.1%
+4760,Northern / Nord,237,0.1%
+5940,Kootenay,333,0.1%
+4820,Camrose-Drumheller,312,0.1%
+4820,Camrose-Drumheller,492,0.1%
+2475,Saguenay-Lac-Saint-Jean,493,0.1%
+1250,Halifax,322,0.1%
+1010,Avalon Peninsula,115,0.1%
+4860,Edmonton,335,0.1%
+4810,Lethbridge-Medicine Hat,481,0.1%
+5940,Kootenay,481,0.1%
+3595,Northwest / Nord-ouest,493,0.1%
+2455,Laurentides,493,0.1%
+5930,Thompson-Okanagan,334,0.1%
+2420,Capitale-Nationale,316,0.1%
+4830,Calgary,526,0.1%
+2470,Mauricie,212,0.1%
+2455,Laurentides,213,0.1%
+1220,North Shore / Côte-nord,339,0.1%
+3520,Muskoka-Kawarthas,113,0.1%
+4740,Yorkton-Melville,326,0.1%
+4620,South Central / Centre sud,221,0.1%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,332,0.1%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,325,0.1%
+1350,Edmundston-Woodstock,485,0.1%
+4650,Winnipeg,316,0.1%
+1210,Cape Breton,327,0.1%
+2465,Abitibi-Témiscamingue,339,0.1%
+2465,Abitibi-Témiscamingue,323,0.1%
+2480,Côte-Nord,312,0.1%
+3570,Windsor-Sarnia,114,0.1%
+3540,Kitchener-Waterloo-Barrie,316,0.1%
+1320,Moncton-Richibucto,213,0.1%
+6010,Yukon,337,0.1%
+4860,Edmonton,115,0.1%
+2425,Chaudière-Appalaches,492,0.1%
+4720,Swift Current-Moose Jaw,339,0.1%
+2450,Lanaudière,331,0.1%
+4730,Saskatoon-Biggar,335,0.1%
+2415,Bas-Saint-Laurent,316,0.1%
+4840,Banff-Jasper-Rocky Mountain House,481,0.1%
+1320,Moncton-Richibucto,323,0.1%
+1330,Saint John-St. Stephen,314,0.1%
+1250,Halifax,487,0.1%
+4710,Regina-Moose Mountain,326,0.1%
+3520,Muskoka-Kawarthas,324,0.1%
+2445,Laval,314,0.1%
+4640,North Central / Centre nord,326,0.1%
+1110,Prince Edward Island / Île-du-Prince-Édouard,113,0.1%
+1210,Cape Breton,493,0.1%
+6110,Northwest Territories / Territoires du Nord-Ouest,327,0.1%
+2480,Côte-Nord,339,0.1%
+2420,Capitale-Nationale,324,0.1%
+2460,Outaouais,326,0.1%
+3595,Northwest / Nord-ouest,323,0.1%
+1350,Edmundston-Woodstock,323,0.1%
+4610,Southeast / Sud-est,221,0.1%
+4870,Athabasca-Grande Prairie-Peace River,337,0.1%
+2445,Laval,212,0.1%
+1240,Southern / Sud,221,0.1%
+2490,Nord-du-Québec,526,0.1%
+2490,Nord-du-Québec,327,0.1%
+2490,Nord-du-Québec,337,0.1%
+2490,Nord-du-Québec,325,0.1%
+3550,Hamilton-Niagara Peninsula,313,0.1%
+1040,Notre Dame-Central Bonavista Bay,337,0.1%
+3595,Northwest / Nord-ouest,486,0.1%
+1250,Halifax,335,0.1%
+2450,Lanaudière,315,0.1%
+3570,Windsor-Sarnia,322,0.1%
+3540,Kitchener-Waterloo-Barrie,481,0.1%
+4840,Banff-Jasper-Rocky Mountain House,339,0.1%
+4820,Camrose-Drumheller,334,0.1%
+5960,North Coast / Côte-nord,323,0.1%
+1330,Saint John-St. Stephen,325,0.1%
+1310,Campbellton-Miramichi,485,0.1%
+1250,Halifax,112,0.1%
+1240,Southern / Sud,485,0.1%
+1240,Southern / Sud,334,0.1%
+1240,Southern / Sud,213,0.1%
+2440,Montréal,316,0.1%
+5930,Thompson-Okanagan,325,0.1%
+1340,Fredericton-Oromocto,313,0.1%
+3510,Ottawa,312,0.1%
+4670,Parklands,523,0.1%
+3530,Toronto,314,0.1%
+4650,Winnipeg,115,0.1%
+4860,Edmonton,312,0.1%
+1040,Notre Dame-Central Bonavista Bay,487,0.1%
+3510,Ottawa,212,0.1%
+2410,Gaspésie-Îles-de-la-Madeleine,523,0.1%
+5950,Cariboo,326,0.1%
+3595,Northwest / Nord-ouest,326,0.1%
+1210,Cape Breton,324,0.1%
+2475,Saguenay-Lac-Saint-Jean,482,0.1%
+5930,Thompson-Okanagan,331,0.1%
+2450,Lanaudière,324,0.1%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,526,0.1%
+4870,Athabasca-Grande Prairie-Peace River,482,0.1%
+2455,Laurentides,221,0.1%
+1240,Southern / Sud,313,0.1%
+3590,Northeast / Nord-est,486,0.1%
+2450,Lanaudière,221,0.1%
+2470,Mauricie,314,0.1%
+4820,Camrose-Drumheller,337,0.1%
+2455,Laurentides,314,0.1%
+1250,Halifax,111,0.1%
+4740,Yorkton-Melville,339,0.1%
+6010,Yukon,334,0.1%
+6010,Yukon,327,0.1%
+5950,Cariboo,221,0.1%
+1040,Notre Dame-Central Bonavista Bay,339,0.1%
+2460,Outaouais,333,0.1%
+2410,Gaspésie-Îles-de-la-Madeleine,315,0.1%
+2450,Lanaudière,334,0.1%
+2415,Bas-Saint-Laurent,324,0.1%
+2465,Abitibi-Témiscamingue,221,0.1%
+4750,Prince Albert,337,0.1%
+4830,Calgary,322,0.1%
+1330,Saint John-St. Stephen,487,0.1%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,487,0.1%
+1110,Prince Edward Island / Île-du-Prince-Édouard,335,0.1%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,336,0.1%
+3580,Stratford-Bruce Peninsula,482,0.1%
+5940,Kootenay,323,0.1%
+2425,Chaudière-Appalaches,221,0.1%
+1230,Annapolis Valley,212,0.1%
+2420,Capitale-Nationale,213,0.1%
+1110,Prince Edward Island / Île-du-Prince-Édouard,312,0.1%
+5950,Cariboo,336,0.1%
+1340,Fredericton-Oromocto,334,0.1%
+1220,North Shore / Côte-nord,481,0.1%
+1310,Campbellton-Miramichi,493,0.1%
+1320,Moncton-Richibucto,221,0.1%
+2425,Chaudière-Appalaches,312,0.1%
+3530,Toronto,115,0.1%
+5930,Thompson-Okanagan,324,0.1%
+2480,Côte-Nord,314,0.1%
+4870,Athabasca-Grande Prairie-Peace River,323,0.1%
+4620,South Central / Centre sud,325,0.1%
+1110,Prince Edward Island / Île-du-Prince-Édouard,493,0.1%
+4650,Winnipeg,314,0.1%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,339,0.1%
+3580,Stratford-Bruce Peninsula,113,0.1%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,314,0.1%
+4630,Southwest / Sud-ouest,113,0.1%
+4810,Lethbridge-Medicine Hat,335,0.1%
+2465,Abitibi-Témiscamingue,324,0.1%
+4660,Interlake,325,0.1%
+4820,Camrose-Drumheller,482,0.1%
+5930,Thompson-Okanagan,487,0.1%
+4750,Prince Albert,482,0.1%
+4750,Prince Albert,221,0.1%
+3510,Ottawa,487,0.1%
+4740,Yorkton-Melville,323,0.1%
+2480,Côte-Nord,112,0.1%
+2415,Bas-Saint-Laurent,314,0.1%
+6110,Northwest Territories / Territoires du Nord-Ouest,112,0.1%
+1010,Avalon Peninsula,326,0.1%
+1350,Edmundston-Woodstock,114,0.1%
+1350,Edmundston-Woodstock,312,0.1%
+4680,North / Nord,487,0.1%
+4680,North / Nord,325,0.1%
+3570,Windsor-Sarnia,335,0.1%
+4850,Red Deer,326,0.1%
+4620,South Central / Centre sud,324,0.1%
+1220,North Shore / Côte-nord,337,0.1%
+4610,Southeast / Sud-est,314,0.1%
+4610,Southeast / Sud-est,323,0.1%
+1010,Avalon Peninsula,491,0.1%
+2433,Centre-du-Québec,334,0.1%
+6010,Yukon,339,0.1%
+6010,Yukon,111,0.1%
+3510,Ottawa,322,0.0%
+2425,Chaudière-Appalaches,481,0.0%
+1040,Notre Dame-Central Bonavista Bay,323,0.0%
+2410,Gaspésie-Îles-de-la-Madeleine,221,0.0%
+2460,Outaouais,324,0.0%
+2480,Côte-Nord,323,0.0%
+1220,North Shore / Côte-nord,211,0.0%
+1220,North Shore / Côte-nord,482,0.0%
+4760,Northern / Nord,113,0.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,339,0.0%
+1240,Southern / Sud,323,0.0%
+4710,Regina-Moose Mountain,322,0.0%
+4740,Yorkton-Melville,492,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,334,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,314,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,339,0.0%
+4880,Wood Buffalo-Cold Lake,523,0.0%
+4670,Parklands,493,0.0%
+2460,Outaouais,483,0.0%
+2460,Outaouais,493,0.0%
+2440,Montréal,212,0.0%
+2475,Saguenay-Lac-Saint-Jean,324,0.0%
+2420,Capitale-Nationale,314,0.0%
+4680,North / Nord,112,0.0%
+3530,Toronto,324,0.0%
+4840,Banff-Jasper-Rocky Mountain House,323,0.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,315,0.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,337,0.0%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,324,0.0%
+4880,Wood Buffalo-Cold Lake,335,0.0%
+3510,Ottawa,314,0.0%
+2410,Gaspésie-Îles-de-la-Madeleine,325,0.0%
+3590,Northeast / Nord-est,491,0.0%
+4750,Prince Albert,493,0.0%
+4750,Prince Albert,325,0.0%
+2440,Montréal,487,0.0%
+2435,Montérégie,324,0.0%
+4630,Southwest / Sud-ouest,481,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,333,0.0%
+6210,Nunavut,493,0.0%
+4820,Camrose-Drumheller,487,0.0%
+4640,North Central / Centre nord,113,0.0%
+4850,Red Deer,113,0.0%
+4850,Red Deer,526,0.0%
+4720,Swift Current-Moose Jaw,315,0.0%
+1350,Edmundston-Woodstock,492,0.0%
+3560,London,213,0.0%
+5940,Kootenay,326,0.0%
+3595,Northwest / Nord-ouest,324,0.0%
+4870,Athabasca-Grande Prairie-Peace River,326,0.0%
+2480,Côte-Nord,324,0.0%
+4860,Edmonton,526,0.0%
+5970,Nechako,114,0.0%
+2410,Gaspésie-Îles-de-la-Madeleine,324,0.0%
+4860,Edmonton,314,0.0%
+3590,Northeast / Nord-est,487,0.0%
+4730,Saskatoon-Biggar,526,0.0%
+3595,Northwest / Nord-ouest,325,0.0%
+3590,Northeast / Nord-est,312,0.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,313,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,331,0.0%
+3550,Hamilton-Niagara Peninsula,526,0.0%
+3530,Toronto,483,0.0%
+3540,Kitchener-Waterloo-Barrie,324,0.0%
+4650,Winnipeg,486,0.0%
+3590,Northeast / Nord-est,335,0.0%
+5980,Northeast / Nord-est,312,0.0%
+3590,Northeast / Nord-est,324,0.0%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,213,0.0%
+2460,Outaouais,334,0.0%
+3580,Stratford-Bruce Peninsula,334,0.0%
+1340,Fredericton-Oromocto,314,0.0%
+3530,Toronto,112,0.0%
+5950,Cariboo,314,0.0%
+5950,Cariboo,493,0.0%
+4730,Saskatoon-Biggar,331,0.0%
+6010,Yukon,325,0.0%
+6010,Yukon,113,0.0%
+6010,Yukon,493,0.0%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,326,0.0%
+3590,Northeast / Nord-est,114,0.0%
+2415,Bas-Saint-Laurent,335,0.0%
+1250,Halifax,113,0.0%
+3530,Toronto,313,0.0%
+2460,Outaouais,312,0.0%
+1230,Annapolis Valley,526,0.0%
+1230,Annapolis Valley,221,0.0%
+4640,North Central / Centre nord,212,0.0%
+4640,North Central / Centre nord,491,0.0%
+4640,North Central / Centre nord,221,0.0%
+4880,Wood Buffalo-Cold Lake,323,0.0%
+4880,Wood Buffalo-Cold Lake,493,0.0%
+5940,Kootenay,114,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,487,0.0%
+3550,Hamilton-Niagara Peninsula,212,0.0%
+4620,South Central / Centre sud,213,0.0%
+1330,Saint John-St. Stephen,491,0.0%
+4850,Red Deer,335,0.0%
+4870,Athabasca-Grande Prairie-Peace River,336,0.0%
+1240,Southern / Sud,481,0.0%
+1240,Southern / Sud,212,0.0%
+2415,Bas-Saint-Laurent,313,0.0%
+3570,Windsor-Sarnia,315,0.0%
+2450,Lanaudière,314,0.0%
+3550,Hamilton-Niagara Peninsula,316,0.0%
+5970,Nechako,316,0.0%
+5970,Nechako,314,0.0%
+2425,Chaudière-Appalaches,493,0.0%
+3515,Kingston-Pembroke,313,0.0%
+5960,North Coast / Côte-nord,336,0.0%
+5960,North Coast / Côte-nord,212,0.0%
+2450,Lanaudière,313,0.0%
+3510,Ottawa,324,0.0%
+4610,Southeast / Sud-est,331,0.0%
+5950,Cariboo,334,0.0%
+5950,Cariboo,323,0.0%
+2440,Montréal,113,0.0%
+1340,Fredericton-Oromocto,325,0.0%
+4730,Saskatoon-Biggar,315,0.0%
+2410,Gaspésie-Îles-de-la-Madeleine,335,0.0%
+1210,Cape Breton,487,0.0%
+2475,Saguenay-Lac-Saint-Jean,213,0.0%
+4760,Northern / Nord,112,0.0%
+4760,Northern / Nord,523,0.0%
+3595,Northwest / Nord-ouest,312,0.0%
+2420,Capitale-Nationale,221,0.0%
+3590,Northeast / Nord-est,314,0.0%
+2450,Lanaudière,487,0.0%
+1320,Moncton-Richibucto,331,0.0%
+1320,Moncton-Richibucto,335,0.0%
+5940,Kootenay,334,0.0%
+2460,Outaouais,482,0.0%
+3550,Hamilton-Niagara Peninsula,113,0.0%
+1250,Halifax,115,0.0%
+4680,North / Nord,333,0.0%
+4680,North / Nord,492,0.0%
+2435,Montérégie,113,0.0%
+2455,Laurentides,331,0.0%
+2470,Mauricie,313,0.0%
+4750,Prince Albert,486,0.0%
+2435,Montérégie,213,0.0%
+4730,Saskatoon-Biggar,314,0.0%
+5930,Thompson-Okanagan,526,0.0%
+2450,Lanaudière,335,0.0%
+5940,Kootenay,315,0.0%
+3560,London,482,0.0%
+5980,Northeast / Nord-est,493,0.0%
+1220,North Shore / Côte-nord,331,0.0%
+2455,Laurentides,481,0.0%
+4740,Yorkton-Melville,314,0.0%
+4740,Yorkton-Melville,337,0.0%
+1310,Campbellton-Miramichi,312,0.0%
+3570,Windsor-Sarnia,482,0.0%
+1330,Saint John-St. Stephen,337,0.0%
+1330,Saint John-St. Stephen,323,0.0%
+1350,Edmundston-Woodstock,526,0.0%
+5960,North Coast / Côte-nord,337,0.0%
+5960,North Coast / Côte-nord,325,0.0%
+5960,North Coast / Côte-nord,487,0.0%
+5960,North Coast / Côte-nord,335,0.0%
+3570,Windsor-Sarnia,314,0.0%
+3590,Northeast / Nord-est,334,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,492,0.0%
+4820,Camrose-Drumheller,314,0.0%
+3595,Northwest / Nord-ouest,313,0.0%
+4630,Southwest / Sud-ouest,487,0.0%
+4630,Southwest / Sud-ouest,313,0.0%
+5940,Kootenay,493,0.0%
+4870,Athabasca-Grande Prairie-Peace River,493,0.0%
+4660,Interlake,314,0.0%
+4720,Swift Current-Moose Jaw,314,0.0%
+1010,Avalon Peninsula,487,0.0%
+3560,London,487,0.0%
+4650,Winnipeg,212,0.0%
+4860,Edmonton,315,0.0%
+3515,Kingston-Pembroke,491,0.0%
+2445,Laval,312,0.0%
+1210,Cape Breton,333,0.0%
+4820,Camrose-Drumheller,486,0.0%
+4680,North / Nord,526,0.0%
+4680,North / Nord,491,0.0%
+4680,North / Nord,312,0.0%
+1310,Campbellton-Miramichi,325,0.0%
+4710,Regina-Moose Mountain,334,0.0%
+5980,Northeast / Nord-est,486,0.0%
+3520,Muskoka-Kawarthas,487,0.0%
+4810,Lethbridge-Medicine Hat,486,0.0%
+2445,Laval,324,0.0%
+1010,Avalon Peninsula,314,0.0%
+1010,Avalon Peninsula,335,0.0%
+3595,Northwest / Nord-ouest,337,0.0%
+2430,Estrie,526,0.0%
+4880,Wood Buffalo-Cold Lake,333,0.0%
+4850,Red Deer,312,0.0%
+3520,Muskoka-Kawarthas,315,0.0%
+4860,Edmonton,322,0.0%
+1010,Avalon Peninsula,315,0.0%
+4870,Athabasca-Grande Prairie-Peace River,314,0.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,314,0.0%
+2440,Montréal,213,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,323,0.0%
+4740,Yorkton-Melville,313,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,337,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,326,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,311,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,321,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,315,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,491,0.0%
+5930,Thompson-Okanagan,314,0.0%
+3595,Northwest / Nord-ouest,314,0.0%
+3560,London,315,0.0%
+1350,Edmundston-Woodstock,211,0.0%
+3520,Muskoka-Kawarthas,491,0.0%
+2470,Mauricie,221,0.0%
+4830,Calgary,113,0.0%
+5940,Kootenay,314,0.0%
+5940,Kootenay,337,0.0%
+5940,Kootenay,491,0.0%
+1010,Avalon Peninsula,526,0.0%
+4810,Lethbridge-Medicine Hat,324,0.0%
+4660,Interlake,486,0.0%
+4820,Camrose-Drumheller,113,0.0%
+4880,Wood Buffalo-Cold Lake,337,0.0%
+5960,North Coast / Côte-nord,339,0.0%
+3560,London,212,0.0%
+5980,Northeast / Nord-est,323,0.0%
+4650,Winnipeg,112,0.0%
+4750,Prince Albert,314,0.0%
+1010,Avalon Peninsula,322,0.0%
+2470,Mauricie,481,0.0%
+3530,Toronto,316,0.0%
+3550,Hamilton-Niagara Peninsula,213,0.0%
+2433,Centre-du-Québec,316,0.0%
+5930,Thompson-Okanagan,211,0.0%
+3570,Windsor-Sarnia,211,0.0%
+5940,Kootenay,487,0.0%
+5940,Kootenay,486,0.0%
+2415,Bas-Saint-Laurent,315,0.0%
+2420,Capitale-Nationale,313,0.0%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,335,0.0%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,526,0.0%
+4650,Winnipeg,213,0.0%
+1320,Moncton-Richibucto,526,0.0%
+5950,Cariboo,491,0.0%
+2410,Gaspésie-Îles-de-la-Madeleine,326,0.0%
+2435,Montérégie,483,0.0%
+1010,Avalon Peninsula,316,0.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,324,0.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,331,0.0%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,331,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,315,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,314,0.0%
+4650,Winnipeg,114,0.0%
+3595,Northwest / Nord-ouest,334,0.0%
+4720,Swift Current-Moose Jaw,486,0.0%
+5980,Northeast / Nord-est,326,0.0%
+4830,Calgary,314,0.0%
+4710,Regina-Moose Mountain,521,0.0%
+4740,Yorkton-Melville,211,0.0%
+1320,Moncton-Richibucto,315,0.0%
+2480,Côte-Nord,325,0.0%
+2480,Côte-Nord,336,0.0%
+5950,Cariboo,487,0.0%
+2455,Laurentides,114,0.0%
+1230,Annapolis Valley,324,0.0%
+2445,Laval,115,0.0%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,315,0.0%
+3540,Kitchener-Waterloo-Barrie,213,0.0%
+3530,Toronto,487,0.0%
+4870,Athabasca-Grande Prairie-Peace River,486,0.0%
+4810,Lethbridge-Medicine Hat,314,0.0%
+2460,Outaouais,314,0.0%
+2460,Outaouais,491,0.0%
+2445,Laval,483,0.0%
+2420,Capitale-Nationale,211,0.0%
+4840,Banff-Jasper-Rocky Mountain House,493,0.0%
+4850,Red Deer,314,0.0%
+4610,Southeast / Sud-est,312,0.0%
+3560,London,324,0.0%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,491,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,321,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,115,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,315,0.0%
+4710,Regina-Moose Mountain,314,0.0%
+4710,Regina-Moose Mountain,482,0.0%
+2455,Laurentides,487,0.0%
+2470,Mauricie,324,0.0%
+4760,Northern / Nord,526,0.0%
+4760,Northern / Nord,115,0.0%
+4760,Northern / Nord,493,0.0%
+4760,Northern / Nord,321,0.0%
+4760,Northern / Nord,221,0.0%
+4760,Northern / Nord,314,0.0%
+1240,Southern / Sud,315,0.0%
+4880,Wood Buffalo-Cold Lake,311,0.0%
+1250,Halifax,314,0.0%
+1340,Fredericton-Oromocto,114,0.0%
+3510,Ottawa,315,0.0%
+1310,Campbellton-Miramichi,481,0.0%
+4810,Lethbridge-Medicine Hat,334,0.0%
+3595,Northwest / Nord-ouest,491,0.0%
+3560,London,114,0.0%
+1250,Halifax,211,0.0%
+3570,Windsor-Sarnia,483,0.0%
+2455,Laurentides,482,0.0%
+4840,Banff-Jasper-Rocky Mountain House,326,0.0%
+4840,Banff-Jasper-Rocky Mountain House,337,0.0%
+2470,Mauricie,114,0.0%
+2470,Mauricie,486,0.0%
+4640,North Central / Centre nord,213,0.0%
+3515,Kingston-Pembroke,483,0.0%
+1250,Halifax,486,0.0%
+1250,Halifax,521,0.0%
+2435,Montérégie,482,0.0%
+3580,Stratford-Bruce Peninsula,314,0.0%
+4750,Prince Albert,526,0.0%
+3595,Northwest / Nord-ouest,487,0.0%
+3595,Northwest / Nord-ouest,315,0.0%
+2425,Chaudière-Appalaches,316,0.0%
+4630,Southwest / Sud-ouest,312,0.0%
+4630,Southwest / Sud-ouest,314,0.0%
+4630,Southwest / Sud-ouest,491,0.0%
+5970,Nechako,493,0.0%
+5970,Nechako,333,0.0%
+5970,Nechako,339,0.0%
+2440,Montréal,521,0.0%
+3590,Northeast / Nord-est,483,0.0%
+2475,Saguenay-Lac-Saint-Jean,316,0.0%
+2475,Saguenay-Lac-Saint-Jean,334,0.0%
+2475,Saguenay-Lac-Saint-Jean,483,0.0%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,314,0.0%
+1310,Campbellton-Miramichi,313,0.0%
+1310,Campbellton-Miramichi,334,0.0%
+1310,Campbellton-Miramichi,491,0.0%
+4860,Edmonton,113,0.0%
+3510,Ottawa,113,0.0%
+6010,Yukon,321,0.0%
+1040,Notre Dame-Central Bonavista Bay,333,0.0%
+3520,Muskoka-Kawarthas,313,0.0%
+2445,Laval,221,0.0%
+1010,Avalon Peninsula,325,0.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,487,0.0%
+2420,Capitale-Nationale,526,0.0%
+2430,Estrie,487,0.0%
+3580,Stratford-Bruce Peninsula,114,0.0%
+4650,Winnipeg,487,0.0%
+3530,Toronto,491,0.0%
+2440,Montréal,111,0.0%
+1250,Halifax,313,0.0%
+4830,Calgary,313,0.0%
+4880,Wood Buffalo-Cold Lake,526,0.0%
+2450,Lanaudière,526,0.0%
+2450,Lanaudière,481,0.0%
+2480,Côte-Nord,487,0.0%
+5950,Cariboo,315,0.0%
+3510,Ottawa,213,0.0%
+1340,Fredericton-Oromocto,316,0.0%
+3550,Hamilton-Niagara Peninsula,491,0.0%
+4830,Calgary,315,0.0%
+1330,Saint John-St. Stephen,313,0.0%
+1330,Saint John-St. Stephen,481,0.0%
+1330,Saint John-St. Stephen,335,0.0%
+5940,Kootenay,526,0.0%
+4710,Regina-Moose Mountain,481,0.0%
+4710,Regina-Moose Mountain,313,0.0%
+2415,Bas-Saint-Laurent,491,0.0%
+4820,Camrose-Drumheller,481,0.0%
+2440,Montréal,486,0.0%
+5930,Thompson-Okanagan,491,0.0%
+2450,Lanaudière,211,0.0%
+2470,Mauricie,526,0.0%
+3560,London,526,0.0%
+3560,London,313,0.0%
+4620,South Central / Centre sud,492,0.0%
+2465,Abitibi-Témiscamingue,487,0.0%
+4750,Prince Albert,491,0.0%
+4750,Prince Albert,316,0.0%
+4610,Southeast / Sud-est,335,0.0%
+1210,Cape Breton,211,0.0%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,313,0.0%
+2425,Chaudière-Appalaches,526,0.0%
+2425,Chaudière-Appalaches,213,0.0%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,324,0.0%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,316,0.0%
+3570,Windsor-Sarnia,526,0.0%
+4860,Edmonton,313,0.0%
+3560,London,113,0.0%
+5980,Northeast / Nord-est,114,0.0%
+4710,Regina-Moose Mountain,487,0.0%
+4740,Yorkton-Melville,312,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,493,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,111,0.0%
+4670,Parklands,211,0.0%
+4670,Parklands,314,0.0%
+4670,Parklands,325,0.0%
+4670,Parklands,491,0.0%
+4670,Parklands,313,0.0%
+4670,Parklands,221,0.0%
+4670,Parklands,316,0.0%
+2460,Outaouais,114,0.0%
+4850,Red Deer,486,0.0%
+3550,Hamilton-Niagara Peninsula,114,0.0%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,316,0.0%
+4830,Calgary,521,0.0%
+4660,Interlake,323,0.0%
+4660,Interlake,335,0.0%
+1340,Fredericton-Oromocto,315,0.0%
+1340,Fredericton-Oromocto,213,0.0%
+1330,Saint John-St. Stephen,315,0.0%
+2470,Mauricie,491,0.0%
+6210,Nunavut,315,0.0%
+6210,Nunavut,314,0.0%
+6210,Nunavut,114,0.0%
+3570,Windsor-Sarnia,487,0.0%
+2420,Capitale-Nationale,482,0.0%
+2420,Capitale-Nationale,491,0.0%
+5930,Thompson-Okanagan,114,0.0%
+3540,Kitchener-Waterloo-Barrie,113,0.0%
+3550,Hamilton-Niagara Peninsula,486,0.0%
+3595,Northwest / Nord-ouest,335,0.0%
+2440,Montréal,112,0.0%
+3580,Stratford-Bruce Peninsula,487,0.0%
+4650,Winnipeg,313,0.0%
+1040,Notre Dame-Central Bonavista Bay,491,0.0%
+1040,Notre Dame-Central Bonavista Bay,316,0.0%
+4870,Athabasca-Grande Prairie-Peace River,313,0.0%
+4870,Athabasca-Grande Prairie-Peace River,312,0.0%
+1320,Moncton-Richibucto,324,0.0%
+1320,Moncton-Richibucto,313,0.0%
+4650,Winnipeg,521,0.0%
+4650,Winnipeg,324,0.0%
+1250,Halifax,491,0.0%
+2475,Saguenay-Lac-Saint-Jean,114,0.0%
+3520,Muskoka-Kawarthas,213,0.0%
+4720,Swift Current-Moose Jaw,331,0.0%
+4850,Red Deer,313,0.0%
+2480,Côte-Nord,333,0.0%
+2455,Laurentides,483,0.0%
+2470,Mauricie,483,0.0%
+4640,North Central / Centre nord,323,0.0%
+4640,North Central / Centre nord,312,0.0%
+2490,Nord-du-Québec,326,0.0%
+2490,Nord-du-Québec,323,0.0%
+2490,Nord-du-Québec,492,0.0%
+2490,Nord-du-Québec,114,0.0%
+3590,Northeast / Nord-est,526,0.0%
+4820,Camrose-Drumheller,526,0.0%
+3595,Northwest / Nord-ouest,114,0.0%
+4830,Calgary,491,0.0%
+5970,Nechako,211,0.0%
+5970,Nechako,337,0.0%
+3570,Windsor-Sarnia,113,0.0%
+4610,Southeast / Sud-est,492,0.0%
+3520,Muskoka-Kawarthas,316,0.0%
+3520,Muskoka-Kawarthas,314,0.0%
+5930,Thompson-Okanagan,316,0.0%
+4810,Lethbridge-Medicine Hat,526,0.0%
+1210,Cape Breton,313,0.0%
+5980,Northeast / Nord-est,336,0.0%
+4870,Athabasca-Grande Prairie-Peace River,526,0.0%
+2435,Montérégie,487,0.0%
+2435,Montérégie,316,0.0%
+1240,Southern / Sud,335,0.0%
+5940,Kootenay,335,0.0%
+2460,Outaouais,315,0.0%
+6010,Yukon,487,0.0%
+6010,Yukon,114,0.0%
+6010,Yukon,112,0.0%
+6010,Yukon,314,0.0%
+5930,Thompson-Okanagan,483,0.0%
+4750,Prince Albert,481,0.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,213,0.0%
+3515,Kingston-Pembroke,481,0.0%
+2440,Montréal,491,0.0%
+2425,Chaudière-Appalaches,114,0.0%
+5960,North Coast / Côte-nord,315,0.0%
+5950,Cariboo,211,0.0%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,491,0.0%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,211,0.0%
+4630,Southwest / Sud-ouest,212,0.0%
+4810,Lethbridge-Medicine Hat,313,0.0%
+4810,Lethbridge-Medicine Hat,483,0.0%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,521,0.0%
+3550,Hamilton-Niagara Peninsula,482,0.0%
+4680,North / Nord,339,0.0%
+4680,North / Nord,493,0.0%
+4680,North / Nord,483,0.0%
+3510,Ottawa,486,0.0%
+4730,Saskatoon-Biggar,113,0.0%
+4730,Saskatoon-Biggar,491,0.0%
+2420,Capitale-Nationale,114,0.0%
+2450,Lanaudière,213,0.0%
+4620,South Central / Centre sud,322,0.0%
+4620,South Central / Centre sud,482,0.0%
+3515,Kingston-Pembroke,316,0.0%
+3540,Kitchener-Waterloo-Barrie,114,0.0%
+2425,Chaudière-Appalaches,487,0.0%
+4840,Banff-Jasper-Rocky Mountain House,334,0.0%
+4840,Banff-Jasper-Rocky Mountain House,314,0.0%
+1220,North Shore / Côte-nord,526,0.0%
+4870,Athabasca-Grande Prairie-Peace River,114,0.0%
+4740,Yorkton-Melville,481,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,333,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,113,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,482,0.0%
+3580,Stratford-Bruce Peninsula,526,0.0%
+1350,Edmundston-Woodstock,481,0.0%
+1350,Edmundston-Woodstock,313,0.0%
+3540,Kitchener-Waterloo-Barrie,487,0.0%
+4660,Interlake,316,0.0%
+4660,Interlake,211,0.0%
+4880,Wood Buffalo-Cold Lake,312,0.0%
+3520,Muskoka-Kawarthas,526,0.0%
+2435,Montérégie,491,0.0%
+1340,Fredericton-Oromocto,486,0.0%
+3590,Northeast / Nord-est,315,0.0%
+4810,Lethbridge-Medicine Hat,113,0.0%
+1250,Halifax,316,0.0%
+5940,Kootenay,211,0.0%
+3595,Northwest / Nord-ouest,483,0.0%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,211,0.0%
+1040,Notre Dame-Central Bonavista Bay,526,0.0%
+1040,Notre Dame-Central Bonavista Bay,314,0.0%
+2410,Gaspésie-Îles-de-la-Madeleine,313,0.0%
+2410,Gaspésie-Îles-de-la-Madeleine,213,0.0%
+2410,Gaspésie-Îles-de-la-Madeleine,316,0.0%
+2410,Gaspésie-Îles-de-la-Madeleine,486,0.0%
+2410,Gaspésie-Îles-de-la-Madeleine,491,0.0%
+2465,Abitibi-Témiscamingue,491,0.0%
+4750,Prince Albert,334,0.0%
+4750,Prince Albert,114,0.0%
+2433,Centre-du-Québec,481,0.0%
+2445,Laval,112,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,312,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,526,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,337,0.0%
+4650,Winnipeg,491,0.0%
+2435,Montérégie,526,0.0%
+3510,Ottawa,483,0.0%
+4720,Swift Current-Moose Jaw,526,0.0%
+4720,Swift Current-Moose Jaw,324,0.0%
+4720,Swift Current-Moose Jaw,325,0.0%
+3540,Kitchener-Waterloo-Barrie,491,0.0%
+3560,London,491,0.0%
+2480,Côte-Nord,213,0.0%
+2480,Côte-Nord,326,0.0%
+2455,Laurentides,491,0.0%
+2455,Laurentides,316,0.0%
+4830,Calgary,316,0.0%
+1230,Annapolis Valley,483,0.0%
+1230,Annapolis Valley,482,0.0%
+1230,Annapolis Valley,331,0.0%
+1230,Annapolis Valley,334,0.0%
+1230,Annapolis Valley,335,0.0%
+1330,Saint John-St. Stephen,336,0.0%
+3580,Stratford-Bruce Peninsula,315,0.0%
+2415,Bas-Saint-Laurent,526,0.0%
+4820,Camrose-Drumheller,335,0.0%
+3570,Windsor-Sarnia,491,0.0%
+4610,Southeast / Sud-est,211,0.0%
+4610,Southeast / Sud-est,324,0.0%
+3530,Toronto,113,0.0%
+1210,Cape Breton,316,0.0%
+1210,Cape Breton,325,0.0%
+1210,Cape Breton,491,0.0%
+2425,Chaudière-Appalaches,491,0.0%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,313,0.0%
+5980,Northeast / Nord-est,316,0.0%
+5980,Northeast / Nord-est,313,0.0%
+5980,Northeast / Nord-est,487,0.0%
+5980,Northeast / Nord-est,324,0.0%
+4870,Athabasca-Grande Prairie-Peace River,324,0.0%
+1240,Southern / Sud,331,0.0%
+1240,Southern / Sud,491,0.0%
+3590,Northeast / Nord-est,316,0.0%
+1320,Moncton-Richibucto,316,0.0%
+2460,Outaouais,487,0.0%
+3530,Toronto,486,0.0%
+2445,Laval,213,0.0%
+2435,Montérégie,114,0.0%
+4630,Southwest / Sud-ouest,526,0.0%
+4630,Southwest / Sud-ouest,337,0.0%
+2433,Centre-du-Québec,114,0.0%
+2475,Saguenay-Lac-Saint-Jean,491,0.0%
+1310,Campbellton-Miramichi,314,0.0%
+1310,Campbellton-Miramichi,315,0.0%
+1310,Campbellton-Miramichi,487,0.0%
+4830,Calgary,487,0.0%
+4830,Calgary,114,0.0%
+3515,Kingston-Pembroke,213,0.0%
+4840,Banff-Jasper-Rocky Mountain House,315,0.0%
+4840,Banff-Jasper-Rocky Mountain House,312,0.0%
+4840,Banff-Jasper-Rocky Mountain House,114,0.0%
+5930,Thompson-Okanagan,315,0.0%
+3580,Stratford-Bruce Peninsula,481,0.0%
+3550,Hamilton-Niagara Peninsula,211,0.0%
+4860,Edmonton,487,0.0%
+4880,Wood Buffalo-Cold Lake,326,0.0%
+4880,Wood Buffalo-Cold Lake,336,0.0%
+4880,Wood Buffalo-Cold Lake,324,0.0%
+4880,Wood Buffalo-Cold Lake,314,0.0%
+1340,Fredericton-Oromocto,481,0.0%
+4810,Lethbridge-Medicine Hat,315,0.0%
+3560,London,211,0.0%
+5940,Kootenay,482,0.0%
+4860,Edmonton,114,0.0%
+4730,Saskatoon-Biggar,316,0.0%
+4730,Saskatoon-Biggar,486,0.0%
+2450,Lanaudière,316,0.0%
+2450,Lanaudière,114,0.0%
+2465,Abitibi-Témiscamingue,334,0.0%
+2465,Abitibi-Témiscamingue,526,0.0%
+2465,Abitibi-Témiscamingue,314,0.0%
+4750,Prince Albert,335,0.0%
+4750,Prince Albert,315,0.0%
+4750,Prince Albert,324,0.0%
+4750,Prince Albert,331,0.0%
+4750,Prince Albert,483,0.0%
+2445,Laval,113,0.0%
+2445,Laval,526,0.0%
+1010,Avalon Peninsula,313,0.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,526,0.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,211,0.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,491,0.0%
+4650,Winnipeg,113,0.0%
+4710,Regina-Moose Mountain,315,0.0%
+5950,Cariboo,114,0.0%
+5930,Thompson-Okanagan,486,0.0%
+3510,Ottawa,316,0.0%
+1330,Saint John-St. Stephen,526,0.0%
+2415,Bas-Saint-Laurent,481,0.0%
+2415,Bas-Saint-Laurent,486,0.0%
+2415,Bas-Saint-Laurent,487,0.0%
+4820,Camrose-Drumheller,316,0.0%
+4820,Camrose-Drumheller,315,0.0%
+2440,Montréal,114,0.0%
+4870,Athabasca-Grande Prairie-Peace River,491,0.0%
+1320,Moncton-Richibucto,487,0.0%
+1320,Moncton-Richibucto,486,0.0%
+2460,Outaouais,331,0.0%
+2460,Outaouais,316,0.0%
+2460,Outaouais,526,0.0%
+2460,Outaouais,213,0.0%
+4850,Red Deer,315,0.0%
+2470,Mauricie,213,0.0%
+2470,Mauricie,482,0.0%
+3530,Toronto,211,0.0%
+3595,Northwest / Nord-ouest,331,0.0%
+2433,Centre-du-Québec,211,0.0%
+2433,Centre-du-Québec,491,0.0%
+2433,Centre-du-Québec,526,0.0%
+2475,Saguenay-Lac-Saint-Jean,526,0.0%
+2430,Estrie,114,0.0%
+2430,Estrie,213,0.0%
+2430,Estrie,483,0.0%
+3580,Stratford-Bruce Peninsula,486,0.0%
+3580,Stratford-Bruce Peninsula,213,0.0%
+3580,Stratford-Bruce Peninsula,491,0.0%
+3520,Muskoka-Kawarthas,482,0.0%
+3520,Muskoka-Kawarthas,481,0.0%
+4810,Lethbridge-Medicine Hat,114,0.0%
+3560,London,316,0.0%
+2450,Lanaudière,491,0.0%
+2445,Laval,316,0.0%
+2445,Laval,481,0.0%
+2445,Laval,482,0.0%
+2445,Laval,491,0.0%
+4710,Regina-Moose Mountain,113,0.0%
+4710,Regina-Moose Mountain,316,0.0%
+4710,Regina-Moose Mountain,114,0.0%
+4710,Regina-Moose Mountain,483,0.0%
+4710,Regina-Moose Mountain,491,0.0%
+3530,Toronto,114,0.0%
+3515,Kingston-Pembroke,211,0.0%
+2425,Chaudière-Appalaches,486,0.0%
+2425,Chaudière-Appalaches,482,0.0%
+2455,Laurentides,526,0.0%
+2455,Laurentides,486,0.0%
+4860,Edmonton,316,0.0%
+3560,London,486,0.0%
+3510,Ottawa,211,0.0%
+4860,Edmonton,491,0.0%
+2440,Montréal,211,0.0%
+2435,Montérégie,486,0.0%
+3540,Kitchener-Waterloo-Barrie,483,0.0%
+3540,Kitchener-Waterloo-Barrie,211,0.0%
+3510,Ottawa,114,0.0%
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,486,0.0%
+4860,Edmonton,483,0.0%
+1210,Cape Breton,331,0.0%
+4740,Yorkton-Melville,315,0.0%
+4670,Parklands,324,0.0%
+4640,North Central / Centre nord,486,0.0%
+4740,Yorkton-Melville,316,0.0%
+1210,Cape Breton,486,0.0%
+1210,Cape Breton,334,0.0%
+1210,Cape Breton,335,0.0%
+4740,Yorkton-Melville,114,0.0%
+4640,North Central / Centre nord,526,0.0%
+5980,Northeast / Nord-est,314,0.0%
+4650,Winnipeg,483,0.0%
+4640,North Central / Centre nord,487,0.0%
+4670,Parklands,323,0.0%
+4640,North Central / Centre nord,521,0.0%
+1210,Cape Breton,315,0.0%
+5970,Nechako,491,0.0%
+4740,Yorkton-Melville,324,0.0%
+4640,North Central / Centre nord,482,0.0%
+1220,North Shore / Côte-nord,324,0.0%
+4630,Southwest / Sud-ouest,331,0.0%
+5970,Nechako,485,0.0%
+5970,Nechako,487,0.0%
+5970,Nechako,486,0.0%
+4670,Parklands,326,0.0%
+5970,Nechako,526,0.0%
+4640,North Central / Centre nord,483,0.0%
+4740,Yorkton-Melville,322,0.0%
+1220,North Shore / Côte-nord,313,0.0%
+5970,Nechako,521,0.0%
+1210,Cape Breton,521,0.0%
+1210,Cape Breton,526,0.0%
+5980,Northeast / Nord-est,315,0.0%
+5980,Northeast / Nord-est,337,0.0%
+4660,Interlake,483,0.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,326,0.0%
+4660,Interlake,487,0.0%
+4670,Parklands,312,0.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,482,0.0%
+5980,Northeast / Nord-est,335,0.0%
+5980,Northeast / Nord-est,334,0.0%
+4660,Interlake,526,0.0%
+4660,Interlake,521,0.0%
+5980,Northeast / Nord-est,491,0.0%
+4730,Saskatoon-Biggar,322,0.0%
+5980,Northeast / Nord-est,483,0.0%
+5980,Northeast / Nord-est,482,0.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,316,0.0%
+4660,Interlake,491,0.0%
+1040,Notre Dame-Central Bonavista Bay,521,0.0%
+4730,Saskatoon-Biggar,487,0.0%
+4660,Interlake,315,0.0%
+4730,Saskatoon-Biggar,483,0.0%
+4730,Saskatoon-Biggar,521,0.0%
+5980,Northeast / Nord-est,526,0.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,521,0.0%
+4660,Interlake,113,0.0%
+5980,Northeast / Nord-est,331,0.0%
+5980,Northeast / Nord-est,521,0.0%
+1110,Prince Edward Island / Île-du-Prince-Édouard,486,0.0%
+4730,Saskatoon-Biggar,313,0.0%
+4660,Interlake,482,0.0%
+4660,Interlake,324,0.0%
+4670,Parklands,315,0.0%
+4670,Parklands,322,0.0%
+1240,Southern / Sud,324,0.0%
+1240,Southern / Sud,325,0.0%
+4640,North Central / Centre nord,313,0.0%
+5960,North Coast / Côte-nord,486,0.0%
+4740,Yorkton-Melville,521,0.0%
+4640,North Central / Centre nord,114,0.0%
+4630,Southwest / Sud-ouest,521,0.0%
+4740,Yorkton-Melville,526,0.0%
+4640,North Central / Centre nord,211,0.0%
+4740,Yorkton-Melville,487,0.0%
+1240,Southern / Sud,211,0.0%
+5960,North Coast / Côte-nord,526,0.0%
+1230,Annapolis Valley,521,0.0%
+5960,North Coast / Côte-nord,521,0.0%
+5960,North Coast / Côte-nord,491,0.0%
+1240,Southern / Sud,322,0.0%
+4640,North Central / Centre nord,314,0.0%
+4740,Yorkton-Melville,491,0.0%
+4630,Southwest / Sud-ouest,486,0.0%
+1240,Southern / Sud,526,0.0%
+5960,North Coast / Côte-nord,316,0.0%
+1240,Southern / Sud,521,0.0%
+5960,North Coast / Côte-nord,322,0.0%
+4630,Southwest / Sud-ouest,334,0.0%
+4750,Prince Albert,312,0.0%
+4750,Prince Albert,313,0.0%
+5960,North Coast / Côte-nord,314,0.0%
+5960,North Coast / Côte-nord,313,0.0%
+5960,North Coast / Côte-nord,333,0.0%
+1240,Southern / Sud,482,0.0%
+4630,Southwest / Sud-ouest,483,0.0%
+5960,North Coast / Côte-nord,334,0.0%
+1240,Southern / Sud,486,0.0%
+4630,Southwest / Sud-ouest,335,0.0%
+5960,North Coast / Côte-nord,324,0.0%
+4630,Southwest / Sud-ouest,482,0.0%
+5960,North Coast / Côte-nord,326,0.0%
+5970,Nechako,331,0.0%
+1230,Annapolis Valley,211,0.0%
+4640,North Central / Centre nord,334,0.0%
+4740,Yorkton-Melville,331,0.0%
+5970,Nechako,326,0.0%
+4640,North Central / Centre nord,331,0.0%
+5970,Nechako,322,0.0%
+5970,Nechako,325,0.0%
+5970,Nechako,324,0.0%
+5970,Nechako,482,0.0%
+1220,North Shore / Côte-nord,491,0.0%
+1220,North Shore / Côte-nord,486,0.0%
+1220,North Shore / Côte-nord,487,0.0%
+4640,North Central / Centre nord,481,0.0%
+5970,Nechako,335,0.0%
+5970,Nechako,334,0.0%
+4640,North Central / Centre nord,335,0.0%
+1220,North Shore / Côte-nord,521,0.0%
+1230,Annapolis Valley,314,0.0%
+1230,Annapolis Valley,481,0.0%
+4640,North Central / Centre nord,316,0.0%
+4740,Yorkton-Melville,482,0.0%
+4740,Yorkton-Melville,483,0.0%
+4640,North Central / Centre nord,315,0.0%
+1230,Annapolis Valley,487,0.0%
+1230,Annapolis Valley,491,0.0%
+4740,Yorkton-Melville,486,0.0%
+1230,Annapolis Valley,486,0.0%
+4740,Yorkton-Melville,334,0.0%
+5970,Nechako,313,0.0%
+4640,North Central / Centre nord,324,0.0%
+5970,Nechako,315,0.0%
+5970,Nechako,312,0.0%
+4740,Yorkton-Melville,335,0.0%
+4640,North Central / Centre nord,322,0.0%
+1230,Annapolis Valley,315,0.0%
+1230,Annapolis Valley,316,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,312,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,313,0.0%
+6210,Nunavut,111,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,526,0.0%
+4720,Swift Current-Moose Jaw,316,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,316,0.0%
+4680,North / Nord,326,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,521,0.0%
+6210,Nunavut,112,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,211,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,212,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,113,0.0%
+4680,North / Nord,334,0.0%
+4720,Swift Current-Moose Jaw,313,0.0%
+6210,Nunavut,113,0.0%
+6210,Nunavut,211,0.0%
+6210,Nunavut,115,0.0%
+4680,North / Nord,324,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,335,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,339,0.0%
+4720,Swift Current-Moose Jaw,326,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,336,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,331,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,481,0.0%
+4680,North / Nord,316,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,332,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,335,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,322,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,324,0.0%
+4720,Swift Current-Moose Jaw,322,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,487,0.0%
+4680,North / Nord,323,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,334,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,325,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,331,0.0%
+1010,Avalon Peninsula,482,0.0%
+6210,Nunavut,339,0.0%
+4720,Swift Current-Moose Jaw,114,0.0%
+6210,Nunavut,482,0.0%
+6210,Nunavut,335,0.0%
+6210,Nunavut,334,0.0%
+6210,Nunavut,337,0.0%
+6210,Nunavut,336,0.0%
+4720,Swift Current-Moose Jaw,113,0.0%
+6210,Nunavut,521,0.0%
+6210,Nunavut,492,0.0%
+6210,Nunavut,526,0.0%
+1010,Avalon Peninsula,113,0.0%
+6210,Nunavut,486,0.0%
+4680,North / Nord,521,0.0%
+6210,Nunavut,491,0.0%
+6210,Nunavut,487,0.0%
+6210,Nunavut,333,0.0%
+4680,North / Nord,337,0.0%
+6210,Nunavut,313,0.0%
+6210,Nunavut,316,0.0%
+4680,North / Nord,486,0.0%
+1010,Avalon Peninsula,521,0.0%
+4680,North / Nord,335,0.0%
+6210,Nunavut,312,0.0%
+4680,North / Nord,336,0.0%
+6210,Nunavut,321,0.0%
+6210,Nunavut,327,0.0%
+6210,Nunavut,326,0.0%
+6210,Nunavut,332,0.0%
+6210,Nunavut,331,0.0%
+6210,Nunavut,323,0.0%
+6210,Nunavut,322,0.0%
+1010,Avalon Peninsula,486,0.0%
+6210,Nunavut,324,0.0%
+4720,Swift Current-Moose Jaw,521,0.0%
+6010,Yukon,331,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,521,0.0%
+6010,Yukon,333,0.0%
+4670,Parklands,482,0.0%
+6010,Yukon,324,0.0%
+1040,Notre Dame-Central Bonavista Bay,211,0.0%
+1040,Notre Dame-Central Bonavista Bay,313,0.0%
+6010,Yukon,335,0.0%
+6010,Yukon,483,0.0%
+6010,Yukon,482,0.0%
+4720,Swift Current-Moose Jaw,491,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,486,0.0%
+4670,Parklands,483,0.0%
+6010,Yukon,336,0.0%
+4670,Parklands,486,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,491,0.0%
+4670,Parklands,481,0.0%
+4730,Saskatoon-Biggar,114,0.0%
+1040,Notre Dame-Central Bonavista Bay,334,0.0%
+1040,Notre Dame-Central Bonavista Bay,325,0.0%
+1040,Notre Dame-Central Bonavista Bay,331,0.0%
+1040,Notre Dame-Central Bonavista Bay,486,0.0%
+4670,Parklands,331,0.0%
+1040,Notre Dame-Central Bonavista Bay,482,0.0%
+6010,Yukon,211,0.0%
+1040,Notre Dame-Central Bonavista Bay,324,0.0%
+6010,Yukon,316,0.0%
+6010,Yukon,315,0.0%
+6010,Yukon,322,0.0%
+4670,Parklands,336,0.0%
+4670,Parklands,334,0.0%
+1040,Notre Dame-Central Bonavista Bay,322,0.0%
+4670,Parklands,335,0.0%
+6010,Yukon,313,0.0%
+4720,Swift Current-Moose Jaw,335,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,491,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,313,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,312,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,526,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,211,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,493,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,521,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,487,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,324,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,486,0.0%
+4680,North / Nord,315,0.0%
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,482,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,316,0.0%
+4720,Swift Current-Moose Jaw,334,0.0%
+6110,Northwest Territories / Territoires du Nord-Ouest,322,0.0%
+4680,North / Nord,314,0.0%
+4680,North / Nord,313,0.0%
+4720,Swift Current-Moose Jaw,487,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,326,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,324,0.0%
+6010,Yukon,521,0.0%
+4670,Parklands,487,0.0%
+6010,Yukon,486,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,334,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,335,0.0%
+4670,Parklands,521,0.0%
+4720,Swift Current-Moose Jaw,481,0.0%
+4670,Parklands,526,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,313,0.0%
+4680,North / Nord,211,0.0%
+6010,Yukon,526,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,322,0.0%
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,316,0.0%
+4720,Swift Current-Moose Jaw,483,0.0%
+2433,Centre-du-Québec,483,0.0%
+2433,Centre-du-Québec,486,0.0%
+2490,Nord-du-Québec,491,0.0%
+2433,Centre-du-Québec,482,0.0%
+2490,Nord-du-Québec,486,0.0%
+2433,Centre-du-Québec,521,0.0%
+2433,Centre-du-Québec,487,0.0%
+2490,Nord-du-Québec,487,0.0%
+2490,Nord-du-Québec,493,0.0%
+2430,Estrie,491,0.0%
+2430,Estrie,521,0.0%
+2430,Estrie,486,0.0%
+3510,Ottawa,482,0.0%
+2490,Nord-du-Québec,521,0.0%
+2433,Centre-du-Québec,213,0.0%
+4840,Banff-Jasper-Rocky Mountain House,526,0.0%
+4850,Red Deer,114,0.0%
+4850,Red Deer,316,0.0%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,486,0.0%
+2490,Nord-du-Québec,324,0.0%
+2490,Nord-du-Québec,333,0.0%
+2490,Nord-du-Québec,331,0.0%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,482,0.0%
+2490,Nord-du-Québec,316,0.0%
+2435,Montérégie,521,0.0%
+2490,Nord-du-Québec,322,0.0%
+2490,Nord-du-Québec,334,0.0%
+2490,Nord-du-Québec,482,0.0%
+2435,Montérégie,211,0.0%
+2490,Nord-du-Québec,483,0.0%
+4850,Red Deer,322,0.0%
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,521,0.0%
+2490,Nord-du-Québec,335,0.0%
+2490,Nord-du-Québec,339,0.0%
+2490,Nord-du-Québec,336,0.0%
+4840,Banff-Jasper-Rocky Mountain House,313,0.0%
+4840,Banff-Jasper-Rocky Mountain House,316,0.0%
+3520,Muskoka-Kawarthas,486,0.0%
+3520,Muskoka-Kawarthas,483,0.0%
+3520,Muskoka-Kawarthas,114,0.0%
+4840,Banff-Jasper-Rocky Mountain House,324,0.0%
+3520,Muskoka-Kawarthas,211,0.0%
+2420,Capitale-Nationale,486,0.0%
+3520,Muskoka-Kawarthas,521,0.0%
+3540,Kitchener-Waterloo-Barrie,486,0.0%
+2415,Bas-Saint-Laurent,482,0.0%
+5930,Thompson-Okanagan,313,0.0%
+3540,Kitchener-Waterloo-Barrie,521,0.0%
+2415,Bas-Saint-Laurent,521,0.0%
+4830,Calgary,483,0.0%
+3540,Kitchener-Waterloo-Barrie,482,0.0%
+3530,Toronto,521,0.0%
+2420,Capitale-Nationale,521,0.0%
+3515,Kingston-Pembroke,114,0.0%
+2430,Estrie,211,0.0%
+4840,Banff-Jasper-Rocky Mountain House,483,0.0%
+2425,Chaudière-Appalaches,521,0.0%
+2430,Estrie,482,0.0%
+4840,Banff-Jasper-Rocky Mountain House,521,0.0%
+4840,Banff-Jasper-Rocky Mountain House,491,0.0%
+2430,Estrie,481,0.0%
+4840,Banff-Jasper-Rocky Mountain House,482,0.0%
+3515,Kingston-Pembroke,486,0.0%
+2425,Chaudière-Appalaches,211,0.0%
+3515,Kingston-Pembroke,521,0.0%
+4840,Banff-Jasper-Rocky Mountain House,331,0.0%
+2425,Chaudière-Appalaches,483,0.0%
+3515,Kingston-Pembroke,482,0.0%
+4840,Banff-Jasper-Rocky Mountain House,335,0.0%
+4840,Banff-Jasper-Rocky Mountain House,336,0.0%
+2490,Nord-du-Québec,315,0.0%
+4870,Athabasca-Grande Prairie-Peace River,315,0.0%
+4870,Athabasca-Grande Prairie-Peace River,316,0.0%
+2465,Abitibi-Témiscamingue,211,0.0%
+2465,Abitibi-Témiscamingue,114,0.0%
+2450,Lanaudière,482,0.0%
+4880,Wood Buffalo-Cold Lake,331,0.0%
+4880,Wood Buffalo-Cold Lake,334,0.0%
+2460,Outaouais,521,0.0%
+2465,Abitibi-Témiscamingue,313,0.0%
+4880,Wood Buffalo-Cold Lake,487,0.0%
+2465,Abitibi-Témiscamingue,486,0.0%
+4880,Wood Buffalo-Cold Lake,491,0.0%
+2465,Abitibi-Témiscamingue,521,0.0%
+4880,Wood Buffalo-Cold Lake,483,0.0%
+4880,Wood Buffalo-Cold Lake,482,0.0%
+2465,Abitibi-Témiscamingue,483,0.0%
+2465,Abitibi-Témiscamingue,316,0.0%
+2450,Lanaudière,483,0.0%
+2460,Outaouais,211,0.0%
+2450,Lanaudière,521,0.0%
+4880,Wood Buffalo-Cold Lake,313,0.0%
+4870,Athabasca-Grande Prairie-Peace River,487,0.0%
+2455,Laurentides,521,0.0%
+4880,Wood Buffalo-Cold Lake,114,0.0%
+4870,Athabasca-Grande Prairie-Peace River,521,0.0%
+2455,Laurentides,211,0.0%
+4870,Athabasca-Grande Prairie-Peace River,483,0.0%
+2460,Outaouais,481,0.0%
+2460,Outaouais,335,0.0%
+2460,Outaouais,486,0.0%
+2450,Lanaudière,486,0.0%
+4880,Wood Buffalo-Cold Lake,316,0.0%
+4870,Athabasca-Grande Prairie-Peace River,335,0.0%
+4880,Wood Buffalo-Cold Lake,322,0.0%
+4870,Athabasca-Grande Prairie-Peace River,334,0.0%
+2490,Nord-du-Québec,112,0.0%
+2445,Laval,114,0.0%
+4850,Red Deer,521,0.0%
+2490,Nord-du-Québec,211,0.0%
+2480,Côte-Nord,491,0.0%
+2480,Côte-Nord,486,0.0%
+2480,Côte-Nord,526,0.0%
+2480,Côte-Nord,521,0.0%
+2490,Nord-du-Québec,221,0.0%
+2490,Nord-du-Québec,314,0.0%
+2490,Nord-du-Québec,313,0.0%
+4850,Red Deer,482,0.0%
+4850,Red Deer,483,0.0%
+4850,Red Deer,491,0.0%
+2490,Nord-du-Québec,311,0.0%
+4850,Red Deer,487,0.0%
+2490,Nord-du-Québec,312,0.0%
+2480,Côte-Nord,335,0.0%
+2445,Laval,487,0.0%
+2470,Mauricie,487,0.0%
+2470,Mauricie,521,0.0%
+2445,Laval,486,0.0%
+4860,Edmonton,521,0.0%
+2470,Mauricie,211,0.0%
+2445,Laval,521,0.0%
+4880,Wood Buffalo-Cold Lake,521,0.0%
+2475,Saguenay-Lac-Saint-Jean,211,0.0%
+2480,Côte-Nord,316,0.0%
+2480,Côte-Nord,315,0.0%
+2445,Laval,211,0.0%
+2480,Côte-Nord,334,0.0%
+2475,Saguenay-Lac-Saint-Jean,486,0.0%
+2475,Saguenay-Lac-Saint-Jean,313,0.0%
+2480,Côte-Nord,211,0.0%
+2475,Saguenay-Lac-Saint-Jean,521,0.0%
+3550,Hamilton-Niagara Peninsula,521,0.0%
+4760,Northern / Nord,322,0.0%
+4760,Northern / Nord,323,0.0%
+4760,Northern / Nord,316,0.0%
+5950,Cariboo,313,0.0%
+1320,Moncton-Richibucto,491,0.0%
+1320,Moncton-Richibucto,521,0.0%
+4760,Northern / Nord,324,0.0%
+4760,Northern / Nord,325,0.0%
+4760,Northern / Nord,315,0.0%
+4620,South Central / Centre sud,316,0.0%
+4620,South Central / Centre sud,313,0.0%
+1310,Campbellton-Miramichi,521,0.0%
+1320,Moncton-Richibucto,211,0.0%
+4760,Northern / Nord,313,0.0%
+5950,Cariboo,316,0.0%
+4620,South Central / Centre sud,312,0.0%
+4620,South Central / Centre sud,211,0.0%
+4760,Northern / Nord,326,0.0%
+5940,Kootenay,521,0.0%
+4760,Northern / Nord,339,0.0%
+4760,Northern / Nord,336,0.0%
+4760,Northern / Nord,337,0.0%
+4760,Northern / Nord,483,0.0%
+4610,Southeast / Sud-est,521,0.0%
+4610,Southeast / Sud-est,526,0.0%
+4760,Northern / Nord,482,0.0%
+1330,Saint John-St. Stephen,331,0.0%
+4760,Northern / Nord,331,0.0%
+4760,Northern / Nord,332,0.0%
+1330,Saint John-St. Stephen,211,0.0%
+4620,South Central / Centre sud,114,0.0%
+4760,Northern / Nord,334,0.0%
+4760,Northern / Nord,335,0.0%
+4620,South Central / Centre sud,113,0.0%
+1330,Saint John-St. Stephen,316,0.0%
+5950,Cariboo,526,0.0%
+4620,South Central / Centre sud,521,0.0%
+1310,Campbellton-Miramichi,211,0.0%
+4620,South Central / Centre sud,526,0.0%
+5950,Cariboo,521,0.0%
+4620,South Central / Centre sud,487,0.0%
+4750,Prince Albert,487,0.0%
+4620,South Central / Centre sud,491,0.0%
+4630,Southwest / Sud-ouest,114,0.0%
+4630,Southwest / Sud-ouest,324,0.0%
+1250,Halifax,331,0.0%
+4750,Prince Albert,322,0.0%
+4630,Southwest / Sud-ouest,326,0.0%
+4630,Southwest / Sud-ouest,316,0.0%
+4630,Southwest / Sud-ouest,315,0.0%
+4630,Southwest / Sud-ouest,322,0.0%
+5960,North Coast / Côte-nord,211,0.0%
+1310,Campbellton-Miramichi,316,0.0%
+1310,Campbellton-Miramichi,486,0.0%
+5950,Cariboo,335,0.0%
+1310,Campbellton-Miramichi,482,0.0%
+1310,Campbellton-Miramichi,483,0.0%
+4620,South Central / Centre sud,334,0.0%
+5950,Cariboo,331,0.0%
+4620,South Central / Centre sud,335,0.0%
+4760,Northern / Nord,211,0.0%
+4620,South Central / Centre sud,481,0.0%
+4620,South Central / Centre sud,486,0.0%
+5950,Cariboo,486,0.0%
+4750,Prince Albert,521,0.0%
+1310,Campbellton-Miramichi,324,0.0%
+5950,Cariboo,483,0.0%
+1310,Campbellton-Miramichi,335,0.0%
+4620,South Central / Centre sud,483,0.0%
+4760,Northern / Nord,111,0.0%
+4760,Northern / Nord,486,0.0%
+1350,Edmundston-Woodstock,491,0.0%
+1350,Edmundston-Woodstock,521,0.0%
+1350,Edmundston-Woodstock,487,0.0%
+4820,Camrose-Drumheller,114,0.0%
+2410,Gaspésie-Îles-de-la-Madeleine,211,0.0%
+4820,Camrose-Drumheller,313,0.0%
+3580,Stratford-Bruce Peninsula,521,0.0%
+3580,Stratford-Bruce Peninsula,324,0.0%
+1350,Edmundston-Woodstock,486,0.0%
+1350,Edmundston-Woodstock,335,0.0%
+4810,Lethbridge-Medicine Hat,521,0.0%
+1350,Edmundston-Woodstock,331,0.0%
+1350,Edmundston-Woodstock,334,0.0%
+1350,Edmundston-Woodstock,483,0.0%
+5930,Thompson-Okanagan,521,0.0%
+3590,Northeast / Nord-est,211,0.0%
+1350,Edmundston-Woodstock,482,0.0%
+5930,Thompson-Okanagan,482,0.0%
+4820,Camrose-Drumheller,491,0.0%
+2410,Gaspésie-Îles-de-la-Madeleine,521,0.0%
+2410,Gaspésie-Îles-de-la-Madeleine,481,0.0%
+3560,London,521,0.0%
+3560,London,483,0.0%
+4820,Camrose-Drumheller,521,0.0%
+2410,Gaspésie-Îles-de-la-Madeleine,526,0.0%
+2415,Bas-Saint-Laurent,211,0.0%
+4820,Camrose-Drumheller,483,0.0%
+2410,Gaspésie-Îles-de-la-Madeleine,314,0.0%
+3570,Windsor-Sarnia,521,0.0%
+4820,Camrose-Drumheller,322,0.0%
+3580,Stratford-Bruce Peninsula,211,0.0%
+2410,Gaspésie-Îles-de-la-Madeleine,331,0.0%
+2410,Gaspésie-Îles-de-la-Madeleine,334,0.0%
+2410,Gaspésie-Îles-de-la-Madeleine,322,0.0%
+3570,Windsor-Sarnia,316,0.0%
+4610,Southeast / Sud-est,114,0.0%
+3595,Northwest / Nord-ouest,521,0.0%
+4610,Southeast / Sud-est,315,0.0%
+4610,Southeast / Sud-est,313,0.0%
+1340,Fredericton-Oromocto,335,0.0%
+5940,Kootenay,324,0.0%
+4810,Lethbridge-Medicine Hat,316,0.0%
+1340,Fredericton-Oromocto,331,0.0%
+4610,Southeast / Sud-est,316,0.0%
+4610,Southeast / Sud-est,491,0.0%
+4610,Southeast / Sud-est,487,0.0%
+4760,Northern / Nord,487,0.0%
+1330,Saint John-St. Stephen,521,0.0%
+4760,Northern / Nord,521,0.0%
+4610,Southeast / Sud-est,483,0.0%
+4610,Southeast / Sud-est,486,0.0%
+1340,Fredericton-Oromocto,211,0.0%
+3595,Northwest / Nord-ouest,482,0.0%
+1350,Edmundston-Woodstock,213,0.0%
+3590,Northeast / Nord-est,521,0.0%
+1340,Fredericton-Oromocto,521,0.0%
+4810,Lethbridge-Medicine Hat,482,0.0%
+1350,Edmundston-Woodstock,324,0.0%
+4810,Lethbridge-Medicine Hat,491,0.0%
+1350,Edmundston-Woodstock,316,0.0%
+4810,Lethbridge-Medicine Hat,487,0.0%
+1340,Fredericton-Oromocto,491,0.0%
+5940,Kootenay,316,0.0%
+4810,Lethbridge-Medicine Hat,322,0.0%
+1340,Fredericton-Oromocto,482,0.0%
+1340,Fredericton-Oromocto,483,0.0%
+3595,Northwest / Nord-ouest,211,0.0%
+1340,Fredericton-Oromocto,487,0.0%
+3595,Northwest / Nord-ouest,316,0.0%
+5940,Kootenay,313,0.0%

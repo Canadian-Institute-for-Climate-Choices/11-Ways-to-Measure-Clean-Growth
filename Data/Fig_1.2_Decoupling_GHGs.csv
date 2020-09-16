@@ -1,0 +1,141 @@
+Place,Year,GDP,GHG,Spread
+0 British Columbia,2005,100,100,30.2
+0 British Columbia,2006,104.42,97.1,30.2
+0 British Columbia,2007,107.69,98,30.2
+0 British Columbia,2008,108.46,98.6,30.2
+0 British Columbia,2009,105.87,93.2,30.2
+0 British Columbia,2010,108.89,92.5,30.2
+0 British Columbia,2011,112.21,94.2,30.2
+0 British Columbia,2012,114.85,95.4,30.2
+0 British Columbia,2013,117.41,97.2,30.2
+0 British Columbia,2014,121.72,97.1,30.2
+0 British Columbia,2015,124.19,95.5,30.2
+0 British Columbia,2016,127.67,99.7,30.2
+0 British Columbia,2017,132.4,102.1,30.2
+0 British Columbia,2018,135.8,105.6,30.2
+1 Alberta,2005,100,100,16.1
+1 Alberta,2006,106.35,102.6,16.1
+1 Alberta,2007,108.22,106.7,16.1
+1 Alberta,2008,109.97,104.4,16.1
+1 Alberta,2009,103.87,101.2,16.1
+1 Alberta,2010,109.03,103.6,16.1
+1 Alberta,2011,116.07,107.5,16.1
+1 Alberta,2012,120.61,113.1,16.1
+1 Alberta,2013,127.49,117.4,16.1
+1 Alberta,2014,135,119.3,16.1
+1 Alberta,2015,130,119.1,16.1
+1 Alberta,2016,125.51,114.3,16.1
+1 Alberta,2017,131.53,117.3,16.1
+1 Alberta,2018,133.6,117.5,16.1
+2 Saskatchewan,2005,100,100,14.4
+2 Saskatchewan,2006,98.52,98.7,14.4
+2 Saskatchewan,2007,102.19,101.9,14.4
+2 Saskatchewan,2008,107.55,102.9,14.4
+2 Saskatchewan,2009,101.81,101.4,14.4
+2 Saskatchewan,2010,106.57,101.1,14.4
+2 Saskatchewan,2011,112.2,100.2,14.4
+2 Saskatchewan,2012,114.11,102.9,14.4
+2 Saskatchewan,2013,121.58,106.1,14.4
+2 Saskatchewan,2014,124.03,110.1,14.4
+2 Saskatchewan,2015,122.98,113.4,14.4
+2 Saskatchewan,2016,122.89,109.5,14.4
+2 Saskatchewan,2017,125.01,112.7,14.4
+2 Saskatchewan,2018,126.7,112.3,14.4
+3 Manitoba,2005,100,100,25.7
+3 Manitoba,2006,103.66,100.9,25.7
+3 Manitoba,2007,106.32,103.4,25.7
+3 Manitoba,2008,110.2,102.3,25.7
+3 Manitoba,2009,110.03,96.2,25.7
+3 Manitoba,2010,112.73,95,25.7
+3 Manitoba,2011,115.43,93.8,25.7
+3 Manitoba,2012,118.93,100.4,25.7
+3 Manitoba,2013,122.38,104,25.7
+3 Manitoba,2014,124.9,103.7,25.7
+3 Manitoba,2015,126.44,102.4,25.7
+3 Manitoba,2016,128.27,103.7,25.7
+3 Manitoba,2017,132.3,103.2,25.7
+3 Manitoba,2018,134,108.3,25.7
+4 Ontario,2005,100,100,40.3
+4 Ontario,2006,101.87,95.6,40.3
+4 Ontario,2007,102.67,97.6,40.3
+4 Ontario,2008,102.67,93.3,40.3
+4 Ontario,2009,99.48,81,40.3
+4 Ontario,2010,102.42,84.8,40.3
+4 Ontario,2011,104.89,84.3,40.3
+4 Ontario,2012,106.27,82.5,40.3
+4 Ontario,2013,107.75,82.3,40.3
+4 Ontario,2014,110.45,81.1,40.3
+4 Ontario,2015,113.16,80,40.3
+4 Ontario,2016,115.54,78.6,40.3
+4 Ontario,2017,118.92,76.5,40.3
+4 Ontario,2018,121.5,81.2,40.3
+5 Quebec,2005,100,100,26.6
+5 Quebec,2006,101.21,97.9,26.6
+5 Quebec,2007,103.68,99.9,26.6
+5 Quebec,2008,105.73,97,26.6
+5 Quebec,2009,104.89,94.8,26.6
+5 Quebec,2010,106.99,91.9,26.6
+5 Quebec,2011,108.99,94.7,26.6
+5 Quebec,2012,110.19,93,26.6
+5 Quebec,2013,111.66,93.3,26.6
+5 Quebec,2014,113.44,91,26.6
+5 Quebec,2015,114.45,91.3,26.6
+5 Quebec,2016,116.28,91.2,26.6
+5 Quebec,2017,119.53,93.4,26.6
+5 Quebec,2018,122.5,95.9,26.6
+6 New Brunswick,2005,100,100,41.7
+6 New Brunswick,2006,102.06,98.2,41.7
+6 New Brunswick,2007,103.02,98.6,41.7
+6 New Brunswick,2008,103.81,93,41.7
+6 New Brunswick,2009,102.31,91.2,41.7
+6 New Brunswick,2010,104.34,91,41.7
+6 New Brunswick,2011,104.62,91.5,41.7
+6 New Brunswick,2012,103.52,83,41.7
+6 New Brunswick,2013,103.24,73.8,41.7
+6 New Brunswick,2014,103.36,68.1,41.7
+6 New Brunswick,2015,104.03,69.4,41.7
+6 New Brunswick,2016,104.87,72.5,41.7
+6 New Brunswick,2017,107.17,67.8,41.7
+6 New Brunswick,2018,108.1,66.4,41.7
+7 Nova Scotia,2005,100,100,39.9
+7 Nova Scotia,2006,100.77,94.4,39.9
+7 Nova Scotia,2007,102.06,101.5,39.9
+7 Nova Scotia,2008,104.08,92.2,39.9
+7 Nova Scotia,2009,104.45,89.7,39.9
+7 Nova Scotia,2010,107.28,88.4,39.9
+7 Nova Scotia,2011,107.99,91.2,39.9
+7 Nova Scotia,2012,106.95,84,39.9
+7 Nova Scotia,2013,106.59,79.8,39.9
+7 Nova Scotia,2014,107.62,71.8,39.9
+7 Nova Scotia,2015,108.35,72.4,39.9
+7 Nova Scotia,2016,110.06,67.6,39.9
+7 Nova Scotia,2017,111.79,70.3,39.9
+7 Nova Scotia,2018,113.5,73.6,39.9
+8 Prince Edward Island,2005,100,100,42.7
+8 Prince Edward Island,2006,102.71,96.7,42.7
+8 Prince Edward Island,2007,102.07,99,42.7
+8 Prince Edward Island,2008,103.16,95.2,42.7
+8 Prince Edward Island,2009,103.57,94.5,42.7
+8 Prince Edward Island,2010,105.66,96.1,42.7
+8 Prince Edward Island,2011,107.91,103.6,42.7
+8 Prince Edward Island,2012,109.06,99.4,42.7
+8 Prince Edward Island,2013,110.97,84.2,42.7
+8 Prince Edward Island,2014,111.09,81.6,42.7
+8 Prince Edward Island,2015,112.65,78.2,42.7
+8 Prince Edward Island,2016,115.07,81.5,42.7
+8 Prince Edward Island,2017,120.15,81.8,42.7
+8 Prince Edward Island,2018,123.3,80.6,42.7
+9 Newfoundland and Labrador,2005,100,100,2
+9 Newfoundland and Labrador,2006,103.99,96.7,2
+9 Newfoundland and Labrador,2007,115.71,105.9,2
+9 Newfoundland and Labrador,2008,113.97,101.7,2
+9 Newfoundland and Labrador,2009,102.54,96.4,2
+9 Newfoundland and Labrador,2010,108.12,95.8,2
+9 Newfoundland and Labrador,2011,111.08,98.3,2
+9 Newfoundland and Labrador,2012,106.22,94.4,2
+9 Newfoundland and Labrador,2013,111.8,95.3,2
+9 Newfoundland and Labrador,2014,110.49,104.1,2
+9 Newfoundland and Labrador,2015,109.2,104.6,2
+9 Newfoundland and Labrador,2016,110.85,106.6,2
+9 Newfoundland and Labrador,2017,111.3,105.6,2
+9 Newfoundland and Labrador,2018,107.4,105.3,2

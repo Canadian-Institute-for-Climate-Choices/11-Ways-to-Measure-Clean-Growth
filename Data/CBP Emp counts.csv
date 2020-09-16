@@ -1,0 +1,3725 @@
+ERUID,ERNAME,NAICS,Concentration
+5970,"Nechako, BC",321,0.12961812
+4880,"Wood Buffalo-Cold Lake, AB",211,0.122396427
+4760,"Northern, SK",212,0.113158746
+4610,"Southeast, MB",238,0.101621878
+5980,"Northeast, BC",237,0.090065236
+2450,"Lanaudière, QC",238,0.084166125
+5980,"Northeast, BC",213,0.084093343
+1350,"Edmundston-Woodstock, NB",484,0.082381496
+1240,"Southern, NS",311,0.080734949
+1040,"Notre Dame-Central Bonavista Bay, NL",311,0.079085752
+4660,"Interlake, MB",238,0.078815032
+4740,"Yorkton-Melville, SK",212,0.078796631
+5950,"Cariboo, BC",321,0.078055493
+4880,"Wood Buffalo-Cold Lake, AB",238,0.076774076
+4640,"North Central, MB",111,0.075687906
+4850,"Red Deer, AB",213,0.074944699
+2445,"Laval, QC",238,0.074643528
+5970,"Nechako, BC",113,0.073958981
+4860,"Edmonton, AB",238,0.073874801
+4850,"Red Deer, AB",238,0.070707543
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,311,0.070576541
+1240,Southern / Sud,114,0.069279531
+2455,Laurentides,238,0.068448921
+4720,Swift Current-Moose Jaw,111,0.067453955
+1310,Campbellton-Miramichi,311,0.066338809
+4870,Athabasca-Grande Prairie-Peace River,213,0.060994743
+4610,Southeast / Sud-est,484,0.060260586
+4830,Calgary,238,0.059944122
+4640,North Central / Centre nord,238,0.05919276
+4870,Athabasca-Grande Prairie-Peace River,238,0.058261221
+2490,Nord-du-Québec,212,0.056577086
+1350,Edmundston-Woodstock,111,0.056253569
+1110,Prince Edward Island / Île-du-Prince-Édouard,311,0.056250882
+2465,Abitibi-Témiscamingue,212,0.056247571
+5930,Thompson-Okanagan,238,0.056075683
+3520,Muskoka-Kawarthas,238,0.056050683
+2410,Gaspésie-Îles-de-la-Madeleine,311,0.055918604
+1230,Annapolis Valley,238,0.055364587
+4880,Wood Buffalo-Cold Lake,213,0.055170685
+3540,Kitchener-Waterloo-Barrie,238,0.054311788
+2475,Saguenay-Lac-Saint-Jean,238,0.054065807
+2435,Montérégie,238,0.05390286
+2433,Centre-du-Québec,238,0.053565618
+2465,Abitibi-Témiscamingue,238,0.053220429
+1230,Annapolis Valley,111,0.053170482
+2460,Outaouais,238,0.053085653
+2470,Mauricie,238,0.052765707
+4610,Southeast / Sud-est,112,0.052761944
+4620,South Central / Centre sud,111,0.052607268
+4680,North / Nord,331,0.052350539
+1250,Halifax,238,0.052349689
+1010,Avalon Peninsula,238,0.05213702
+4810,Lethbridge-Medicine Hat,238,0.052087145
+3580,Stratford-Bruce Peninsula,238,0.051745748
+4740,Yorkton-Melville,238,0.051504212
+4620,South Central / Centre sud,333,0.051016218
+5950,Cariboo,238,0.050950011
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,311,0.050774665
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,237,0.050614113
+1330,Saint John-St. Stephen,238,0.050480252
+2425,Chaudière-Appalaches,238,0.050471636
+3550,Hamilton-Niagara Peninsula,238,0.050452007
+1320,Moncton-Richibucto,238,0.050348221
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,238,0.050081011
+5980,Northeast / Nord-est,238,0.050079517
+6210,Nunavut,236,0.049995599
+3510,Ottawa,238,0.049759288
+4640,North Central / Centre nord,484,0.049412452
+4620,South Central / Centre sud,238,0.048963252
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,238,0.048953762
+6010,Yukon,481,0.048911684
+4870,Athabasca-Grande Prairie-Peace River,484,0.048475536
+3560,London,238,0.047550004
+6210,Nunavut,481,0.047443007
+4660,Interlake,484,0.047270732
+4680,North / Nord,212,0.047167836
+3515,Kingston-Pembroke,238,0.046859932
+4730,Saskatoon-Biggar,238,0.046857525
+1310,Campbellton-Miramichi,238,0.046798158
+2430,Estrie,238,0.04675536
+6110,Northwest Territories / Territoires du Nord-Ouest,213,0.046436958
+5940,Kootenay,212,0.046092355
+4610,Southeast / Sud-est,337,0.045602606
+3560,London,336,0.045412985
+4640,North Central / Centre nord,311,0.045106197
+4820,Camrose-Drumheller,238,0.045017206
+5980,Northeast / Nord-est,484,0.044919022
+4840,Banff-Jasper-Rocky Mountain House,238,0.044619616
+3570,Windsor-Sarnia,238,0.04454936
+4710,Regina-Moose Mountain,238,0.044275501
+6110,Northwest Territories / Territoires du Nord-Ouest,212,0.044088753
+6110,Northwest Territories / Territoires du Nord-Ouest,237,0.04404083
+6110,Northwest Territories / Territoires du Nord-Ouest,481,0.04365745
+3590,Northeast / Nord-est,238,0.043644952
+4630,Southwest / Sud-ouest,238,0.043037975
+3570,Windsor-Sarnia,336,0.042870205
+5960,North Coast / Côte-nord,238,0.041925024
+4740,Yorkton-Melville,111,0.041540313
+1350,Edmundston-Woodstock,311,0.041500095
+4670,Parklands,111,0.041284404
+4820,Camrose-Drumheller,213,0.040417164
+2465,Abitibi-Témiscamingue,213,0.040416437
+3570,Windsor-Sarnia,111,0.040380225
+2420,Capitale-Nationale,238,0.04012712
+3570,Windsor-Sarnia,333,0.04010995
+5970,Nechako,115,0.039845315
+1350,Edmundston-Woodstock,238,0.03983438
+4840,Banff-Jasper-Rocky Mountain House,237,0.039610039
+4630,Southwest / Sud-ouest,311,0.03958826
+3530,Toronto,238,0.039450275
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,112,0.039098741
+4850,Red Deer,237,0.03894445
+1320,Moncton-Richibucto,311,0.038895278
+4610,Southeast / Sud-est,236,0.038748643
+2410,Gaspésie-Îles-de-la-Madeleine,114,0.038712879
+4870,Athabasca-Grande Prairie-Peace River,237,0.03868985
+4880,Wood Buffalo-Cold Lake,484,0.03801103
+4750,Prince Albert,238,0.037920889
+2480,Côte-Nord,331,0.037798609
+2480,Côte-Nord,212,0.037685213
+1110,Prince Edward Island / Île-du-Prince-Édouard,111,0.037003446
+4760,Northern / Nord,481,0.036695765
+3595,Northwest / Nord-ouest,238,0.036684764
+1010,Avalon Peninsula,311,0.03632074
+5940,Kootenay,238,0.035674802
+4650,Winnipeg,238,0.035670405
+1010,Avalon Peninsula,236,0.035581567
+3540,Kitchener-Waterloo-Barrie,336,0.035016412
+2425,Chaudière-Appalaches,321,0.034979693
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,483,0.034956925
+4720,Swift Current-Moose Jaw,238,0.034645916
+6010,Yukon,238,0.034463348
+6110,Northwest Territories / Territoires du Nord-Ouest,238,0.034312551
+2433,Centre-du-Québec,484,0.033975054
+1230,Annapolis Valley,311,0.03378922
+3520,Muskoka-Kawarthas,236,0.033544888
+1330,Saint John-St. Stephen,311,0.033492223
+1210,Cape Breton,238,0.033487146
+4860,Edmonton,236,0.033402361
+2490,Nord-du-Québec,321,0.03330976
+2415,Bas-Saint-Laurent,238,0.033285247
+2425,Chaudière-Appalaches,311,0.033260186
+4620,South Central / Centre sud,336,0.03315541
+2433,Centre-du-Québec,333,0.033120933
+5970,Nechako,484,0.033077826
+2450,Lanaudière,236,0.033033219
+1350,Edmundston-Woodstock,321,0.032933562
+1110,Prince Edward Island / Île-du-Prince-Édouard,238,0.032730717
+1340,Fredericton-Oromocto,238,0.032511387
+1220,North Shore / Côte-nord,238,0.032413257
+5970,Nechako,237,0.032249154
+4750,Prince Albert,111,0.031811867
+5970,Nechako,238,0.031696706
+4680,North / Nord,481,0.031619726
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,238,0.031347837
+5950,Cariboo,115,0.031271206
+1210,Cape Breton,114,0.030883322
+1040,Notre Dame-Central Bonavista Bay,238,0.030847584
+5950,Cariboo,113,0.030724572
+3550,Hamilton-Niagara Peninsula,111,0.030715792
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,236,0.030585213
+2490,Nord-du-Québec,237,0.030551627
+4730,Saskatoon-Biggar,212,0.030196607
+4620,South Central / Centre sud,484,0.030024636
+2425,Chaudière-Appalaches,332,0.029968558
+4830,Calgary,211,0.029870965
+2480,Côte-Nord,238,0.029709707
+4860,Edmonton,237,0.029705339
+3530,Toronto,523,0.02954919
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,213,0.029100104
+4810,Lethbridge-Medicine Hat,111,0.029048173
+1220,North Shore / Côte-nord,326,0.029035864
+2480,Côte-Nord,482,0.028915936
+4810,Lethbridge-Medicine Hat,311,0.028859693
+4820,Camrose-Drumheller,237,0.028776599
+5960,North Coast / Côte-nord,331,0.028443029
+5960,North Coast / Côte-nord,482,0.028443029
+4820,Camrose-Drumheller,111,0.028407894
+2475,Saguenay-Lac-Saint-Jean,484,0.028159549
+2490,Nord-du-Québec,236,0.0281471
+2435,Montérégie,311,0.027917547
+5940,Kootenay,321,0.027914789
+2430,Estrie,326,0.027912041
+3595,Northwest / Nord-ouest,212,0.02786078
+2465,Abitibi-Témiscamingue,321,0.027776073
+1240,Southern / Sud,238,0.027769733
+2433,Centre-du-Québec,112,0.027752169
+5960,North Coast / Côte-nord,311,0.027646624
+4820,Camrose-Drumheller,112,0.027336892
+5930,Thompson-Okanagan,321,0.027283708
+2460,Outaouais,236,0.027203413
+4630,Southwest / Sud-ouest,111,0.027180415
+2425,Chaudière-Appalaches,236,0.027176405
+4740,Yorkton-Melville,522,0.02700361
+2425,Chaudière-Appalaches,484,0.026906197
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,212,0.02689251
+5930,Thompson-Okanagan,111,0.026830001
+4670,Parklands,112,0.02675841
+1320,Moncton-Richibucto,484,0.026675612
+2410,Gaspésie-Îles-de-la-Madeleine,236,0.026594425
+1310,Campbellton-Miramichi,236,0.026577378
+5950,Cariboo,484,0.026445751
+4820,Camrose-Drumheller,484,0.026423906
+1210,Cape Breton,236,0.026301912
+5950,Cariboo,236,0.026257257
+4880,Wood Buffalo-Cold Lake,237,0.026252222
+2415,Bas-Saint-Laurent,484,0.026177826
+1310,Campbellton-Miramichi,114,0.026132678
+2465,Abitibi-Témiscamingue,484,0.026098873
+1240,Southern / Sud,336,0.025999936
+4870,Athabasca-Grande Prairie-Peace River,321,0.025944197
+2455,Laurentides,236,0.025934017
+3580,Stratford-Bruce Peninsula,112,0.025878842
+2425,Chaudière-Appalaches,337,0.025792611
+2425,Chaudière-Appalaches,326,0.025792611
+1230,Annapolis Valley,112,0.025744167
+2475,Saguenay-Lac-Saint-Jean,236,0.025708601
+2415,Bas-Saint-Laurent,321,0.025650048
+4810,Lethbridge-Medicine Hat,484,0.02563335
+4730,Saskatoon-Biggar,236,0.025555799
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,236,0.025528494
+6210,Nunavut,238,0.025349881
+6010,Yukon,236,0.025081311
+1040,Notre Dame-Central Bonavista Bay,236,0.025050723
+3580,Stratford-Bruce Peninsula,311,0.024959714
+2445,Laval,236,0.0249556
+4870,Athabasca-Grande Prairie-Peace River,113,0.024925192
+5950,Cariboo,322,0.024881249
+2433,Centre-du-Québec,311,0.024715293
+3540,Kitchener-Waterloo-Barrie,333,0.024714714
+6110,Northwest Territories / Territoires du Nord-Ouest,221,0.024680117
+4710,Regina-Moose Mountain,213,0.024445472
+2480,Côte-Nord,236,0.024417901
+6110,Northwest Territories / Territoires du Nord-Ouest,236,0.024248814
+1210,Cape Breton,311,0.024192485
+1340,Fredericton-Oromocto,522,0.024187215
+4830,Calgary,236,0.024123226
+1220,North Shore / Côte-nord,311,0.024079114
+2433,Centre-du-Québec,332,0.023996746
+2415,Bas-Saint-Laurent,311,0.023943563
+3540,Kitchener-Waterloo-Barrie,332,0.023706849
+4660,Interlake,237,0.023681083
+5940,Kootenay,236,0.023577685
+5930,Thompson-Okanagan,236,0.023488513
+2420,Capitale-Nationale,524,0.023407128
+4720,Swift Current-Moose Jaw,484,0.023384038
+2425,Chaudière-Appalaches,112,0.023377113
+5970,Nechako,213,0.023340929
+3580,Stratford-Bruce Peninsula,336,0.02325276
+4840,Banff-Jasper-Rocky Mountain House,213,0.023206129
+3590,Northeast / Nord-est,236,0.023195381
+2455,Laurentides,336,0.023142148
+3590,Northeast / Nord-est,213,0.023105775
+4620,South Central / Centre sud,236,0.022993225
+2430,Estrie,333,0.022803407
+2475,Saguenay-Lac-Saint-Jean,113,0.022783276
+4830,Calgary,237,0.022781413
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,236,0.022718475
+1330,Saint John-St. Stephen,236,0.022614866
+3595,Northwest / Nord-ouest,113,0.02258603
+4810,Lethbridge-Medicine Hat,213,0.022451355
+2410,Gaspésie-Îles-de-la-Madeleine,238,0.022375713
+4670,Parklands,238,0.022362385
+2430,Estrie,236,0.022336811
+2450,Lanaudière,484,0.022328105
+4850,Red Deer,236,0.022322959
+4680,North / Nord,237,0.022144278
+6010,Yukon,213,0.022141606
+2435,Montérégie,484,0.022129282
+4830,Calgary,213,0.022073745
+1350,Edmundston-Woodstock,113,0.021939844
+4850,Red Deer,484,0.021886781
+4670,Parklands,522,0.021884557
+4810,Lethbridge-Medicine Hat,112,0.021841565
+4620,South Central / Centre sud,337,0.021761445
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,238,0.021703115
+1320,Moncton-Richibucto,524,0.021691905
+2440,Montréal,238,0.021301967
+3560,London,111,0.021299848
+2435,Montérégie,236,0.021277074
+2475,Saguenay-Lac-Saint-Jean,321,0.021254727
+3560,London,484,0.021175414
+4640,North Central / Centre nord,236,0.021166338
+5960,North Coast / Côte-nord,488,0.021161613
+4710,Regina-Moose Mountain,522,0.021121196
+3530,Toronto,522,0.021023073
+2450,Lanaudière,311,0.021018327
+4750,Prince Albert,484,0.020983164
+2470,Mauricie,321,0.020976652
+2433,Centre-du-Québec,322,0.020892082
+3580,Stratford-Bruce Peninsula,236,0.020889287
+2415,Bas-Saint-Laurent,112,0.020864853
+1230,Annapolis Valley,236,0.020843999
+4710,Regina-Moose Mountain,484,0.020832129
+4870,Athabasca-Grande Prairie-Peace River,211,0.020752123
+4750,Prince Albert,522,0.020737986
+5980,Northeast / Nord-est,321,0.020674434
+4610,Southeast / Sud-est,321,0.02059582
+4840,Banff-Jasper-Rocky Mountain House,484,0.020431217
+2420,Capitale-Nationale,236,0.020414043
+2465,Abitibi-Témiscamingue,236,0.02033094
+2435,Montérégie,111,0.020320801
+2425,Chaudière-Appalaches,524,0.020314752
+2470,Mauricie,337,0.020240112
+1210,Cape Breton,221,0.020171391
+1350,Edmundston-Woodstock,237,0.020131354
+2425,Chaudière-Appalaches,336,0.020069108
+3560,London,311,0.019866152
+3540,Kitchener-Waterloo-Barrie,484,0.019824092
+2430,Estrie,321,0.01980044
+4810,Lethbridge-Medicine Hat,237,0.019701757
+1310,Campbellton-Miramichi,321,0.019697604
+5960,North Coast / Côte-nord,237,0.019682576
+2450,Lanaudière,332,0.019656983
+1250,Halifax,522,0.019638332
+1220,North Shore / Côte-nord,111,0.019559724
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,522,0.01954937
+4650,Winnipeg,236,0.019539455
+4650,Winnipeg,523,0.019519639
+4660,Interlake,112,0.019475176
+2490,Nord-du-Québec,238,0.019448373
+3595,Northwest / Nord-ouest,236,0.019429598
+4870,Athabasca-Grande Prairie-Peace River,322,0.019409624
+3580,Stratford-Bruce Peninsula,332,0.019373321
+2433,Centre-du-Québec,236,0.019292299
+1110,Prince Edward Island / Île-du-Prince-Édouard,236,0.019287744
+2435,Montérégie,332,0.019277339
+3590,Northeast / Nord-est,212,0.019175873
+5960,North Coast / Côte-nord,236,0.019113715
+3560,London,236,0.019108728
+2433,Centre-du-Québec,321,0.01907538
+2433,Centre-du-Québec,336,0.01907538
+4860,Edmonton,213,0.019063167
+4810,Lethbridge-Medicine Hat,236,0.019014358
+3510,Ottawa,236,0.018979592
+4620,South Central / Centre sud,332,0.018938616
+4660,Interlake,236,0.01892658
+3540,Kitchener-Waterloo-Barrie,236,0.018838257
+3515,Kingston-Pembroke,236,0.018740559
+3550,Hamilton-Niagara Peninsula,311,0.018700255
+1230,Annapolis Valley,326,0.018686462
+2450,Lanaudière,326,0.018584408
+2433,Centre-du-Québec,111,0.018573753
+2470,Mauricie,236,0.01853134
+3560,London,332,0.018502789
+4860,Edmonton,332,0.018489345
+2480,Côte-Nord,311,0.018445721
+1320,Moncton-Richibucto,236,0.01840138
+4830,Calgary,523,0.018368135
+3580,Stratford-Bruce Peninsula,111,0.018358699
+4720,Swift Current-Moose Jaw,522,0.018300551
+3550,Hamilton-Niagara Peninsula,236,0.018281633
+4660,Interlake,522,0.018240834
+4630,Southwest / Sud-ouest,236,0.018138823
+2415,Bas-Saint-Laurent,236,0.018137997
+3570,Windsor-Sarnia,326,0.01810267
+5970,Nechako,236,0.018092673
+4610,Southeast / Sud-est,311,0.018084962
+3595,Northwest / Nord-ouest,237,0.018082853
+4820,Camrose-Drumheller,332,0.017908561
+4620,South Central / Centre sud,323,0.017860809
+5960,North Coast / Côte-nord,113,0.017805336
+3550,Hamilton-Niagara Peninsula,332,0.017791473
+3570,Windsor-Sarnia,332,0.017786391
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,114,0.017741029
+4750,Prince Albert,112,0.017673259
+1330,Saint John-St. Stephen,332,0.017651064
+6210,Nunavut,212,0.017604084
+4670,Parklands,237,0.017584098
+2440,Montréal,522,0.017515805
+2455,Laurentides,111,0.017499167
+4660,Interlake,111,0.017463655
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,336,0.017395626
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,236,0.017395626
+3590,Northeast / Nord-est,484,0.017390136
+2455,Laurentides,311,0.017380679
+1240,Southern / Sud,326,0.017376195
+4760,Northern / Nord,236,0.017297123
+5980,Northeast / Nord-est,211,0.017266561
+2425,Chaudière-Appalaches,522,0.017244203
+4860,Edmonton,484,0.01723583
+1250,Halifax,236,0.017219535
+2480,Côte-Nord,522,0.017160568
+2430,Estrie,332,0.017132466
+4870,Athabasca-Grande Prairie-Peace River,111,0.017096644
+4740,Yorkton-Melville,236,0.017087846
+1340,Fredericton-Oromocto,221,0.017074648
+1340,Fredericton-Oromocto,236,0.017052211
+2470,Mauricie,332,0.017014068
+4750,Prince Albert,213,0.016978588
+6010,Yukon,237,0.016950213
+4840,Banff-Jasper-Rocky Mountain House,321,0.016944158
+4730,Saskatoon-Biggar,522,0.016890868
+6010,Yukon,212,0.016825119
+1330,Saint John-St. Stephen,522,0.016808831
+3570,Windsor-Sarnia,484,0.016808801
+1240,Southern / Sud,112,0.01676481
+2450,Lanaudière,111,0.016738343
+6210,Nunavut,488,0.01672388
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,113,0.016718313
+1110,Prince Edward Island / Île-du-Prince-Édouard,112,0.016707983
+4650,Winnipeg,524,0.016634299
+2415,Bas-Saint-Laurent,522,0.016607438
+4640,North Central / Centre nord,112,0.016568134
+2465,Abitibi-Témiscamingue,322,0.016567466
+2440,Montréal,523,0.016559649
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,523,0.016497085
+4740,Yorkton-Melville,311,0.016462094
+1240,Southern / Sud,236,0.016443029
+3580,Stratford-Bruce Peninsula,326,0.016436885
+4710,Regina-Moose Mountain,236,0.016351583
+3540,Kitchener-Waterloo-Barrie,311,0.016326857
+4710,Regina-Moose Mountain,524,0.016322676
+1330,Saint John-St. Stephen,322,0.016307075
+4720,Swift Current-Moose Jaw,236,0.016306261
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,311,0.016254749
+2470,Mauricie,522,0.016174413
+5980,Northeast / Nord-est,236,0.016163059
+1250,Halifax,523,0.016132516
+1330,Saint John-St. Stephen,484,0.016109956
+2475,Saguenay-Lac-Saint-Jean,115,0.016076111
+2475,Saguenay-Lac-Saint-Jean,333,0.016076111
+4640,North Central / Centre nord,237,0.016057222
+1010,Avalon Peninsula,213,0.015968165
+4750,Prince Albert,333,0.015916149
+1010,Avalon Peninsula,237,0.015846657
+4630,Southwest / Sud-ouest,522,0.015774099
+4870,Athabasca-Grande Prairie-Peace River,236,0.01573797
+3595,Northwest / Nord-ouest,322,0.015712021
+4720,Swift Current-Moose Jaw,333,0.015680601
+3515,Kingston-Pembroke,484,0.015668336
+4880,Wood Buffalo-Cold Lake,236,0.015655622
+3530,Toronto,236,0.015606042
+1250,Halifax,524,0.015592605
+2433,Centre-du-Québec,337,0.015577549
+4750,Prince Albert,237,0.015548382
+4740,Yorkton-Melville,112,0.015499398
+4750,Prince Albert,236,0.015446224
+4720,Swift Current-Moose Jaw,112,0.015445978
+2410,Gaspésie-Îles-de-la-Madeleine,321,0.015427248
+1350,Edmundston-Woodstock,236,0.015372168
+2410,Gaspésie-Îles-de-la-Madeleine,522,0.015344528
+4880,Wood Buffalo-Cold Lake,485,0.015336584
+4650,Winnipeg,336,0.015306567
+4610,Southeast / Sud-est,237,0.01530266
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,221,0.015292607
+2490,Nord-du-Québec,115,0.015275813
+4650,Winnipeg,522,0.015270897
+1330,Saint John-St. Stephen,488,0.015267723
+4610,Southeast / Sud-est,111,0.015234799
+2480,Côte-Nord,321,0.015232839
+2465,Abitibi-Témiscamingue,113,0.015197071
+3590,Northeast / Nord-est,321,0.015181966
+5940,Kootenay,113,0.015179862
+1330,Saint John-St. Stephen,221,0.015160204
+1220,North Shore / Côte-nord,236,0.015137526
+1010,Avalon Peninsula,488,0.015077107
+3590,Northeast / Nord-est,237,0.015053956
+4760,Northern / Nord,238,0.015033948
+2425,Chaudière-Appalaches,333,0.015025219
+4730,Saskatoon-Biggar,111,0.015019912
+1330,Saint John-St. Stephen,483,0.015016845
+4670,Parklands,484,0.015003823
+5980,Northeast / Nord-est,522,0.014994645
+4720,Swift Current-Moose Jaw,213,0.01493763
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,481,0.014931364
+4820,Camrose-Drumheller,236,0.014888686
+1250,Halifax,237,0.014887123
+2455,Laurentides,484,0.014870219
+1310,Campbellton-Miramichi,237,0.01483206
+3515,Kingston-Pembroke,336,0.014806407
+5930,Thompson-Okanagan,237,0.014800645
+3580,Stratford-Bruce Peninsula,484,0.014729931
+3560,London,333,0.014639926
+2480,Côte-Nord,114,0.014590263
+4650,Winnipeg,484,0.014589196
+1220,North Shore / Côte-nord,523,0.014554378
+2425,Chaudière-Appalaches,237,0.014501179
+5960,North Coast / Côte-nord,484,0.014449059
+2410,Gaspésie-Îles-de-la-Madeleine,484,0.01443461
+4670,Parklands,321,0.014430428
+2440,Montréal,311,0.014393184
+2415,Bas-Saint-Laurent,113,0.014390767
+3570,Windsor-Sarnia,236,0.014359075
+2430,Estrie,484,0.014356815
+2475,Saguenay-Lac-Saint-Jean,237,0.014310374
+4630,Southwest / Sud-ouest,332,0.014299624
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,523,0.014273896
+2470,Mauricie,484,0.014259409
+1310,Campbellton-Miramichi,484,0.014230407
+3550,Hamilton-Niagara Peninsula,523,0.014188137
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,488,0.014174518
+1240,Southern / Sud,321,0.014158381
+4840,Banff-Jasper-Rocky Mountain House,113,0.014144688
+2470,Mauricie,311,0.014126832
+1040,Notre Dame-Central Bonavista Bay,237,0.014119498
+4830,Calgary,484,0.014079847
+2415,Bas-Saint-Laurent,111,0.014038915
+4640,North Central / Centre nord,522,0.014013576
+3570,Windsor-Sarnia,325,0.014002542
+2435,Montérégie,522,0.013975649
+1220,North Shore / Côte-nord,484,0.013922636
+1340,Fredericton-Oromocto,321,0.013888577
+2445,Laval,237,0.013873243
+1330,Saint John-St. Stephen,523,0.013852054
+4740,Yorkton-Melville,484,0.013814681
+3570,Windsor-Sarnia,237,0.013784022
+1310,Campbellton-Miramichi,113,0.013733389
+4660,Interlake,331,0.013714913
+3530,Toronto,524,0.013640575
+1230,Annapolis Valley,484,0.013566884
+4630,Southwest / Sud-ouest,484,0.013548477
+1350,Edmundston-Woodstock,115,0.013516086
+3520,Muskoka-Kawarthas,326,0.013503477
+4620,South Central / Centre sud,112,0.013498255
+1340,Fredericton-Oromocto,526,0.013462272
+5930,Thompson-Okanagan,484,0.013415001
+2460,Outaouais,522,0.013402735
+2430,Estrie,322,0.013232198
+3515,Kingston-Pembroke,237,0.013227626
+4650,Winnipeg,311,0.013225794
+6210,Nunavut,221,0.013203063
+3530,Toronto,311,0.013195048
+3550,Hamilton-Niagara Peninsula,333,0.013173373
+1110,Prince Edward Island / Île-du-Prince-Édouard,237,0.013120503
+2410,Gaspésie-Îles-de-la-Madeleine,237,0.013069733
+5960,North Coast / Côte-nord,213,0.013026907
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,484,0.013023958
+6010,Yukon,522,0.013009757
+2430,Estrie,522,0.013004881
+1330,Saint John-St. Stephen,524,0.0129919
+3540,Kitchener-Waterloo-Barrie,326,0.012934263
+3530,Toronto,484,0.012928844
+4850,Red Deer,311,0.012882824
+4730,Saskatoon-Biggar,484,0.012877196
+4640,North Central / Centre nord,333,0.012845778
+2475,Saguenay-Lac-Saint-Jean,331,0.012821358
+1350,Edmundston-Woodstock,339,0.012754616
+2420,Capitale-Nationale,488,0.012733512
+1310,Campbellton-Miramichi,488,0.012713195
+3590,Northeast / Nord-est,485,0.012711376
+3510,Ottawa,522,0.012708006
+3550,Hamilton-Niagara Peninsula,484,0.01270441
+2460,Outaouais,321,0.012702354
+4610,Southeast / Sud-est,522,0.012690011
+3515,Kingston-Pembroke,485,0.012689987
+2445,Laval,332,0.01266555
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,237,0.012664743
+4680,North / Nord,238,0.01261648
+5940,Kootenay,237,0.012586104
+3580,Stratford-Bruce Peninsula,333,0.012557446
+3540,Kitchener-Waterloo-Barrie,524,0.012545987
+4850,Red Deer,333,0.012540113
+2445,Laval,311,0.012533617
+3580,Stratford-Bruce Peninsula,237,0.012533572
+6110,Northwest Territories / Territoires du Nord-Ouest,488,0.012507787
+2420,Capitale-Nationale,522,0.012475488
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,522,0.012445997
+3560,London,524,0.012427166
+4610,Southeast / Sud-est,332,0.012418567
+4850,Red Deer,523,0.012415491
+4630,Southwest / Sud-ouest,325,0.012407845
+2445,Laval,325,0.012401685
+3550,Hamilton-Niagara Peninsula,336,0.012391767
+4610,Southeast / Sud-est,212,0.012384636
+4740,Yorkton-Melville,237,0.012370638
+4860,Edmonton,333,0.012357286
+2435,Montérégie,326,0.012324672
+1210,Cape Breton,237,0.012228082
+2480,Côte-Nord,484,0.012208951
+2475,Saguenay-Lac-Saint-Jean,311,0.012175678
+2490,Nord-du-Québec,481,0.012164074
+2435,Montérégie,336,0.012155918
+3595,Northwest / Nord-ouest,484,0.012134731
+1330,Saint John-St. Stephen,112,0.012131747
+2430,Estrie,111,0.012131508
+4620,South Central / Centre sud,321,0.012112503
+5940,Kootenay,484,0.012097117
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,488,0.012081561
+6110,Northwest Territories / Territoires du Nord-Ouest,484,0.012076484
+1310,Campbellton-Miramichi,522,0.012033065
+5930,Thompson-Okanagan,522,0.012029356
+1330,Saint John-St. Stephen,237,0.012024228
+4710,Regina-Moose Mountain,237,0.012015571
+2433,Centre-du-Québec,326,0.012011931
+5960,North Coast / Côte-nord,522,0.011946072
+2440,Montréal,524,0.011928607
+2415,Bas-Saint-Laurent,327,0.011910207
+3530,Toronto,332,0.011907973
+1350,Edmundston-Woodstock,322,0.011897963
+4730,Saskatoon-Biggar,237,0.011884231
+3540,Kitchener-Waterloo-Barrie,237,0.011874078
+3520,Muskoka-Kawarthas,311,0.011860554
+4620,South Central / Centre sud,115,0.011855882
+3520,Muskoka-Kawarthas,485,0.011838048
+2490,Nord-du-Québec,113,0.011810467
+1310,Campbellton-Miramichi,212,0.011771476
+1250,Halifax,488,0.011755644
+2465,Abitibi-Témiscamingue,522,0.011740402
+1230,Annapolis Valley,237,0.011738463
+4630,Southwest / Sud-ouest,112,0.011712338
+4740,Yorkton-Melville,333,0.011696751
+5980,Northeast / Nord-est,113,0.011684139
+2470,Mauricie,237,0.01168152
+2445,Laval,336,0.01167098
+4760,Northern / Nord,114,0.011639185
+2433,Centre-du-Québec,325,0.011632321
+2445,Laval,485,0.01158979
+2460,Outaouais,485,0.011556277
+2450,Lanaudière,333,0.011550798
+1320,Moncton-Richibucto,321,0.011548783
+2490,Nord-du-Québec,522,0.011527581
+4680,North / Nord,482,0.011517119
+5940,Kootenay,115,0.011501828
+4620,South Central / Centre sud,522,0.011496613
+2455,Laurentides,325,0.0114711
+4670,Parklands,236,0.01146789
+5940,Kootenay,111,0.011459308
+3515,Kingston-Pembroke,311,0.011435496
+2470,Mauricie,322,0.011416366
+1230,Annapolis Valley,321,0.011409347
+4870,Athabasca-Grande Prairie-Peace River,112,0.01135463
+2475,Saguenay-Lac-Saint-Jean,522,0.011345518
+3530,Toronto,336,0.011331618
+2430,Estrie,112,0.011317956
+5940,Kootenay,522,0.011310486
+4730,Saskatoon-Biggar,523,0.011267547
+2475,Saguenay-Lac-Saint-Jean,332,0.011187392
+5930,Thompson-Okanagan,488,0.011109681
+4650,Winnipeg,333,0.011105386
+1110,Prince Edward Island / Île-du-Prince-Édouard,484,0.01108491
+2445,Laval,522,0.01105191
+4730,Saskatoon-Biggar,311,0.011037597
+2433,Centre-du-Québec,522,0.010995119
+4830,Calgary,522,0.01097162
+2433,Centre-du-Québec,331,0.010927332
+4610,Southeast / Sud-est,325,0.010925624
+2410,Gaspésie-Îles-de-la-Madeleine,113,0.010919017
+2450,Lanaudière,337,0.010911379
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,522,0.010871343
+2445,Laval,493,0.010859086
+3515,Kingston-Pembroke,524,0.010855187
+2440,Montréal,488,0.010850183
+1220,North Shore / Côte-nord,332,0.010812518
+4810,Lethbridge-Medicine Hat,332,0.010798825
+2480,Côte-Nord,113,0.010697006
+2420,Capitale-Nationale,311,0.010690818
+3595,Northwest / Nord-ouest,481,0.010689786
+2435,Montérégie,325,0.010676507
+4830,Calgary,333,0.010672009
+2410,Gaspésie-Îles-de-la-Madeleine,115,0.010670858
+4760,Northern / Nord,213,0.010669253
+3570,Windsor-Sarnia,524,0.010661484
+2480,Côte-Nord,237,0.010659208
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,311,0.010642325
+5940,Kootenay,331,0.010630156
+4850,Red Deer,332,0.010624046
+4650,Winnipeg,237,0.010621854
+2480,Côte-Nord,115,0.010621409
+5930,Thompson-Okanagan,113,0.010619187
+2430,Estrie,337,0.010612079
+4670,Parklands,113,0.010607798
+1040,Notre Dame-Central Bonavista Bay,221,0.010599975
+2435,Montérégie,331,0.010572442
+5970,Nechako,112,0.010565569
+3510,Ottawa,334,0.010536368
+4710,Regina-Moose Mountain,523,0.010522056
+1110,Prince Edward Island / Île-du-Prince-Édouard,522,0.010520588
+2425,Chaudière-Appalaches,111,0.01051356
+2420,Capitale-Nationale,484,0.010510201
+3550,Hamilton-Niagara Peninsula,331,0.010492067
+5930,Thompson-Okanagan,312,0.010490432
+4750,Prince Albert,321,0.010481366
+2435,Montérégie,237,0.010471189
+4680,North / Nord,322,0.010470108
+4740,Yorkton-Melville,524,0.010445247
+2415,Bas-Saint-Laurent,332,0.010432427
+4720,Swift Current-Moose Jaw,311,0.010401595
+6010,Yukon,523,0.010382787
+2430,Estrie,336,0.010372799
+4640,North Central / Centre nord,321,0.010364207
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,524,0.010351827
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,111,0.010337887
+1310,Campbellton-Miramichi,111,0.01033274
+1350,Edmundston-Woodstock,524,0.010327432
+5950,Cariboo,237,0.010310639
+3590,Northeast / Nord-est,522,0.010298391
+4730,Saskatoon-Biggar,213,0.010295486
+1040,Notre Dame-Central Bonavista Bay,522,0.010268726
+4850,Red Deer,325,0.010265757
+3530,Toronto,237,0.010262254
+2465,Abitibi-Témiscamingue,331,0.010247285
+4720,Swift Current-Moose Jaw,488,0.01024518
+4660,Interlake,336,0.010240468
+3515,Kingston-Pembroke,326,0.010232209
+2445,Laval,484,0.010229868
+2420,Capitale-Nationale,332,0.010217773
+1210,Cape Breton,484,0.010217535
+2475,Saguenay-Lac-Saint-Jean,111,0.010199107
+3560,London,112,0.010192764
+4630,Southwest / Sud-ouest,237,0.010182223
+3570,Windsor-Sarnia,488,0.010132435
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,484,0.01010603
+1220,North Shore / Côte-nord,321,0.010083584
+2430,Estrie,339,0.010073698
+1040,Notre Dame-Central Bonavista Bay,488,0.010061695
+5950,Cariboo,212,0.010046747
+4650,Winnipeg,332,0.010015457
+2450,Lanaudière,522,0.010014129
+3550,Hamilton-Niagara Peninsula,522,0.010009856
+1230,Annapolis Valley,485,0.009983179
+3550,Hamilton-Niagara Peninsula,485,0.009980712
+1330,Saint John-St. Stephen,213,0.009945524
+4860,Edmonton,524,0.009922248
+5930,Thompson-Okanagan,523,0.009889578
+2440,Montréal,484,0.009876167
+3540,Kitchener-Waterloo-Barrie,522,0.009874871
+2455,Laurentides,522,0.009849298
+2433,Centre-du-Québec,237,0.009815618
+1340,Fredericton-Oromocto,237,0.009805021
+3540,Kitchener-Waterloo-Barrie,485,0.00980052
+2455,Laurentides,332,0.009790054
+1110,Prince Edward Island / Île-du-Prince-Édouard,523,0.009754721
+4840,Banff-Jasper-Rocky Mountain House,236,0.00974903
+4650,Winnipeg,221,0.009741984
+2470,Mauricie,333,0.009722325
+2465,Abitibi-Témiscamingue,237,0.00971549
+4860,Edmonton,522,0.009710506
+1010,Avalon Peninsula,524,0.009700382
+1320,Moncton-Richibucto,237,0.009695866
+1010,Avalon Peninsula,481,0.009690256
+4680,North / Nord,236,0.00968485
+3595,Northwest / Nord-ouest,485,0.009665699
+1110,Prince Edward Island / Île-du-Prince-Édouard,524,0.009653949
+2460,Outaouais,322,0.009646149
+4710,Regina-Moose Mountain,212,0.009606676
+2460,Outaouais,484,0.009598395
+1110,Prince Edward Island / Île-du-Prince-Édouard,488,0.009593486
+6010,Yukon,484,0.009569677
+2415,Bas-Saint-Laurent,337,0.009552795
+1310,Campbellton-Miramichi,332,0.009547975
+5950,Cariboo,488,0.009518963
+4730,Saskatoon-Biggar,332,0.009511565
+2475,Saguenay-Lac-Saint-Jean,327,0.009487541
+3595,Northwest / Nord-ouest,321,0.00945527
+4860,Edmonton,523,0.009435241
+5950,Cariboo,482,0.009424715
+3580,Stratford-Bruce Peninsula,221,0.009418084
+2433,Centre-du-Québec,335,0.009408894
+4870,Athabasca-Grande Prairie-Peace River,115,0.009397493
+4660,Interlake,332,0.009371857
+4680,North / Nord,114,0.009318396
+3550,Hamilton-Niagara Peninsula,326,0.009302436
+3520,Muskoka-Kawarthas,484,0.009294893
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,114,0.009277667
+4820,Camrose-Drumheller,333,0.009270314
+3590,Northeast / Nord-est,331,0.00924871
+3520,Muskoka-Kawarthas,524,0.009238629
+4620,South Central / Centre sud,311,0.009238349
+1250,Halifax,336,0.009214467
+4650,Winnipeg,326,0.009210891
+4660,Interlake,221,0.009188991
+3510,Ottawa,523,0.009188906
+2440,Montréal,332,0.009183777
+4850,Red Deer,111,0.009159735
+3530,Toronto,326,0.009145913
+2410,Gaspésie-Îles-de-la-Madeleine,485,0.009140541
+2450,Lanaudière,237,0.009137506
+1340,Fredericton-Oromocto,524,0.009064596
+2450,Lanaudière,485,0.009055
+2440,Montréal,236,0.009049146
+4830,Calgary,332,0.00902691
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,113,0.008990929
+2430,Estrie,311,0.008984973
+3570,Windsor-Sarnia,522,0.008965077
+2420,Capitale-Nationale,237,0.008962053
+2455,Laurentides,237,0.00896064
+1330,Saint John-St. Stephen,486,0.008959931
+4880,Wood Buffalo-Cold Lake,221,0.008955836
+4850,Red Deer,112,0.008941646
+3510,Ottawa,484,0.008927263
+4720,Swift Current-Moose Jaw,221,0.008915653
+4720,Swift Current-Moose Jaw,524,0.008915653
+1040,Notre Dame-Central Bonavista Bay,484,0.008902323
+4760,Northern / Nord,311,0.008891044
+6210,Nunavut,213,0.008890062
+2480,Côte-Nord,332,0.008844875
+1320,Moncton-Richibucto,488,0.008833301
+4850,Red Deer,522,0.008817023
+4810,Lethbridge-Medicine Hat,523,0.008814236
+2433,Centre-du-Québec,339,0.008798807
+1330,Saint John-St. Stephen,114,0.008780733
+5980,Northeast / Nord-est,488,0.008763104
+5960,North Coast / Côte-nord,481,0.008760453
+1240,Southern / Sud,484,0.008752454
+4630,Southwest / Sud-ouest,488,0.008735568
+1240,Southern / Sud,522,0.008720275
+2470,Mauricie,488,0.008676438
+2430,Estrie,315,0.008649981
+2410,Gaspésie-Îles-de-la-Madeleine,111,0.008644222
+2415,Bas-Saint-Laurent,485,0.008637979
+4710,Regina-Moose Mountain,332,0.008633482
+3580,Stratford-Bruce Peninsula,323,0.008606386
+2450,Lanaudière,321,0.008580593
+3520,Muskoka-Kawarthas,333,0.008540949
+3580,Stratford-Bruce Peninsula,212,0.008534766
+2410,Gaspésie-Îles-de-la-Madeleine,483,0.008520142
+2430,Estrie,524,0.008518377
+1310,Campbellton-Miramichi,115,0.008501622
+5950,Cariboo,522,0.008463394
+3580,Stratford-Bruce Peninsula,337,0.008463145
+4710,Regina-Moose Mountain,111,0.008460041
+4840,Banff-Jasper-Rocky Mountain House,212,0.008447522
+1220,North Shore / Côte-nord,113,0.008431334
+4730,Saskatoon-Biggar,333,0.008424529
+2420,Capitale-Nationale,523,0.008372897
+3590,Northeast / Nord-est,333,0.008371843
+3520,Muskoka-Kawarthas,335,0.008360903
+3590,Northeast / Nord-est,524,0.008346241
+4820,Camrose-Drumheller,522,0.008339771
+1220,North Shore / Côte-nord,114,0.008334143
+3530,Toronto,333,0.008331136
+2475,Saguenay-Lac-Saint-Jean,112,0.008327953
+3530,Toronto,488,0.008314972
+2410,Gaspésie-Îles-de-la-Madeleine,333,0.008313343
+2465,Abitibi-Témiscamingue,333,0.008304187
+4810,Lethbridge-Medicine Hat,524,0.008293143
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,221,0.008283632
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,326,0.008283632
+3515,Kingston-Pembroke,522,0.008277934
+4840,Banff-Jasper-Rocky Mountain House,327,0.008275625
+2465,Abitibi-Témiscamingue,485,0.00826328
+3580,Stratford-Bruce Peninsula,522,0.008260221
+2430,Estrie,327,0.008255168
+4720,Swift Current-Moose Jaw,237,0.00825089
+1230,Annapolis Valley,322,0.008227894
+4830,Calgary,311,0.008221822
+2470,Mauricie,111,0.008205053
+2490,Nord-du-Québec,213,0.008203678
+3580,Stratford-Bruce Peninsula,524,0.008200537
+1220,North Shore / Côte-nord,112,0.008164059
+1320,Moncton-Richibucto,492,0.008162418
+1320,Moncton-Richibucto,522,0.008130471
+3530,Toronto,337,0.008129083
+4670,Parklands,311,0.008123089
+4640,North Central / Centre nord,115,0.008101598
+2430,Estrie,485,0.008099636
+4630,Southwest / Sud-ouest,523,0.008095702
+5980,Northeast / Nord-est,212,0.008081529
+5970,Nechako,488,0.008079553
+1010,Avalon Peninsula,522,0.008060025
+2415,Bas-Saint-Laurent,237,0.008057422
+2475,Saguenay-Lac-Saint-Jean,485,0.008038056
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,482,0.008027615
+2450,Lanaudière,112,0.008023679
+4620,South Central / Centre sud,326,0.008006569
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,488,0.007996934
+5950,Cariboo,213,0.007992159
+2455,Laurentides,321,0.007983115
+2410,Gaspésie-Îles-de-la-Madeleine,488,0.007982463
+1110,Prince Edward Island / Île-du-Prince-Édouard,114,0.007960981
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,485,0.007954869
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,237,0.007950196
+3560,London,522,0.007942133
+5970,Nechako,522,0.007941441
+4830,Calgary,524,0.007940593
+3550,Hamilton-Niagara Peninsula,524,0.007929989
+3595,Northwest / Nord-ouest,524,0.007926154
+1320,Moncton-Richibucto,322,0.007922816
+1010,Avalon Peninsula,221,0.007918266
+4620,South Central / Centre sud,339,0.007903921
+1340,Fredericton-Oromocto,488,0.007897866
+1220,North Shore / Côte-nord,522,0.007896783
+3510,Ottawa,491,0.007885924
+2470,Mauricie,485,0.007880975
+2440,Montréal,336,0.007870435
+4720,Swift Current-Moose Jaw,115,0.007859852
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,321,0.007852045
+4820,Camrose-Drumheller,524,0.007830606
+4660,Interlake,523,0.0078175
+2455,Laurentides,485,0.007805384
+2425,Chaudière-Appalaches,485,0.007786912
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,522,0.007786787
+3560,London,339,0.007779828
+3595,Northwest / Nord-ouest,522,0.007771839
+3515,Kingston-Pembroke,322,0.007765897
+4840,Banff-Jasper-Rocky Mountain House,221,0.007759933
+4710,Regina-Moose Mountain,486,0.007747008
+3570,Windsor-Sarnia,523,0.007745965
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,112,0.007744547
+4640,North Central / Centre nord,327,0.007736662
+4730,Saskatoon-Biggar,524,0.007713775
+2435,Montérégie,112,0.00770081
+1230,Annapolis Valley,336,0.007679368
+2435,Montérégie,333,0.007675497
+1330,Saint John-St. Stephen,321,0.007669701
+3540,Kitchener-Waterloo-Barrie,327,0.007663627
+4810,Lethbridge-Medicine Hat,321,0.007661179
+4860,Edmonton,485,0.007654487
+2490,Nord-du-Québec,484,0.007637907
+3530,Toronto,325,0.007625972
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,485,0.007620941
+1210,Cape Breton,522,0.007613711
+3515,Kingston-Pembroke,321,0.007612285
+3580,Stratford-Bruce Peninsula,485,0.0076037
+4660,Interlake,488,0.007588918
+1220,North Shore / Côte-nord,115,0.007580912
+4630,Southwest / Sud-ouest,333,0.007567116
+5960,North Coast / Côte-nord,115,0.007565846
+2480,Côte-Nord,322,0.007559722
+4670,Parklands,524,0.007549694
+2435,Montérégie,337,0.007546119
+4830,Calgary,488,0.007545401
+4840,Banff-Jasper-Rocky Mountain House,485,0.007538922
+3510,Ottawa,237,0.007530089
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,321,0.00751242
+3570,Windsor-Sarnia,311,0.007510193
+2435,Montérégie,524,0.007506743
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,485,0.007483468
+2470,Mauricie,326,0.007483244
+2445,Laval,524,0.007469427
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,484,0.007454769
+3580,Stratford-Bruce Peninsula,321,0.007448523
+2465,Abitibi-Témiscamingue,115,0.007445133
+1220,North Shore / Côte-nord,488,0.007435125
+2435,Montérégie,485,0.007433616
+1350,Edmundston-Woodstock,326,0.007424329
+1350,Edmundston-Woodstock,112,0.007424329
+1220,North Shore / Côte-nord,237,0.007386529
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,484,0.007385406
+4750,Prince Albert,311,0.007375776
+1040,Notre Dame-Central Bonavista Bay,321,0.007370295
+2440,Montréal,325,0.007366255
+2420,Capitale-Nationale,485,0.007362301
+4670,Parklands,333,0.007358563
+3540,Kitchener-Waterloo-Barrie,334,0.007357963
+1230,Annapolis Valley,313,0.007350252
+4650,Winnipeg,488,0.007340177
+1340,Fredericton-Oromocto,484,0.007336938
+4680,North / Nord,522,0.007329075
+3530,Toronto,493,0.007322388
+3520,Muskoka-Kawarthas,522,0.007314383
+2440,Montréal,315,0.007312677
+1320,Moncton-Richibucto,114,0.007299853
+4830,Calgary,221,0.007297258
+2455,Laurentides,488,0.007279594
+4850,Red Deer,524,0.007274823
+2455,Laurentides,333,0.007264783
+4650,Winnipeg,493,0.007260909
+3590,Northeast / Nord-est,113,0.007258157
+1230,Annapolis Valley,522,0.007240547
+3520,Muskoka-Kawarthas,325,0.00722436
+2455,Laurentides,326,0.007212945
+3550,Hamilton-Niagara Peninsula,237,0.007193425
+5930,Thompson-Okanagan,524,0.007185732
+3595,Northwest / Nord-ouest,336,0.007182638
+4820,Camrose-Drumheller,311,0.007163424
+1040,Notre Dame-Central Bonavista Bay,485,0.007163264
+3540,Kitchener-Waterloo-Barrie,523,0.00715694
+1110,Prince Edward Island / Île-du-Prince-Édouard,336,0.007154806
+3560,London,326,0.007146837
+5940,Kootenay,221,0.007143465
+5930,Thompson-Okanagan,115,0.007130551
+5930,Thompson-Okanagan,212,0.007106026
+2433,Centre-du-Québec,485,0.007104121
+4710,Regina-Moose Mountain,331,0.007091789
+1350,Edmundston-Woodstock,522,0.007091186
+4720,Swift Current-Moose Jaw,336,0.007077777
+2415,Bas-Saint-Laurent,322,0.007072235
+1320,Moncton-Richibucto,326,0.007044278
+2455,Laurentides,337,0.006983375
+2470,Mauricie,113,0.006967666
+6110,Northwest Territories / Territoires du Nord-Ouest,523,0.006948771
+3595,Northwest / Nord-ouest,115,0.006916095
+1350,Edmundston-Woodstock,336,0.006900819
+4840,Banff-Jasper-Rocky Mountain House,211,0.006900447
+4750,Prince Albert,523,0.00688542
+3520,Muskoka-Kawarthas,321,0.006853015
+3580,Stratford-Bruce Peninsula,327,0.006851686
+1320,Moncton-Richibucto,493,0.006836624
+1350,Edmundston-Woodstock,333,0.006805635
+2470,Mauricie,112,0.006805627
+4750,Prince Albert,113,0.006803694
+4630,Southwest / Sud-ouest,213,0.006760328
+6110,Northwest Territories / Territoires du Nord-Ouest,483,0.006757081
+4860,Edmonton,221,0.0067567
+1250,Halifax,484,0.006745278
+2425,Chaudière-Appalaches,327,0.006730643
+4720,Swift Current-Moose Jaw,212,0.006725844
+1010,Avalon Peninsula,484,0.006723438
+4660,Interlake,524,0.006720307
+4750,Prince Albert,211,0.006681105
+4860,Edmonton,311,0.006642359
+4840,Banff-Jasper-Rocky Mountain House,487,0.006630323
+3595,Northwest / Nord-ouest,221,0.006621495
+4630,Southwest / Sud-ouest,524,0.006621227
+3520,Muskoka-Kawarthas,332,0.006616704
+2445,Laval,323,0.006606789
+6210,Nunavut,237,0.006601532
+6210,Nunavut,311,0.006601532
+1210,Cape Breton,322,0.006591958
+1210,Cape Breton,481,0.006591958
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,333,0.006579533
+1350,Edmundston-Woodstock,488,0.006567676
+1220,North Shore / Côte-nord,212,0.006560404
+4850,Red Deer,327,0.006558245
+4820,Camrose-Drumheller,211,0.006548915
+5940,Kootenay,524,0.006548176
+2430,Estrie,237,0.006544315
+2480,Côte-Nord,488,0.006539159
+3560,London,523,0.006530078
+3510,Ottawa,524,0.006514914
+4610,Southeast / Sud-est,327,0.006514658
+4820,Camrose-Drumheller,212,0.0065138
+1330,Saint John-St. Stephen,113,0.00650491
+3570,Windsor-Sarnia,115,0.00650385
+3510,Ottawa,311,0.006493982
+4660,Interlake,333,0.006491725
+3530,Toronto,323,0.006479829
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,332,0.006479811
+3550,Hamilton-Niagara Peninsula,325,0.00645951
+4880,Wood Buffalo-Cold Lake,481,0.006449114
+3520,Muskoka-Kawarthas,488,0.00644791
+4660,Interlake,337,0.006446009
+2440,Montréal,339,0.006441695
+1010,Avalon Peninsula,483,0.006439919
+2460,Outaouais,311,0.006430766
+1040,Notre Dame-Central Bonavista Bay,212,0.006417954
+3515,Kingston-Pembroke,111,0.006400464
+3595,Northwest / Nord-ouest,488,0.006397037
+3540,Kitchener-Waterloo-Barrie,335,0.006394158
+3520,Muskoka-Kawarthas,237,0.006380393
+2435,Montérégie,523,0.006364841
+4650,Winnipeg,323,0.006353296
+4820,Camrose-Drumheller,488,0.006338226
+2420,Capitale-Nationale,339,0.006334503
+1320,Moncton-Richibucto,332,0.006325474
+3520,Muskoka-Kawarthas,523,0.006324128
+4710,Regina-Moose Mountain,211,0.006320942
+5960,North Coast / Côte-nord,485,0.006314352
+2435,Montérégie,334,0.006308589
+4870,Athabasca-Grande Prairie-Peace River,523,0.006308128
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,524,0.00629556
+1220,North Shore / Côte-nord,221,0.006293129
+3590,Northeast / Nord-est,332,0.006291683
+2425,Chaudière-Appalaches,323,0.006288484
+1110,Prince Edward Island / Île-du-Prince-Édouard,325,0.006288167
+2440,Montréal,334,0.006287831
+3560,London,237,0.00628121
+2415,Bas-Saint-Laurent,336,0.006280567
+5980,Northeast / Nord-est,485,0.006263997
+2435,Montérégie,488,0.006260776
+1230,Annapolis Valley,327,0.0062532
+2420,Capitale-Nationale,334,0.006244194
+4750,Prince Albert,524,0.00621118
+3520,Muskoka-Kawarthas,111,0.006189094
+5950,Cariboo,481,0.006182613
+2455,Laurentides,523,0.006176177
+3510,Ottawa,485,0.006153846
+5980,Northeast / Nord-est,111,0.006134173
+3560,London,331,0.006091854
+3560,London,485,0.006070213
+5980,Northeast / Nord-est,112,0.006069261
+4740,Yorkton-Melville,332,0.006064982
+5930,Thompson-Okanagan,336,0.006051465
+6110,Northwest Territories / Territoires du Nord-Ouest,522,0.006038242
+3560,London,321,0.006021522
+2445,Laval,111,0.006008017
+1040,Notre Dame-Central Bonavista Bay,113,0.006003892
+4710,Regina-Moose Mountain,333,0.005993332
+3515,Kingston-Pembroke,332,0.005990835
+4710,Regina-Moose Mountain,221,0.005983697
+3515,Kingston-Pembroke,331,0.005982301
+5960,North Coast / Côte-nord,493,0.005973036
+2435,Montérégie,327,0.005957018
+6010,Yukon,488,0.005941956
+2440,Montréal,326,0.005940262
+2480,Côte-Nord,485,0.005934382
+4810,Lethbridge-Medicine Hat,522,0.005931593
+3530,Toronto,334,0.005910545
+4620,South Central / Centre sud,237,0.005902279
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,524,0.005889034
+4870,Athabasca-Grande Prairie-Peace River,325,0.005871411
+4630,Southwest / Sud-ouest,221,0.005842259
+3590,Northeast / Nord-est,488,0.005824447
+2470,Mauricie,323,0.005818664
+4820,Camrose-Drumheller,325,0.005811504
+6210,Nunavut,483,0.005809348
+6210,Nunavut,484,0.005809348
+5940,Kootenay,327,0.005804065
+3570,Windsor-Sarnia,485,0.005773533
+5950,Cariboo,485,0.005749076
+2425,Chaudière-Appalaches,339,0.005739879
+2415,Bas-Saint-Laurent,331,0.005735196
+1220,North Shore / Côte-nord,322,0.005709982
+2435,Montérégie,335,0.0057067
+1210,Cape Breton,524,0.005702044
+3560,London,327,0.00566986
+4610,Southeast / Sud-est,488,0.005666395
+5930,Thompson-Okanagan,481,0.005665201
+4630,Southwest / Sud-ouest,115,0.005647517
+4620,South Central / Centre sud,331,0.005645658
+1040,Notre Dame-Central Bonavista Bay,336,0.005631237
+4650,Winnipeg,482,0.005627997
+2445,Laval,523,0.005612219
+2445,Laval,488,0.005612219
+2445,Laval,326,0.00560207
+4830,Calgary,486,0.005597015
+2430,Estrie,325,0.005587194
+2490,Nord-du-Québec,488,0.005586987
+2470,Mauricie,524,0.00556824
+2445,Laval,337,0.005520881
+3570,Windsor-Sarnia,323,0.005520509
+2433,Centre-du-Québec,323,0.005517896
+4650,Winnipeg,485,0.005509096
+1250,Halifax,311,0.005499885
+4680,North / Nord,221,0.005496807
+2440,Montréal,333,0.005495155
+5980,Northeast / Nord-est,115,0.005485054
+2430,Estrie,523,0.005479518
+1210,Cape Breton,523,0.005471325
+3550,Hamilton-Niagara Peninsula,493,0.005471242
+3520,Muskoka-Kawarthas,322,0.005468908
+2450,Lanaudière,327,0.005466002
+2470,Mauricie,336,0.005465125
+5940,Kootenay,488,0.0054639
+3540,Kitchener-Waterloo-Barrie,339,0.005446875
+1240,Southern / Sud,111,0.005438105
+3520,Muskoka-Kawarthas,336,0.00543515
+1340,Fredericton-Oromocto,111,0.005407346
+6210,Nunavut,522,0.005369246
+4730,Saskatoon-Biggar,221,0.005362014
+3590,Northeast / Nord-est,523,0.005350811
+4760,Northern / Nord,484,0.005334627
+4750,Prince Albert,332,0.005332625
+4830,Calgary,485,0.005324976
+5950,Cariboo,332,0.005315539
+2420,Capitale-Nationale,111,0.005311006
+1310,Campbellton-Miramichi,524,0.005310244
+5930,Thompson-Okanagan,332,0.005303462
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,493,0.005302443
+4730,Saskatoon-Biggar,482,0.005278396
+5950,Cariboo,524,0.005277841
+1310,Campbellton-Miramichi,322,0.005257926
+5970,Nechako,524,0.005248256
+2450,Lanaudière,339,0.005239112
+1310,Campbellton-Miramichi,331,0.005231767
+3590,Northeast / Nord-est,221,0.005216401
+4660,Interlake,481,0.005211667
+2465,Abitibi-Témiscamingue,524,0.00519523
+1230,Annapolis Valley,115,0.005192716
+3540,Kitchener-Waterloo-Barrie,337,0.005185271
+1340,Fredericton-Oromocto,339,0.005182975
+3515,Kingston-Pembroke,333,0.005180109
+4860,Edmonton,325,0.005179219
+2445,Laval,333,0.005175826
+4760,Northern / Nord,485,0.005172971
+2470,Mauricie,339,0.005170509
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,488,0.005135852
+2465,Abitibi-Témiscamingue,112,0.005133869
+3515,Kingston-Pembroke,325,0.005128905
+5980,Northeast / Nord-est,523,0.005128039
+4650,Winnipeg,337,0.005120685
+3510,Ottawa,323,0.005120356
+2445,Laval,339,0.005114934
+3510,Ottawa,339,0.005112507
+4640,North Central / Centre nord,524,0.005109116
+4640,North Central / Centre nord,332,0.005109116
+1330,Saint John-St. Stephen,212,0.005107161
+2435,Montérégie,321,0.005101998
+1010,Avalon Peninsula,324,0.005072955
+2475,Saguenay-Lac-Saint-Jean,524,0.005060022
+2420,Capitale-Nationale,333,0.005052981
+2435,Montérégie,323,0.005048559
+4750,Prince Albert,115,0.005046584
+1230,Annapolis Valley,332,0.005046442
+3510,Ottawa,488,0.005039246
+4880,Wood Buffalo-Cold Lake,212,0.005036234
+3540,Kitchener-Waterloo-Barrie,111,0.005031062
+4620,South Central / Centre sud,524,0.005029768
+2420,Capitale-Nationale,325,0.005027179
+1240,Southern / Sud,524,0.00501979
+3515,Kingston-Pembroke,523,0.005017964
+4830,Calgary,493,0.005012499
+4760,Northern / Nord,522,0.005011316
+1230,Annapolis Valley,523,0.005009873
+3515,Kingston-Pembroke,493,0.00500943
+4740,Yorkton-Melville,523,0.005006017
+4650,Winnipeg,481,0.00499782
+1210,Cape Breton,212,0.004976928
+2420,Capitale-Nationale,323,0.004971273
+2425,Chaudière-Appalaches,324,0.004970195
+4820,Camrose-Drumheller,115,0.004968748
+3590,Northeast / Nord-est,115,0.004966781
+4610,Southeast / Sud-est,115,0.004953855
+1250,Halifax,332,0.004952776
+1250,Halifax,334,0.004945577
+2440,Montréal,323,0.004942892
+3580,Stratford-Bruce Peninsula,115,0.004941808
+1230,Annapolis Valley,114,0.004936737
+1240,Southern / Sud,333,0.004923255
+2433,Centre-du-Québec,524,0.004921367
+1250,Halifax,485,0.004916782
+2480,Côte-Nord,221,0.004913819
+2440,Montréal,221,0.004912668
+4840,Banff-Jasper-Rocky Mountain House,322,0.00491135
+4750,Prince Albert,336,0.004903563
+3560,London,488,0.004896206
+2450,Lanaudière,524,0.00484721
+4650,Winnipeg,325,0.004839285
+3550,Hamilton-Niagara Peninsula,339,0.004838009
+5960,North Coast / Côte-nord,114,0.004835315
+2440,Montréal,237,0.004830241
+5940,Kootenay,336,0.004826091
+2460,Outaouais,237,0.004823074
+2425,Chaudière-Appalaches,331,0.004814621
+2465,Abitibi-Témiscamingue,311,0.004806611
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,339,0.004800614
+4730,Saskatoon-Biggar,485,0.004797592
+2475,Saguenay-Lac-Saint-Jean,337,0.004796479
+2450,Lanaudière,325,0.00478533
+3570,Windsor-Sarnia,221,0.004784441
+1010,Avalon Peninsula,211,0.004779311
+5960,North Coast / Côte-nord,332,0.004778429
+4670,Parklands,114,0.004778287
+3540,Kitchener-Waterloo-Barrie,325,0.004772212
+3510,Ottawa,112,0.004769754
+1220,North Shore / Côte-nord,323,0.004762368
+3550,Hamilton-Niagara Peninsula,488,0.004761173
+2470,Mauricie,523,0.004758047
+1110,Prince Edward Island / Île-du-Prince-Édouard,332,0.004756434
+1330,Saint John-St. Stephen,485,0.004748764
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,111,0.004743944
+2460,Outaouais,524,0.004743486
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,481,0.004720575
+1040,Notre Dame-Central Bonavista Bay,114,0.004720301
+4730,Saskatoon-Biggar,112,0.004693069
+3530,Toronto,339,0.004692673
+4870,Athabasca-Grande Prairie-Peace River,488,0.004690659
+1210,Cape Breton,488,0.00468029
+1040,Notre Dame-Central Bonavista Bay,112,0.004678895
+5930,Thompson-Okanagan,485,0.004678083
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,322,0.004673836
+5930,Thompson-Okanagan,311,0.004671952
+4710,Regina-Moose Mountain,493,0.004663622
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,112,0.004656017
+4870,Athabasca-Grande Prairie-Peace River,332,0.004642135
+4820,Camrose-Drumheller,221,0.0046176
+4660,Interlake,326,0.004617354
+2435,Montérégie,339,0.004598548
+4850,Red Deer,337,0.004579867
+1230,Annapolis Valley,524,0.004571052
+3520,Muskoka-Kawarthas,331,0.004568676
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,115,0.004564712
+2455,Laurentides,334,0.00456178
+3550,Hamilton-Niagara Peninsula,327,0.00455981
+3510,Ottawa,325,0.004555207
+2475,Saguenay-Lac-Saint-Jean,212,0.004519759
+1040,Notre Dame-Central Bonavista Bay,481,0.004513271
+1110,Prince Edward Island / Île-du-Prince-Édouard,221,0.004494427
+1340,Fredericton-Oromocto,322,0.004487424
+2415,Bas-Saint-Laurent,488,0.004486119
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,115,0.004463514
+1320,Moncton-Richibucto,111,0.004456584
+4860,Edmonton,326,0.004452942
+2415,Bas-Saint-Laurent,115,0.004450934
+3580,Stratford-Bruce Peninsula,331,0.004440466
+5960,North Coast / Côte-nord,221,0.004437112
+1110,Prince Edward Island / Île-du-Prince-Édouard,333,0.004433964
+4730,Saskatoon-Biggar,334,0.004410858
+1330,Saint John-St. Stephen,327,0.004390366
+1240,Southern / Sud,332,0.004376227
+1340,Fredericton-Oromocto,113,0.004375238
+1010,Avalon Peninsula,485,0.004374285
+5930,Thompson-Okanagan,112,0.004371524
+2430,Estrie,313,0.004366864
+2433,Centre-du-Québec,488,0.00436551
+2420,Capitale-Nationale,115,0.004360615
+4810,Lethbridge-Medicine Hat,326,0.004335052
+4860,Edmonton,488,0.004328014
+3530,Toronto,485,0.004324937
+3515,Kingston-Pembroke,488,0.00431818
+4810,Lethbridge-Medicine Hat,333,0.004312878
+4630,Southwest / Sud-ouest,211,0.004312144
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,213,0.004307488
+1010,Avalon Peninsula,212,0.004303405
+1010,Avalon Peninsula,493,0.00429328
+3540,Kitchener-Waterloo-Barrie,112,0.004290309
+3520,Muskoka-Kawarthas,339,0.004287354
+1350,Edmundston-Woodstock,332,0.004283267
+1040,Notre Dame-Central Bonavista Bay,524,0.004264834
+2410,Gaspésie-Îles-de-la-Madeleine,312,0.004260071
+2433,Centre-du-Québec,315,0.00425705
+5940,Kootenay,322,0.004252062
+4830,Calgary,321,0.004220278
+5940,Kootenay,523,0.004209542
+2440,Montréal,337,0.004205167
+2440,Montréal,493,0.004205167
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,337,0.00420228
+2410,Gaspésie-Îles-de-la-Madeleine,212,0.004177351
+4840,Banff-Jasper-Rocky Mountain House,523,0.004174648
+1320,Moncton-Richibucto,337,0.004169063
+3550,Hamilton-Niagara Peninsula,312,0.004159734
+2425,Chaudière-Appalaches,113,0.00415957
+4860,Edmonton,321,0.00415862
+5960,North Coast / Côte-nord,483,0.004152682
+2415,Bas-Saint-Laurent,333,0.00415186
+3580,Stratford-Bruce Peninsula,523,0.00413011
+4880,Wood Buffalo-Cold Lake,332,0.004124698
+2470,Mauricie,115,0.004124623
+3580,Stratford-Bruce Peninsula,488,0.004118174
+1250,Halifax,493,0.004117715
+2425,Chaudière-Appalaches,313,0.004110442
+2470,Mauricie,334,0.004109892
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,326,0.004106847
+4710,Regina-Moose Mountain,485,0.004104758
+2415,Bas-Saint-Laurent,524,0.004099082
+3540,Kitchener-Waterloo-Barrie,321,0.004094794
+2465,Abitibi-Témiscamingue,482,0.004090732
+2433,Centre-du-Québec,327,0.004080803
+2455,Laurentides,327,0.004080424
+3520,Muskoka-Kawarthas,334,0.004073549
+2475,Saguenay-Lac-Saint-Jean,339,0.004071736
+3540,Kitchener-Waterloo-Barrie,488,0.00406175
+3550,Hamilton-Niagara Peninsula,337,0.004061702
+4820,Camrose-Drumheller,523,0.004055762
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,524,0.004053946
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,483,0.004053946
+2480,Côte-Nord,327,0.004044451
+4830,Calgary,337,0.00403463
+1110,Prince Edward Island / Île-du-Prince-Édouard,481,0.004030877
+1010,Avalon Peninsula,523,0.004030012
+2465,Abitibi-Témiscamingue,332,0.004029371
+4840,Banff-Jasper-Rocky Mountain House,522,0.004027307
+5980,Northeast / Nord-est,492,0.004024537
+4660,Interlake,492,0.004023041
+3560,London,221,0.004008938
+2440,Montréal,485,0.003996351
+1250,Halifax,221,0.003988136
+5940,Kootenay,311,0.003975678
+2410,Gaspésie-Îles-de-la-Madeleine,339,0.003970552
+3595,Northwest / Nord-ouest,332,0.003956062
+2475,Saguenay-Lac-Saint-Jean,322,0.003953142
+3515,Kingston-Pembroke,221,0.00395122
+1230,Annapolis Valley,213,0.003949389
+2470,Mauricie,493,0.003947853
+1330,Saint John-St. Stephen,324,0.00394237
+4850,Red Deer,211,0.003941178
+2460,Outaouais,523,0.003931681
+3510,Ottawa,111,0.003927263
+5980,Northeast / Nord-est,524,0.003927169
+5930,Thompson-Okanagan,326,0.003899424
+1240,Southern / Sud,113,0.003893555
+1040,Notre Dame-Central Bonavista Bay,111,0.003892178
+1320,Moncton-Richibucto,333,0.003881541
+3590,Northeast / Nord-est,327,0.003878698
+4680,North / Nord,488,0.00387394
+4870,Athabasca-Grande Prairie-Peace River,522,0.00386575
+2420,Capitale-Nationale,483,0.003857467
+4620,South Central / Centre sud,314,0.003849312
+4810,Lethbridge-Medicine Hat,115,0.003836133
+2470,Mauricie,327,0.003830007
+3520,Muskoka-Kawarthas,327,0.003825985
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,332,0.003823198
+3560,London,325,0.003819582
+3570,Windsor-Sarnia,324,0.003812602
+3510,Ottawa,332,0.003796442
+3520,Muskoka-Kawarthas,492,0.003792226
+6110,Northwest Territories / Territoires du Nord-Ouest,485,0.003785882
+2415,Bas-Saint-Laurent,212,0.003782414
+2440,Montréal,335,0.003780666
+3595,Northwest / Nord-ouest,213,0.003773691
+2420,Capitale-Nationale,493,0.003771459
+1220,North Shore / Côte-nord,325,0.003766158
+1330,Saint John-St. Stephen,339,0.003763171
+4620,South Central / Centre sud,493,0.003746664
+2420,Capitale-Nationale,321,0.003741356
+2455,Laurentides,322,0.003739771
+2435,Montérégie,493,0.003729465
+5970,Nechako,311,0.003729024
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,483,0.003725048
+2455,Laurentides,113,0.00372496
+4730,Saskatoon-Biggar,488,0.003721008
+4870,Athabasca-Grande Prairie-Peace River,524,0.003704003
+3520,Muskoka-Kawarthas,112,0.003702203
+5940,Kootenay,312,0.003699294
+1230,Annapolis Valley,312,0.00369341
+3530,Toronto,492,0.003692007
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,323,0.003676861
+3515,Kingston-Pembroke,335,0.0036696
+4830,Calgary,481,0.00366701
+2415,Bas-Saint-Laurent,323,0.003659266
+4740,Yorkton-Melville,325,0.003658243
+1340,Fredericton-Oromocto,326,0.003657251
+4640,North Central / Centre nord,488,0.003649369
+1110,Prince Edward Island / Île-du-Prince-Édouard,115,0.003647943
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,325,0.003647909
+2420,Capitale-Nationale,327,0.003646747
+1220,North Shore / Côte-nord,315,0.003644669
+4860,Edmonton,327,0.003644086
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,334,0.00364362
+3570,Windsor-Sarnia,331,0.003640086
+1240,Southern / Sud,237,0.00363613
+3520,Muskoka-Kawarthas,212,0.003634686
+4740,Yorkton-Melville,115,0.003610108
+3515,Kingston-Pembroke,492,0.003601328
+4610,Southeast / Sud-est,334,0.003596634
+1220,North Shore / Côte-nord,336,0.003596073
+2433,Centre-du-Québec,115,0.003565618
+4820,Camrose-Drumheller,331,0.003564155
+4680,North / Nord,213,0.003559837
+4680,North / Nord,524,0.003559837
+1310,Campbellton-Miramichi,339,0.003557602
+3580,Stratford-Bruce Peninsula,493,0.003557147
+4760,Northern / Nord,488,0.003556418
+4810,Lethbridge-Medicine Hat,327,0.003547869
+2475,Saguenay-Lac-Saint-Jean,488,0.003531474
+2475,Saguenay-Lac-Saint-Jean,492,0.003531474
+4650,Winnipeg,492,0.003527407
+4810,Lethbridge-Medicine Hat,336,0.003525694
+4860,Edmonton,493,0.003512806
+5940,Kootenay,332,0.003507951
+2420,Capitale-Nationale,331,0.003504834
+6010,Yukon,221,0.003502627
+1220,North Shore / Côte-nord,327,0.003498882
+6110,Northwest Territories / Territoires du Nord-Ouest,524,0.003498347
+2420,Capitale-Nationale,337,0.003496233
+4710,Regina-Moose Mountain,488,0.003488081
+2455,Laurentides,339,0.003487985
+5950,Cariboo,333,0.003487145
+4880,Wood Buffalo-Cold Lake,522,0.003486623
+1310,Campbellton-Miramichi,523,0.003479125
+4710,Regina-Moose Mountain,321,0.003478445
+4660,Interlake,327,0.003474445
+5980,Northeast / Nord-est,332,0.003472786
+4880,Wood Buffalo-Cold Lake,111,0.003463835
+1210,Cape Breton,332,0.003460778
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,336,0.003457043
+1010,Avalon Peninsula,333,0.003442724
+5950,Cariboo,523,0.003430596
+3560,London,493,0.003430049
+4660,Interlake,115,0.003428728
+4610,Southeast / Sud-est,333,0.003426982
+2455,Laurentides,524,0.003421335
+4810,Lethbridge-Medicine Hat,485,0.003414823
+4730,Saskatoon-Biggar,481,0.00340744
+4820,Camrose-Drumheller,485,0.003406138
+3515,Kingston-Pembroke,112,0.003405047
+3570,Windsor-Sarnia,312,0.003404314
+3595,Northwest / Nord-ouest,311,0.003394919
+2460,Outaouais,111,0.00337456
+1310,Campbellton-Miramichi,327,0.00337449
+1320,Moncton-Richibucto,481,0.003370392
+4850,Red Deer,221,0.0033648
+3530,Toronto,322,0.003364682
+1230,Annapolis Valley,488,0.003364295
+2420,Capitale-Nationale,326,0.00336292
+2430,Estrie,488,0.003361887
+3515,Kingston-Pembroke,337,0.003353843
+4680,North / Nord,113,0.003350435
+5950,Cariboo,112,0.003336349
+3570,Windsor-Sarnia,339,0.003329557
+1220,North Shore / Côte-nord,524,0.003328798
+6010,Yukon,485,0.003314986
+5970,Nechako,111,0.003314688
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,314,0.003313453
+2415,Bas-Saint-Laurent,523,0.003307414
+2440,Montréal,322,0.003306709
+4680,North / Nord,484,0.003298084
+2433,Centre-du-Québec,221,0.003294469
+2425,Chaudière-Appalaches,322,0.003291628
+1230,Annapolis Valley,493,0.003291158
+1320,Moncton-Richibucto,334,0.003290525
+2480,Côte-Nord,337,0.003288479
+1240,Southern / Sud,115,0.00328217
+3515,Kingston-Pembroke,339,0.003277038
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,112,0.00325867
+2445,Laval,331,0.003257726
+2433,Centre-du-Québec,523,0.003253796
+1240,Southern / Sud,316,0.003249992
+4660,Interlake,311,0.003245863
+5980,Northeast / Nord-est,322,0.003245594
+3560,London,337,0.003240693
+4810,Lethbridge-Medicine Hat,221,0.00323743
+3515,Kingston-Pembroke,327,0.003234368
+2465,Abitibi-Témiscamingue,327,0.003231679
+2450,Lanaudière,336,0.003228035
+3510,Ottawa,333,0.003212977
+4640,North Central / Centre nord,523,0.003211444
+4830,Calgary,324,0.003205647
+1210,Cape Breton,113,0.0031971
+6010,Yukon,326,0.003189892
+4710,Regina-Moose Mountain,335,0.003189378
+5940,Kootenay,213,0.003189047
+2460,Outaouais,488,0.003183547
+2460,Outaouais,313,0.003183547
+3570,Windsor-Sarnia,112,0.003168542
+4880,Wood Buffalo-Cold Lake,115,0.003167586
+4650,Winnipeg,339,0.003166739
+1330,Saint John-St. Stephen,326,0.003153896
+1320,Moncton-Richibucto,112,0.003146764
+4850,Red Deer,485,0.003146712
+3510,Ottawa,327,0.003139717
+3580,Stratford-Bruce Peninsula,335,0.003139361
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,111,0.00313077
+4740,Yorkton-Melville,327,0.003128761
+5940,Kootenay,112,0.003125266
+1110,Prince Edward Island / Île-du-Prince-Édouard,322,0.003123929
+2470,Mauricie,335,0.003122928
+2425,Chaudière-Appalaches,523,0.00311149
+1230,Annapolis Valley,325,0.003108316
+1040,Notre Dame-Central Bonavista Bay,492,0.003105461
+4880,Wood Buffalo-Cold Lake,492,0.003099221
+4880,Wood Buffalo-Cold Lake,112,0.003099221
+1340,Fredericton-Oromocto,115,0.003096323
+4710,Regina-Moose Mountain,324,0.003093022
+2465,Abitibi-Témiscamingue,488,0.003088503
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,327,0.003086033
+2445,Laval,335,0.003085198
+5980,Northeast / Nord-est,325,0.003083314
+4880,Wood Buffalo-Cold Lake,327,0.003076432
+3550,Hamilton-Niagara Peninsula,334,0.003076083
+2440,Montréal,312,0.003073165
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,481,0.003073165
+2475,Saguenay-Lac-Saint-Jean,523,0.003070274
+3550,Hamilton-Niagara Peninsula,323,0.003060186
+5930,Thompson-Okanagan,333,0.003059454
+4670,Parklands,485,0.003058104
+4610,Southeast / Sud-est,523,0.003053746
+2450,Lanaudière,523,0.003052711
+3540,Kitchener-Waterloo-Barrie,313,0.003051131
+1220,North Shore / Côte-nord,312,0.003037224
+1320,Moncton-Richibucto,212,0.00303495
+3530,Toronto,327,0.003034831
+3570,Windsor-Sarnia,486,0.003024779
+2460,Outaouais,113,0.00302437
+3540,Kitchener-Waterloo-Barrie,331,0.003023594
+1010,Avalon Peninsula,312,0.003017447
+5950,Cariboo,111,0.003015909
+2460,Outaouais,323,0.003008452
+6010,Yukon,524,0.003002252
+2433,Centre-du-Québec,313,0.002996204
+3590,Northeast / Nord-est,492,0.00299543
+2470,Mauricie,315,0.002990351
+4680,North / Nord,485,0.002983981
+2440,Montréal,481,0.002975626
+3560,London,323,0.002975595
+4850,Red Deer,115,0.002975356
+4720,Swift Current-Moose Jaw,327,0.002971884
+3550,Hamilton-Niagara Peninsula,335,0.002970103
+2455,Laurentides,335,0.0029696
+4670,Parklands,115,0.002962538
+4870,Athabasca-Grande Prairie-Peace River,221,0.002959968
+4840,Banff-Jasper-Rocky Mountain House,112,0.00294681
+1040,Notre Dame-Central Bonavista Bay,327,0.002939837
+3595,Northwest / Nord-ouest,111,0.002931975
+3540,Kitchener-Waterloo-Barrie,221,0.002921706
+2455,Laurentides,112,0.002917762
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,339,0.002916474
+3570,Windsor-Sarnia,492,0.002909768
+4880,Wood Buffalo-Cold Lake,524,0.002894125
+5930,Thompson-Okanagan,327,0.002893912
+3510,Ottawa,481,0.002891156
+3515,Kingston-Pembroke,115,0.002884476
+2465,Abitibi-Témiscamingue,481,0.002883966
+2460,Outaouais,115,0.00288111
+3530,Toronto,335,0.002865612
+3530,Toronto,221,0.002850458
+4840,Banff-Jasper-Rocky Mountain House,524,0.002848583
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,336,0.002846366
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,334,0.002846366
+3550,Hamilton-Niagara Peninsula,112,0.002845576
+1110,Prince Edward Island / Île-du-Prince-Édouard,321,0.002841768
+5930,Thompson-Okanagan,337,0.002838732
+4630,Southwest / Sud-ouest,321,0.002837669
+4620,South Central / Centre sud,327,0.002822829
+2435,Montérégie,322,0.002812568
+3540,Kitchener-Waterloo-Barrie,322,0.002800542
+4750,Prince Albert,492,0.002799117
+2425,Chaudière-Appalaches,488,0.002792152
+2410,Gaspésie-Îles-de-la-Madeleine,336,0.002771114
+2440,Montréal,327,0.002768184
+1240,Southern / Sud,488,0.00276732
+4870,Athabasca-Grande Prairie-Peace River,212,0.002765871
+2420,Capitale-Nationale,112,0.002765163
+3595,Northwest / Nord-ouest,492,0.002763632
+2440,Montréal,492,0.002762689
+3580,Stratford-Bruce Peninsula,313,0.002757386
+4630,Southwest / Sud-ouest,485,0.002754208
+1320,Moncton-Richibucto,523,0.002747428
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,212,0.002734194
+2410,Gaspésie-Îles-de-la-Madeleine,112,0.002729754
+4710,Regina-Moose Mountain,526,0.00272687
+5940,Kootenay,485,0.00272132
+1320,Moncton-Richibucto,339,0.002715481
+4610,Southeast / Sud-est,524,0.002714441
+2450,Lanaudière,488,0.002712375
+4860,Edmonton,339,0.002710303
+3540,Kitchener-Waterloo-Barrie,493,0.002706915
+4830,Calgary,327,0.002705683
+2430,Estrie,113,0.002703867
+2465,Abitibi-Témiscamingue,111,0.002699883
+4860,Edmonton,492,0.002699715
+1220,North Shore / Côte-nord,492,0.002697055
+4740,Yorkton-Melville,221,0.002695548
+3560,London,314,0.002688856
+4830,Calgary,334,0.002685464
+2465,Abitibi-Témiscamingue,335,0.00267943
+2455,Laurentides,323,0.002673381
+1230,Annapolis Valley,339,0.002669495
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,327,0.002664087
+2460,Outaouais,337,0.002642344
+1210,Cape Breton,326,0.002636783
+3560,London,322,0.002629344
+2455,Laurentides,312,0.002628948
+5980,Northeast / Nord-est,481,0.002628931
+2460,Outaouais,339,0.002626427
+4730,Saskatoon-Biggar,327,0.00262352
+1350,Edmundston-Woodstock,523,0.002617552
+4680,North / Nord,311,0.002617527
+1310,Campbellton-Miramichi,221,0.002615884
+4860,Edmonton,323,0.002610784
+3570,Windsor-Sarnia,327,0.00260499
+4740,Yorkton-Melville,213,0.002599278
+3590,Northeast / Nord-est,322,0.0025986
+3570,Windsor-Sarnia,493,0.002593489
+4730,Saskatoon-Biggar,337,0.002592163
+1250,Halifax,326,0.00258437
+4670,Parklands,327,0.002580275
+4840,Banff-Jasper-Rocky Mountain House,486,0.002578459
+2465,Abitibi-Témiscamingue,312,0.002577161
+3550,Hamilton-Niagara Peninsula,483,0.002575326
+1250,Halifax,483,0.002569972
+3550,Hamilton-Niagara Peninsula,221,0.002564728
+1310,Campbellton-Miramichi,112,0.002563566
+4810,Lethbridge-Medicine Hat,325,0.002561118
+3590,Northeast / Nord-est,482,0.002560197
+5960,North Coast / Côte-nord,321,0.002559873
+5970,Nechako,481,0.002555072
+4840,Banff-Jasper-Rocky Mountain House,332,0.002553902
+5930,Thompson-Okanagan,339,0.002550567
+1010,Avalon Peninsula,492,0.002541541
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,333,0.002537893
+3590,Northeast / Nord-est,111,0.002534595
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,523,0.002528699
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,485,0.002528699
+3550,Hamilton-Niagara Peninsula,492,0.002527634
+3590,Northeast / Nord-est,311,0.002521794
+4830,Calgary,326,0.002520035
+4660,Interlake,313,0.002514401
+5940,Kootenay,339,0.002508717
+5930,Thompson-Okanagan,493,0.002507649
+5930,Thompson-Okanagan,492,0.002507649
+4840,Banff-Jasper-Rocky Mountain House,488,0.002504789
+4750,Prince Albert,327,0.002492645
+3520,Muskoka-Kawarthas,312,0.00248689
+4810,Lethbridge-Medicine Hat,211,0.002483508
+4830,Calgary,482,0.002481435
+2490,Nord-du-Québec,485,0.002475248
+4830,Calgary,339,0.002464892
+4620,South Central / Centre sud,523,0.00246356
+2415,Bas-Saint-Laurent,334,0.002462968
+4850,Red Deer,488,0.002461289
+3540,Kitchener-Waterloo-Barrie,492,0.002456326
+4830,Calgary,325,0.002453864
+4650,Winnipeg,335,0.002453331
+2435,Montérégie,212,0.002452559
+1230,Annapolis Valley,337,0.002450084
+2415,Bas-Saint-Laurent,339,0.002445375
+4610,Southeast / Sud-est,339,0.002442997
+4650,Winnipeg,315,0.002441441
+2430,Estrie,331,0.002440658
+3590,Northeast / Nord-est,336,0.002438587
+3590,Northeast / Nord-est,481,0.002438587
+2425,Chaudière-Appalaches,115,0.002431875
+4660,Interlake,493,0.002422968
+4830,Calgary,323,0.002420778
+2435,Montérégie,115,0.002418808
+4710,Regina-Moose Mountain,311,0.002418531
+2475,Saguenay-Lac-Saint-Jean,326,0.002411417
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,327,0.002408284
+3560,London,334,0.002402116
+1330,Saint John-St. Stephen,111,0.002401262
+4710,Regina-Moose Mountain,325,0.00239926
+6110,Northwest Territories / Territoires du Nord-Ouest,211,0.002396128
+2465,Abitibi-Témiscamingue,326,0.002393078
+3580,Stratford-Bruce Peninsula,483,0.002387347
+4840,Banff-Jasper-Rocky Mountain House,325,0.002382005
+4660,Interlake,485,0.002377252
+1250,Halifax,339,0.002375605
+2470,Mauricie,325,0.002371658
+4730,Saskatoon-Biggar,336,0.002362213
+1250,Halifax,323,0.002361207
+2425,Chaudière-Appalaches,334,0.002358182
+4840,Banff-Jasper-Rocky Mountain House,111,0.002357448
+2420,Capitale-Nationale,492,0.002352324
+4730,Saskatoon-Biggar,321,0.002351761
+1240,Southern / Sud,337,0.002349004
+4720,Swift Current-Moose Jaw,332,0.002346225
+3540,Kitchener-Waterloo-Barrie,323,0.002337916
+4710,Regina-Moose Mountain,115,0.002331811
+2415,Bas-Saint-Laurent,483,0.002322227
+3515,Kingston-Pembroke,113,0.002321235
+2450,Lanaudière,115,0.002320473
+1010,Avalon Peninsula,336,0.002318776
+5930,Thompson-Okanagan,221,0.002317582
+3580,Stratford-Bruce Peninsula,312,0.002315727
+4860,Edmonton,212,0.002314344
+4710,Regina-Moose Mountain,327,0.00231254
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,322,0.002311844
+1210,Cape Breton,483,0.002307185
+4720,Swift Current-Moose Jaw,523,0.002307121
+1320,Moncton-Richibucto,336,0.002300173
+1010,Avalon Peninsula,332,0.002298525
+3520,Muskoka-Kawarthas,221,0.002295591
+4810,Lethbridge-Medicine Hat,488,0.002295027
+4860,Edmonton,331,0.002288935
+1340,Fredericton-Oromocto,332,0.002288586
+1010,Avalon Peninsula,112,0.002288399
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,321,0.00228787
+1350,Edmundston-Woodstock,327,0.002284409
+4810,Lethbridge-Medicine Hat,339,0.00228394
+3580,Stratford-Bruce Peninsula,492,0.00226798
+1010,Avalon Peninsula,114,0.002258022
+4630,Southwest / Sud-ouest,327,0.002253443
+4750,Prince Albert,488,0.002247466
+3530,Toronto,481,0.002241269
+2420,Capitale-Nationale,335,0.002240513
+1220,North Shore / Côte-nord,493,0.002235397
+1220,North Shore / Côte-nord,333,0.002235397
+2410,Gaspésie-Îles-de-la-Madeleine,327,0.002233435
+2410,Gaspésie-Îles-de-la-Madeleine,492,0.002233435
+3540,Kitchener-Waterloo-Barrie,312,0.00223052
+2465,Abitibi-Témiscamingue,337,0.002229449
+4850,Red Deer,321,0.002227623
+1340,Fredericton-Oromocto,112,0.002221275
+3510,Ottawa,336,0.002218734
+5960,North Coast / Côte-nord,523,0.002218556
+1250,Halifax,325,0.002210032
+5970,Nechako,212,0.002209792
+1210,Cape Breton,485,0.002208306
+4870,Athabasca-Grande Prairie-Peace River,492,0.002199757
+4650,Winnipeg,322,0.002199675
+4680,North / Nord,321,0.002198723
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,335,0.002197109
+4640,North Central / Centre nord,325,0.002189621
+4640,North Central / Centre nord,492,0.002189621
+4650,Winnipeg,331,0.002179858
+2440,Montréal,482,0.00217196
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,312,0.00216866
+1250,Halifax,482,0.002159641
+2440,Montréal,331,0.002158222
+3550,Hamilton-Niagara Peninsula,321,0.002156703
+6110,Northwest Territories / Territoires du Nord-Ouest,115,0.002156515
+1250,Halifax,492,0.002152442
+4870,Athabasca-Grande Prairie-Peace River,481,0.002151233
+2410,Gaspésie-Îles-de-la-Madeleine,524,0.002150716
+4750,Prince Albert,485,0.002145309
+1250,Halifax,333,0.002145243
+4730,Saskatoon-Biggar,325,0.002142715
+1210,Cape Breton,112,0.002142386
+5970,Nechako,327,0.002140736
+5970,Nechako,483,0.002140736
+2430,Estrie,314,0.002129594
+2433,Centre-du-Québec,212,0.002128525
+3560,London,115,0.002126198
+1320,Moncton-Richibucto,312,0.002124465
+1230,Annapolis Valley,113,0.002120968
+4640,North Central / Centre nord,339,0.002116634
+3570,Windsor-Sarnia,212,0.002116195
+1040,Notre Dame-Central Bonavista Bay,115,0.002111714
+4720,Swift Current-Moose Jaw,485,0.002111602
+1340,Fredericton-Oromocto,523,0.002109089
+4620,South Central / Centre sud,315,0.002104291
+2450,Lanaudière,323,0.002093582
+1240,Southern / Sud,523,0.002091579
+4730,Saskatoon-Biggar,493,0.002090454
+2450,Lanaudière,212,0.002083269
+3510,Ottawa,493,0.002080063
+5970,Nechako,336,0.00207168
+1040,Notre Dame-Central Bonavista Bay,315,0.002070308
+1040,Notre Dame-Central Bonavista Bay,493,0.002070308
+2460,Outaouais,327,0.002069306
+2425,Chaudière-Appalaches,314,0.002063409
+2415,Bas-Saint-Laurent,325,0.002058337
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,213,0.00205664
+4820,Camrose-Drumheller,327,0.002054217
+3595,Northwest / Nord-ouest,523,0.002048174
+1320,Moncton-Richibucto,327,0.002044598
+3580,Stratford-Bruce Peninsula,339,0.002041182
+2480,Côte-Nord,111,0.002041125
+3580,Stratford-Bruce Peninsula,322,0.002029245
+3510,Ottawa,313,0.002019885
+4860,Edmonton,111,0.002017905
+3530,Toronto,111,0.002010424
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,492,0.002008387
+3530,Toronto,321,0.001997796
+1250,Halifax,213,0.001994068
+5960,North Coast / Côte-nord,524,0.001991012
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,111,0.001988072
+5980,Northeast / Nord-est,221,0.001979812
+2445,Laval,492,0.001978992
+3515,Kingston-Pembroke,212,0.001971343
+2415,Bas-Saint-Laurent,213,0.001970374
+2433,Centre-du-Québec,324,0.001965835
+4660,Interlake,339,0.001965804
+3590,Northeast / Nord-est,326,0.001964951
+2465,Abitibi-Témiscamingue,523,0.001963552
+4880,Wood Buffalo-Cold Lake,488,0.001959801
+4810,Lethbridge-Medicine Hat,337,0.001951328
+4820,Camrose-Drumheller,324,0.001948873
+2425,Chaudière-Appalaches,325,0.001948775
+3520,Muskoka-Kawarthas,323,0.001935498
+4650,Winnipeg,321,0.001930165
+2480,Côte-Nord,483,0.001927729
+2480,Côte-Nord,313,0.001927729
+2480,Côte-Nord,493,0.001927729
+2465,Abitibi-Témiscamingue,493,0.001922644
+2465,Abitibi-Témiscamingue,492,0.001922644
+6110,Northwest Territories / Territoires du Nord-Ouest,486,0.001916902
+1110,Prince Edward Island / Île-du-Prince-Édouard,485,0.001914666
+4870,Athabasca-Grande Prairie-Peace River,311,0.001908613
+1340,Fredericton-Oromocto,333,0.001907155
+2435,Montérégie,492,0.001904108
+5950,Cariboo,324,0.001903793
+1350,Edmundston-Woodstock,315,0.001903674
+1010,Avalon Peninsula,337,0.001893498
+4870,Athabasca-Grande Prairie-Peace River,485,0.001892438
+1310,Campbellton-Miramichi,333,0.001883436
+2455,Laurentides,115,0.001880994
+1250,Halifax,114,0.001878887
+1210,Cape Breton,111,0.001878708
+4860,Edmonton,324,0.001876038
+4810,Lethbridge-Medicine Hat,493,0.001873718
+3510,Ottawa,335,0.001873365
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,312,0.00187328
+4830,Calgary,212,0.001869348
+1240,Southern / Sud,327,0.001866332
+4730,Saskatoon-Biggar,115,0.001860504
+2445,Laval,321,0.001857208
+4650,Winnipeg,327,0.001854861
+2430,Estrie,323,0.001854422
+1320,Moncton-Richibucto,485,0.001852917
+2480,Côte-Nord,492,0.001852132
+2435,Montérégie,312,0.00185067
+6210,Nunavut,523,0.001848429
+2450,Lanaudière,492,0.001846065
+3570,Windsor-Sarnia,337,0.00184592
+2430,Estrie,334,0.001842458
+2465,Abitibi-Témiscamingue,315,0.00184083
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,212,0.001840039
+3530,Toronto,315,0.001839689
+3515,Kingston-Pembroke,526,0.0018348
+1310,Campbellton-Miramichi,326,0.001831119
+2435,Montérégie,315,0.001828169
+4870,Athabasca-Grande Prairie-Peace River,327,0.00182774
+4870,Athabasca-Grande Prairie-Peace River,339,0.00182774
+2425,Chaudière-Appalaches,335,0.001825953
+3570,Windsor-Sarnia,321,0.001822918
+5960,North Coast / Côte-nord,112,0.001820354
+3515,Kingston-Pembroke,312,0.001817732
+1340,Fredericton-Oromocto,337,0.001817407
+4840,Banff-Jasper-Rocky Mountain House,311,0.0018172
+2433,Centre-du-Québec,113,0.001816703
+4670,Parklands,492,0.001815749
+2450,Lanaudière,312,0.001815125
+3510,Ottawa,331,0.001813187
+4710,Regina-Moose Mountain,112,0.001811489
+5950,Cariboo,327,0.001809545
+4830,Calgary,492,0.001808691
+4820,Camrose-Drumheller,339,0.001808414
+3595,Northwest / Nord-ouest,327,0.00179566
+1330,Saint John-St. Stephen,312,0.001791986
+3550,Hamilton-Niagara Peninsula,322,0.00179107
+3540,Kitchener-Waterloo-Barrie,314,0.001789924
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,114,0.001780732
+3590,Northeast / Nord-est,112,0.001772936
+2475,Saguenay-Lac-Saint-Jean,481,0.001765737
+1250,Halifax,481,0.001763707
+1350,Edmundston-Woodstock,337,0.001760899
+6210,Nunavut,524,0.001760408
+5950,Cariboo,311,0.001752997
+4630,Southwest / Sud-ouest,339,0.001752678
+2425,Chaudière-Appalaches,315,0.00175226
+2420,Capitale-Nationale,312,0.001750267
+2430,Estrie,115,0.001746746
+2420,Capitale-Nationale,336,0.001745966
+1240,Southern / Sud,312,0.001737619
+5950,Cariboo,325,0.001734148
+5950,Cariboo,492,0.001734148
+4880,Wood Buffalo-Cold Lake,321,0.001731917
+4850,Red Deer,331,0.001729134
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,115,0.001725937
+4830,Calgary,331,0.0017223
+4820,Camrose-Drumheller,336,0.001720626
+5930,Thompson-Okanagan,323,0.001716728
+3560,London,492,0.001715025
+1210,Cape Breton,213,0.001713909
+1010,Avalon Peninsula,321,0.001711236
+5960,North Coast / Côte-nord,492,0.001706582
+2450,Lanaudière,493,0.00170168
+1040,Notre Dame-Central Bonavista Bay,523,0.001697652
+4610,Southeast / Sud-est,482,0.001696526
+4610,Southeast / Sud-est,322,0.001696526
+4610,Southeast / Sud-est,493,0.001696526
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,221,0.001696353
+3530,Toronto,331,0.001690676
+2460,Outaouais,221,0.00168728
+2475,Saguenay-Lac-Saint-Jean,315,0.001686674
+6110,Northwest Territories / Territoires du Nord-Ouest,323,0.00167729
+3510,Ottawa,321,0.0016719
+1350,Edmundston-Woodstock,325,0.001665715
+2470,Mauricie,492,0.00166458
+2420,Capitale-Nationale,322,0.001664258
+5970,Nechako,523,0.001657344
+2465,Abitibi-Témiscamingue,336,0.001656747
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,333,0.001656726
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,327,0.001656726
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,337,0.001656726
+1010,Avalon Peninsula,111,0.001650482
+2470,Mauricie,312,0.001649849
+4870,Athabasca-Grande Prairie-Peace River,333,0.001649818
+2430,Estrie,212,0.00163907
+1340,Fredericton-Oromocto,327,0.00163791
+4830,Calgary,312,0.001637747
+2415,Bas-Saint-Laurent,492,0.001636114
+2470,Mauricie,331,0.001635118
+1110,Prince Edward Island / Île-du-Prince-Édouard,327,0.001632505
+1330,Saint John-St. Stephen,115,0.001630707
+1250,Halifax,321,0.001626929
+6010,Yukon,311,0.00162622
+5930,Thompson-Okanagan,213,0.00162476
+4680,North / Nord,327,0.001622867
+5980,Northeast / Nord-est,311,0.001622797
+1250,Halifax,324,0.00161973
+4760,Northern / Nord,524,0.001616554
+2433,Centre-du-Québec,493,0.001613341
+4850,Red Deer,339,0.001604511
+4720,Swift Current-Moose Jaw,482,0.001603253
+3510,Ottawa,492,0.001601256
+1320,Moncton-Richibucto,483,0.001597342
+3540,Kitchener-Waterloo-Barrie,115,0.001597163
+1330,Saint John-St. Stephen,493,0.001594868
+4650,Winnipeg,211,0.001593278
+1110,Prince Edward Island / Île-du-Prince-Édouard,323,0.001592196
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,487,0.001589104
+4850,Red Deer,323,0.001588934
+1210,Cape Breton,336,0.00158207
+1320,Moncton-Richibucto,113,0.001581369
+1220,North Shore / Côte-nord,314,0.001579357
+1250,Halifax,312,0.001576538
+2460,Outaouais,332,0.001575856
+2410,Gaspésie-Îles-de-la-Madeleine,487,0.001571677
+1340,Fredericton-Oromocto,485,0.001570598
+1310,Campbellton-Miramichi,526,0.00156953
+3540,Kitchener-Waterloo-Barrie,212,0.001566872
+4720,Swift Current-Moose Jaw,211,0.00156415
+2490,Nord-du-Québec,111,0.00155587
+4660,Interlake,114,0.001554357
+3530,Toronto,312,0.001537116
+1230,Annapolis Valley,333,0.001535874
+3510,Ottawa,326,0.001535845
+4640,North Central / Centre nord,336,0.001532735
+2445,Laval,334,0.00153245
+2440,Montréal,313,0.001530401
+2460,Outaouais,112,0.001528103
+4650,Winnipeg,334,0.001517974
+2415,Bas-Saint-Laurent,326,0.001512966
+4850,Red Deer,336,0.001511045
+3560,London,335,0.001509438
+4660,Interlake,321,0.00150864
+2455,Laurentides,313,0.001495908
+4730,Saskatoon-Biggar,339,0.001494675
+4740,Yorkton-Melville,113,0.001492178
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,523,0.001491054
+1310,Campbellton-Miramichi,337,0.001491054
+1040,Notre Dame-Central Bonavista Bay,213,0.001490622
+5950,Cariboo,312,0.001489105
+2490,Nord-du-Québec,332,0.001485149
+5930,Thompson-Okanagan,335,0.001483743
+4880,Wood Buffalo-Cold Lake,113,0.001481245
+1240,Southern / Sud,314,0.001480194
+2435,Montérégie,314,0.001479411
+5960,North Coast / Côte-nord,327,0.001479037
+4840,Banff-Jasper-Rocky Mountain House,115,0.001473405
+4840,Banff-Jasper-Rocky Mountain House,492,0.001473405
+2470,Mauricie,316,0.001473079
+3595,Northwest / Nord-ouest,526,0.001473002
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,337,0.001467585
+3560,London,312,0.001466157
+4660,Interlake,213,0.001462924
+5980,Northeast / Nord-est,333,0.001460517
+3515,Kingston-Pembroke,334,0.001459306
+3595,Northwest / Nord-ouest,339,0.001458973
+1220,North Shore / Côte-nord,334,0.001457868
+4860,Edmonton,334,0.001456788
+2450,Lanaudière,322,0.001454163
+3550,Hamilton-Niagara Peninsula,115,0.001451933
+4750,Prince Albert,339,0.001450637
+4850,Red Deer,212,0.001448734
+1010,Avalon Peninsula,327,0.001447969
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,493,0.001444971
+3530,Toronto,213,0.001442656
+4830,Calgary,335,0.001441071
+3590,Northeast / Nord-est,313,0.001440111
+6110,Northwest Territories / Territoires du Nord-Ouest,325,0.001437677
+2480,Côte-Nord,481,0.001436347
+3510,Ottawa,526,0.001428571
+5940,Kootenay,325,0.001424441
+3530,Toronto,212,0.001423461
+4810,Lethbridge-Medicine Hat,492,0.001419147
+4660,Interlake,212,0.001417208
+3530,Toronto,526,0.001411338
+4810,Lethbridge-Medicine Hat,312,0.00140806
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,331,0.001407909
+4720,Swift Current-Moose Jaw,492,0.001407735
+4720,Swift Current-Moose Jaw,493,0.001407735
+2430,Estrie,221,0.001399789
+2420,Capitale-Nationale,481,0.001393333
+4610,Southeast / Sud-est,213,0.001391151
+3540,Kitchener-Waterloo-Barrie,526,0.001390633
+4860,Edmonton,337,0.001386913
+1210,Cape Breton,337,0.001384311
+3510,Ottawa,221,0.001381476
+6010,Yukon,492,0.001376032
+1250,Halifax,526,0.001374971
+2450,Lanaudière,113,0.001371657
+4660,Interlake,312,0.001371491
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,315,0.001371451
+4820,Camrose-Drumheller,493,0.001369478
+1340,Fredericton-Oromocto,323,0.001368664
+4720,Swift Current-Moose Jaw,312,0.001368631
+1330,Saint John-St. Stephen,333,0.00136191
+2430,Estrie,316,0.001351933
+2430,Estrie,312,0.001351933
+1210,Cape Breton,312,0.001351351
+2425,Chaudière-Appalaches,212,0.001342853
+6110,Northwest Territories / Territoires du Nord-Ouest,492,0.001341832
+5940,Kootenay,492,0.0013394
+4670,Parklands,488,0.00133792
+4670,Parklands,213,0.00133792
+2415,Bas-Saint-Laurent,114,0.00133704
+3580,Stratford-Bruce Peninsula,316,0.001336914
+3590,Northeast / Nord-est,339,0.001331302
+5980,Northeast / Nord-est,339,0.001330694
+2465,Abitibi-Témiscamingue,325,0.001329488
+3520,Muskoka-Kawarthas,337,0.001327842
+2435,Montérégie,313,0.001327532
+1340,Fredericton-Oromocto,311,0.00132379
+2410,Gaspésie-Îles-de-la-Madeleine,337,0.001323517
+4610,Southeast / Sud-est,113,0.00132329
+2440,Montréal,324,0.001321585
+1210,Cape Breton,482,0.001318392
+2455,Laurentides,212,0.001318177
+4820,Camrose-Drumheller,321,0.001316806
+2430,Estrie,492,0.001316041
+4640,North Central / Centre nord,493,0.001313773
+6010,Yukon,312,0.001313485
+1220,North Shore / Côte-nord,485,0.001312081
+4680,North / Nord,523,0.001308763
+3510,Ottawa,521,0.001308216
+1340,Fredericton-Oromocto,212,0.001301353
+1340,Fredericton-Oromocto,312,0.001301353
+3510,Ottawa,337,0.001287284
+3570,Windsor-Sarnia,481,0.001276618
+2490,Nord-du-Québec,523,0.001272984
+4860,Edmonton,112,0.001272572
+3510,Ottawa,115,0.001268969
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,113,0.001266367
+2475,Saguenay-Lac-Saint-Jean,221,0.001265005
+3570,Windsor-Sarnia,213,0.001259366
+2480,Côte-Nord,524,0.001247354
+1230,Annapolis Valley,492,0.001243326
+5970,Nechako,492,0.001243008
+5970,Nechako,332,0.001243008
+2410,Gaspésie-Îles-de-la-Madeleine,482,0.001240797
+4640,North Central / Centre nord,485,0.001240785
+1220,North Shore / Côte-nord,483,0.001239187
+2440,Montréal,526,0.001239157
+2475,Saguenay-Lac-Saint-Jean,323,0.001238651
+3515,Kingston-Pembroke,323,0.001237423
+1330,Saint John-St. Stephen,492,0.001236471
+5930,Thompson-Okanagan,322,0.001232365
+2430,Estrie,335,0.001232293
+1250,Halifax,212,0.001230995
+3560,London,481,0.001228109
+4710,Regina-Moose Mountain,336,0.001223719
+4850,Red Deer,493,0.001215067
+1220,North Shore / Côte-nord,316,0.00121489
+1220,North Shore / Côte-nord,335,0.00121489
+4710,Regina-Moose Mountain,323,0.001214083
+4650,Winnipeg,312,0.001212794
+1110,Prince Edward Island / Île-du-Prince-Édouard,334,0.001209263
+4880,Wood Buffalo-Cold Lake,486,0.001207785
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,323,0.00120585
+2435,Montérégie,221,0.001203779
+4740,Yorkton-Melville,488,0.001203369
+4820,Camrose-Drumheller,326,0.001193904
+3570,Windsor-Sarnia,334,0.00119036
+4750,Prince Albert,323,0.001185028
+3570,Windsor-Sarnia,313,0.001184609
+4860,Edmonton,481,0.001181523
+4730,Saskatoon-Biggar,326,0.001181106
+2445,Laval,322,0.001177247
+1310,Campbellton-Miramichi,492,0.001177148
+4830,Calgary,115,0.001174546
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,114,0.001174151
+4730,Saskatoon-Biggar,211,0.001170654
+2435,Montérégie,481,0.001167216
+2420,Capitale-Nationale,212,0.001165411
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,483,0.0011645
+4860,Edmonton,486,0.001162466
+4880,Wood Buffalo-Cold Lake,325,0.001162208
+4650,Winnipeg,111,0.00116127
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,237,0.001159708
+2475,Saguenay-Lac-Saint-Jean,312,0.001159588
+4860,Edmonton,336,0.001156113
+4740,Yorkton-Melville,485,0.001155235
+1210,Cape Breton,492,0.001153593
+4850,Red Deer,481,0.001152756
+4670,Parklands,339,0.001146789
+4670,Parklands,332,0.001146789
+4710,Regina-Moose Mountain,339,0.001146634
+4750,Prince Albert,212,0.001144165
+4750,Prince Albert,326,0.001144165
+4880,Wood Buffalo-Cold Lake,315,0.001139419
+4880,Wood Buffalo-Cold Lake,339,0.001139419
+5960,North Coast / Côte-nord,312,0.001137721
+1010,Avalon Peninsula,339,0.001134074
+1010,Avalon Peninsula,323,0.001134074
+2475,Saguenay-Lac-Saint-Jean,487,0.001133234
+4840,Banff-Jasper-Rocky Mountain House,333,0.001129611
+3590,Northeast / Nord-est,493,0.001126487
+1240,Southern / Sud,493,0.001126235
+2430,Estrie,493,0.001124617
+2475,Saguenay-Lac-Saint-Jean,336,0.001120057
+4810,Lethbridge-Medicine Hat,331,0.001119796
+4610,Southeast / Sud-est,481,0.001119707
+4610,Southeast / Sud-est,326,0.001119707
+4610,Southeast / Sud-est,336,0.001119707
+1040,Notre Dame-Central Bonavista Bay,312,0.001117966
+3515,Kingston-Pembroke,487,0.001117948
+1250,Halifax,337,0.001115814
+3520,Muskoka-Kawarthas,493,0.001114037
+4810,Lethbridge-Medicine Hat,212,0.001108709
+1110,Prince Edward Island / Île-du-Prince-Édouard,483,0.001108491
+5970,Nechako,323,0.001104896
+1320,Moncton-Richibucto,115,0.001102166
+4680,North / Nord,332,0.001099361
+1310,Campbellton-Miramichi,323,0.001098671
+4640,North Central / Centre nord,337,0.001094811
+1240,Southern / Sud,339,0.001094057
+1240,Southern / Sud,492,0.001094057
+4860,Edmonton,211,0.001090473
+4850,Red Deer,334,0.001090445
+2420,Capitale-Nationale,487,0.001088004
+1210,Cape Breton,115,0.001087673
+1210,Cape Breton,321,0.001087673
+4810,Lethbridge-Medicine Hat,323,0.001086535
+2445,Laval,315,0.001085909
+2433,Centre-du-Québec,312,0.001084599
+1340,Fredericton-Oromocto,492,0.001076982
+4730,Saskatoon-Biggar,312,0.001076584
+2420,Capitale-Nationale,113,0.001075102
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,492,0.001074982
+2455,Laurentides,315,0.001073796
+2433,Centre-du-Québec,314,0.001071041
+4860,Edmonton,482,0.001069299
+2475,Saguenay-Lac-Saint-Jean,314,0.001067348
+6010,Yukon,115,0.001063297
+6010,Yukon,323,0.001063297
+5940,Kootenay,483,0.001063016
+2490,Nord-du-Québec,524,0.00106082
+3550,Hamilton-Niagara Peninsula,324,0.001054506
+6110,Northwest Territories / Territoires du Nord-Ouest,114,0.001054296
+4670,Parklands,212,0.001051223
+4670,Parklands,337,0.001051223
+1350,Edmundston-Woodstock,212,0.001047021
+1350,Edmundston-Woodstock,221,0.001047021
+1350,Edmundston-Woodstock,314,0.001047021
+1220,North Shore / Côte-nord,213,0.001044805
+3580,Stratford-Bruce Peninsula,325,0.001038496
+2415,Bas-Saint-Laurent,493,0.001037965
+2445,Laval,327,0.001035165
+3515,Kingston-Pembroke,324,0.001032608
+4630,Southwest / Sud-ouest,492,0.00102935
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,482,0.001024031
+1010,Avalon Peninsula,331,0.001022692
+1210,Cape Breton,323,0.001021753
+2480,Côte-Nord,523,0.001020562
+5950,Cariboo,337,0.001017869
+2433,Centre-du-Québec,492,0.001016811
+4720,Swift Current-Moose Jaw,337,0.001016697
+4830,Calgary,111,0.001014631
+2440,Montréal,314,0.001011108
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,325,0.001003452
+2440,Montréal,115,0.001001492
+6010,Yukon,332,0.001000751
+3590,Northeast / Nord-est,325,0.000998477
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,492,0.000994036
+2410,Gaspésie-Îles-de-la-Madeleine,493,0.000992638
+3515,Kingston-Pembroke,315,0.000989938
+1210,Cape Breton,314,0.000988794
+1330,Saint John-St. Stephen,482,0.000985592
+2455,Laurentides,324,0.00098493
+4730,Saskatoon-Biggar,492,0.000982513
+4730,Saskatoon-Biggar,323,0.000982513
+4850,Red Deer,492,0.0009814
+4760,Northern / Nord,491,0.000969932
+4760,Northern / Nord,333,0.000969932
+2430,Estrie,324,0.000969085
+6210,Nunavut,485,0.000968225
+2415,Bas-Saint-Laurent,221,0.000967594
+1110,Prince Edward Island / Île-du-Prince-Édouard,492,0.00096741
+5960,North Coast / Côte-nord,111,0.000967063
+5970,Nechako,221,0.000966784
+3590,Northeast / Nord-est,337,0.000966474
+1240,Southern / Sud,483,0.000965344
+4650,Winnipeg,526,0.000963101
+4740,Yorkton-Melville,321,0.000962696
+4740,Yorkton-Melville,336,0.000962696
+1210,Cape Breton,339,0.000955834
+2460,Outaouais,325,0.000955064
+4710,Regina-Moose Mountain,337,0.000953923
+1040,Notre Dame-Central Bonavista Bay,332,0.000952342
+1350,Edmundston-Woodstock,493,0.000951837
+3550,Hamilton-Niagara Peninsula,315,0.000948525
+4630,Southwest / Sud-ouest,493,0.00094589
+3520,Muskoka-Kawarthas,115,0.000945243
+2440,Montréal,321,0.000943793
+1340,Fredericton-Oromocto,336,0.000942359
+6010,Yukon,491,0.000938204
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,493,0.000934767
+4850,Red Deer,324,0.000934667
+4710,Regina-Moose Mountain,312,0.000925016
+4620,South Central / Centre sud,485,0.000923835
+2475,Saguenay-Lac-Saint-Jean,335,0.0009224
+3530,Toronto,482,0.000921865
+4610,Southeast / Sud-est,485,0.000916124
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,221,0.000916072
+1310,Campbellton-Miramichi,336,0.000915559
+4740,Yorkton-Melville,493,0.000914561
+4660,Interlake,334,0.000914328
+4660,Interlake,322,0.000914328
+1330,Saint John-St. Stephen,334,0.000913913
+4820,Camrose-Drumheller,323,0.000912985
+3595,Northwest / Nord-ouest,112,0.000911858
+2410,Gaspésie-Îles-de-la-Madeleine,323,0.000909918
+2410,Gaspésie-Îles-de-la-Madeleine,332,0.000909918
+2460,Outaouais,212,0.000907311
+1110,Prince Edward Island / Île-du-Prince-Édouard,212,0.000906947
+4720,Swift Current-Moose Jaw,323,0.000899386
+1340,Fredericton-Oromocto,324,0.000897485
+3515,Kingston-Pembroke,314,0.000896065
+1320,Moncton-Richibucto,314,0.000894512
+1250,Halifax,327,0.000892651
+4680,North / Nord,111,0.000889959
+1010,Avalon Peninsula,334,0.000880932
+6210,Nunavut,325,0.000880204
+1320,Moncton-Richibucto,325,0.000878538
+1230,Annapolis Valley,323,0.000877642
+2460,Outaouais,492,0.000875476
+4830,Calgary,336,0.000874936
+3540,Kitchener-Waterloo-Barrie,315,0.000872932
+4830,Calgary,112,0.000871259
+3595,Northwest / Nord-ouest,333,0.000869773
+1040,Notre Dame-Central Bonavista Bay,326,0.000869529
+1250,Halifax,315,0.000863856
+4630,Southwest / Sud-ouest,336,0.000862429
+4720,Swift Current-Moose Jaw,321,0.000860282
+2455,Laurentides,492,0.000859037
+5950,Cariboo,339,0.000848224
+4730,Saskatoon-Biggar,324,0.000846634
+2475,Saguenay-Lac-Saint-Jean,325,0.000843337
+4680,North / Nord,115,0.000837609
+3550,Hamilton-Niagara Peninsula,314,0.000837246
+2440,Montréal,483,0.000836637
+1240,Southern / Sud,487,0.000836632
+4630,Southwest / Sud-ouest,323,0.000834608
+2445,Laval,313,0.000832192
+1340,Fredericton-Oromocto,493,0.000830173
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,332,0.000828363
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,323,0.000828363
+1040,Notre Dame-Central Bonavista Bay,483,0.000828123
+1040,Notre Dame-Central Bonavista Bay,335,0.000828123
+2460,Outaouais,336,0.000827722
+3550,Hamilton-Niagara Peninsula,487,0.000826648
+3550,Hamilton-Niagara Peninsula,481,0.000823998
+4620,South Central / Centre sud,212,0.000821187
+4620,South Central / Centre sud,488,0.000821187
+4710,Regina-Moose Mountain,492,0.000819024
+2420,Capitale-Nationale,315,0.000817078
+1320,Moncton-Richibucto,482,0.000814644
+3590,Northeast / Nord-est,323,0.000812862
+5980,Northeast / Nord-est,327,0.000811399
+1310,Campbellton-Miramichi,213,0.000810924
+2415,Bas-Saint-Laurent,312,0.000809261
+4870,Athabasca-Grande Prairie-Peace River,331,0.000808734
+4760,Northern / Nord,327,0.000808277
+4760,Northern / Nord,492,0.000808277
+4760,Northern / Nord,312,0.000808277
+4760,Northern / Nord,237,0.000808277
+5940,Kootenay,333,0.000807892
+4820,Camrose-Drumheller,312,0.000807641
+4820,Camrose-Drumheller,492,0.000807641
+2475,Saguenay-Lac-Saint-Jean,493,0.000803806
+1250,Halifax,322,0.000799067
+1010,Avalon Peninsula,115,0.000789801
+4860,Edmonton,335,0.000787682
+4810,Lethbridge-Medicine Hat,481,0.000787183
+5940,Kootenay,481,0.000786632
+3595,Northwest / Nord-ouest,493,0.000785601
+2455,Laurentides,493,0.000784982
+5930,Thompson-Okanagan,334,0.00078479
+2420,Capitale-Nationale,316,0.000782675
+4830,Calgary,526,0.000781193
+2470,Mauricie,212,0.000780732
+2455,Laurentides,213,0.000777576
+1220,North Shore / Côte-nord,339,0.000777529
+3520,Muskoka-Kawarthas,113,0.00077645
+4740,Yorkton-Melville,326,0.000770156
+4620,South Central / Centre sud,221,0.000769862
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,332,0.000762623
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,325,0.000761835
+1350,Edmundston-Woodstock,485,0.00076147
+4650,Winnipeg,316,0.000760969
+1210,Cape Breton,327,0.000758075
+2465,Abitibi-Témiscamingue,339,0.000756786
+2465,Abitibi-Témiscamingue,323,0.000756786
+2480,Côte-Nord,312,0.000755972
+3570,Windsor-Sarnia,114,0.000753319
+3540,Kitchener-Waterloo-Barrie,316,0.000751768
+1320,Moncton-Richibucto,213,0.000750751
+6010,Yukon,337,0.000750563
+4860,Edmonton,115,0.000745333
+2425,Chaudière-Appalaches,492,0.00074512
+4720,Swift Current-Moose Jaw,339,0.000742971
+2450,Lanaudière,331,0.000742551
+4730,Saskatoon-Biggar,335,0.000742111
+2415,Bas-Saint-Laurent,316,0.00073889
+4840,Banff-Jasper-Rocky Mountain House,481,0.000736703
+1320,Moncton-Richibucto,323,0.000734777
+1330,Saint John-St. Stephen,314,0.000734714
+1250,Halifax,487,0.000734278
+4710,Regina-Moose Mountain,326,0.000732304
+3520,Muskoka-Kawarthas,324,0.000731438
+2445,Laval,314,0.000730705
+4640,North Central / Centre nord,326,0.000729874
+1110,Prince Edward Island / Île-du-Prince-Édouard,113,0.000725558
+1210,Cape Breton,493,0.000725115
+6110,Northwest Territories / Territoires du Nord-Ouest,327,0.000718838
+2480,Côte-Nord,339,0.000718174
+2420,Capitale-Nationale,324,0.000718168
+2460,Outaouais,326,0.000716298
+3595,Northwest / Nord-ouest,323,0.000715458
+1350,Edmundston-Woodstock,323,0.000713878
+4610,Southeast / Sud-est,221,0.000712541
+4870,Athabasca-Grande Prairie-Peace River,337,0.000711686
+2445,Laval,212,0.000710407
+1240,Southern / Sud,221,0.000707919
+2490,Nord-du-Québec,526,0.000707214
+2490,Nord-du-Québec,327,0.000707214
+2490,Nord-du-Québec,337,0.000707214
+2490,Nord-du-Québec,325,0.000707214
+3550,Hamilton-Niagara Peninsula,313,0.00070477
+1040,Notre Dame-Central Bonavista Bay,337,0.000703905
+3595,Northwest / Nord-ouest,486,0.00070143
+1250,Halifax,335,0.000691085
+2450,Lanaudière,315,0.000690985
+3570,Windsor-Sarnia,322,0.000690064
+3540,Kitchener-Waterloo-Barrie,481,0.000688432
+4840,Banff-Jasper-Rocky Mountain House,339,0.000687589
+4820,Camrose-Drumheller,334,0.000684739
+5960,North Coast / Côte-nord,323,0.000682633
+1330,Saint John-St. Stephen,325,0.000680955
+1310,Campbellton-Miramichi,485,0.00068013
+1250,Halifax,112,0.000676687
+1240,Southern / Sud,485,0.000675741
+1240,Southern / Sud,334,0.000675741
+1240,Southern / Sud,213,0.000675741
+2440,Montréal,316,0.00067453
+5930,Thompson-Okanagan,325,0.000674429
+1340,Fredericton-Oromocto,313,0.000673114
+3510,Ottawa,312,0.000669806
+4670,Parklands,523,0.00066896
+3530,Toronto,314,0.000668289
+4650,Winnipeg,115,0.000665848
+4860,Edmonton,312,0.000662754
+1040,Notre Dame-Central Bonavista Bay,487,0.000662498
+3510,Ottawa,212,0.000661957
+2410,Gaspésie-Îles-de-la-Madeleine,523,0.000661759
+5950,Cariboo,326,0.00065973
+3595,Northwest / Nord-ouest,326,0.000659344
+1210,Cape Breton,324,0.000659196
+2475,Saguenay-Lac-Saint-Jean,482,0.000658857
+5930,Thompson-Okanagan,331,0.000649904
+2450,Lanaudière,324,0.000649732
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,526,0.000648732
+4870,Athabasca-Grande Prairie-Peace River,482,0.000646987
+2455,Laurentides,221,0.000644277
+1240,Southern / Sud,313,0.000643563
+3590,Northeast / Nord-est,486,0.000640049
+2450,Lanaudière,221,0.000639419
+2470,Mauricie,314,0.000633424
+4820,Camrose-Drumheller,337,0.000632067
+2455,Laurentides,314,0.000629466
+1250,Halifax,111,0.000626296
+4740,Yorkton-Melville,339,0.000625752
+6010,Yukon,334,0.000625469
+6010,Yukon,327,0.000625469
+5950,Cariboo,221,0.000622031
+1040,Notre Dame-Central Bonavista Bay,339,0.000621092
+2460,Outaouais,333,0.000620792
+2410,Gaspésie-Îles-de-la-Madeleine,315,0.000620399
+2450,Lanaudière,334,0.000618793
+2415,Bas-Saint-Laurent,324,0.000615742
+2465,Abitibi-Témiscamingue,221,0.00061361
+4750,Prince Albert,337,0.000612945
+4830,Calgary,322,0.000612087
+1330,Saint John-St. Stephen,487,0.000609275
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,487,0.000606913
+1110,Prince Edward Island / Île-du-Prince-Édouard,335,0.000604631
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,336,0.000602071
+3580,Stratford-Bruce Peninsula,482,0.000596837
+5940,Kootenay,323,0.000595289
+2425,Chaudière-Appalaches,221,0.000589545
+1230,Annapolis Valley,212,0.000585095
+2420,Capitale-Nationale,213,0.000584856
+1110,Prince Edward Island / Île-du-Prince-Édouard,312,0.000584477
+5950,Cariboo,336,0.000584332
+1340,Fredericton-Oromocto,334,0.000583365
+1220,North Shore / Côte-nord,481,0.000583147
+1310,Campbellton-Miramichi,493,0.000575494
+1320,Moncton-Richibucto,221,0.000575043
+2425,Chaudière-Appalaches,312,0.000573169
+3530,Toronto,115,0.000572314
+5930,Thompson-Okanagan,324,0.000570199
+2480,Côte-Nord,314,0.000566979
+4870,Athabasca-Grande Prairie-Peace River,323,0.000566114
+4620,South Central / Centre sud,325,0.000564566
+1110,Prince Edward Island / Île-du-Prince-Édouard,493,0.000564323
+4650,Winnipeg,314,0.0005628
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,339,0.000561933
+3580,Stratford-Bruce Peninsula,113,0.000561027
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,314,0.000559732
+4630,Southwest / Sud-ouest,113,0.000556406
+4810,Lethbridge-Medicine Hat,335,0.000554354
+2465,Abitibi-Témiscamingue,324,0.000552249
+4660,Interlake,325,0.000548597
+4820,Camrose-Drumheller,482,0.00054428
+5930,Thompson-Okanagan,487,0.000539543
+4750,Prince Albert,482,0.000531219
+4750,Prince Albert,221,0.000531219
+3510,Ottawa,487,0.000531136
+4740,Yorkton-Melville,323,0.000529483
+2480,Côte-Nord,112,0.000529181
+2415,Bas-Saint-Laurent,314,0.000527779
+6110,Northwest Territories / Territoires du Nord-Ouest,112,0.000527148
+1010,Avalon Peninsula,326,0.000526534
+1350,Edmundston-Woodstock,114,0.00052351
+1350,Edmundston-Woodstock,312,0.00052351
+4680,North / Nord,487,0.000523505
+4680,North / Nord,325,0.000523505
+3570,Windsor-Sarnia,335,0.000523298
+4850,Red Deer,326,0.000514067
+4620,South Central / Centre sud,324,0.000513242
+1220,North Shore / Côte-nord,337,0.000510254
+4610,Southeast / Sud-est,314,0.000508958
+4610,Southeast / Sud-est,323,0.000508958
+1010,Avalon Peninsula,491,0.000506283
+2433,Centre-du-Québec,334,0.000501627
+6010,Yukon,339,0.000500375
+6010,Yukon,111,0.000500375
+3510,Ottawa,322,0.000499738
+2425,Chaudière-Appalaches,481,0.000499476
+1040,Notre Dame-Central Bonavista Bay,323,0.000496874
+2410,Gaspésie-Îles-de-la-Madeleine,221,0.000496319
+2460,Outaouais,324,0.00049345
+2480,Côte-Nord,323,0.000491382
+1220,North Shore / Côte-nord,211,0.000485956
+1220,North Shore / Côte-nord,482,0.000485956
+4760,Northern / Nord,113,0.000484966
+1110,Prince Edward Island / Île-du-Prince-Édouard,339,0.000483705
+1240,Southern / Sud,323,0.000482672
+4710,Regina-Moose Mountain,322,0.000481779
+4740,Yorkton-Melville,492,0.000481348
+6110,Northwest Territories / Territoires du Nord-Ouest,334,0.000479226
+6110,Northwest Territories / Territoires du Nord-Ouest,314,0.000479226
+6110,Northwest Territories / Territoires du Nord-Ouest,339,0.000479226
+4880,Wood Buffalo-Cold Lake,523,0.000478556
+4670,Parklands,493,0.000477829
+2460,Outaouais,483,0.000477532
+2460,Outaouais,493,0.000477532
+2440,Montréal,212,0.000475331
+2475,Saguenay-Lac-Saint-Jean,324,0.000474377
+2420,Capitale-Nationale,314,0.000473045
+4680,North / Nord,112,0.000471155
+3530,Toronto,324,0.000467752
+4840,Banff-Jasper-Rocky Mountain House,323,0.000466578
+1110,Prince Edward Island / Île-du-Prince-Édouard,315,0.000463551
+1110,Prince Edward Island / Île-du-Prince-Édouard,337,0.000463551
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,324,0.000463227
+4880,Wood Buffalo-Cold Lake,335,0.000455768
+3510,Ottawa,314,0.000455259
+2410,Gaspésie-Îles-de-la-Madeleine,325,0.000454959
+3590,Northeast / Nord-est,491,0.000454435
+4750,Prince Albert,493,0.000449493
+4750,Prince Albert,325,0.000449493
+2440,Montréal,487,0.000447855
+2435,Montérégie,324,0.000447198
+4630,Southwest / Sud-ouest,481,0.000445124
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,333,0.000441519
+6210,Nunavut,493,0.000440102
+4820,Camrose-Drumheller,487,0.000438935
+4640,North Central / Centre nord,113,0.000437924
+4850,Red Deer,113,0.000436178
+4850,Red Deer,526,0.000436178
+4720,Swift Current-Moose Jaw,315,0.000430141
+1350,Edmundston-Woodstock,492,0.000428327
+3560,London,213,0.000427404
+5940,Kootenay,326,0.000425206
+3595,Northwest / Nord-ouest,324,0.000420858
+4870,Athabasca-Grande Prairie-Peace River,326,0.000420542
+2480,Côte-Nord,324,0.000415785
+4860,Edmonton,526,0.000415015
+5970,Nechako,114,0.000414336
+2410,Gaspésie-Îles-de-la-Madeleine,324,0.000413599
+4860,Edmonton,314,0.00041078
+3590,Northeast / Nord-est,487,0.000409631
+4730,Saskatoon-Biggar,526,0.000407639
+3595,Northwest / Nord-ouest,325,0.000406829
+3590,Northeast / Nord-est,312,0.000403231
+1110,Prince Edward Island / Île-du-Prince-Édouard,313,0.000403088
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,331,0.000401381
+3550,Hamilton-Niagara Peninsula,526,0.000400076
+3530,Toronto,483,0.000399559
+3540,Kitchener-Waterloo-Barrie,324,0.000396537
+4650,Winnipeg,486,0.000396338
+3590,Northeast / Nord-est,335,0.00039043
+5980,Northeast / Nord-est,312,0.000389471
+3590,Northeast / Nord-est,324,0.000384029
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,213,0.000383255
+2460,Outaouais,334,0.000382026
+3580,Stratford-Bruce Peninsula,334,0.000381976
+1340,Fredericton-Oromocto,314,0.000381431
+3530,Toronto,112,0.000378849
+5950,Cariboo,314,0.000376989
+5950,Cariboo,493,0.000376989
+4730,Saskatoon-Biggar,331,0.000376282
+6010,Yukon,325,0.000375281
+6010,Yukon,113,0.000375281
+6010,Yukon,493,0.000375281
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,326,0.000373907
+3590,Northeast / Nord-est,114,0.000371229
+2415,Bas-Saint-Laurent,335,0.000369445
+1250,Halifax,113,0.000367139
+3530,Toronto,313,0.00036622
+2460,Outaouais,312,0.000366108
+1230,Annapolis Valley,526,0.000365684
+1230,Annapolis Valley,221,0.000365684
+4640,North Central / Centre nord,212,0.000364937
+4640,North Central / Centre nord,491,0.000364937
+4640,North Central / Centre nord,221,0.000364937
+4880,Wood Buffalo-Cold Lake,323,0.000364614
+4880,Wood Buffalo-Cold Lake,493,0.000364614
+5940,Kootenay,114,0.000361425
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,487,0.000361243
+3550,Hamilton-Niagara Peninsula,212,0.000360334
+4620,South Central / Centre sud,213,0.000359269
+1330,Saint John-St. Stephen,491,0.000358397
+4850,Red Deer,335,0.000358289
+4870,Athabasca-Grande Prairie-Peace River,336,0.000355843
+1240,Southern / Sud,481,0.00035396
+1240,Southern / Sud,212,0.00035396
+2415,Bas-Saint-Laurent,313,0.000351853
+3570,Windsor-Sarnia,315,0.000350782
+2450,Lanaudière,314,0.000350649
+3550,Hamilton-Niagara Peninsula,316,0.000349736
+5970,Nechako,316,0.00034528
+5970,Nechako,314,0.00034528
+2425,Chaudière-Appalaches,493,0.000343901
+3515,Kingston-Pembroke,313,0.000341358
+5960,North Coast / Côte-nord,336,0.000341316
+5960,North Coast / Côte-nord,212,0.000341316
+2450,Lanaudière,313,0.000340336
+3510,Ottawa,324,0.000340136
+4610,Southeast / Sud-est,331,0.000339305
+5950,Cariboo,334,0.00033929
+5950,Cariboo,323,0.00033929
+2440,Montréal,113,0.000337952
+1340,Fredericton-Oromocto,325,0.000336557
+4730,Saskatoon-Biggar,315,0.000334473
+2410,Gaspésie-Îles-de-la-Madeleine,335,0.000330879
+1210,Cape Breton,487,0.000329598
+2475,Saguenay-Lac-Saint-Jean,213,0.000329429
+4760,Northern / Nord,112,0.000323311
+4760,Northern / Nord,523,0.000323311
+3595,Northwest / Nord-ouest,312,0.000322658
+2420,Capitale-Nationale,221,0.000322531
+3590,Northeast / Nord-est,314,0.000320025
+2450,Lanaudière,487,0.00031971
+1320,Moncton-Richibucto,331,0.000319468
+1320,Moncton-Richibucto,335,0.000319468
+5940,Kootenay,334,0.000318905
+2460,Outaouais,482,0.000318355
+3550,Hamilton-Niagara Peninsula,113,0.000317941
+1250,Halifax,115,0.000316747
+4680,North / Nord,333,0.000314103
+4680,North / Nord,492,0.000314103
+2435,Montérégie,113,0.000312195
+2455,Laurentides,331,0.00031103
+2470,Mauricie,313,0.000309347
+4750,Prince Albert,486,0.000306473
+2435,Montérégie,213,0.000303757
+4730,Saskatoon-Biggar,314,0.000303116
+5930,Thompson-Okanagan,526,0.000300427
+2450,Lanaudière,335,0.000299083
+5940,Kootenay,315,0.000297644
+3560,London,482,0.000297559
+5980,Northeast / Nord-est,493,0.000292103
+1220,North Shore / Côte-nord,331,0.000291574
+2455,Laurentides,481,0.000288814
+4740,Yorkton-Melville,314,0.000288809
+4740,Yorkton-Melville,337,0.000288809
+1310,Campbellton-Miramichi,312,0.000287747
+3570,Windsor-Sarnia,482,0.000287527
+1330,Saint John-St. Stephen,337,0.000286718
+1330,Saint John-St. Stephen,323,0.000286718
+1350,Edmundston-Woodstock,526,0.000285551
+5960,North Coast / Côte-nord,337,0.00028443
+5960,North Coast / Côte-nord,325,0.00028443
+5960,North Coast / Côte-nord,487,0.00028443
+5960,North Coast / Côte-nord,335,0.00028443
+3570,Windsor-Sarnia,314,0.000281776
+3590,Northeast / Nord-est,334,0.000281622
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,492,0.000280967
+4820,Camrose-Drumheller,314,0.000280919
+3595,Northwest / Nord-ouest,313,0.000280572
+4630,Southwest / Sud-ouest,487,0.000278203
+4630,Southwest / Sud-ouest,313,0.000278203
+5940,Kootenay,493,0.000276384
+4870,Athabasca-Grande Prairie-Peace River,493,0.00027497
+4660,Interlake,314,0.000274298
+4720,Swift Current-Moose Jaw,314,0.000273726
+1010,Avalon Peninsula,487,0.000273393
+3560,London,487,0.000270509
+4650,Winnipeg,212,0.000265546
+4860,Edmonton,315,0.000264678
+3515,Kingston-Pembroke,491,0.000264553
+2445,Laval,312,0.000263866
+1210,Cape Breton,333,0.000263678
+4820,Camrose-Drumheller,486,0.000263361
+4680,North / Nord,526,0.000261753
+4680,North / Nord,491,0.000261753
+4680,North / Nord,312,0.000261753
+1310,Campbellton-Miramichi,325,0.000261588
+4710,Regina-Moose Mountain,334,0.000260161
+5980,Northeast / Nord-est,486,0.000259648
+3520,Muskoka-Kawarthas,487,0.000258817
+4810,Lethbridge-Medicine Hat,486,0.000255003
+2445,Laval,324,0.000253717
+1010,Avalon Peninsula,314,0.000253141
+1010,Avalon Peninsula,335,0.000253141
+3595,Northwest / Nord-ouest,337,0.000252515
+2430,Estrie,526,0.000251244
+4880,Wood Buffalo-Cold Lake,333,0.000250672
+4850,Red Deer,312,0.000249244
+3520,Muskoka-Kawarthas,315,0.000247564
+4860,Edmonton,322,0.000243504
+1010,Avalon Peninsula,315,0.000243016
+4870,Athabasca-Grande Prairie-Peace River,314,0.00024262
+1110,Prince Edward Island / Île-du-Prince-Édouard,314,0.000241853
+2440,Montréal,213,0.000241787
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,323,0.000240828
+4740,Yorkton-Melville,313,0.000240674
+6110,Northwest Territories / Territoires du Nord-Ouest,337,0.000239613
+6110,Northwest Territories / Territoires du Nord-Ouest,326,0.000239613
+6110,Northwest Territories / Territoires du Nord-Ouest,311,0.000239613
+6110,Northwest Territories / Territoires du Nord-Ouest,321,0.000239613
+6110,Northwest Territories / Territoires du Nord-Ouest,315,0.000239613
+6110,Northwest Territories / Territoires du Nord-Ouest,491,0.000239613
+5930,Thompson-Okanagan,314,0.000239116
+3595,Northwest / Nord-ouest,314,0.000238486
+3560,London,315,0.000238048
+1350,Edmundston-Woodstock,211,0.000237959
+3520,Muskoka-Kawarthas,491,0.000236311
+2470,Mauricie,221,0.000235693
+4830,Calgary,113,0.000235277
+5940,Kootenay,314,0.000233863
+5940,Kootenay,337,0.000233863
+5940,Kootenay,491,0.000233863
+1010,Avalon Peninsula,526,0.00023289
+4810,Lethbridge-Medicine Hat,324,0.000232829
+4660,Interlake,486,0.000228582
+4820,Camrose-Drumheller,113,0.000228246
+4880,Wood Buffalo-Cold Lake,337,0.000227884
+5960,North Coast / Côte-nord,339,0.000227544
+3560,London,212,0.000227227
+5980,Northeast / Nord-est,323,0.000227192
+4650,Winnipeg,112,0.000225913
+4750,Prince Albert,314,0.000224747
+1010,Avalon Peninsula,322,0.000222765
+2470,Mauricie,481,0.000220962
+3530,Toronto,316,0.000218217
+3550,Hamilton-Niagara Peninsula,213,0.00021726
+2433,Centre-du-Québec,316,0.00021692
+5930,Thompson-Okanagan,211,0.000214591
+3570,Windsor-Sarnia,211,0.00021277
+5940,Kootenay,487,0.000212603
+5940,Kootenay,486,0.000212603
+2415,Bas-Saint-Laurent,315,0.000211112
+2420,Capitale-Nationale,313,0.00021072
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,335,0.000210323
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,526,0.000210323
+4650,Winnipeg,213,0.000210059
+1320,Moncton-Richibucto,526,0.000207654
+5950,Cariboo,491,0.000207344
+2410,Gaspésie-Îles-de-la-Madeleine,326,0.0002068
+2435,Montérégie,483,0.000205317
+1010,Avalon Peninsula,316,0.000202513
+1110,Prince Edward Island / Île-du-Prince-Édouard,324,0.000201544
+1110,Prince Edward Island / Île-du-Prince-Édouard,331,0.000201544
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,331,0.000200975
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,315,0.00020069
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,314,0.00020069
+4650,Winnipeg,114,0.000198169
+3595,Northwest / Nord-ouest,334,0.0001964
+4720,Swift Current-Moose Jaw,486,0.000195519
+5980,Northeast / Nord-est,326,0.000194736
+4830,Calgary,314,0.000193001
+4710,Regina-Moose Mountain,521,0.000192712
+4740,Yorkton-Melville,211,0.000192539
+1320,Moncton-Richibucto,315,0.000191681
+2480,Côte-Nord,325,0.000188993
+2480,Côte-Nord,336,0.000188993
+5950,Cariboo,487,0.000188494
+2455,Laurentides,114,0.000185137
+1230,Annapolis Valley,324,0.000182842
+2445,Laval,115,0.000182676
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,315,0.00018228
+3540,Kitchener-Waterloo-Barrie,213,0.000181746
+3530,Toronto,487,0.000179322
+4870,Athabasca-Grande Prairie-Peace River,486,0.000177922
+4810,Lethbridge-Medicine Hat,314,0.000177393
+2460,Outaouais,314,0.000175095
+2460,Outaouais,491,0.000175095
+2445,Laval,483,0.000172528
+2420,Capitale-Nationale,211,0.000172016
+4840,Banff-Jasper-Rocky Mountain House,493,0.000171897
+4850,Red Deer,314,0.000171356
+4610,Southeast / Sud-est,312,0.000169653
+3560,London,324,0.000167715
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,491,0.000167276
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,321,0.000165673
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,115,0.000165673
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,315,0.000165673
+4710,Regina-Moose Mountain,314,0.000163805
+4710,Regina-Moose Mountain,482,0.000163805
+2455,Laurentides,487,0.000162921
+2470,Mauricie,324,0.000162039
+4760,Northern / Nord,526,0.000161655
+4760,Northern / Nord,115,0.000161655
+4760,Northern / Nord,493,0.000161655
+4760,Northern / Nord,321,0.000161655
+4760,Northern / Nord,221,0.000161655
+4760,Northern / Nord,314,0.000161655
+1240,Southern / Sud,315,0.000160891
+4880,Wood Buffalo-Cold Lake,311,0.000159519
+1250,Halifax,314,0.000158374
+1340,Fredericton-Oromocto,114,0.00015706
+3510,Ottawa,315,0.000156986
+1310,Campbellton-Miramichi,481,0.000156953
+4810,Lethbridge-Medicine Hat,334,0.000155219
+3595,Northwest / Nord-ouest,491,0.000154314
+3560,London,114,0.000151485
+1250,Halifax,211,0.000151175
+3570,Windsor-Sarnia,483,0.000149514
+2455,Laurentides,482,0.00014811
+4840,Banff-Jasper-Rocky Mountain House,326,0.000147341
+4840,Banff-Jasper-Rocky Mountain House,337,0.000147341
+2470,Mauricie,114,0.000147308
+2470,Mauricie,486,0.000147308
+4640,North Central / Centre nord,213,0.000145975
+3515,Kingston-Pembroke,483,0.000145077
+1250,Halifax,486,0.000143976
+1250,Halifax,521,0.000143976
+2435,Montérégie,482,0.000143441
+3580,Stratford-Bruce Peninsula,314,0.000143241
+4750,Prince Albert,526,0.000143021
+3595,Northwest / Nord-ouest,487,0.000140286
+3595,Northwest / Nord-ouest,315,0.000140286
+2425,Chaudière-Appalaches,316,0.000139198
+4630,Southwest / Sud-ouest,312,0.000139101
+4630,Southwest / Sud-ouest,314,0.000139101
+4630,Southwest / Sud-ouest,491,0.000139101
+5970,Nechako,493,0.000138112
+5970,Nechako,333,0.000138112
+5970,Nechako,339,0.000138112
+2440,Montréal,521,0.000137379
+3590,Northeast / Nord-est,483,0.00013441
+2475,Saguenay-Lac-Saint-Jean,316,0.000131771
+2475,Saguenay-Lac-Saint-Jean,334,0.000131771
+2475,Saguenay-Lac-Saint-Jean,483,0.000131771
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,314,0.000130867
+1310,Campbellton-Miramichi,313,0.000130794
+1310,Campbellton-Miramichi,334,0.000130794
+1310,Campbellton-Miramichi,491,0.000130794
+4860,Edmonton,113,0.000129163
+3510,Ottawa,113,0.000128205
+6010,Yukon,321,0.000125094
+1040,Notre Dame-Central Bonavista Bay,333,0.000124218
+3520,Muskoka-Kawarthas,313,0.000123782
+2445,Laval,221,0.000121784
+1010,Avalon Peninsula,325,0.000121508
+1110,Prince Edward Island / Île-du-Prince-Édouard,487,0.000120926
+2420,Capitale-Nationale,526,0.000120411
+2430,Estrie,487,0.00011964
+3580,Stratford-Bruce Peninsula,114,0.000119367
+4650,Winnipeg,487,0.000118901
+3530,Toronto,491,0.000117696
+2440,Montréal,111,0.000115398
+1250,Halifax,313,0.000115181
+4830,Calgary,313,0.000113962
+4880,Wood Buffalo-Cold Lake,526,0.000113942
+2450,Lanaudière,526,0.000113445
+2450,Lanaudière,481,0.000113445
+2480,Côte-Nord,487,0.000113396
+5950,Cariboo,315,0.000113097
+3510,Ottawa,213,0.000112507
+1340,Fredericton-Oromocto,316,0.000112186
+3550,Hamilton-Niagara Peninsula,491,0.00011128
+4830,Calgary,315,0.000108448
+1330,Saint John-St. Stephen,313,0.000107519
+1330,Saint John-St. Stephen,481,0.000107519
+1330,Saint John-St. Stephen,335,0.000107519
+5940,Kootenay,526,0.000106302
+4710,Regina-Moose Mountain,481,0.000105991
+4710,Regina-Moose Mountain,313,0.000105991
+2415,Bas-Saint-Laurent,491,0.000105556
+4820,Camrose-Drumheller,481,0.000105344
+2440,Montréal,486,0.000104408
+5930,Thompson-Okanagan,491,0.00010423
+2450,Lanaudière,211,0.000103132
+2470,Mauricie,526,0.000103116
+3560,London,526,0.000102793
+3560,London,313,0.000102793
+4620,South Central / Centre sud,492,0.000102648
+2465,Abitibi-Témiscamingue,487,0.000102268
+4750,Prince Albert,491,0.000102158
+4750,Prince Albert,316,0.000102158
+4610,Southeast / Sud-est,335,0.000101792
+1210,Cape Breton,211,9.88794E-05
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,313,9.86501E-05
+2425,Chaudière-Appalaches,526,9.82576E-05
+2425,Chaudière-Appalaches,213,9.82576E-05
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,324,9.81506E-05
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,316,9.81506E-05
+3570,Windsor-Sarnia,526,9.7759E-05
+4860,Edmonton,313,9.74015E-05
+3560,London,113,9.73831E-05
+5980,Northeast / Nord-est,114,9.73678E-05
+4710,Regina-Moose Mountain,487,9.63558E-05
+4740,Yorkton-Melville,312,9.62696E-05
+6110,Northwest Territories / Territoires du Nord-Ouest,493,9.58451E-05
+6110,Northwest Territories / Territoires du Nord-Ouest,111,9.58451E-05
+4670,Parklands,211,9.55657E-05
+4670,Parklands,314,9.55657E-05
+4670,Parklands,325,9.55657E-05
+4670,Parklands,491,9.55657E-05
+4670,Parklands,313,9.55657E-05
+4670,Parklands,221,9.55657E-05
+4670,Parklands,316,9.55657E-05
+2460,Outaouais,114,9.55064E-05
+4850,Red Deer,486,9.34667E-05
+3550,Hamilton-Niagara Peninsula,114,9.27329E-05
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,316,9.22164E-05
+4830,Calgary,521,9.1905E-05
+4660,Interlake,323,9.14328E-05
+4660,Interlake,335,9.14328E-05
+1340,Fredericton-Oromocto,315,8.97485E-05
+1340,Fredericton-Oromocto,213,8.97485E-05
+1330,Saint John-St. Stephen,315,8.95993E-05
+2470,Mauricie,491,8.83848E-05
+6210,Nunavut,315,8.80204E-05
+6210,Nunavut,314,8.80204E-05
+6210,Nunavut,114,8.80204E-05
+3570,Windsor-Sarnia,487,8.6258E-05
+2420,Capitale-Nationale,482,8.60082E-05
+2420,Capitale-Nationale,491,8.60082E-05
+5930,Thompson-Okanagan,114,8.58364E-05
+3540,Kitchener-Waterloo-Barrie,113,8.53656E-05
+3550,Hamilton-Niagara Peninsula,486,8.47844E-05
+3595,Northwest / Nord-ouest,335,8.41715E-05
+2440,Montréal,112,8.38011E-05
+3580,Stratford-Bruce Peninsula,487,8.35571E-05
+4650,Winnipeg,313,8.32309E-05
+1040,Notre Dame-Central Bonavista Bay,491,8.28123E-05
+1040,Notre Dame-Central Bonavista Bay,316,8.28123E-05
+4870,Athabasca-Grande Prairie-Peace River,313,8.08734E-05
+4870,Athabasca-Grande Prairie-Peace River,312,8.08734E-05
+1320,Moncton-Richibucto,324,7.98671E-05
+1320,Moncton-Richibucto,313,7.98671E-05
+4650,Winnipeg,521,7.92676E-05
+4650,Winnipeg,324,7.92676E-05
+1250,Halifax,491,7.91868E-05
+2475,Saguenay-Lac-Saint-Jean,114,7.90628E-05
+3520,Muskoka-Kawarthas,213,7.87703E-05
+4720,Swift Current-Moose Jaw,331,7.82075E-05
+4850,Red Deer,313,7.78889E-05
+2480,Côte-Nord,333,7.55972E-05
+2455,Laurentides,483,7.40549E-05
+2470,Mauricie,483,7.3654E-05
+4640,North Central / Centre nord,323,7.29874E-05
+4640,North Central / Centre nord,312,7.29874E-05
+2490,Nord-du-Québec,326,7.07214E-05
+2490,Nord-du-Québec,323,7.07214E-05
+2490,Nord-du-Québec,492,7.07214E-05
+2490,Nord-du-Québec,114,7.07214E-05
+3590,Northeast / Nord-est,526,7.04054E-05
+4820,Camrose-Drumheller,526,7.02297E-05
+3595,Northwest / Nord-ouest,114,7.0143E-05
+4830,Calgary,491,6.98478E-05
+5970,Nechako,211,6.9056E-05
+5970,Nechako,337,6.9056E-05
+3570,Windsor-Sarnia,113,6.90064E-05
+4610,Southeast / Sud-est,492,6.7861E-05
+3520,Muskoka-Kawarthas,316,6.75174E-05
+3520,Muskoka-Kawarthas,314,6.75174E-05
+5930,Thompson-Okanagan,316,6.74429E-05
+4810,Lethbridge-Medicine Hat,526,6.65225E-05
+1210,Cape Breton,313,6.59196E-05
+5980,Northeast / Nord-est,336,6.49119E-05
+4870,Athabasca-Grande Prairie-Peace River,526,6.46987E-05
+2435,Montérégie,487,6.46891E-05
+2435,Montérégie,316,6.46891E-05
+1240,Southern / Sud,335,6.43563E-05
+5940,Kootenay,335,6.37809E-05
+2460,Outaouais,315,6.36709E-05
+6010,Yukon,487,6.25469E-05
+6010,Yukon,114,6.25469E-05
+6010,Yukon,112,6.25469E-05
+6010,Yukon,314,6.25469E-05
+5930,Thompson-Okanagan,483,6.13117E-05
+4750,Prince Albert,481,6.12945E-05
+1110,Prince Edward Island / Île-du-Prince-Édouard,213,6.04631E-05
+3515,Kingston-Pembroke,481,5.97377E-05
+2440,Montréal,491,5.76991E-05
+2425,Chaudière-Appalaches,114,5.73169E-05
+5960,North Coast / Côte-nord,315,5.68861E-05
+5950,Cariboo,211,5.65483E-05
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,491,5.6086E-05
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,211,5.57588E-05
+4630,Southwest / Sud-ouest,212,5.56406E-05
+4810,Lethbridge-Medicine Hat,313,5.54354E-05
+4810,Lethbridge-Medicine Hat,483,5.54354E-05
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,521,5.36142E-05
+3550,Hamilton-Niagara Peninsula,482,5.29902E-05
+4680,North / Nord,339,5.23505E-05
+4680,North / Nord,493,5.23505E-05
+4680,North / Nord,483,5.23505E-05
+3510,Ottawa,486,5.23286E-05
+4730,Saskatoon-Biggar,113,5.22613E-05
+4730,Saskatoon-Biggar,491,5.22613E-05
+2420,Capitale-Nationale,114,5.16049E-05
+2450,Lanaudière,213,5.15661E-05
+4620,South Central / Centre sud,322,5.13242E-05
+4620,South Central / Centre sud,482,5.13242E-05
+3515,Kingston-Pembroke,316,5.12037E-05
+3540,Kitchener-Waterloo-Barrie,114,4.95671E-05
+2425,Chaudière-Appalaches,487,4.91288E-05
+4840,Banff-Jasper-Rocky Mountain House,334,4.91135E-05
+4840,Banff-Jasper-Rocky Mountain House,314,4.91135E-05
+1220,North Shore / Côte-nord,526,4.85956E-05
+4870,Athabasca-Grande Prairie-Peace River,114,4.85241E-05
+4740,Yorkton-Melville,481,4.81348E-05
+6110,Northwest Territories / Territoires du Nord-Ouest,333,4.79226E-05
+6110,Northwest Territories / Territoires du Nord-Ouest,113,4.79226E-05
+6110,Northwest Territories / Territoires du Nord-Ouest,482,4.79226E-05
+3580,Stratford-Bruce Peninsula,526,4.77469E-05
+1350,Edmundston-Woodstock,481,4.75919E-05
+1350,Edmundston-Woodstock,313,4.75919E-05
+3540,Kitchener-Waterloo-Barrie,487,4.68134E-05
+4660,Interlake,316,4.57164E-05
+4660,Interlake,211,4.57164E-05
+4880,Wood Buffalo-Cold Lake,312,4.55768E-05
+3520,Muskoka-Kawarthas,526,4.50116E-05
+2435,Montérégie,491,4.50011E-05
+1340,Fredericton-Oromocto,486,4.48742E-05
+3590,Northeast / Nord-est,315,4.48034E-05
+4810,Lethbridge-Medicine Hat,113,4.43484E-05
+1250,Halifax,316,4.31928E-05
+5940,Kootenay,211,4.25206E-05
+3595,Northwest / Nord-ouest,483,4.20858E-05
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,211,4.20645E-05
+1040,Notre Dame-Central Bonavista Bay,526,4.14062E-05
+1040,Notre Dame-Central Bonavista Bay,314,4.14062E-05
+2410,Gaspésie-Îles-de-la-Madeleine,313,4.13599E-05
+2410,Gaspésie-Îles-de-la-Madeleine,213,4.13599E-05
+2410,Gaspésie-Îles-de-la-Madeleine,316,4.13599E-05
+2410,Gaspésie-Îles-de-la-Madeleine,486,4.13599E-05
+2410,Gaspésie-Îles-de-la-Madeleine,491,4.13599E-05
+2465,Abitibi-Témiscamingue,491,4.09073E-05
+4750,Prince Albert,334,4.0863E-05
+4750,Prince Albert,114,4.0863E-05
+2433,Centre-du-Québec,481,4.06725E-05
+2445,Laval,112,4.05947E-05
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,312,4.01381E-05
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,526,4.01381E-05
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,337,4.01381E-05
+4650,Winnipeg,491,3.96338E-05
+2435,Montérégie,526,3.93759E-05
+3510,Ottawa,483,3.92465E-05
+4720,Swift Current-Moose Jaw,526,3.91037E-05
+4720,Swift Current-Moose Jaw,324,3.91037E-05
+4720,Swift Current-Moose Jaw,325,3.91037E-05
+3540,Kitchener-Waterloo-Barrie,491,3.85522E-05
+3560,London,491,3.78712E-05
+2480,Côte-Nord,213,3.77986E-05
+2480,Côte-Nord,326,3.77986E-05
+2455,Laurentides,491,3.70274E-05
+2455,Laurentides,316,3.70274E-05
+4830,Calgary,316,3.6762E-05
+1230,Annapolis Valley,483,3.65684E-05
+1230,Annapolis Valley,482,3.65684E-05
+1230,Annapolis Valley,331,3.65684E-05
+1230,Annapolis Valley,334,3.65684E-05
+1230,Annapolis Valley,335,3.65684E-05
+1330,Saint John-St. Stephen,336,3.58397E-05
+3580,Stratford-Bruce Peninsula,315,3.58102E-05
+2415,Bas-Saint-Laurent,526,3.51853E-05
+4820,Camrose-Drumheller,335,3.51148E-05
+3570,Windsor-Sarnia,491,3.45032E-05
+4610,Southeast / Sud-est,211,3.39305E-05
+4610,Southeast / Sud-est,324,3.39305E-05
+3530,Toronto,113,3.38438E-05
+1210,Cape Breton,316,3.29598E-05
+1210,Cape Breton,325,3.29598E-05
+1210,Cape Breton,491,3.29598E-05
+2425,Chaudière-Appalaches,491,3.27525E-05
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,313,3.27169E-05
+5980,Northeast / Nord-est,316,3.24559E-05
+5980,Northeast / Nord-est,313,3.24559E-05
+5980,Northeast / Nord-est,487,3.24559E-05
+5980,Northeast / Nord-est,324,3.24559E-05
+4870,Athabasca-Grande Prairie-Peace River,324,3.23494E-05
+1240,Southern / Sud,331,3.21781E-05
+1240,Southern / Sud,491,3.21781E-05
+3590,Northeast / Nord-est,316,3.20025E-05
+1320,Moncton-Richibucto,316,3.19468E-05
+2460,Outaouais,487,3.18355E-05
+3530,Toronto,486,3.18233E-05
+2445,Laval,213,3.0446E-05
+2435,Montérégie,114,2.81257E-05
+4630,Southwest / Sud-ouest,526,2.78203E-05
+4630,Southwest / Sud-ouest,337,2.78203E-05
+2433,Centre-du-Québec,114,2.7115E-05
+2475,Saguenay-Lac-Saint-Jean,491,2.63543E-05
+1310,Campbellton-Miramichi,314,2.61588E-05
+1310,Campbellton-Miramichi,315,2.61588E-05
+1310,Campbellton-Miramichi,487,2.61588E-05
+4830,Calgary,487,2.57334E-05
+4830,Calgary,114,2.57334E-05
+3515,Kingston-Pembroke,213,2.56019E-05
+4840,Banff-Jasper-Rocky Mountain House,315,2.45568E-05
+4840,Banff-Jasper-Rocky Mountain House,312,2.45568E-05
+4840,Banff-Jasper-Rocky Mountain House,114,2.45568E-05
+5930,Thompson-Okanagan,315,2.45247E-05
+3580,Stratford-Bruce Peninsula,481,2.38735E-05
+3550,Hamilton-Niagara Peninsula,211,2.38456E-05
+4860,Edmonton,487,2.32917E-05
+4880,Wood Buffalo-Cold Lake,326,2.27884E-05
+4880,Wood Buffalo-Cold Lake,336,2.27884E-05
+4880,Wood Buffalo-Cold Lake,324,2.27884E-05
+4880,Wood Buffalo-Cold Lake,314,2.27884E-05
+1340,Fredericton-Oromocto,481,2.24371E-05
+4810,Lethbridge-Medicine Hat,315,2.21742E-05
+3560,London,211,2.16407E-05
+5940,Kootenay,482,2.12603E-05
+4860,Edmonton,114,2.11742E-05
+4730,Saskatoon-Biggar,316,2.09045E-05
+4730,Saskatoon-Biggar,486,2.09045E-05
+2450,Lanaudière,316,2.06264E-05
+2450,Lanaudière,114,2.06264E-05
+2465,Abitibi-Témiscamingue,334,2.04537E-05
+2465,Abitibi-Témiscamingue,526,2.04537E-05
+2465,Abitibi-Témiscamingue,314,2.04537E-05
+4750,Prince Albert,335,2.04315E-05
+4750,Prince Albert,315,2.04315E-05
+4750,Prince Albert,324,2.04315E-05
+4750,Prince Albert,331,2.04315E-05
+4750,Prince Albert,483,2.04315E-05
+2445,Laval,113,2.02974E-05
+2445,Laval,526,2.02974E-05
+1010,Avalon Peninsula,313,2.02513E-05
+1110,Prince Edward Island / Île-du-Prince-Édouard,526,2.01544E-05
+1110,Prince Edward Island / Île-du-Prince-Édouard,211,2.01544E-05
+1110,Prince Edward Island / Île-du-Prince-Édouard,491,2.01544E-05
+4650,Winnipeg,113,1.98169E-05
+4710,Regina-Moose Mountain,315,1.92712E-05
+5950,Cariboo,114,1.88494E-05
+5930,Thompson-Okanagan,486,1.83935E-05
+3510,Ottawa,316,1.8315E-05
+1330,Saint John-St. Stephen,526,1.79199E-05
+2415,Bas-Saint-Laurent,481,1.75926E-05
+2415,Bas-Saint-Laurent,486,1.75926E-05
+2415,Bas-Saint-Laurent,487,1.75926E-05
+4820,Camrose-Drumheller,316,1.75574E-05
+4820,Camrose-Drumheller,315,1.75574E-05
+2440,Montréal,114,1.64855E-05
+4870,Athabasca-Grande Prairie-Peace River,491,1.61747E-05
+1320,Moncton-Richibucto,487,1.59734E-05
+1320,Moncton-Richibucto,486,1.59734E-05
+2460,Outaouais,331,1.59177E-05
+2460,Outaouais,316,1.59177E-05
+2460,Outaouais,526,1.59177E-05
+2460,Outaouais,213,1.59177E-05
+4850,Red Deer,315,1.55778E-05
+2470,Mauricie,213,1.47308E-05
+2470,Mauricie,482,1.47308E-05
+3530,Toronto,211,1.46488E-05
+3595,Northwest / Nord-ouest,331,1.40286E-05
+2433,Centre-du-Québec,211,1.35575E-05
+2433,Centre-du-Québec,491,1.35575E-05
+2433,Centre-du-Québec,526,1.35575E-05
+2475,Saguenay-Lac-Saint-Jean,526,1.31771E-05
+2430,Estrie,114,1.1964E-05
+2430,Estrie,213,1.1964E-05
+2430,Estrie,483,1.1964E-05
+3580,Stratford-Bruce Peninsula,486,1.19367E-05
+3580,Stratford-Bruce Peninsula,213,1.19367E-05
+3580,Stratford-Bruce Peninsula,491,1.19367E-05
+3520,Muskoka-Kawarthas,482,1.12529E-05
+3520,Muskoka-Kawarthas,481,1.12529E-05
+4810,Lethbridge-Medicine Hat,114,1.10871E-05
+3560,London,316,1.08203E-05
+2450,Lanaudière,491,1.03132E-05
+2445,Laval,316,1.01487E-05
+2445,Laval,481,1.01487E-05
+2445,Laval,482,1.01487E-05
+2445,Laval,491,1.01487E-05
+4710,Regina-Moose Mountain,113,9.63558E-06
+4710,Regina-Moose Mountain,316,9.63558E-06
+4710,Regina-Moose Mountain,114,9.63558E-06
+4710,Regina-Moose Mountain,483,9.63558E-06
+4710,Regina-Moose Mountain,491,9.63558E-06
+3530,Toronto,114,9.5975E-06
+3515,Kingston-Pembroke,211,8.53395E-06
+2425,Chaudière-Appalaches,486,8.18813E-06
+2425,Chaudière-Appalaches,482,8.18813E-06
+2455,Laurentides,526,7.40549E-06
+2455,Laurentides,486,7.40549E-06
+4860,Edmonton,316,6.35227E-06
+3560,London,486,5.41017E-06
+3510,Ottawa,211,5.23286E-06
+4860,Edmonton,491,4.23485E-06
+2440,Montréal,211,4.12137E-06
+2435,Montérégie,486,2.81257E-06
+3540,Kitchener-Waterloo-Barrie,483,2.75373E-06
+3540,Kitchener-Waterloo-Barrie,211,2.75373E-06
+3510,Ottawa,114,2.61643E-06
+5920,Lower Mainland-Southwest / Lower Mainland-Sud-ouest,486,2.14457E-06
+4860,Edmonton,483,2.11742E-06
+1210,Cape Breton,331,0
+4740,Yorkton-Melville,315,0
+4670,Parklands,324,0
+4640,North Central / Centre nord,486,0
+4740,Yorkton-Melville,316,0
+1210,Cape Breton,486,0
+1210,Cape Breton,334,0
+1210,Cape Breton,335,0
+4740,Yorkton-Melville,114,0
+4640,North Central / Centre nord,526,0
+5980,Northeast / Nord-est,314,0
+4650,Winnipeg,483,0
+4640,North Central / Centre nord,487,0
+4670,Parklands,323,0
+4640,North Central / Centre nord,521,0
+1210,Cape Breton,315,0
+5970,Nechako,491,0
+4740,Yorkton-Melville,324,0
+4640,North Central / Centre nord,482,0
+1220,North Shore / Côte-nord,324,0
+4630,Southwest / Sud-ouest,331,0
+5970,Nechako,485,0
+5970,Nechako,487,0
+5970,Nechako,486,0
+4670,Parklands,326,0
+5970,Nechako,526,0
+4640,North Central / Centre nord,483,0
+4740,Yorkton-Melville,322,0
+1220,North Shore / Côte-nord,313,0
+5970,Nechako,521,0
+1210,Cape Breton,521,0
+1210,Cape Breton,526,0
+5980,Northeast / Nord-est,315,0
+5980,Northeast / Nord-est,337,0
+4660,Interlake,483,0
+1110,Prince Edward Island / Île-du-Prince-Édouard,326,0
+4660,Interlake,487,0
+4670,Parklands,312,0
+1110,Prince Edward Island / Île-du-Prince-Édouard,482,0
+5980,Northeast / Nord-est,335,0
+5980,Northeast / Nord-est,334,0
+4660,Interlake,526,0
+4660,Interlake,521,0
+5980,Northeast / Nord-est,491,0
+4730,Saskatoon-Biggar,322,0
+5980,Northeast / Nord-est,483,0
+5980,Northeast / Nord-est,482,0
+1110,Prince Edward Island / Île-du-Prince-Édouard,316,0
+4660,Interlake,491,0
+1040,Notre Dame-Central Bonavista Bay,521,0
+4730,Saskatoon-Biggar,487,0
+4660,Interlake,315,0
+4730,Saskatoon-Biggar,483,0
+4730,Saskatoon-Biggar,521,0
+5980,Northeast / Nord-est,526,0
+1110,Prince Edward Island / Île-du-Prince-Édouard,521,0
+4660,Interlake,113,0
+5980,Northeast / Nord-est,331,0
+5980,Northeast / Nord-est,521,0
+1110,Prince Edward Island / Île-du-Prince-Édouard,486,0
+4730,Saskatoon-Biggar,313,0
+4660,Interlake,482,0
+4660,Interlake,324,0
+4670,Parklands,315,0
+4670,Parklands,322,0
+1240,Southern / Sud,324,0
+1240,Southern / Sud,325,0
+4640,North Central / Centre nord,313,0
+5960,North Coast / Côte-nord,486,0
+4740,Yorkton-Melville,521,0
+4640,North Central / Centre nord,114,0
+4630,Southwest / Sud-ouest,521,0
+4740,Yorkton-Melville,526,0
+4640,North Central / Centre nord,211,0
+4740,Yorkton-Melville,487,0
+1240,Southern / Sud,211,0
+5960,North Coast / Côte-nord,526,0
+1230,Annapolis Valley,521,0
+5960,North Coast / Côte-nord,521,0
+5960,North Coast / Côte-nord,491,0
+1240,Southern / Sud,322,0
+4640,North Central / Centre nord,314,0
+4740,Yorkton-Melville,491,0
+4630,Southwest / Sud-ouest,486,0
+1240,Southern / Sud,526,0
+5960,North Coast / Côte-nord,316,0
+1240,Southern / Sud,521,0
+5960,North Coast / Côte-nord,322,0
+4630,Southwest / Sud-ouest,334,0
+4750,Prince Albert,312,0
+4750,Prince Albert,313,0
+5960,North Coast / Côte-nord,314,0
+5960,North Coast / Côte-nord,313,0
+5960,North Coast / Côte-nord,333,0
+1240,Southern / Sud,482,0
+4630,Southwest / Sud-ouest,483,0
+5960,North Coast / Côte-nord,334,0
+1240,Southern / Sud,486,0
+4630,Southwest / Sud-ouest,335,0
+5960,North Coast / Côte-nord,324,0
+4630,Southwest / Sud-ouest,482,0
+5960,North Coast / Côte-nord,326,0
+5970,Nechako,331,0
+1230,Annapolis Valley,211,0
+4640,North Central / Centre nord,334,0
+4740,Yorkton-Melville,331,0
+5970,Nechako,326,0
+4640,North Central / Centre nord,331,0
+5970,Nechako,322,0
+5970,Nechako,325,0
+5970,Nechako,324,0
+5970,Nechako,482,0
+1220,North Shore / Côte-nord,491,0
+1220,North Shore / Côte-nord,486,0
+1220,North Shore / Côte-nord,487,0
+4640,North Central / Centre nord,481,0
+5970,Nechako,335,0
+5970,Nechako,334,0
+4640,North Central / Centre nord,335,0
+1220,North Shore / Côte-nord,521,0
+1230,Annapolis Valley,314,0
+1230,Annapolis Valley,481,0
+4640,North Central / Centre nord,316,0
+4740,Yorkton-Melville,482,0
+4740,Yorkton-Melville,483,0
+4640,North Central / Centre nord,315,0
+1230,Annapolis Valley,487,0
+1230,Annapolis Valley,491,0
+4740,Yorkton-Melville,486,0
+1230,Annapolis Valley,486,0
+4740,Yorkton-Melville,334,0
+5970,Nechako,313,0
+4640,North Central / Centre nord,324,0
+5970,Nechako,315,0
+5970,Nechako,312,0
+4740,Yorkton-Melville,335,0
+4640,North Central / Centre nord,322,0
+1230,Annapolis Valley,315,0
+1230,Annapolis Valley,316,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,312,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,313,0
+6210,Nunavut,111,0
+6110,Northwest Territories / Territoires du Nord-Ouest,526,0
+4720,Swift Current-Moose Jaw,316,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,316,0
+4680,North / Nord,326,0
+6110,Northwest Territories / Territoires du Nord-Ouest,521,0
+6210,Nunavut,112,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,211,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,212,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,113,0
+4680,North / Nord,334,0
+4720,Swift Current-Moose Jaw,313,0
+6210,Nunavut,113,0
+6210,Nunavut,211,0
+6210,Nunavut,115,0
+4680,North / Nord,324,0
+6110,Northwest Territories / Territoires du Nord-Ouest,335,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,339,0
+4720,Swift Current-Moose Jaw,326,0
+6110,Northwest Territories / Territoires du Nord-Ouest,336,0
+6110,Northwest Territories / Territoires du Nord-Ouest,331,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,481,0
+4680,North / Nord,316,0
+6110,Northwest Territories / Territoires du Nord-Ouest,332,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,335,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,322,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,324,0
+4720,Swift Current-Moose Jaw,322,0
+6110,Northwest Territories / Territoires du Nord-Ouest,487,0
+4680,North / Nord,323,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,334,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,325,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,331,0
+1010,Avalon Peninsula,482,0
+6210,Nunavut,339,0
+4720,Swift Current-Moose Jaw,114,0
+6210,Nunavut,482,0
+6210,Nunavut,335,0
+6210,Nunavut,334,0
+6210,Nunavut,337,0
+6210,Nunavut,336,0
+4720,Swift Current-Moose Jaw,113,0
+6210,Nunavut,521,0
+6210,Nunavut,492,0
+6210,Nunavut,526,0
+1010,Avalon Peninsula,113,0
+6210,Nunavut,486,0
+4680,North / Nord,521,0
+6210,Nunavut,491,0
+6210,Nunavut,487,0
+6210,Nunavut,333,0
+4680,North / Nord,337,0
+6210,Nunavut,313,0
+6210,Nunavut,316,0
+4680,North / Nord,486,0
+1010,Avalon Peninsula,521,0
+4680,North / Nord,335,0
+6210,Nunavut,312,0
+4680,North / Nord,336,0
+6210,Nunavut,321,0
+6210,Nunavut,327,0
+6210,Nunavut,326,0
+6210,Nunavut,332,0
+6210,Nunavut,331,0
+6210,Nunavut,323,0
+6210,Nunavut,322,0
+1010,Avalon Peninsula,486,0
+6210,Nunavut,324,0
+4720,Swift Current-Moose Jaw,521,0
+6010,Yukon,331,0
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,521,0
+6010,Yukon,333,0
+4670,Parklands,482,0
+6010,Yukon,324,0
+1040,Notre Dame-Central Bonavista Bay,211,0
+1040,Notre Dame-Central Bonavista Bay,313,0
+6010,Yukon,335,0
+6010,Yukon,483,0
+6010,Yukon,482,0
+4720,Swift Current-Moose Jaw,491,0
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,486,0
+4670,Parklands,483,0
+6010,Yukon,336,0
+4670,Parklands,486,0
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,491,0
+4670,Parklands,481,0
+4730,Saskatoon-Biggar,114,0
+1040,Notre Dame-Central Bonavista Bay,334,0
+1040,Notre Dame-Central Bonavista Bay,325,0
+1040,Notre Dame-Central Bonavista Bay,331,0
+1040,Notre Dame-Central Bonavista Bay,486,0
+4670,Parklands,331,0
+1040,Notre Dame-Central Bonavista Bay,482,0
+6010,Yukon,211,0
+1040,Notre Dame-Central Bonavista Bay,324,0
+6010,Yukon,316,0
+6010,Yukon,315,0
+6010,Yukon,322,0
+4670,Parklands,336,0
+4670,Parklands,334,0
+1040,Notre Dame-Central Bonavista Bay,322,0
+4670,Parklands,335,0
+6010,Yukon,313,0
+4720,Swift Current-Moose Jaw,335,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,491,0
+6110,Northwest Territories / Territoires du Nord-Ouest,313,0
+6110,Northwest Territories / Territoires du Nord-Ouest,312,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,526,0
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,211,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,493,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,521,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,487,0
+6110,Northwest Territories / Territoires du Nord-Ouest,324,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,486,0
+4680,North / Nord,315,0
+1020,South Coast-Burin Peninsula / Côte-sud-Burin Peninsula,482,0
+6110,Northwest Territories / Territoires du Nord-Ouest,316,0
+4720,Swift Current-Moose Jaw,334,0
+6110,Northwest Territories / Territoires du Nord-Ouest,322,0
+4680,North / Nord,314,0
+4680,North / Nord,313,0
+4720,Swift Current-Moose Jaw,487,0
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,326,0
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,324,0
+6010,Yukon,521,0
+4670,Parklands,487,0
+6010,Yukon,486,0
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,334,0
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,335,0
+4670,Parklands,521,0
+4720,Swift Current-Moose Jaw,481,0
+4670,Parklands,526,0
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,313,0
+4680,North / Nord,211,0
+6010,Yukon,526,0
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,322,0
+1030,West Coast-Northern Peninsula-Labrador / Côte-ouest-Northern Peninsula-Labrador,316,0
+4720,Swift Current-Moose Jaw,483,0
+2433,Centre-du-Québec,483,0
+2433,Centre-du-Québec,486,0
+2490,Nord-du-Québec,491,0
+2433,Centre-du-Québec,482,0
+2490,Nord-du-Québec,486,0
+2433,Centre-du-Québec,521,0
+2433,Centre-du-Québec,487,0
+2490,Nord-du-Québec,487,0
+2490,Nord-du-Québec,493,0
+2430,Estrie,491,0
+2430,Estrie,521,0
+2430,Estrie,486,0
+3510,Ottawa,482,0
+2490,Nord-du-Québec,521,0
+2433,Centre-du-Québec,213,0
+4840,Banff-Jasper-Rocky Mountain House,526,0
+4850,Red Deer,114,0
+4850,Red Deer,316,0
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,486,0
+2490,Nord-du-Québec,324,0
+2490,Nord-du-Québec,333,0
+2490,Nord-du-Québec,331,0
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,482,0
+2490,Nord-du-Québec,316,0
+2435,Montérégie,521,0
+2490,Nord-du-Québec,322,0
+2490,Nord-du-Québec,334,0
+2490,Nord-du-Québec,482,0
+2435,Montérégie,211,0
+2490,Nord-du-Québec,483,0
+4850,Red Deer,322,0
+5910,Vancouver Island and Coast / Île de Vancouver et la côte,521,0
+2490,Nord-du-Québec,335,0
+2490,Nord-du-Québec,339,0
+2490,Nord-du-Québec,336,0
+4840,Banff-Jasper-Rocky Mountain House,313,0
+4840,Banff-Jasper-Rocky Mountain House,316,0
+3520,Muskoka-Kawarthas,486,0
+3520,Muskoka-Kawarthas,483,0
+3520,Muskoka-Kawarthas,114,0
+4840,Banff-Jasper-Rocky Mountain House,324,0
+3520,Muskoka-Kawarthas,211,0
+2420,Capitale-Nationale,486,0
+3520,Muskoka-Kawarthas,521,0
+3540,Kitchener-Waterloo-Barrie,486,0
+2415,Bas-Saint-Laurent,482,0
+5930,Thompson-Okanagan,313,0
+3540,Kitchener-Waterloo-Barrie,521,0
+2415,Bas-Saint-Laurent,521,0
+4830,Calgary,483,0
+3540,Kitchener-Waterloo-Barrie,482,0
+3530,Toronto,521,0
+2420,Capitale-Nationale,521,0
+3515,Kingston-Pembroke,114,0
+2430,Estrie,211,0
+4840,Banff-Jasper-Rocky Mountain House,483,0
+2425,Chaudière-Appalaches,521,0
+2430,Estrie,482,0
+4840,Banff-Jasper-Rocky Mountain House,521,0
+4840,Banff-Jasper-Rocky Mountain House,491,0
+2430,Estrie,481,0
+4840,Banff-Jasper-Rocky Mountain House,482,0
+3515,Kingston-Pembroke,486,0
+2425,Chaudière-Appalaches,211,0
+3515,Kingston-Pembroke,521,0
+4840,Banff-Jasper-Rocky Mountain House,331,0
+2425,Chaudière-Appalaches,483,0
+3515,Kingston-Pembroke,482,0
+4840,Banff-Jasper-Rocky Mountain House,335,0
+4840,Banff-Jasper-Rocky Mountain House,336,0
+2490,Nord-du-Québec,315,0
+4870,Athabasca-Grande Prairie-Peace River,315,0
+4870,Athabasca-Grande Prairie-Peace River,316,0
+2465,Abitibi-Témiscamingue,211,0
+2465,Abitibi-Témiscamingue,114,0
+2450,Lanaudière,482,0
+4880,Wood Buffalo-Cold Lake,331,0
+4880,Wood Buffalo-Cold Lake,334,0
+2460,Outaouais,521,0
+2465,Abitibi-Témiscamingue,313,0
+4880,Wood Buffalo-Cold Lake,487,0
+2465,Abitibi-Témiscamingue,486,0
+4880,Wood Buffalo-Cold Lake,491,0
+2465,Abitibi-Témiscamingue,521,0
+4880,Wood Buffalo-Cold Lake,483,0
+4880,Wood Buffalo-Cold Lake,482,0
+2465,Abitibi-Témiscamingue,483,0
+2465,Abitibi-Témiscamingue,316,0
+2450,Lanaudière,483,0
+2460,Outaouais,211,0
+2450,Lanaudière,521,0
+4880,Wood Buffalo-Cold Lake,313,0
+4870,Athabasca-Grande Prairie-Peace River,487,0
+2455,Laurentides,521,0
+4880,Wood Buffalo-Cold Lake,114,0
+4870,Athabasca-Grande Prairie-Peace River,521,0
+2455,Laurentides,211,0
+4870,Athabasca-Grande Prairie-Peace River,483,0
+2460,Outaouais,481,0
+2460,Outaouais,335,0
+2460,Outaouais,486,0
+2450,Lanaudière,486,0
+4880,Wood Buffalo-Cold Lake,316,0
+4870,Athabasca-Grande Prairie-Peace River,335,0
+4880,Wood Buffalo-Cold Lake,322,0
+4870,Athabasca-Grande Prairie-Peace River,334,0
+2490,Nord-du-Québec,112,0
+2445,Laval,114,0
+4850,Red Deer,521,0
+2490,Nord-du-Québec,211,0
+2480,Côte-Nord,491,0
+2480,Côte-Nord,486,0
+2480,Côte-Nord,526,0
+2480,Côte-Nord,521,0
+2490,Nord-du-Québec,221,0
+2490,Nord-du-Québec,314,0
+2490,Nord-du-Québec,313,0
+4850,Red Deer,482,0
+4850,Red Deer,483,0
+4850,Red Deer,491,0
+2490,Nord-du-Québec,311,0
+4850,Red Deer,487,0
+2490,Nord-du-Québec,312,0
+2480,Côte-Nord,335,0
+2445,Laval,487,0
+2470,Mauricie,487,0
+2470,Mauricie,521,0
+2445,Laval,486,0
+4860,Edmonton,521,0
+2470,Mauricie,211,0
+2445,Laval,521,0
+4880,Wood Buffalo-Cold Lake,521,0
+2475,Saguenay-Lac-Saint-Jean,211,0
+2480,Côte-Nord,316,0
+2480,Côte-Nord,315,0
+2445,Laval,211,0
+2480,Côte-Nord,334,0
+2475,Saguenay-Lac-Saint-Jean,486,0
+2475,Saguenay-Lac-Saint-Jean,313,0
+2480,Côte-Nord,211,0
+2475,Saguenay-Lac-Saint-Jean,521,0
+3550,Hamilton-Niagara Peninsula,521,0
+4760,Northern / Nord,322,0
+4760,Northern / Nord,323,0
+4760,Northern / Nord,316,0
+5950,Cariboo,313,0
+1320,Moncton-Richibucto,491,0
+1320,Moncton-Richibucto,521,0
+4760,Northern / Nord,324,0
+4760,Northern / Nord,325,0
+4760,Northern / Nord,315,0
+4620,South Central / Centre sud,316,0
+4620,South Central / Centre sud,313,0
+1310,Campbellton-Miramichi,521,0
+1320,Moncton-Richibucto,211,0
+4760,Northern / Nord,313,0
+5950,Cariboo,316,0
+4620,South Central / Centre sud,312,0
+4620,South Central / Centre sud,211,0
+4760,Northern / Nord,326,0
+5940,Kootenay,521,0
+4760,Northern / Nord,339,0
+4760,Northern / Nord,336,0
+4760,Northern / Nord,337,0
+4760,Northern / Nord,483,0
+4610,Southeast / Sud-est,521,0
+4610,Southeast / Sud-est,526,0
+4760,Northern / Nord,482,0
+1330,Saint John-St. Stephen,331,0
+4760,Northern / Nord,331,0
+4760,Northern / Nord,332,0
+1330,Saint John-St. Stephen,211,0
+4620,South Central / Centre sud,114,0
+4760,Northern / Nord,334,0
+4760,Northern / Nord,335,0
+4620,South Central / Centre sud,113,0
+1330,Saint John-St. Stephen,316,0
+5950,Cariboo,526,0
+4620,South Central / Centre sud,521,0
+1310,Campbellton-Miramichi,211,0
+4620,South Central / Centre sud,526,0
+5950,Cariboo,521,0
+4620,South Central / Centre sud,487,0
+4750,Prince Albert,487,0
+4620,South Central / Centre sud,491,0
+4630,Southwest / Sud-ouest,114,0
+4630,Southwest / Sud-ouest,324,0
+1250,Halifax,331,0
+4750,Prince Albert,322,0
+4630,Southwest / Sud-ouest,326,0
+4630,Southwest / Sud-ouest,316,0
+4630,Southwest / Sud-ouest,315,0
+4630,Southwest / Sud-ouest,322,0
+5960,North Coast / Côte-nord,211,0
+1310,Campbellton-Miramichi,316,0
+1310,Campbellton-Miramichi,486,0
+5950,Cariboo,335,0
+1310,Campbellton-Miramichi,482,0
+1310,Campbellton-Miramichi,483,0
+4620,South Central / Centre sud,334,0
+5950,Cariboo,331,0
+4620,South Central / Centre sud,335,0
+4760,Northern / Nord,211,0
+4620,South Central / Centre sud,481,0
+4620,South Central / Centre sud,486,0
+5950,Cariboo,486,0
+4750,Prince Albert,521,0
+1310,Campbellton-Miramichi,324,0
+5950,Cariboo,483,0
+1310,Campbellton-Miramichi,335,0
+4620,South Central / Centre sud,483,0
+4760,Northern / Nord,111,0
+4760,Northern / Nord,486,0
+1350,Edmundston-Woodstock,491,0
+1350,Edmundston-Woodstock,521,0
+1350,Edmundston-Woodstock,487,0
+4820,Camrose-Drumheller,114,0
+2410,Gaspésie-Îles-de-la-Madeleine,211,0
+4820,Camrose-Drumheller,313,0
+3580,Stratford-Bruce Peninsula,521,0
+3580,Stratford-Bruce Peninsula,324,0
+1350,Edmundston-Woodstock,486,0
+1350,Edmundston-Woodstock,335,0
+4810,Lethbridge-Medicine Hat,521,0
+1350,Edmundston-Woodstock,331,0
+1350,Edmundston-Woodstock,334,0
+1350,Edmundston-Woodstock,483,0
+5930,Thompson-Okanagan,521,0
+3590,Northeast / Nord-est,211,0
+1350,Edmundston-Woodstock,482,0
+5930,Thompson-Okanagan,482,0
+4820,Camrose-Drumheller,491,0
+2410,Gaspésie-Îles-de-la-Madeleine,521,0
+2410,Gaspésie-Îles-de-la-Madeleine,481,0
+3560,London,521,0
+3560,London,483,0
+4820,Camrose-Drumheller,521,0
+2410,Gaspésie-Îles-de-la-Madeleine,526,0
+2415,Bas-Saint-Laurent,211,0
+4820,Camrose-Drumheller,483,0
+2410,Gaspésie-Îles-de-la-Madeleine,314,0
+3570,Windsor-Sarnia,521,0
+4820,Camrose-Drumheller,322,0
+3580,Stratford-Bruce Peninsula,211,0
+2410,Gaspésie-Îles-de-la-Madeleine,331,0
+2410,Gaspésie-Îles-de-la-Madeleine,334,0
+2410,Gaspésie-Îles-de-la-Madeleine,322,0
+3570,Windsor-Sarnia,316,0
+4610,Southeast / Sud-est,114,0
+3595,Northwest / Nord-ouest,521,0
+4610,Southeast / Sud-est,315,0
+4610,Southeast / Sud-est,313,0
+1340,Fredericton-Oromocto,335,0
+5940,Kootenay,324,0
+4810,Lethbridge-Medicine Hat,316,0
+1340,Fredericton-Oromocto,331,0
+4610,Southeast / Sud-est,316,0
+4610,Southeast / Sud-est,491,0
+4610,Southeast / Sud-est,487,0
+4760,Northern / Nord,487,0
+1330,Saint John-St. Stephen,521,0
+4760,Northern / Nord,521,0
+4610,Southeast / Sud-est,483,0
+4610,Southeast / Sud-est,486,0
+1340,Fredericton-Oromocto,211,0
+3595,Northwest / Nord-ouest,482,0
+1350,Edmundston-Woodstock,213,0
+3590,Northeast / Nord-est,521,0
+1340,Fredericton-Oromocto,521,0
+4810,Lethbridge-Medicine Hat,482,0
+1350,Edmundston-Woodstock,324,0
+4810,Lethbridge-Medicine Hat,491,0
+1350,Edmundston-Woodstock,316,0
+4810,Lethbridge-Medicine Hat,487,0
+1340,Fredericton-Oromocto,491,0
+5940,Kootenay,316,0
+4810,Lethbridge-Medicine Hat,322,0
+1340,Fredericton-Oromocto,482,0
+1340,Fredericton-Oromocto,483,0
+3595,Northwest / Nord-ouest,211,0
+1340,Fredericton-Oromocto,487,0
+3595,Northwest / Nord-ouest,316,0
+5940,Kootenay,313,0
